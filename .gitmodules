@@ -1,0 +1,6 @@
+[submodule "excercises/Chapter_1/--force"]
+	path = excercises/Chapter_1/--force
+	url = https://github.com/DB-Teaching/01-1_hello_world
+[submodule "excercises/Chapter_1/01-1_hello_world"]
+	path = excercises/Chapter_1/01-1_hello_world
+	url = https://github.com/DB-Teaching/01-1_hello_world
