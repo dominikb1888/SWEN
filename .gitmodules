@@ -4,3 +4,9 @@
 [submodule "excercises/Chapter_1/01-1_hello_world"]
 	path = excercises/Chapter_1/01-1_hello_world
 	url = https://github.com/DB-Teaching/01-1_hello_world
+[submodule "excercises/Chapter_01/01-05_pangram"]
+	path = excercises/Chapter_01/01-05_pangram
+	url = git@github.com:DB-Teaching/01-05_pangram
+[submodule "excercises/Chapter_01/01-04_grains"]
+	path = excercises/Chapter_01/01-04_grains
+	url = git@github.com:DB-Teaching/01-04_grains
