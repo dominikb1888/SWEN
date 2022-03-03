@@ -1,15 +1,28 @@
-# Software Engineering
+# Software Engineering - From REPL to SYSTEM
 
-## From REPL to SYSTEM
-
-Basics of Computation: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815
-Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218
-Advanced Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=5353672
-Data Science: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6739165
+## Readings and Resources:
+THEORY: Basics of Computation: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815
+PRACTICE: Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218
+EXERCISES: https://classroom.github.com/classrooms/98897122-22s_swen
 
 ## Agenda
 
+20-30min  | Brief theoretical input on basic topics of automation and computation.
+60-90min | Practical Exercises and Coding Examples with Python
+60-90min | Review and joint development of selected Homework Exercises
 
+## Deliverables (ungraded)
+
+For each session there are a set of exercises listed here on GitHub Classroom: https://classroom.github.com/classrooms/98897122-22s_swen
+
+We will do the first batch of exercises for Session 1 together. From Sesssion 2 onwards you are encouraged to prepare all exercises associated to a certrain session. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class.
+
+## Exam (graded)
+
+The Exam will be written and online. It will ask about theory and require you to work on several coding exercise.
+
+
+## Sessions
 
 ### 1 - The Urge to automate  
 
@@ -55,17 +68,19 @@ Additional Material:
 
 ### 7 - Error Handling, Exceptions and Context
 
-Theory:
+Theory: NONE
 
 Practice: Exceptions and Context Managers | [Chapter 7, pp. 239-256](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=264)
 
 ### 8 - Operating Systems
 
-Theory:
+Theory: Operating System | [Chapter 4, pp.81-131](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=99)
 
 Practice: Files and Data Persistence | [Chapter 8, pp. 257-294](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=282)
 
 ### 9 - Mid-Term Exercise Review and Q&A
+
+Theory: NONE
 
 Practice: Collective Session on current issues and status of learning
 
@@ -89,6 +104,8 @@ Practice: GUIs and Scripting | [Chapter 12, pp. 365-392](https://ebookcentral.pr
 
 ### 13 - Computer Networks: Data Exchange
 
+Theory: NONE
+
 Practice: Data Science in Brief  | [Chapter 13 ]
 
 
@@ -102,12 +119,18 @@ Practice: API Development | [Chapter 14, pp. 425-476](https://ebookcentral.proqu
 
 ### 15 - Final Exercise Review and Prep
 
+Theory: NONE
+
 Practice: Collective Session on current issues and status of learning 
 
 
 
 
-## Out of Scope:
+## Additional Material
+
+Advanced Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=5353672
+Data Science: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6739165
+
 
 ### A - Computer Security
 Theory: 
