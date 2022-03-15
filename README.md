@@ -25,17 +25,52 @@ The Exam will be written and online. It will ask about theory and require you to
 
 ## Sessions
 
-### 1 - The Urge to automate  
+### 1 - The Urge to Compute and Automate  
 
-- Theory: How do we automate via programs and why? | [Chapter 1, p. 1-28](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=21)                   
+#### Theory: How do we compute and automate and why?
+- What would you like to automate?
 
-- Practice: From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
+- What do you think about DAOs?
+ 
+    The ideal of a decentralized autonomous organization is easy to describe: it is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do.
+    
+    - Vitalik Buterin, Ethereum Foundation
 
-### 2 - The Shoulders of turtles                      
+#### Further Reading:
+-- https://subpixel.space/entries/the-desire-for-full-automation/
+-- https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
-- Theory: What are the layers of abstraction by creating different Versions of Hello World in Assembler, C, Python, Rust, and Elixir | [Chapter 2, p.29-38](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
+#### Practice: 
+-- Piping Data: Using GDrive and Zapier to Automate
+-- From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
+#### Exercises:
+- https://classroom.github.com/a/QE3x_hhh
+- https://classroom.github.com/a/kuewOJNA
+- https://classroom.github.com/a/KARXRhL6
+- https://classroom.github.com/a/G-YyPO-w
+- https://classroom.github.com/a/e5YuqVvX
+- https://classroom.github.com/a/PgiCkqlQ
+- https://classroom.github.com/a/M1h508Bg
+- https://classroom.github.com/a/zHuZThq7
+- https://classroom.github.com/a/pyRnT4ov
 
-- Practice: Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
+
+### 2 - The Shoulders of Turtles                      
+
+Theory: What are the layers of abstraction by creating different Versions of Hello World in Assembler, C, Python | [Chapter 1, p. 1-28](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=21), [Chapter 2, p.29-38](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
+
+- Building Blocks/Layers of Programming Languages:
+-- Assembly (NASM): https://github.com/netwide-assembler/nasm (Example: https://en.wikipedia.org/wiki/Assembly_language#:~:text=A%20program%20written%20in%20assembly,ops)%2C%20comments%20and%20data.)
+-- C Compiler: https://github.com/mortdeus/legacy-cc
+-- CPython: https://github.com/python/cpython
+
+- Further Reading:
+-- https://archive.org/details/programsforelect00wilk/mode/2up
+-- https://www.nand2tetris.org/course
+-- https://github.com/Schweigi/assembler-simulator (https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
+-- https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Videos 1-10 explain really neatly all the abstraction levels between logic gates and programs)
+
+Practice: Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
 ### 3 - Basic Elements of Programming Languages
 
