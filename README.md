@@ -8,7 +8,7 @@
 
 ## Agenda
 
-- 20-30min  | Brief theoretical input on basic topics of automation and computation.
+- 20-30min | Brief theoretical input on basic topics of automation and computation.
 - 60-90min | Practical Exercises and Coding Examples with Python
 - 60-90min | Review and joint development of selected Homework Exercises
 
@@ -59,19 +59,35 @@ The Exam will be written and online. It will ask about theory and require you to
 
 Theory: What are the layers of abstraction by creating different Versions of Hello World in Assembler, C, Python | [Chapter 1, p. 1-28](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=21), [Chapter 2, p.29-38](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
-- Building Blocks/Layers of Programming Languages:
--- Assembly (NASM): https://github.com/netwide-assembler/nasm (Example: https://en.wikipedia.org/wiki/Assembly_language#:~:text=A%20program%20written%20in%20assembly,ops)%2C%20comments%20and%20data.)
--- C Compiler: https://github.com/mortdeus/legacy-cc
--- CPython: https://github.com/python/cpython
+#### Building Blocks/Layers of Programming Languages:
+- Assembly (NASM): https://github.com/netwide-assembler/nasm (Example: https://en.wikipedia.org/wiki/Assembly_language#:~:text=A%20program%20written%20in%20assembly,ops)%2C%20comments%20and%20data.)
+- C Compiler: https://github.com/mortdeus/legacy-cc
+- CPython: https://github.com/python/cpython
 
-- Further Reading:
--- https://archive.org/details/programsforelect00wilk/mode/2up
--- https://www.nand2tetris.org/course
--- https://github.com/Schweigi/assembler-simulator (https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
--- https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Videos 1-10 explain really neatly all the abstraction levels between logic gates and programs)
+#### Further Reading:
+- https://archive.org/details/programsforelect00wilk/mode/2up
+- https://www.nand2tetris.org/course
+- https://github.com/Schweigi/assembler-simulator (https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
+- https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Videos 1-10 explain really neatly all the abstraction levels between logic gates and programs)
 
-Practice: Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
+#### Practice: 
+Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
+#### Exercises
+- https://classroom.github.com/a/U-O8V5DV
+- https://classroom.github.com/a/rdHFbhiB
+- https://classroom.github.com/a/fGsmSeXs
+- https://classroom.github.com/a/z4yFStmT
+- https://classroom.github.com/a/UGcxRUbr
+- https://classroom.github.com/a/5GlYdenA
+- https://classroom.github.com/a/G_CL1Lr4
+- https://classroom.github.com/a/BLWxgkfH
+- https://classroom.github.com/a/Qfsy57Cy
+- https://classroom.github.com/a/wa6DDPgu
+- https://classroom.github.com/a/4Mwb_puU
+- https://classroom.github.com/a/81EFBPgA
+- https://classroom.github.com/a/VO0GPmXX
+- https://classroom.github.com/a/me07QrYB
 ### 3 - Basic Elements of Programming Languages
 
 - Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
