@@ -37,12 +37,12 @@ The Exam will be written and online. It will ask about theory and require you to
     - Vitalik Buterin, Ethereum Foundation
 
 #### Further Reading:
--- https://subpixel.space/entries/the-desire-for-full-automation/
--- https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
+- https://subpixel.space/entries/the-desire-for-full-automation/
+- https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
 #### Practice: 
--- Piping Data: Using GDrive and Zapier to Automate
--- From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
+- From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
+
 #### Exercises:
 - https://classroom.github.com/a/QE3x_hhh
 - https://classroom.github.com/a/kuewOJNA
