@@ -96,21 +96,21 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 
 #### Exercises
 
-https://classroom.github.com/a/As4MXk8j
-https://classroom.github.com/a/rMEa0uqh
-https://classroom.github.com/a/dso1cD_f
-https://classroom.github.com/a/w5anpxRN
-https://classroom.github.com/a/Up7m9GmN
-https://classroom.github.com/a/tQtc3fxZ
-https://classroom.github.com/a/zruPbNUB
-https://classroom.github.com/a/2Y9uwrgE
-https://classroom.github.com/a/wstQKvY-
-https://classroom.github.com/a/CZcHVogi
-https://classroom.github.com/a/11vEzBif
-https://classroom.github.com/a/XAPY-tFV
-https://classroom.github.com/a/egtY89S3
-https://classroom.github.com/a/4Fk0J8hv
-https://classroom.github.com/a/gzG6S-6M
+- https://classroom.github.com/a/As4MXk8j
+- https://classroom.github.com/a/rMEa0uqh
+- https://classroom.github.com/a/dso1cD_f
+- https://classroom.github.com/a/w5anpxRN
+- https://classroom.github.com/a/Up7m9GmN
+- https://classroom.github.com/a/tQtc3fxZ
+- https://classroom.github.com/a/zruPbNUB
+- https://classroom.github.com/a/2Y9uwrgE
+- https://classroom.github.com/a/wstQKvY-
+- https://classroom.github.com/a/CZcHVogi
+- https://classroom.github.com/a/11vEzBif
+- https://classroom.github.com/a/XAPY-tFV
+- https://classroom.github.com/a/egtY89S3
+- https://classroom.github.com/a/4Fk0J8hv
+- https://classroom.github.com/a/gzG6S-6M
 
 
 ### 4 - Programming Paradigms and Functional Programming
