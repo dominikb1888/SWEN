@@ -90,9 +90,28 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 - https://classroom.github.com/a/me07QrYB
 ### 3 - Basic Elements of Programming Languages
 
-- Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
+#### Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
 
-- Practice: Conditionals and Iteration | [Chapter 3, pp. 83-114](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=140)
+#### Practice: Conditionals and Iteration | [Chapter 3, pp. 83-114](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=140)
+
+#### Exercises
+
+https://classroom.github.com/a/As4MXk8j
+https://classroom.github.com/a/rMEa0uqh
+https://classroom.github.com/a/dso1cD_f
+https://classroom.github.com/a/w5anpxRN
+https://classroom.github.com/a/Up7m9GmN
+https://classroom.github.com/a/tQtc3fxZ
+https://classroom.github.com/a/zruPbNUB
+https://classroom.github.com/a/2Y9uwrgE
+https://classroom.github.com/a/wstQKvY-
+https://classroom.github.com/a/CZcHVogi
+https://classroom.github.com/a/11vEzBif
+https://classroom.github.com/a/XAPY-tFV
+https://classroom.github.com/a/egtY89S3
+https://classroom.github.com/a/4Fk0J8hv
+https://classroom.github.com/a/gzG6S-6M
+
 
 ### 4 - Programming Paradigms and Functional Programming
 
