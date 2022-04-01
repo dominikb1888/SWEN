@@ -46,20 +46,29 @@
 
 
 #### Numbers
-- Binary
-- Int
-- Float
+
+- Binary (0,1 | True,False)
+- Int (42)
+- Float (42.23)
 
 
 #### Immutable Sequences
-- String
-- Tuple 
+
+- String `"Olivia"`
+- Tuple  `("Dominik", 42)`
 
 
 #### Mutable Sequences
-- List
-- Set
-- Dict
+
+- List `["Marina", "Marina", "Johnson", "Madalina", "Kizito", "Sharima"]`
+- Set `{1,2,3,4,5}`
+- Dict 
+
+``` python
+{'name': 'Marina',
+ 'age': '42',
+ 'students': ['Marina', 'Marina', 'Johnson', 'Madalina', 'Kizito', 'Sharima']}
+```
 
 
 ### ToDo:
