@@ -28,31 +28,38 @@ The Exam will be written and online. It will ask about theory and require you to
 ### 1 - The Urge to Compute and Automate  
 
 #### Theory: How do we compute and automate and why?
-- What would you like to automate?
 
+- What would you like to automate?
 - What do you think about DAOs?
  
     The ideal of a decentralized autonomous organization is easy to describe: it is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do.
     
     - Vitalik Buterin, Ethereum Foundation
 
+
 #### Further Reading:
+
 - https://subpixel.space/entries/the-desire-for-full-automation/
 - https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
+
 #### Practice: 
+
 - From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
 
+
 #### Exercises:
-- https://classroom.github.com/a/QE3x_hhh
-- https://classroom.github.com/a/kuewOJNA
-- https://classroom.github.com/a/KARXRhL6
-- https://classroom.github.com/a/G-YyPO-w
-- https://classroom.github.com/a/e5YuqVvX
-- https://classroom.github.com/a/PgiCkqlQ
-- https://classroom.github.com/a/M1h508Bg
-- https://classroom.github.com/a/zHuZThq7
-- https://classroom.github.com/a/pyRnT4ov
+
+| Name                  | Link                                    | Concepts                                    |
+| Hello World           | https://classroom.github.com/a/QE3x_hhh | Functions, Tests, Return vs. Print, Strings |
+| Leap                  | https://classroom.github.com/a/kuewOJNA | Expressions, Operators, Modulo              |
+| Difference of Squares | https://classroom.github.com/a/KARXRhL6 | Variables, Iteration                        |
+| Gigasecond            | https://classroom.github.com/a/G-YyPO-w | Data Types, Dates, Imports, Modules         |
+| Grains                | https://classroom.github.com/a/e5YuqVvX | Conditions, Errors                          |
+| Pangram               | https://classroom.github.com/a/PgiCkqlQ | Strings, Lists, Slicing, Iteration          |
+| TwoFer                | https://classroom.github.com/a/M1h508Bg | Functions, Parameters, Strings              |
+| Collatz Conjecture    | https://classroom.github.com/a/zHuZThq7 | Conditions, Parameters, Recursion           |
+| Bob                   | https://classroom.github.com/a/pyRnT4ov | Conditions, Iteration, Strings              |
 
 
 ### 2 - The Shoulders of Turtles                      
@@ -60,39 +67,59 @@ The Exam will be written and online. It will ask about theory and require you to
 Theory: What are the layers of abstraction by creating different Versions of Hello World in Assembler, C, Python | [Chapter 1, p. 1-28](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=21), [Chapter 2, p.29-38](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
 #### Building Blocks/Layers of Programming Languages:
+
 - Assembly (NASM): https://github.com/netwide-assembler/nasm (Example: https://en.wikipedia.org/wiki/Assembly_language#:~:text=A%20program%20written%20in%20assembly,ops)%2C%20comments%20and%20data.)
 - C Compiler: https://github.com/mortdeus/legacy-cc
 - CPython: https://github.com/python/cpython
 
+
 #### Further Reading:
+
 - https://archive.org/details/programsforelect00wilk/mode/2up
 - https://www.nand2tetris.org/course
 - https://github.com/Schweigi/assembler-simulator (https://www.mschweighauser.com/make-your-own-assembler-simulator-in-javascript-part1/)
 - https://www.youtube.com/watch?v=tpIctyqH29Q&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo (Videos 1-10 explain really neatly all the abstraction levels between logic gates and programs)
 
-#### Practice: 
+
+#### Practice:
+
 Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
 #### Exercises
-- https://classroom.github.com/a/U-O8V5DV
-- https://classroom.github.com/a/rdHFbhiB
-- https://classroom.github.com/a/fGsmSeXs
-- https://classroom.github.com/a/z4yFStmT
-- https://classroom.github.com/a/UGcxRUbr
-- https://classroom.github.com/a/5GlYdenA
-- https://classroom.github.com/a/G_CL1Lr4
-- https://classroom.github.com/a/BLWxgkfH
-- https://classroom.github.com/a/Qfsy57Cy
-- https://classroom.github.com/a/wa6DDPgu
-- https://classroom.github.com/a/4Mwb_puU
-- https://classroom.github.com/a/81EFBPgA
-- https://classroom.github.com/a/VO0GPmXX
-- https://classroom.github.com/a/me07QrYB
+| Name                | Link                                     | Concepts                                   |
+| Queen Attack        | https://classroom.github.com/a/U-O8V5DV  | Classes, Conditionals                      |
+| Triangle            | https://classroom.github.com/a/rdHFbhiB  | Functions, Conditionals                    |
+| Perfect Numbers     | https://classroom.github.icom/a/fGsmSeXs | Iterators, Conditionals                    |
+| Sublist             | https://classroom.github.com/a/z4yFStmT  | Lists, Conditionals                        |
+| Diamond             | https://classroom.github.com/a/UGcxRUbr  | Strings, Iterators                         |
+| Yacht               | https://classroom.github.com/a/5GlYdenA  | Lambda Functions, Iterators                |
+| Pythagorean Triplet | https://classroom.github.com/a/G_CL1Lr4  | Lists, Sets, Iterators                     |
+| Matching Brackets   | https://classroom.github.com/a/BLWxgkfH  | Dictionaries, Lists, Conditionals          |
+| Binary Search       | https://classroom.github.com/a/Qfsy57Cy  | Lists, Iterators, Conditionals             |
+| Reverse String      | https://classroom.github.com/a/wa6DDPgu  | Strings, Slicing, Iterators                |
+| ISBN Verifier       | https://classroom.github.com/a/4Mwb_puU  | Lists, Conditionals                        |
+| RNA Transcription   | https://classroom.github.com/a/81EFBPgA  | Dicts, Iterators                           |
+| Pig Latin           | https://classroom.github.com/a/VO0GPmXX  | Strings, Conditionals, Regular Expressions |
+| Darts               | https://classroom.github.com/a/me07QrYB  | Math Module, Conditionals                  |
+
+
 ### 3 - Basic Elements of Programming Languages
 
 #### Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
 
 #### Practice: Conditionals and Iteration | [Chapter 3, pp. 83-114](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=140)
+
+- Problem-solving with Data Structures and Algorithms
+- Choosing the right data structure is key
+- Solve problems iteratively:
+  1. Understand the Problem  at Hand (Read Excercise Description carefully)
+  2. Build a model (Paraphrase in your own words, Visualize, Translate into "Python")
+  3. Validate the model (Look at test cases, especially at input and output data types)
+  4. Get a quick win (Solve the problem as concrete as possible or only partially first, e.g. by copying test case)
+  5. Test, Fail, and Repeat towards higher abstraction (Try to find more abstract approaches (variables, conditions, iterations) for parts of your code)
+  6. Clean your code (Once all tests pass, challenge the current state of your Code and avoid repetitive patterns (DRY Principle))
+  7. Celebrate!
+
 
 #### Exercises
 
