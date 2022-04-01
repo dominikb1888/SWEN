@@ -51,6 +51,7 @@ The Exam will be written and online. It will ask about theory and require you to
 #### Exercises:
 
 | Name                  | Link                                    | Concepts                                    |
+| ---                   | ---                                     | ---                                         |
 | Hello World           | https://classroom.github.com/a/QE3x_hhh | Functions, Tests, Return vs. Print, Strings |
 | Leap                  | https://classroom.github.com/a/kuewOJNA | Expressions, Operators, Modulo              |
 | Difference of Squares | https://classroom.github.com/a/KARXRhL6 | Variables, Iteration                        |
@@ -60,6 +61,9 @@ The Exam will be written and online. It will ask about theory and require you to
 | TwoFer                | https://classroom.github.com/a/M1h508Bg | Functions, Parameters, Strings              |
 | Collatz Conjecture    | https://classroom.github.com/a/zHuZThq7 | Conditions, Parameters, Recursion           |
 | Bob                   | https://classroom.github.com/a/pyRnT4ov | Conditions, Iteration, Strings              |
+| Resistor Color        | https://classroom.github.com/a/11vEzBif | Lists, Functions                            |
+| Resistor Color Duo    | https://classroom.github.com/a/4Fk0J8hv | Dicts, Functions                            |
+| Darts                 | https://classroom.github.com/a/me07QrYB | Math Module, Conditionals                   |
 
 
 ### 2 - The Shoulders of Turtles                      
@@ -85,8 +89,11 @@ Theory: What are the layers of abstraction by creating different Versions of Hel
 
 Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
+
 #### Exercises
+
 | Name                | Link                                     | Concepts                                   |
+| ---                 | ---                                      | ---                                        |
 | Queen Attack        | https://classroom.github.com/a/U-O8V5DV  | Classes, Conditionals                      |
 | Triangle            | https://classroom.github.com/a/rdHFbhiB  | Functions, Conditionals                    |
 | Perfect Numbers     | https://classroom.github.icom/a/fGsmSeXs | Iterators, Conditionals                    |
@@ -100,8 +107,6 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 | ISBN Verifier       | https://classroom.github.com/a/4Mwb_puU  | Lists, Conditionals                        |
 | RNA Transcription   | https://classroom.github.com/a/81EFBPgA  | Dicts, Iterators                           |
 | Pig Latin           | https://classroom.github.com/a/VO0GPmXX  | Strings, Conditionals, Regular Expressions |
-| Darts               | https://classroom.github.com/a/me07QrYB  | Math Module, Conditionals                  |
-
 
 ### 3 - Basic Elements of Programming Languages
 
@@ -123,21 +128,20 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 
 #### Exercises
 
-- https://classroom.github.com/a/As4MXk8j
-- https://classroom.github.com/a/rMEa0uqh
-- https://classroom.github.com/a/dso1cD_f
-- https://classroom.github.com/a/w5anpxRN
-- https://classroom.github.com/a/Up7m9GmN
-- https://classroom.github.com/a/tQtc3fxZ
-- https://classroom.github.com/a/zruPbNUB
-- https://classroom.github.com/a/2Y9uwrgE
-- https://classroom.github.com/a/wstQKvY-
-- https://classroom.github.com/a/CZcHVogi
-- https://classroom.github.com/a/11vEzBif
-- https://classroom.github.com/a/XAPY-tFV
-- https://classroom.github.com/a/egtY89S3
-- https://classroom.github.com/a/4Fk0J8hv
-- https://classroom.github.com/a/gzG6S-6M
+| Name               | Link                                    | Concepts                     |
+| ---                | ---                                     | ---                          |
+| Phone Number       | https://classroom.github.com/a/As4MXk8j | Regular Expressions, Classes |
+| Armstrong Numbers  | https://classroom.github.com/a/rMEa0uqh | Strings, Iterators           |
+| Nth Prime          | https://classroom.github.com/a/dso1cD_f | Recursion, Iterators         |
+| Sum of Multiples   | https://classroom.github.com/a/w5anpxRN | Lists, Iterators             |
+| Prime Factors      | https://classroom.github.com/a/Up7m9GmN | Lists, Loops                 |
+| Beer Song          | https://classroom.github.com/a/tQtc3fxZ | Strings, Iterators           |
+| Flatten Array      | https://classroom.github.com/a/zruPbNUB | Recursion, Lists             |
+| Atbash Cipher      | https://classroom.github.com/a/2Y9uwrgE | String Functions, Iterators  |
+| Series             | https://classroom.github.com/a/wstQKvY- | List Comprehensions, Errors  |
+| Anagram            | https://classroom.github.com/a/CZcHVogi | Sets, Comprehensions         |
+| List Ops           | https://classroom.github.com/a/XAPY-tFV | Classes, Iterators           |
+| House              | https://classroom.github.com/a/egtY89S3 | Strings, Iterators           |
 
 
 ### 4 - Programming Paradigms and Functional Programming
