@@ -111,6 +111,8 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 ### 3 - Basic Elements of Programming Languages
 
 #### Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
+Understand your Algorithms: https://www.bigocheatsheet.com/
+
 
 #### Practice: Conditionals and Iteration | [Chapter 3, pp. 83-114](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=140)
 
