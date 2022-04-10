@@ -220,7 +220,7 @@ Additional Material:
 | ---                | ---                                     | ---                          |
 | Meetup | https://classroom.github.com/a/ZVmT7TFR | Dates, Strings |
 | DND Character |  https://classroom.github.com/a/2QHYGZzT | Classes |
-| Simple Linked List | https://classroom.github.com/a/YHa3LBFc | Classes, Inheritance, Dunder Functions |
+| Simple Linked List | https://classroom.github.com/a/YHa3LBFc | Classes, Inheritance  |
 | Scale Generator | https://classroom.github.com/a/gwwxD5KE | Classes, Lists |
 | Go Counting |  https://classroom.github.com/a/T_kSEjG_ | Classes, Lists |
 | Luhn |  https://classroom.github.com/a/XWgFqngQ | Classes, Lists |
