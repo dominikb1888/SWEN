@@ -226,7 +226,7 @@ Additional Material:
 | Luhn |  https://classroom.github.com/a/XWgFqngQ | Classes, Lists |
 | Clock | https://classroom.github.com/a/ua06kC9j | Classes, Operators | 
 | Complex Numbers | https://classroom.github.com/a/oPzuHi3O | Classes, Types |
-| Allergies | https://github.com/DB-Teaching/07-09-allergies-dominikb1888 | Classes, Methods |
+| Allergies | https://classroom.github.com/a/3e79_FLf | Classes, Methods |
 | Linked List |  https://classroom.github.com/a/AAndjmVk | Classes, Types |
 | Kindergarden Garden |  https://classroom.github.com/a/UMPiz8JF | Classes, Lists |
 | Connect | https://classroom.github.com/a/jV1_9Jq- | Classes, Lists | 
