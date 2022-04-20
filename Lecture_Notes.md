@@ -82,3 +82,53 @@
 
 - Have at least 4 Exercises submitted
 
+
+## Session 3
+
+- Brief introduction to conditionals and iteration
+
+### Class Content
+
+- Problem-solving with Data Structures and Algorithms
+- Choosing the right data structure is key
+- Solve problems iteratively:
+
+1. Understand the Problem at Hand (Read Excercise Description carefully)
+2. Build a model (Paraphrase in your own words, Visualize, Translate into "Python")
+3. Validate the model (Look at test cases, especially at input and output data types)
+4. Get a quick win (Solve the problem as concrete as possible or only partially first, e.g. by copying test case)
+5. Test, Fail, and Repeat towards higher abstraction (Try to find more abstract approaches (variables, conditions, iterations) for parts of your code)
+6. Clean your code (Once all tests pass, challenge the current state of your Code and avoid repetitive patterns (DRY Principle))
+7. Celebrate!
+
+### ToDo
+
+- Prepare more bite-sized interactive exercises
+
+### Minimum Achievement
+
+- Have at least 8 exercises from both Session and Session 2 completed
+
+
+## Session 4
+
+### Class Content
+
+- Functions as building block of code
+- Problem-solving exercise: Darts (https://github.com/DB-Teaching/02-14-darts-dominikb1888)
+
+
+## Session 5
+
+### Class Content
+
+- Extended Problem-solving exercise: Darts with dynamic input (https://github.com/DB-Teaching/02-14-darts-dominikb1888)
+- Introduction to Comprehensions
+
+
+## Session 6
+
+### Class Content
+
+- Introduction of Decorators
+- Problem-solving on Sum of Multiples Exercise

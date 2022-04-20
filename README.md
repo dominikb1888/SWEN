@@ -16,7 +16,7 @@
 
 For each session there are a set of exercises listed here on GitHub Classroom: https://classroom.github.com/classrooms/98897122-22s_swen
 
-We will do the first batch of exercises for Session 1 together. From Sesssion 2 onwards you are encouraged to prepare all exercises associated to a certrain session. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class.
+We will do the first batch of exercises for Session 1 together. From Session 2 onwards you are encouraged to prepare all exercises associated to a certain session. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class.
 
 ## Exam (graded)
 
@@ -43,7 +43,7 @@ The Exam will be written and online. It will ask about theory and require you to
 - https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
 
-#### Practice: 
+# Practice: 
 
 - From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
 
