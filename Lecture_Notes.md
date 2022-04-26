@@ -131,4 +131,4 @@
 ### Class Content
 
 - Introduction of Decorators
-- Problem-solving on Sum of Multiples Exercise
+- Problem-solving on Sum of Multiples Exercise: https://github.com/DB-Teaching/03-04-sum-of-multiples-dominikb1888

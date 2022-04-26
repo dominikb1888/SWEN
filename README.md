@@ -312,7 +312,8 @@ Additional Material:
 #### Theory: Software Engineering Practices | [Chapter B, pp. 249-267](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=265)
 
 #### Practice: Debugging and Profiling | [Chapter 11, pp. 343-364](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=368)
-
+https://martinheinz.dev/blog/64
+https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
 
 #### Exercises
 
