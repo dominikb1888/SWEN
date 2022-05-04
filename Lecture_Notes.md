@@ -171,3 +171,15 @@
 
 https://www.freecodecamp.org/news/object-oriented-programming-concepts
 https://www.geeksforgeeks.org/python-oops-concepts/
+
+## Session 8
+
+### Class Content
+
+- In-depth discussion of procedural solution to the matching brackets exercise
+- Repetition of OOP-Principles
+- Introduction to @staticmethod decorator: classes as namespaces vs. classes with data bindings
+
+### ToDo
+
+- get more consistent metaphor/examples for OOP-Principles
