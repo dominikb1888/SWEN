@@ -132,3 +132,42 @@
 
 - Introduction of Decorators
 - Problem-solving on Sum of Multiples Exercise: https://github.com/DB-Teaching/03-04-sum-of-multiples-dominikb1888
+
+## Session 7
+
+- What matters for Digital Projects?
+- Why? What? How?
+
+- Understand the why, e.g. the mission your stakeholders are on.
+- Understand the what, e.g. the more specific obstacles they are trying to overcome on their journey
+- Define the how,e.g. what would be a good way to solve their problems
+
+### Concrete Example for Leaderboard App
+1. Stakeholders: Mentor, Students
+2. Why?
+- Mentor: Help each student individually to become a professional developer
+- Students: Become a better developer, build skills and confidence
+
+3. What?
+- Understand progress of students (Comparison, Individual Attention)
+- Encourage and Motivate through transparency and competition
+- Allow for peer feedback and support
+- Show statistics on the whole operation and its effectiveness
+
+4. How?
+- Show a heatmap visualization with finished exercises per session
+- Show a percentile plot for comparing you own progress with that of all others
+- Allow for publishing own repositories and listing them on the progress board
+- Show metastatistics on reaction time and quality of comments/code
+
+
+### Class Content
+
+- Object-oriented Programming Principles
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
+
+https://www.freecodecamp.org/news/object-oriented-programming-concepts
+https://www.geeksforgeeks.org/python-oops-concepts/

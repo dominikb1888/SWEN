@@ -328,6 +328,7 @@ https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.h
 ### 12 - Computer Networks: Servers and Clients
 
 #### Theory: Computer Networks | [Chapter 6](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=150)
+Python requests and requests-cache: https://realpython.com/caching-external-api-requests/
 
 #### Practice: GUIs and Scripting | [Chapter 12, pp. 365-392](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=390)
 
@@ -356,6 +357,8 @@ https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.h
 ### 14 - Computer Networks: Authentication and APIs
 
 #### Theory: Computer Security and Cloud Computing [Chapters 7 and 8, 195-240](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=182)
+https://realpython.com/api-integration-in-python
+https://betterprogramming.pub/asynchronous-programming-in-python-for-making-more-api-calls-faster-419a1d2ee058
 
 #### Practice: API Development | [Chapter 14, pp. 425-476](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=450)
 
