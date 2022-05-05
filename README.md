@@ -54,7 +54,6 @@ The Exam will be written and online. It will ask about theory and require you to
 | ---                   | ---                                     | ---                                         |
 | Hello World           | https://classroom.github.com/a/QE3x_hhh | Functions, Tests, Return vs. Print, Strings |
 | Leap                  | https://classroom.github.com/a/kuewOJNA | Expressions, Operators, Modulo              |
-| Difference of Squares | https://classroom.github.com/a/KARXRhL6 | Variables, Iteration                        |
 | Gigasecond            | https://classroom.github.com/a/G-YyPO-w | Data Types, Dates, Imports, Modules         |
 | Grains                | https://classroom.github.com/a/e5YuqVvX | Conditions, Errors                          |
 | Pangram               | https://classroom.github.com/a/PgiCkqlQ | Strings, Lists, Slicing, Iteration          |
@@ -64,7 +63,7 @@ The Exam will be written and online. It will ask about theory and require you to
 | Resistor Color        | https://classroom.github.com/a/11vEzBif | Lists, Functions                            |
 | Resistor Color Duo    | https://classroom.github.com/a/4Fk0J8hv | Dicts, Functions                            |
 | Darts                 | https://classroom.github.com/a/me07QrYB | Math Module, Conditionals                   |
-
+| Difference of Squares | https://classroom.github.com/a/KARXRhL6 | Variables, Iteration                        |
 
 ### 2 - The Shoulders of Turtles                      
 
