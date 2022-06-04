@@ -290,6 +290,8 @@ Additional Material:
 
 #### Theory: Software Development Lifecycle | [Chapter A, 241-247](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=258)
 
+- [](https://www.obeythetestinggoat.com/pages/book.html#toc)
+
 #### Practice: Testing | [Chapter 10, pp.315-342](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=340)
 
 #### Exercises
