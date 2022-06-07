@@ -345,14 +345,14 @@ Python requests and requests-cache: https://realpython.com/caching-external-api-
 
 #### Theory: NONE
 
-#### Practice: Data Science in Brief  | [Chapter 13 ]
+#### Practice: Data Science in Brief  | [Chapter 13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=418)
 
-- Extending our Leaderboard example through 
+- Extending our Leaderboard example through a Heatmap visualization
 
 
-| Name               | Link                                    | Concepts                     |
-| ---                | ---                                     | ---                          |
-| Bank Account |  https://classroom.github.com/a/fZkHIkaC | Classes, OOP |
+| Name         | Link                                     | Concepts                     |
+| ---          | ---                                      | ---                          |
+| Bank Account | https://classroom.github.com/a/fZkHIkaC  | Classes, OOP                 |
 
 
 
