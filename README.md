@@ -315,6 +315,7 @@ Additional Material:
 #### Practice: Debugging and Profiling | [Chapter 11, pp. 343-364](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=368)
 https://martinheinz.dev/blog/64
 https://jakevdp.github.io/PythonDataScienceHandbook/01.07-timing-and-profiling.html
+https://stackoverflow.com/questions/17579357/time-time-vs-timeit-timeit
 
 #### Exercises
 
