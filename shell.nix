@@ -3,6 +3,7 @@
 let
   pythonEnv = with pkgs.python310Packages; [
     ipython
+    jupyter
     pandas
     numpy
     rich
