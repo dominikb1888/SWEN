@@ -14,9 +14,7 @@
 
 ## Deliverables (ungraded)
 
-For each session there are a set of exercises listed here on GitHub Classroom: https://classroom.github.com/classrooms/98897122-22s_swen
-
-We will do the first batch of exercises for Session 1 together. From Session 2 onwards you are encouraged to prepare all exercises associated to a certain session. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class.
+Each session below comes with a set of exercises. We will do the first batch of exercises for Session 1 together. From Session 2 onwards you are encouraged to prepare all exercises associated to a certain session. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class. The exercises are plenty and you will hardly be able to complete all of them. Make sure to definitely work on all Exercises from Session 1 and 2.
 
 ## Exam (graded)
 
@@ -25,15 +23,15 @@ The Exam will be written and online. It will ask about theory and require you to
 
 ## Sessions
 
-### 1 - The Urge to Compute and Automate  
+### 1 - The Urge to Compute and Automate
 
 #### Theory: How do we compute and automate and why?
 
 - What would you like to automate?
 - What do you think about DAOs?
- 
+
     The ideal of a decentralized autonomous organization is easy to describe: it is an entity that lives on the internet and exists autonomously, but also heavily relies on hiring individuals to perform certain tasks that the automaton itself cannot do.
-    
+
     - Vitalik Buterin, Ethereum Foundation
 
 
@@ -43,7 +41,7 @@ The Exam will be written and online. It will ask about theory and require you to
 - https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/
 
 
-#### Practice: 
+#### Practice:
 
 - From REPL commands to simple scripts | [Chapter 1, p.1-36](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=26)
 
@@ -65,7 +63,7 @@ The Exam will be written and online. It will ask about theory and require you to
 | Darts                 | https://classroom.github.com/a/me07QrYB | Math Module, Conditionals                   |
 | Difference of Squares | https://classroom.github.com/a/KARXRhL6 | Variables, Iteration                        |
 
-### 2 - The Shoulders of Turtles                      
+### 2 - The Shoulders of Turtles
 
 Theory: What are the layers of abstraction by creating different Versions of Hello World in Assembler, C, Python | [Chapter 1, p. 1-28](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=21), [Chapter 2, p.29-38](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=49)
 
@@ -109,7 +107,7 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 
 ### 3 - Basic Elements of Programming Languages
 
-#### Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72) 
+#### Theory: Algorithm and Data Structure | [Chapter 3, pp. 53-81](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=72)
 Understand your Algorithms: https://www.bigocheatsheet.com/
 
 
@@ -147,11 +145,11 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 
 ### 4 - Programming Paradigms and Functional Programming
 
-#### Theory: Programming Paradigms | [Chapter 3, pp.38-51](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=58) 
+#### Theory: Programming Paradigms | [Chapter 3, pp.38-51](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=58)
 
 #### Practice: Functions, the Building Blocks of Code [Chapter 4, pp. 115-156](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=140)
 
-- https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming 
+- https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
 
 #### Exercises
@@ -164,10 +162,10 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 | Crypto Square | https://classroom.github.com/a/Uj488ZBp | Dicts, Lists |
 | Hamming | https://classroom.github.com/a/vMYh38UB | Iterators, Zip |
 | Matrix | https://classroom.github.com/a/lS9GqBIk | Lists, Classes |
-| Minesweeper | https://classroom.github.com/a/7yY2u8MX | Lists, Loops | 
+| Minesweeper | https://classroom.github.com/a/7yY2u8MX | Lists, Loops |
 | Palindrome Products | https://classroom.github.com/a/ind2ZEm5 | Iterables |
 | Raindrops | https://classroom.github.com/a/5ddtdK4T | Conditions, Operators |
-| Robot Name | https://classroom.github.com/a/FGvjUOo0 | Classes | 
+| Robot Name | https://classroom.github.com/a/FGvjUOo0 | Classes |
 
 
 ### 5 - Clean Code
@@ -196,13 +194,13 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 
 - Theory: Functions, data, classes and objects
 
-- Practice: OOP, Decorators, and Classes - [Chapter 6, pp.195-238](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=220) 
+- Practice: OOP, Decorators, and Classes - [Chapter 6, pp.195-238](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=220)
 
 Additional Material:
 - https://www.youtube.com/watch?v=8moWQ1561FY&t=3666s
 - https://www.youtube.com/watch?v=HTLu2DFOdTg
 
-#### Exercises 
+#### Exercises
 
 - No new exercises: Session 6 is about review and learning
 - General Rule: If you have not finished all exercises until here, do not move on
@@ -223,16 +221,16 @@ Additional Material:
 | Scale Generator | https://classroom.github.com/a/gwwxD5KE | Classes, Lists |
 | Go Counting |  https://classroom.github.com/a/T_kSEjG_ | Classes, Lists |
 | Luhn |  https://classroom.github.com/a/XWgFqngQ | Classes, Lists |
-| Clock | https://classroom.github.com/a/ua06kC9j | Classes, Operators | 
+| Clock | https://classroom.github.com/a/ua06kC9j | Classes, Operators |
 | Complex Numbers | https://classroom.github.com/a/oPzuHi3O | Classes, Types |
 | Allergies | https://classroom.github.com/a/3e79_FLf | Classes, Methods |
 | Linked List |  https://classroom.github.com/a/AAndjmVk | Classes, Types |
 | Kindergarden Garden |  https://classroom.github.com/a/UMPiz8JF | Classes, Lists |
-| Connect | https://classroom.github.com/a/jV1_9Jq- | Classes, Lists | 
+| Connect | https://classroom.github.com/a/jV1_9Jq- | Classes, Lists |
 | Simple Cipher | https://classroom.github.com/a/W2eldnq4 | Classes, Lists, Strings |
 | Tree Building | https://classroom.github.com/a/47FcKJJg | Classes, Refactoring |
 | Grade School | https://classroom.github.com/a/nxpDHeOb | Classes, Dicts |
-| Circular Buffer | https://classroom.github.com/a/bLhDCPth | Classes, Lists | 
+| Circular Buffer | https://classroom.github.com/a/bLhDCPth | Classes, Lists |
 
 
 ### 8 - Operating Systems
@@ -247,21 +245,21 @@ Additional Material:
 | ---                | ---                                     | ---                          |
 | Grep | https://classroom.github.com/a/1B5k4Ljk | Strings, Conditionals |
 | Poker | https://classroom.github.com/a/QBTNqyzN | Lists, Conditionals |
-| Rectangles | https://classroom.github.com/a/My-4vGWK | Strings, Conditionals | 
+| Rectangles | https://classroom.github.com/a/My-4vGWK | Strings, Conditionals |
 | Change | https://classroom.github.com/a/SVzB4aSf | Lists, Operators |
-| All you Base | https://classroom.github.com/a/F07CcQ-V | Strings, Operators | 
+| All you Base | https://classroom.github.com/a/F07CcQ-V | Strings, Operators |
 | Diffie Hellmann | https://classroom.github.com/a/vgoua32a | Strings, Operators |
 | Variable Length Quantity | https://classroom.github.com/a/6-Vm48Vz | Strings, Iterators |
 | Largest Series Product | https://classroom.github.com/a/LaWBE0O1 | Strings, Lists |
 | OCR Numbers | https://classroom.github.com/a/8cSuuyjH | Lists, Strings |
 | Rail Fence Cipher |  https://classroom.github.com/a/Haf6fEK7 | Lists, Strings |
 | Food Chain |  https://classroom.github.com/a/5stIayM0 | Lists, Strings |
-| Saddle Points |  https://classroom.github.com/a/URCOzhRu | Lists, Operators | 
+| Saddle Points |  https://classroom.github.com/a/URCOzhRu | Lists, Operators |
 | Protein Translation |  https://classroom.github.com/a/98Y3ahJt | Dicts, Strings |
 | Acronyms |  https://classroom.github.com/a/kmoDtGXs | Lists, Strings |
-| Scrabble Score |  https://classroom.github.com/a/9wjkk4nm | Dicts, Strings | 
-| Markdown | https://classroom.github.com/a/xYZ2smmz | Strings, Refactoring | 
-| Isogram |  https://classroom.github.com/a/WFY2VBbR | Strings, Lists | 
+| Scrabble Score |  https://classroom.github.com/a/9wjkk4nm | Dicts, Strings |
+| Markdown | https://classroom.github.com/a/xYZ2smmz | Strings, Refactoring |
+| Isogram |  https://classroom.github.com/a/WFY2VBbR | Strings, Lists |
 | Word Count | https://classroom.github.com/a/XeEgAL9u | Strings, Dicts, Standard Libary |
 
 
@@ -275,12 +273,12 @@ Additional Material:
 
 | Name               | Link                                    | Concepts                     |
 | ---                | ---                                     | ---                          |
-| Affine Cipher | https://classroom.github.com/a/qtF3ZV1Q | Dicts, Operators | 
+| Affine Cipher | https://classroom.github.com/a/qtF3ZV1Q | Dicts, Operators |
 | Binary Search Tree |  https://classroom.github.com/a/zhxZ6MGT | Lists, Iterators |
 | Book Store | https://classroom.github.com/a/ToE9iBe- | Lists, Conditionals |
 | Bowling |  https://classroom.github.com/a/sg2IhPsu | Classes, Lists |
-| Custom Set | https://classroom.github.com/a/86Bb4cRN |  Classes, Types | 
-| Dot DSL | https://classroom.github.com/a/VuuvAqLk | Classes, DSL | 
+| Custom Set | https://classroom.github.com/a/86Bb4cRN |  Classes, Types |
+| Dot DSL | https://classroom.github.com/a/VuuvAqLk | Classes, DSL |
 | Forth | https://classroom.github.com/a/aLYPkLO6 | Classes, DSL |
 | Hangman | https://classroom.github.com/a/piYnn9_t | Classes, Functional, Reactive |
 | Knapsack | https://classroom.github.com/a/rkdlM9tA | Dicts, Optimization |
@@ -302,8 +300,8 @@ Additional Material:
 | Rational Number | https://classroom.github.com/a/5U8y8MoW | Classes, Types |
 | Tournament | https://classroom.github.com/a/oIbJmPJ0 | Strings, Lists |
 | Twelve Days |  https://classroom.github.com/a/LI82B47v | Strings, Lists |
-| Two Bucket | https://classroom.github.com/a/Vhom64p3 | Lists, Tuples | 
-| Zebra Puzzle | https://classroom.github.com/a/394FVhTX | Logic Programming | 
+| Two Bucket | https://classroom.github.com/a/Vhom64p3 | Lists, Tuples |
+| Zebra Puzzle | https://classroom.github.com/a/394FVhTX | Logic Programming |
 | Alphametics | https://classroom.github.com/a/LJ2EEsvl | Lists, Strgins |
 | React | https://classroom.github.com/a/pbhxmweN | Reactie Programming |
 
@@ -378,13 +376,13 @@ https://betterprogramming.pub/asynchronous-programming-in-python-for-making-more
 
 #### Theory: NONE
 
-#### Practice: Collective Session on current issues and status of learning 
+#### Practice: Collective Session on current issues and status of learning
 
 #### Exercises
 
 | Name               | Link                                    | Concepts                     |
 | ---                | ---                                     | ---                          |
-| REST API |  https://classroom.github.com/a/MUlbLlIx | Classes, Rest APIs | 
+| REST API |  https://classroom.github.com/a/MUlbLlIx | Classes, Rest APIs |
 
 
 ## Additional Material
@@ -394,7 +392,7 @@ Data Science: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?
 
 
 ### A - Computer Security
-Theory: 
+Theory:
 Practice: - Cryptography and Tokes | [Chapter 9, pp. 295-314](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=320)
 
 ### B - Cloud Computing
