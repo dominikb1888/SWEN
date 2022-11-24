@@ -93,7 +93,7 @@ Python Built-in Data Types | [Chapter 2, pp. 37-82](https://ebookcentral.proques
 | ---                 | ---                                      | ---                                        |
 | Queen Attack        | https://classroom.github.com/a/U-O8V5DV  | Classes, Conditionals                      |
 | Triangle            | https://classroom.github.com/a/rdHFbhiB  | Functions, Conditionals                    |
-| Perfect Numbers     | https://classroom.github.icom/a/fGsmSeXs | Iterators, Conditionals                    |
+| Perfect Numbers     | https://classroom.github.com/a/fGsmSeXs | Iterators, Conditionals                    |
 | Sublist             | https://classroom.github.com/a/z4yFStmT  | Lists, Conditionals                        |
 | Diamond             | https://classroom.github.com/a/UGcxRUbr  | Strings, Iterators                         |
 | Yacht               | https://classroom.github.com/a/5GlYdenA  | Lambda Functions, Iterators                |
