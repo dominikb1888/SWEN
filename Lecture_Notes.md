@@ -75,10 +75,9 @@
 
 ## Session 6
 
-- Brief introduction to conditionals and iteration
-
 ### Class Content
 
+- Review of pangram excersize
 - Problem-solving with Data Structures and Algorithms
 - Choosing the right data structure is key
 - Solve problems iteratively:
@@ -91,13 +90,17 @@
 6. Clean your code (Once all tests pass, challenge the current state of your Code and avoid repetitive patterns (DRY Principle))
 7. Celebrate!
 
-### ToDo
-
-- Prepare more bite-sized interactive exercises
-
 ### Minimum Achievement
 
 - Have at least 8 exercises from both Session and Session 2 completed
+
+
+
+## Session 7
+
+### Lecture
+
+- Brief introduction to conditionals and iteration
 
 
 
