@@ -63,23 +63,17 @@
 - Have at least 4 Exercises submitted
 
 
+## Session 5
+
+- Review of Exercises (Leap, Grains)
+
+### ToDo:
+
+- Prepare Grains exercise next time
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-## ARCHIVE
-
-## Session 3
+## Session 6
 
 - Brief introduction to conditionals and iteration
 
@@ -105,6 +99,11 @@
 
 - Have at least 8 exercises from both Session and Session 2 completed
 
+
+
+
+
+## ARCHIVE
 
 ## Session 4
 
