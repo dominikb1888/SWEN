@@ -84,7 +84,7 @@ if late:
     print('I need to call my manager!')  #1 
 else: 
     print('no need to call my manager...')  #2 
-``````
+```
 
 This time we set late = False, so when we execute the code, the result is different:
 
