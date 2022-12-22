@@ -3,8 +3,8 @@
 ## Readings and Resources:
 
 - THEORY: Basics of Computation: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815
-- PRACTICE: Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218
-- EXERCISES: https://classroom.github.com/classrooms/98897122-22s_swen
+- PRACTICE: Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218 (in the md folder in this Repo)
+- EXERCISES: Click on the links next to each session below
 
 ## Agenda
 
