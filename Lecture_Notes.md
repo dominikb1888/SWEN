@@ -102,8 +102,24 @@
 
 - Brief introduction to conditionals and iteration
 
+## Session 8
+
+### Lecture
+
+- Introduction to map, zip and filter functions
+- Introduction to comprehensions
+- Not touched: Generators
 
 
+## Session 09
+
+### Lecture
+
+- Functional vs. Object-oriented Programming
+- Binding data to functions (decorators) or functions to data (classes)
+- Writing clean and extensible code
+- Decorators
+- Classes
 
 
 ## ARCHIVE

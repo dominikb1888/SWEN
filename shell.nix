@@ -7,6 +7,7 @@ let
     pandas
     numpy
     rich
+    pytest
   ];
 
 in pkgs.mkShell {
