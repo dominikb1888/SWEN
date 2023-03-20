@@ -2,15 +2,17 @@
 
 ## Readings and Resources:
 
-- THEORY: Basics of Computation: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815
-- PRACTICE: Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218 (in the md folder in this Repo)
-- EXERCISES: Click on the links next to each session below
+- THEORY: - Essential Computer Science: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6640815
+- PRACTICE: Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218 (also in the md folder in this Repo)
+- EXERCISES:
+  - Click on the links next to each session below
+  - Algorithms and Data Structures: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=4946360&query=algorithms (I will refer to this while discussing solutions to exercises)
 
 ## Agenda
 
-- 20-30min | Brief theoretical input on basic topics of automation and computation.
-- 60-90min | Practical Exercises and Coding Examples with Python
 - 60-90min | Review and joint development of selected Homework Exercises
+- 20-30min | Brief theoretical input on computational thinking with Algorithms and Data Structures.
+- 60-90min | Practical Exercises and Coding Examples with Python
 
 ## Deliverables (ungraded)
 
@@ -192,7 +194,7 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 
 ### 6 - Understanding Data Bindings: OOP and FP
 
-- Theory: Functions, data, classes and objects
+- Theory: Functions, data, classes and objects - [Chapter 2, pp.56-103](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=4946360&ppg=131)
 
 - Practice: OOP, Decorators, and Classes - [Chapter 6, pp.195-238](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=220)
 
@@ -207,7 +209,7 @@ Additional Material:
 
 ### 7 - Error Handling, Exceptions and Context
 
-- Theory: NONE
+- Theory: Operating Systems (1/2) | [Chapter 4, pp.81-130](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=58)
 
 - Practice: Exceptions and Context Managers | [Chapter 7, pp. 239-256](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=264)
 
@@ -235,7 +237,7 @@ Additional Material:
 
 ### 8 - Operating Systems
 
-#### Theory: Operating System | [Chapter 4, pp.81-131](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=99)
+#### Theory: Operating System (2/2) | [Chapter 4, pp.81-131](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=99)
 
 #### Practice: Files and Data Persistence | [Chapter 8, pp. 257-294](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=282)
 
@@ -287,8 +289,8 @@ Additional Material:
 ### 10 - Testing
 
 #### Theory: Software Development Lifecycle | [Chapter A, 241-247](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=258)
+- [The testing Goat - obey!](https://www.obeythetestinggoat.com/pages/book.html#toc)
 
-- [](https://www.obeythetestinggoat.com/pages/book.html#toc)
 
 #### Practice: Testing | [Chapter 10, pp.315-342](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=340)
 
@@ -328,7 +330,9 @@ https://stackoverflow.com/questions/17579357/time-time-vs-timeit-timeit
 ### 12 - Computer Networks: Servers and Clients
 
 #### Theory: Computer Networks | [Chapter 6](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=150)
-Python requests and requests-cache: https://realpython.com/caching-external-api-requests/
+
+- Python requests and requests-cache: https://realpython.com/caching-external-api-requests/
+- httpx for async requests
 
 #### Practice: GUIs and Scripting | [Chapter 12, pp. 365-392](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=390)
 
@@ -341,12 +345,9 @@ Python requests and requests-cache: https://realpython.com/caching-external-api-
 
 ### 13 - Computer Networks: Data Exchange
 
-#### Theory: NONE
+#### Theory: Computer Security | [Chapter 6, pp.165-194](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=58)
 
-#### Practice: Data Science in Brief  | [Chapter 13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=418)
-
-- Extending our Leaderboard example through a Heatmap visualization
-
+#### Practice: Cryptography and Tokes | [Chapter 9, pp. 295-314](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=320)
 
 | Name         | Link                                     | Concepts                     |
 | ---          | ---                                      | ---                          |
@@ -356,14 +357,11 @@ Python requests and requests-cache: https://realpython.com/caching-external-api-
 
 ### 14 - Computer Networks: Authentication and APIs
 
-#### Theory: Computer Security and Cloud Computing [Chapters 7 and 8, 195-240](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=182)
+#### Theory: Cloud Computing [Chapter 7, 195-240](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6640815&ppg=182)
 https://realpython.com/api-integration-in-python
 https://betterprogramming.pub/asynchronous-programming-in-python-for-making-more-api-calls-faster-419a1d2ee058
 
 #### Practice: API Development | [Chapter 14, pp. 425-476](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=450)
-
-- Creating a small REST-API for our Leaderboard example
-
 
 #### Exercises
 
@@ -388,14 +386,4 @@ https://betterprogramming.pub/asynchronous-programming-in-python-for-making-more
 ## Additional Material
 
 Advanced Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=5353672
-Data Science: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6739165
-
-
-### A - Computer Security
-Theory:
-Practice: - Cryptography and Tokes | [Chapter 9, pp. 295-314](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=320)
-
-### B - Cloud Computing
-
-### C  - Machine Learning
 
