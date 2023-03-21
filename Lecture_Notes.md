@@ -14,6 +14,22 @@ Problem-solving with Data Structures and Algorithms
 
 ## Session 1
 
+- Programming as a craft
+- Intro to Python and Programming Environments
+- Hello World Exercise
+- The Vision of full automation
+- Darts Exercise (partial solution)
+
+The key takeways:
+1. Programming is a craft. Build, Test, Learn, Play, Succeed!
+2. Write a function that returns the string "Hello, World!" (Functions return specific data types, details matter!)
+3. Choose a programing environment that suits your needs (Command-Line, VScode, PyCharm, Repl.it, Github,...). BTW you can also just hit "." on the github repo which will open a codespace for your that looks like VSCode \
+4. Don't be afraid to jump in the Pool. Use your common sense (and maybe some basic math and logic) to build an understanding. Learn how to become self-confident about your mental model. Syntax and Implementation are details we can solve via iteration and analysis (in reference ot our darts example).
+
+Please prepare the following things for next week:
+1. Attempt about 5 exercises from Session 1, don't expect to solve all of them. If there are more questions than answers, this is where you want to be. Join a study group, don't work alone! Write down all questions and bring them to class
+2. Take a look at my annotated darts repo: https://github.com/DB-Teaching/02-14-darts-dominikb1888. Read about variable assignment, scoping and conditions in python, if you are interested. We will talk more about this next week!
+
 
 ## Session 2
 
