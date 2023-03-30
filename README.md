@@ -2,14 +2,16 @@
 
 ## Readings and Resources:
 
-- THEORY (optional): - Essential Computer Science: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6640815
-- CLASS CONTENT (1 of 2):
+### CLASS CONTENT (1 of 2):
   - Foundations of Computer Science: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/
   - Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218 (also in the md folder in this Repo)
-- EXERCISES:
+
+### EXERCISES:
   - [Python](././python_assignments.md)
   - [Rust](././rust_assignments.md)
   - Algorithms and Data Structures: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=4946360&query=algorithms (I will refer to this while discussing solutions to exercises)
+
+### THEORY (optional): - Essential Computer Science: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6640815
 
 ## Agenda
 
