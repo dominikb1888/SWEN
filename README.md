@@ -200,4 +200,4 @@ Additional Material:
 ## Additional Material
 
 Advanced Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=5353672
-
+Computational Thinking, Data Structures, and Algorithms: https://link.springer.com/book/10.1007/978-1-4842-7077-6
