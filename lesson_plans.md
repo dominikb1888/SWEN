@@ -1,6 +1,6 @@
 # Lesson overview
 
-## Lesson 1
+## Lesson 1 - 20.03.2023
 
 ---
 
@@ -21,7 +21,7 @@
 
 ### Literature and Reading
 
-- Literature provides and addon to the concepts dicussed in class. Read when triggered by a lack of understanding or when trying to solve a specific problem. 
+- Literature provides and addon to the concepts discussed in class. Read when triggered by a lack of understanding or when trying to solve a specific problem.
 - Focus is on Code Exercises
 
 ---
@@ -40,8 +40,28 @@
 
 ---
 
-## Session 2
+## Session 2 - 27.03.2023
 
 
+- Exercise Discussions:
+    - Leap
+    - Pangram
+    - Gigaseconds
 
+- Built-in Data Types and Typing
+
+
+---
+
+### Session 3 - 17.04.2023
+
+- Conditionals and Iteration: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/03-logic/01-propositional-logic.html
+    - Bob
+    - Diamond
+
+- Functions: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/02-functions/01-builtin-functions.html
+    - TwoFer
+    - Difference of Squares
+
+- Function Specification and Correctness: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/04-function-specification-and-correctness/01-specification.html
 
