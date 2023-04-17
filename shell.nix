@@ -12,6 +12,7 @@ let
     pytest-benchmark
     flake8
     mccabe
+    hypothesis
     ];
 
 in pkgs.mkShell {

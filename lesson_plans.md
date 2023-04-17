@@ -55,13 +55,15 @@
 
 ### Session 3 - 17.04.2023
 
-- Conditionals and Iteration: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/03-logic/01-propositional-logic.html
-    - Bob
-    - Diamond
-
 - Functions: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/02-functions/01-builtin-functions.html
     - TwoFer
-    - Difference of Squares
+    - Resistor Color Duo
+
+- Conditionals and Iteration: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/03-logic/01-propositional-logic.html
+    - Bob
+    - Diamond: https://github.com/DB-Student-Repos/02-05-diamond-dominikb1888-1
 
 - Function Specification and Correctness: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/04-function-specification-and-correctness/01-specification.html
+    - Difference of Squares
+    - Pythagorean Triplets
 
