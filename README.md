@@ -107,6 +107,7 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 - https://maryrosecook.com/blog/post/a-practical-introduction-to-functional-programming
 
 
+
 ### 5 - Clean Code
 
 #### Theory: Clean Code - Principles
@@ -121,8 +122,9 @@ Understand your Algorithms: https://www.bigocheatsheet.com/
 - Practice: OOP, Decorators, and Classes - [Chapter 6, pp.195-238](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218&ppg=220)
 
 Additional Material:
-- https://www.youtube.com/watch?v=8moWQ1561FY&t=3666s
-- https://www.youtube.com/watch?v=HTLu2DFOdTg
+- OOP from scratch: https://www.youtube.com/watch?v=8moWQ1561FY&t=3666s
+- OOP Development Kit: https://www.youtube.com/watch?v=HTLu2DFOdTg
+- What is self anyways?! https://martinheinz.dev/blog/81
 
 
 ### 7 - Error Handling, Exceptions and Context
