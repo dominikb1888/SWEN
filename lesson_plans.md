@@ -67,3 +67,12 @@
     - Difference of Squares
     - Pythagorean Triplets
 
+
+---
+
+### Session 4 - 24.04.2023
+
+- Working with Complex Data: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/05-complex-data/01-tabular-data.html
+- Object-Oriented Programming and Classes
+- Building an own data type and methods
+- Understanding data binding: Bind functions to data vs. data to functions.
