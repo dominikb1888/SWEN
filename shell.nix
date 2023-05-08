@@ -8,12 +8,7 @@ let
     numpy
     rich
     pytest
-    pytest-bdd
-    pytest-benchmark
-    flake8
-    mccabe
-    hypothesis
-    ];
+  ];
 
 in pkgs.mkShell {
   buildInputs = with pkgs; [
