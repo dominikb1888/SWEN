@@ -118,4 +118,12 @@ Please prepare the following things for next week:
 - Modifying Values and Variables: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/06-memory-model/01-variable-reassignment-revisited.html
 - Object Mutation
 - Python Memory System
+
+---
+
+### Session 6 - 15.05.2023
+
 - Function Call Stack
+- Analyzing Algorithm Runtime
+- Big-O Notation
+- Testing Efficiency

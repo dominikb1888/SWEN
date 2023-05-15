@@ -3,7 +3,7 @@
 ## Readings and Resources:
 
 ### CLASS CONTENT:
-  - Foundations of Computer Science: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/
+  - Foundations of Computer Science: https://www.teach.cs.toronto.edu/~csc110y/fall/notes/ (excluding chapter 7 and 8)
   - Basic Python: https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6797218 (also in the md folder in this Repo)
 
 ### EXERCISES:
