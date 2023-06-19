@@ -3,4 +3,4 @@ def print_integers(n: int) -> None:
         print(i)
 
 if __name__ == "__main__":
-    print_integers(1000)
+    print_integers(10000)
