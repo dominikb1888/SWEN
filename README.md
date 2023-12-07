@@ -11,8 +11,8 @@
   - [Rust](././rust_assignments.md)
   - Algorithms and Data Structures: https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=4946360&query=algorithms (I will refer to this while discussing solutions to exercises)
 
-### THEORY (optional): - Essential Computer Science:
-- https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6640815
+### BASELINE (expected knowledge): - Essential Computer Science:
+ - https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6640815
 
 ## Agenda
 
