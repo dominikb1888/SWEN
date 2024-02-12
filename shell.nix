@@ -1,21 +1,6 @@
-{ pkgs ? import <nixpkgs> {} }:
-
-let
-  pythonEnv = with pkgs.python311Packages; [
-    ipython
-    jupyter
-    pandas
-    numpy
-    rich
-    pytest
-  ];
-
-in pkgs.mkShell {
-  buildInputs = with pkgs; [
-    rustc
-    cargo
-    pythonEnv
-    # keep this line if you use bash
-    pkgs.bashInteractive
-  ];
-}
+(import (let lock = builtins.fromJSON (builtins.readFile ./flake.lock);
+in fetchTarball {
+  url =
+    "https://github.com/edolstra/flake-compat/archive/${lock.nodes.flake-compat.locked.rev}.tar.gz";
+  sha256 = lock.nodes.flake-compat.locked.narHash;
+}) { src = ./.; }).shellNix

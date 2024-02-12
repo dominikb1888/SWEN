@@ -38,7 +38,7 @@ The Exam will be written and online. It will be a code exercise with tests provi
 
 ### Programming in Rust
 
-1. A tour of Rust: Data Types and Tooling ([Chapter 1-3](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=23)) | Exercises R01
+1. Types: Data Types and Rust Tooling ([Chapter 1-3](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=23)) | Exercises R01
 
 2. Memory Management: Mutability and Ownership ([Chapter 3-6](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=101))
 3. System Design: Error Handling, Crates and Modules ([Chapter 7-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=179))
@@ -67,5 +67,28 @@ The Exam will be written and online. It will be a code exercise with tests provi
 
 
 ## Sessions
+
+### 1. Types: Rust Data Types and Tooling
+
+Learning Goals:
+- Understand why are types important for programming in General
+- Understand how can types help support efficiency, safety, and security
+- Know basic types in Rust and understand how they compare to Python
+- Understand the differences between scalar types, compound types, and structs
+- Apply Numeric Types, Strings, and Pointers in your programs.
+- Apply Tuples, Arrays, Vectors, and Hashmaps in your programs.
+
+
+### 2. Memory Management: Mutability and Ownership
+
+Learning Goals:
+- Understand head and stack and their usage and implications for structuring programs
+- Understand the need for and pitfalls of pointers
+- Understand the difference between mutable and immutable types
+- Understand how C, Python and Rust handle memory
+- Understand Ownership and Borrowing and Rust for both mutable and immutable types
+- Analyse and resolve issues arising from Ownership and Borrowing in your own code
+
+
 
 The detailed content of each Session will be added here during the term.
