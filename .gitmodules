@@ -10,3 +10,6 @@
 [submodule "excercises/Chapter_01/01-04_grains"]
 	path = excercises/Chapter_01/01-04_grains
 	url = git@github.com:DB-Teaching/01-04_grains
+[submodule "slides"]
+	path = slides
+	url = git@github.com:dominikb1888/programmieren-in-rust.git

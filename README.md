@@ -90,5 +90,7 @@ Learning Goals:
 - Analyse and resolve issues arising from Ownership and Borrowing in your own code
 
 
+Additional Reading:
+- https://depth-first.com/articles/2020/01/27/rust-ownership-by-example/
 
 The detailed content of each Session will be added here during the term.
