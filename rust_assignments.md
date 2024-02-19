@@ -21,7 +21,7 @@
 |  18 | R02       |         10 | Reverse String           | https://classroom.github.com/a/E7UaR7_e | strings, iteration |             |
 |  19 | R02       |         11 | Isbn Verifier            | https://classroom.github.com/a/XLV_i16U | iteration, fold |                |
 |  20 | R02       |         12 | Rna Transcription        | https://classroom.github.com/a/qGwkDt_C | error-handling, map|             |
-|  21 | R02       |         13 | Pig Latin                | https://classroom.github.com/a/Oy_7844_(https://classroom.github.com/a/Oy_7844_) | strings, logic |             |
+|  21 | R02       |         13 | Pig Latin                | [https://classroom.github.com/a/Oy_7844_](https://classroom.github.com/a/Oy_7844_) | strings, logic |             |
 |  23 | R03       |         01 | Phone Number             | https://classroom.github.com/a/U8WLDn1O | strings, structs                 |               |
 |  24 | R03       |         02 | Armstrong Numbers        | https://classroom.github.com/a/s11a3SRL | large integers, iteration | [Wrapping Arithmetic](https://www.franziskuskiefer.de/p/wrapping-arithmetic-in-rust/)                          |
 |  25 | R03       |         03 | Nth Prime                | https://classroom.github.com/a/sxm2aIA3 | |                                 |
