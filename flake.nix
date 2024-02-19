@@ -29,6 +29,9 @@
 
           buildInputs = with pkgs; [
             cargo
+            cargo-flamegraph
+            cargo-criterion
+            gnuplot
             mdbook
             rustc
             rust-analyzer

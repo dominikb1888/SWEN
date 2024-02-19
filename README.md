@@ -1,37 +1,44 @@
-# Software Engineering - From REPL to SYSTEM
+# Software Development - Clean Code, Data Structures, and Algorithms
 
 ## Readings and Resources:
 
+
 ### Required Reading:
 
-    - Programming Rust (First half): https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6643397
-    - Algorithms and Data Structures in Rust (Second half): https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528
+Lecture:
+- [Introduction to Algorithms](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6925615)
 
-### EXERCISES:
-  - [Rust](././rust_assignments.md)
+Exercise:
+- [Programming Rust (First half)](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6643397)
+- [Algorithms and Data Structures in Rust (Second half)](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
+
+### Required Preparation before 1st Day of Class
+
+- Walk through the rustlings tutorial: https://github.com/rust-lang/rustlings
+- Finish all [Exercises](././rust_assignments.md) for Session 1 in Rust
+
+
+### Mandatory Exercises:
+
+Prepare the exercises in the following list according to the sessions they are assigned to. Each exercise should take about 30min to complete, if approached right. Make use of any tool at your disposal and do work in groups to reflect upon the different solutions possible:
+
+- [Rust Exercises](././rust_assignments.md)
+
+Credit: The exercises are taken from [Exercism](http://www.exercism.org), you can find many other languages to practice there and a helpful community. You can also find solutions to each exercise. In you own interest, only look at these solutions after spending at least 30min on an honest attempt to each exercise.
 
 
 ## Class Design - Flipped Classroom
 
-- 60-90min | Review and joint development of selected Homework Exercises
-- 20-30min | Brief theoretical input on computational thinking with Algorithms and Data Structures.
-- 60-90min | Practical Exercises and Coding Examples with Rust
+The course is taught in a Flipped Classroom style. You are required to prepare coding exercises and will be asked to present them in front of class on a random selection basis.
 
-## Deliverables (mandatory)
-
-Each session below comes with a set of exercises. You are required to prepare these exercises before each class. I will provide feedback and guidance on the side. For each session, I will pick some difficult or important exercises and discuss solutions with the class. The exercises are plenty and you will hardly be able to complete all of them. Make sure to definitely work on all Exercises until Session 6.
-
-
-
-## Preliminary Requirements before 1st Day of Class
-
-- Walk through the rustlings tutorial: https://github.com/rust-lang/rustlings
-- Finish all [Exercises](././rust_assignments.md) for Session 1
+- 30 min | Review and joint development of selected Homework Exercises
+- 60 min | Theoretical input on computational thinking with Algorithms and Data Structures.
+- 90 min | Applying theoretical input in a hands-on class project: Building the Game of Clack.
 
 
 ## Exam (graded)
 
-The Exam will be written and online. It will be a code exercise with tests provided.
+The Exam will be written and online. It will be a code exercise just like the ones you practice with tests provided.
 
 
 ## Agenda
@@ -78,6 +85,17 @@ Learning Goals:
 - Apply Numeric Types, Strings, and Pointers in your programs.
 - Apply Tuples, Arrays, Vectors, and Hashmaps in your programs.
 
+1. Exercise Review
+
+
+2. Lecture
+
+- Why do we need types and what can we do with them?
+
+3. Project
+
+- Creating preliminary Data Structure and Logic for our Game of Clack
+
 
 ### 2. Memory Management: Mutability and Ownership
 
@@ -94,3 +112,34 @@ Additional Reading:
 - https://depth-first.com/articles/2020/01/27/rust-ownership-by-example/
 
 The detailed content of each Session will be added here during the term.
+
+### 3. System Design
+
+Learning Goals:
+- Understand and apply important principles of systems design
+- Know and apply the Separation of Concerns principle
+- Know and apply the Don't Repeat Yourself Principle
+- <TODO: Add other principles>
+-
+-
+
+1. Exercise Review
+
+2. Lecture
+
+3. Project
+
+### 4.
+
+### 5.
+
+### 6.
+
+
+### 7. Algorithms: Analysis, Design, and Evaluation
+
+
+Reading:
+
+- Criterion Benchmarks
+- https://towardsdatascience.com/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb
