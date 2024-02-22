@@ -11,6 +11,10 @@ Lecture:
 Exercise:
 - [Programming Rust (First half)](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6643397)
 - [Algorithms and Data Structures in Rust (Second half)](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
+### Additional Resources
+
+- Rust Book, Brown University with great quizzes: https://rust-book.cs.brown.edu/
+- Rust by Example: https://doc.rust-lang.org/rust-by-example/index.html
 
 ### Required Preparation before 1st Day of Class
 
@@ -56,21 +60,21 @@ The Exam will be written and online. It will be a code exercise just like the on
 
 ### Algorithms and Data Structures in Rust
 
-7. Algorithms Analysis, Design and Evaluation
+8. Algorithms Analysis, Design and Evaluation ([Chapter 1-4](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=21))
 
-8. Lists, Maps and Sets
+9. Sorting and Ordering ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=139))
+10. Lists, Maps and Sets ([Chapter 10-11](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=214))
 
-9. Trees
+11. Trees ([Chapter 12-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261))
 
-10. Graphs
+12. Dynamic Programming ([Chapter 14](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=299))
 
-12. Sorting and Ordering
+13. Greedy Algorithms and Backtracking ([Chapter 15](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=344))
 
-13. Search and Filtering
+14. Amortized Analysis ([Chapter 16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=369))
 
-14. Combinatorial and Random Algorithms
+15. Review and Mock Exam
 
-15. Wrap-up and Review: Rust Standard Library
 
 
 ## Sessions
@@ -135,11 +139,16 @@ Learning Goals:
 
 ### 6.
 
+### 7. Strings and IO
 
-### 7. Algorithms: Analysis, Design, and Evaluation
+- String Conversion: https://stackoverflow.com/questions/41034635/how-do-i-convert-between-string-str-vecu8-and-u8
+-
+
+### 8. Algorithms: Analysis, Design, and Evaluation
 
 
 Reading:
 
-- Criterion Benchmarks
 - https://towardsdatascience.com/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb
+- https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
+- Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
