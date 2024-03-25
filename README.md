@@ -50,13 +50,12 @@ The Exam will be written and online. It will be a code exercise just like the on
 ### Programming in Rust
 
 1. Types: Data Types and Rust Tooling ([Chapter 1-3](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=23)) | Exercises R01
-
-2. Memory Management: Mutability and Ownership ([Chapter 3-6](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=101))
-3. System Design: Error Handling, Crates and Modules ([Chapter 7-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=179))
-4. Object-Oriented-Design: Structs, Enums and Patterns [Chapter 9-10](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=231))
-5. Encapsulation and Abstraction: Traits and Generics, Operator Overloading ([Chapter 11-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=277))
-6. Functional Programming: Closures, Iterators and Collections ([Chapter 14-16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=349))
-7. Input and Output: Strings, Text and IO ([Chapter 17-18](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=451))
+2. Memory Management: Mutability and Ownership ([Chapter 4-5](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=101)) | Exercises R02
+3. System Design: Expressions, Error Handling, Crates and Modules ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=179)) | Exercises R03
+4. Object-Oriented-Design: Structs, Enums and Patterns [Chapter 9-10](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=231)) | Exercises R04
+5. Encapsulation and Abstraction: Traits and Generics, Operator Overloading ([Chapter 11-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=277)) | Exercises R05
+6. Functional Programming: Closures, Iterators and Collections ([Chapter 14-16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=349)) | Exercises R05
+7. Input and Output: Strings, Text and IO ([Chapter 17-18](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=451)) | Exercises R07
 
 ### Algorithms and Data Structures in Rust
 
