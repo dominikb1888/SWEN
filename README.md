@@ -24,7 +24,7 @@ Exercise:
 
 ### Mandatory Exercises:
 
-Prepare the exercises in the following list according to the sessions they are assigned to. Each exercise should take about 30min to complete, if approached right. Make use of any tool at your disposal and do work in groups to reflect upon the different solutions possible:
+Prepare the exercises in the following list according to the sessions they are assigned to. Each exercise should take about 30min to complete, if approached right. There are 2 times 42 exercises (what a surprise). The first 42 are to warm up and get comfortable with Rust. The second 42 are a little more complex and require either a clever algorithm or a good design. Make use of any tool at your disposal and do work in groups to reflect upon the different solutions possible:
 
 - [Rust Exercises](././rust_assignments.md)
 
@@ -50,29 +50,36 @@ The Exam will be written and online. It will be a code exercise just like the on
 ### Programming in Rust
 
 1. Types: Data Types and Rust Tooling ([Chapter 1-3](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=23)) | Exercises R01
-2. Memory Management: Mutability and Ownership ([Chapter 4-5](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=101)) | Exercises R02
-3. System Design: Expressions, Error Handling, Crates and Modules ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=179)) | Exercises R03
+
+2. Memory Management: Mutability and Ownership ([Chapter 3-6](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=101)) | Exercises R02
+
+3. System Design: Error Handling, Crates and Modules ([Chapter 7-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=179)) | Exercises R03
+
 4. Object-Oriented-Design: Structs, Enums and Patterns [Chapter 9-10](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=231)) | Exercises R04
+
 5. Encapsulation and Abstraction: Traits and Generics, Operator Overloading ([Chapter 11-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=277)) | Exercises R05
-6. Functional Programming: Closures, Iterators and Collections ([Chapter 14-16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=349)) | Exercises R05
+
+6. Functional Programming: Closures, Iterators and Collections ([Chapter 14-16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=349)) | Exercises R06
+
 7. Input and Output: Strings, Text and IO ([Chapter 17-18](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6643397&ppg=451)) | Exercises R07
 
 ### Algorithms and Data Structures in Rust
 
-8. Algorithms Analysis, Design and Evaluation ([Chapter 1-4](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=21))
+8. Algorithms Analysis, Design and Evaluation ([Chapter 1-4](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=21)) | Exercises R08 or Project
 
-9. Sorting and Ordering ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=139))
-10. Lists, Maps and Sets ([Chapter 10-11](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=214))
+9. Sorting and Ordering ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=139)) | Exercises R09 or Project
 
-11. Trees ([Chapter 12-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261))
+10. Lists, Maps and Sets ([Chapter 10-11](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=214)) | Exercises R10 or Project
 
-12. Dynamic Programming ([Chapter 14](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=299))
+11. Trees ([Chapter 12-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261)) | Exercises R11 or Project
 
-13. Greedy Algorithms and Backtracking ([Chapter 15](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=344))
+12. Dynamic Programming ([Chapter 14](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=299)) | Exercises R12 or Project
 
-14. Amortized Analysis ([Chapter 16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=369))
+13. Greedy Algorithms and Backtracking ([Chapter 15](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=344)) | Project
 
-15. Review and Mock Exam
+14. Amortized Analysis ([Chapter 16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=369)) |Project
+
+15. Review and Mock Exam | Project
 
 
 
@@ -88,16 +95,11 @@ Learning Goals:
 - Apply Numeric Types, Strings, and Pointers in your programs.
 - Apply Tuples, Arrays, Vectors, and Hashmaps in your programs.
 
-1. Exercise Review
+1. Exercise Review:
 
+2. Lecture: Why do we need types and what can we do with them?
 
-2. Lecture
-
-- Why do we need types and what can we do with them?
-
-3. Project
-
-- Creating preliminary Data Structure and Logic for our Game of Clack
+3. Project: Creating preliminary Data Structure and Logic for our Game of Clack
 
 
 ### 2. Memory Management: Mutability and Ownership
@@ -122,9 +124,10 @@ Learning Goals:
 - Understand and apply important principles of systems design
 - Know and apply the Separation of Concerns principle
 - Know and apply the Don't Repeat Yourself Principle
-- <TODO: Add other principles>
--
--
+- Know and apply the KISS Principle
+- Know and apply the SOLID Principle
+- Know and apply the YAGNI Principle
+- Avoid premature optimization
 
 1. Exercise Review
 
@@ -132,11 +135,11 @@ Learning Goals:
 
 3. Project
 
-### 4.
+### 4. Object-Oriented-Design
 
-### 5.
+### 5. Encapsulation and Abstraction
 
-### 6.
+### 6. Functional Programming
 
 ### 7. Strings and IO
 
@@ -145,9 +148,25 @@ Learning Goals:
 
 ### 8. Algorithms: Analysis, Design, and Evaluation
 
-
 Reading:
 
 - https://towardsdatascience.com/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
+
+
+### 9. Sorting and Ordering
+
+### 10. Lists, Maps and Sets
+
+### 11. Trees
+
+### 12. Dynamic Programming
+
+### 13. Greedy Algorithms and Backtracking
+
+### 14. Amortized Analysis
+
+## Further Reading
+
+- [The Rules of Programming](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=30290181)
