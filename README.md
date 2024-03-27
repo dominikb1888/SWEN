@@ -37,7 +37,7 @@ The course is taught in a Flipped Classroom style. You are required to prepare c
 
 - 30 min | Review and joint development of selected Homework Exercises
 - 60 min | Theoretical input on computational thinking with Algorithms and Data Structures.
-- 90 min | Applying theoretical input in a hands-on class project: Building the Game of Clack.
+- 90 min | Applying theoretical input in a hands-on class project: Building the Game of Clack (https://github.com/dominikb1888/clap).
 
 
 ## Exam (graded)
