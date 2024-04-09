@@ -8,3 +8,22 @@
 - Difference between cargo run, cargo test (compilation to binary vs. compilation to library)
 - Introduction to  Rust Types (Integers, Floats, Tuples, str, String, Vec, Array, Struct, Option, Result)
 - Mutability vs. Immutability
+
+
+## Session 2 - March 25
+
+- In-class Exercise: Queen Attack
+
+- Mutability revisited
+- Ownerships and Moves
+- References
+
+
+## Session 3 - April 8
+
+- In-class Exercise: Anagram
+
+- References, Mutability and Ownership revisited
+- Start of Semester Project, incl. Error Handling, Expressions, and Crates
+
+- Class Project: Started Building Data Structures for Game Board
