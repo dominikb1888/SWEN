@@ -132,14 +132,50 @@ Learning Goals:
 1. Exercise Review
 
 2. Lecture
+- Programming Principles
 
 3. Project
+- Create Basic Data Structure and Simple Frontend for Clack
+
 
 ### 4. Object-Oriented-Design
 
+Learning Goals:
+- Understand the basics of object-orientation
+- Know and understand how to build a Struct in Rust
+- Develop a basic understanding of Traits and Generics
+- Get to know Enums and understand when to use them
+- Understand Generics and Enums
+- Apply Pattern Matching
+
+1. Exercise Review
+
+2. Lecture:
+- Object Orientation and Generic Types in Rust
+- Enums and Pattern Matching
+
+3. Project:
+- Building Game, Turn and Clacking Function
+
+
 ### 5. Encapsulation and Abstraction
 
+Learning Goals:
+- Get an Advanced understanding of Abstract Types
+- Understand the differences between Trait Object and Generics
+- Know how to write own Traits Object and Generics
+- Know how to use Generic Functions and Type Parameters
+- Understand Polymorphism, Apply Generic Traits and Operator Overloading
+- Know and apply Utility Traits
+
 ### 6. Functional Programming
+
+Learning Goals:
+- Understand the differences between object-oriented Programming and functional Programming
+- Know and apply higher-order functions in Rust (aka Iterator Adapters)
+- Understand and apply closures in Rust
+- Using and apply functional patterns to collection types in Rust
+
 
 ### 7. Strings and IO
 

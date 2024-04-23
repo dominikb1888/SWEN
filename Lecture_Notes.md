@@ -25,5 +25,9 @@
 
 - References, Mutability and Ownership revisited
 - Start of Semester Project, incl. Error Handling, Expressions, and Crates
-
 - Class Project: Started Building Data Structures for Game Board
+
+
+## Session 4 - April 15
+
+
