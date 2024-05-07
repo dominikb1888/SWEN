@@ -31,6 +31,7 @@
             cargo
             cargo-flamegraph
             cargo-criterion
+            cargo-show-asm
             gnuplot
             mdbook
             rustc
