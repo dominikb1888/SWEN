@@ -185,7 +185,7 @@ Learning Goals:
 ### 8. Algorithms: Analysis, Design, and Evaluation
 
 Reading:
-
+- https://nnethercote.github.io/perf-book/introduction.html
 - https://towardsdatascience.com/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
