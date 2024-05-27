@@ -73,13 +73,9 @@ The Exam will be written and online. It will be a code exercise just like the on
 
 11. Trees ([Chapter 12-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261)) | Exercises R11 or Project
 
-12. Dynamic Programming ([Chapter 14](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=299)) | Exercises R12 or Project
 
-13. Greedy Algorithms and Backtracking ([Chapter 15](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=344)) | Project
-
-14. Amortized Analysis ([Chapter 16](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=369)) |Project
-
-15. Review and Mock Exam | Project
+12. Graphs ([Chapter 20-22](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=443)) | Exercises R12 or Project
+13. Review and Mock Exam | Project
 
 
 
@@ -115,6 +111,7 @@ Learning Goals:
 
 Additional Reading:
 - https://depth-first.com/articles/2020/01/27/rust-ownership-by-example/
+- https://fasterthanli.me/articles/declarative-memory-management
 
 The detailed content of each Session will be added here during the term.
 
@@ -179,8 +176,20 @@ Learning Goals:
 
 ### 7. Strings and IO
 
+UTF-8:
+- Encoding: https://en.wikipedia.org/wiki/UTF-8
+- BOM: https://en.wikipedia.org/wiki/Byte_order_mark
+- Grapheme Clusters: https://hsivonen.fi/string-length/
+
+Strings in Rust:
+- https://www.simonwenkel.com/notes/programming_languages/rust/strings_with_rust.html
+- https://dev.to/dsysd_dev/string-vs-str-in-rust-understanding-the-fundamental-differences-for-efficient-programming-4og8
+- https://betterprogramming.pub/strings-in-rust-28c08a2d3130
+- https://www.linkedin.com/pulse/understanding-string-str-utf-8-byte-arrays-inrust-luis-soares-m-sc--dnwcf/
+- https://fasterthanli.me/articles/working-with-strings-in-rust
 - String Conversion: https://stackoverflow.com/questions/41034635/how-do-i-convert-between-string-str-vecu8-and-u8
--
+- Byte Strings: https://blog.burntsushi.net/bstr/
+- Grapheme Clusters: https://hsivonen.fi/string-length/
 
 ### 8. Algorithms: Analysis, Design, and Evaluation
 
@@ -197,11 +206,7 @@ Reading:
 
 ### 11. Trees
 
-### 12. Dynamic Programming
-
-### 13. Greedy Algorithms and Backtracking
-
-### 14. Amortized Analysis
+### 12. Graphs
 
 ## Further Reading
 
