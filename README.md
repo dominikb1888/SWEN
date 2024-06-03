@@ -67,11 +67,11 @@ The Exam will be written and online. It will be a code exercise just like the on
 
 8. Algorithms Analysis, Design and Evaluation ([Chapter 1-4](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=21)) | Exercises R08 or Project
 
-9. Sorting and Ordering ([Chapter 6-8](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=139)) | Exercises R09 or Project
+9. Lists ([Chapter 7-10](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=139)) | Exercises R09 or Project
 
-10. Lists, Maps and Sets ([Chapter 10-11](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=214)) | Exercises R10 or Project
+10. Maps and Sets ([Chapter ](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=214)) | Exercises R10 or Project
 
-11. Trees ([Chapter 12-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261)) | Exercises R11 or Project
+11. Trees ([Chapter 6, 11-13](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=261)) | Exercises R11 or Project
 
 
 12. Graphs ([Chapter 20-22](https://ebookcentral.proquest.com/lib/th-deggendorf/reader.action?docID=6925615&ppg=443)) | Exercises R12 or Project
@@ -148,10 +148,13 @@ Learning Goals:
 1. Exercise Review
 
 2. Lecture:
+
 - Object Orientation and Generic Types in Rust
 - Enums and Pattern Matching
 
+
 3. Project:
+
 - Building Game, Turn and Clacking Function
 
 
@@ -200,13 +203,52 @@ Reading:
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
 
 
-### 9. Sorting and Ordering
+### 9. Lists
 
-### 10. Lists, Maps and Sets
+Recap:
+- Rust Memory Allocation and Pointers
+
+Data Structures:
+- Linked Lists: Improving on our Exercise
+- Doubly Linked Lists
+- Skip Lists
+- Dynamic Arrays (Vec<T>):
+
+Algorithms for Sorting and Ordering:
+- Bubble Sort
+- Merge Sort (Divide and Conquer)
+- Quicksort
+
+Further Reading:
+- https://rust-unofficial.github.io/too-many-lists/
+
+
+### 10. Maps and Sets
+
+Algorithms:
+- Hashing
+
+Data Structures:
+- Maps
+- Sets
 
 ### 11. Trees
 
+Data Structure:
+- Heap
+- Binary Search Tree
+- Red-Black Tree
+- Trie
+- B-Tree
+
+Algorithms
+- Heap Sort
+
+
 ### 12. Graphs
+
+- Graph Representation: Adjacency Matrix
+
 
 ## Further Reading
 
