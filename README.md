@@ -232,6 +232,11 @@ Data Structures:
 - Maps
 - Sets
 
+Reading:
+- https://nnethercote.github.io/perf-book/hashing.html#:~:text=The%20default%20hashing%20algorithm%20is,short%20keys%20such%20as%20integers
+- https://en.wikipedia.org/wiki/Collision_attack
+- https://link.springer.com/chapter/10.1007/978-3-642-34931-7_28
+
 ### 11. Trees
 
 Data Structure:
