@@ -17,10 +17,15 @@ where
 impl<K, V> HashMap<K, V>
 where
     K: PartialEq + Clone,
-    V: Clone,
+    V: Clone
 {
-
-    // TODO: pub fn new()
+    pub fn new(hash_fn: Box<dyn (Fn(&K) -> usize)>, length: usize)  -> HashMap<K, V> {
+        HashMap {
+            hash_fn: hash_fn,
+            store: vec![vec![]; length].into_boxed_slice(),
+            length: 0
+        }
+    }
 
     pub fn get(&self, key: &K) -> Option<V> {
         let h = (self.hash_fn)(key);
