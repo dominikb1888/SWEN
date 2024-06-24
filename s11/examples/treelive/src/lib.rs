@@ -1,6 +1,8 @@
 use std::mem;
 
-type Tree = Option<Box<Node>>;
+// type Tree = Option<Box<Node>>;
+type BareTree = Rc<RefCell<Node>>;
+type Tree = Option<BareTree>;
 
 #[derive(Clone, Debug)]
 pub struct IoTDevice {
@@ -8,12 +10,50 @@ pub struct IoTDevice {
     pub address: String,
 }
 
-#[derive(Debug)]
+#[derive(Clone, Debug, PartialEq)]
+enum Color {
+    Red,
+    Black,
+}
+
+#[derive(PartialEq)]
+enum RBOperation {
+    LeftNode,
+    RightNode,
+}
+// #[derive(Debug)]
+// struct Node {
+//     pub dev: IoTDevice,
+//     left: Tree,
+//     right: Tree,
+// }
+
+// The root node is always black
+// Each other node is either red or black
+// All leaves (often null/NIL values) are considered black
+// A red node can only have black children
+// Any path from the root to its leaves has the same number of black nodes
+
 struct Node {
+    pub color: Color,
     pub dev: IoTDevice,
+    pub parent: Tree,
     left: Tree,
     right: Tree,
 }
+
+impl Node {
+   pub fn new(dev: IoTDevice) -> Tree {
+        Some(Rc::new(RefCell::new(Node {
+            color: Color::Red,
+            dev: dev,
+            parent: None,
+            left: None,
+            right: None,
+        })))
+   }
+}
+
 
 #[derive(Debug)]
 pub struct DeviceRegistry {
@@ -27,15 +67,15 @@ impl IoTDevice {
     }
 }
 
-impl Node {
-    pub fn new(device: IoTDevice) -> Tree {
-        Some(Box::new(Node {
-            dev: device,
-            left: None,
-            right: None
-        }))
-    }
-}
+// impl Node {
+//     pub fn new(device: IoTDevice) -> Tree {
+//         Some(Box::new(Node {
+//             dev: device,
+//             left: None,
+//             right: None
+//         }))
+//     }
+// }
 
 impl DeviceRegistry {
 

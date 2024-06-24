@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "rust",
+      "setup": "sudo apt-get update && sudo apt-get install rustc cargo --fix-missing",
+      "run": "cargo test",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 5
+    }
+  ]
+}
