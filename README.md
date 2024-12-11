@@ -186,6 +186,7 @@ UTF-8:
 
 Strings in Rust:
 - https://www.simonwenkel.com/notes/programming_languages/rust/strings_with_rust.html
+- https://chrismorgan.info/blog/rust-fizzbuzz/
 - https://dev.to/dsysd_dev/string-vs-str-in-rust-understanding-the-fundamental-differences-for-efficient-programming-4og8
 - https://betterprogramming.pub/strings-in-rust-28c08a2d3130
 - https://www.linkedin.com/pulse/understanding-string-str-utf-8-byte-arrays-inrust-luis-soares-m-sc--dnwcf/
