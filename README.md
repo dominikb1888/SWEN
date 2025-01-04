@@ -97,7 +97,9 @@ Learning Goals:
 
 3. Project: Creating preliminary Data Structure and Logic for our Game of Clack
 
-
+Additional Reading:
+- Rust Pointers in C: https://blahg.josefsipek.net/?p=580
+  
 ### 2. Memory Management: Mutability and Ownership
 
 Learning Goals:
