@@ -7,15 +7,15 @@ AR='ar'
 export AR
 AS='as'
 export AS
-BASH='/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin/bash'
+BASH='/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin/bash'
 CC='clang'
 export CC
-CONFIG_SHELL='/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin/bash'
+CONFIG_SHELL='/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin/bash'
 export CONFIG_SHELL
 CXX='clang++'
 export CXX
-HOSTTYPE='x86_64'
-HOST_PATH='/nix/store/0b4lhzk1mrqkidks7x97f7jfryqg5vza-cargo-1.75.0/bin:/nix/store/mz0rlyxi8zixx8yvffj3caxy9p1f95h5-cargo-flamegraph-0.6.5/bin:/nix/store/49d4mf6h41s8isb4cw4cpskgx833jhzm-cargo-criterion-1.1.0/bin:/nix/store/nazgvsp695nihi5a8krx1gac5zjlz2lv-cargo-show-asm-0.2.29/bin:/nix/store/yp751dia0cb6f259qnshia3l80c5aykl-gnuplot-6.0.0/bin:/nix/store/1dp81yfwc961cdcr0h95b51jdvd1dhbj-mdbook-0.4.36/bin:/nix/store/lk42cy5h7zdy88czwcr03alrkrnxldmd-rustc-wrapper-1.75.0/bin:/nix/store/zbqr7rrnrzzyz4jwkl6scvmxvx15wpws-rust-analyzer-2024-01-29/bin:/nix/store/9q49gp74pz5zrd1dh2hc6pxp8n8whhlv-rustfmt-1.75.0/bin:/nix/store/8i7j0gaxp71lwr7lk9pxp2kj04cqvdy9-clippy-1.75.0/bin:/nix/store/bzcbk31kn2h22i6yqap3nh6ngb57lhq3-evcxr-0.17.0/bin:/nix/store/r4irg7wv07h7vrx6bdngqnl428q5b52m-tauri-1.5.4/bin:/nix/store/0y4kar3ffvqxri118m6n91g5wwf18947-rustup-1.26.0/bin:/nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/bin:/nix/store/nlw9l03ldjanyl0mdq6lq6bqajdj4iha-coreutils-9.4/bin:/nix/store/bhqnkr306lyqbx5my5pabd6j0fpclg83-findutils-4.9.0/bin:/nix/store/s90l1ir0jixbgxd0l2wjbac41h3w24ip-diffutils-3.10/bin:/nix/store/1ss2viijz0gqygsj3myj4cwyhzp9jml2-gnused-4.9/bin:/nix/store/r10b10fmd40ap551vmyaabd6d1s9gzh7-gnugrep-3.11/bin:/nix/store/npxs880r2q6gqb6ax750kbq2scc0xzxy-gawk-5.2.2/bin:/nix/store/q9c680knkjwqinn01zpca6bcdww7c8rb-gnutar-1.35/bin:/nix/store/y5nbqqm0pwa14vwlp7yfcg84b859szd1-gzip-1.13/bin:/nix/store/gf5g542bfsy95fs2nn3q5dzxwi42i65d-bzip2-1.0.8-bin/bin:/nix/store/176f29c1b3n8191pwmbwyz3bqpmiw432-gnumake-4.4.1/bin:/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin:/nix/store/2g083r5k8qf2b1hcrvw1mwhzd4yrands-patch-2.7.6/bin:/nix/store/l93q9nzpjz0nnv84nmd3fasbzmn202b4-xz-5.4.6-bin/bin:/nix/store/aza4pldz80z30blm2pkjg5i8fn7i5d9z-file-5.45/bin'
+HOSTTYPE='aarch64'
+HOST_PATH='/nix/store/qqkszbl164szilwiz0sxjk798lvrhc52-cargo-1.75.0/bin:/nix/store/nwk0bzw0rmabga025fdhv747wh2fz81l-cargo-flamegraph-0.6.5/bin:/nix/store/p7bp9rijkyv60w3m13yk1jsyq6pv4133-cargo-criterion-1.1.0/bin:/nix/store/ksfazc745gdfv6i9nz8pi3ipj8z3zs7s-cargo-show-asm-0.2.29/bin:/nix/store/yak64a5kygi66l9lwr0gfr0fxlyjsg89-gnuplot-6.0.0/bin:/nix/store/qr8pc4dqqfs5fdspqqmd6ypwq64v28h7-mdbook-0.4.36/bin:/nix/store/4j1xc3lq15g9y3vwdspi3g8ygl4xqajf-rustc-wrapper-1.75.0/bin:/nix/store/1m2y3s2z8h34npm0740x24iyzp83ji6k-rust-analyzer-2024-01-29/bin:/nix/store/qx469yshdkbyvdc2mhvf3byrjk74mh6l-rustfmt-1.75.0/bin:/nix/store/xx3idnx9hqx3bkwlqfbl57w0v3bym8sq-clippy-1.75.0/bin:/nix/store/nr8zw0fissl73q9m591qlmp0nd4w2h0h-evcxr-0.17.0/bin:/nix/store/fi9lls8vnxlwa5lh7mpsvnqilc2ppla4-tauri-1.5.4/bin:/nix/store/ipk044pwn4bqpf4sizdi401hrsg1k7nw-rustup-1.26.0/bin:/nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/bin:/nix/store/qpd69yfix5psmsbv251ky18mc1lxnx70-coreutils-9.4/bin:/nix/store/lb9k8p8c8bf8b5v4gayzyx656a8n9cbp-findutils-4.9.0/bin:/nix/store/ri18k5b34qlapg1908afz4z51z1b3fbl-diffutils-3.10/bin:/nix/store/g44k88l2xg41bgsdhsw609smypmiz6j7-gnused-4.9/bin:/nix/store/av92p4b35n68p837dqq6jq6gjdk6s19q-gnugrep-3.11/bin:/nix/store/spskfl77py9hyvh3f9sjsqcrbsaiprh0-gawk-5.2.2/bin:/nix/store/ivklia9w69144iys517bvbc0d8paj2ai-gnutar-1.35/bin:/nix/store/m7bk558n8sli5z52splzgvrih5gasbvc-gzip-1.13/bin:/nix/store/d6ki959pnsa3w8iydkfjcjrggyplk66i-bzip2-1.0.8-bin/bin:/nix/store/mfygsgqn2jnm14918y96rb7c9avvnpk0-gnumake-4.4.1/bin:/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin:/nix/store/1s37mqrr4szz2r3fk4hm9rzzgk36jyk6-patch-2.7.6/bin:/nix/store/v4l2p3sm90qyfsfs7kyw1xb629f93z53-xz-5.4.6-bin/bin:/nix/store/69pprys9925xm0byrcb3b3nk73a7lszw-file-5.45/bin'
 export HOST_PATH
 IFS=' 	
 '
@@ -26,23 +26,21 @@ export LD
 LD_DYLD_PATH='/usr/lib/dyld'
 export LD_DYLD_PATH
 LINENO='76'
-MACHTYPE='x86_64-apple-darwin22.6.0'
-MACOSX_DEPLOYMENT_TARGET='10.12'
+MACHTYPE='aarch64-apple-darwin23.0.0'
+MACOSX_DEPLOYMENT_TARGET='11.0'
 export MACOSX_DEPLOYMENT_TARGET
-NIX_BINTOOLS='/nix/store/hxdxgfpgdlph028ln5h2jirpw8dgihrm-cctools-binutils-darwin-wrapper-16.0.6-973.0.1'
+NIX_BINTOOLS='/nix/store/cwkgbzhwdkjp4sff8m3hbqisd7z333cn-cctools-binutils-darwin-wrapper-16.0.6-973.0.1'
 export NIX_BINTOOLS
-NIX_BINTOOLS_WRAPPER_TARGET_HOST_x86_64_apple_darwin='1'
-export NIX_BINTOOLS_WRAPPER_TARGET_HOST_x86_64_apple_darwin
+NIX_BINTOOLS_WRAPPER_TARGET_HOST_aarch64_apple_darwin='1'
+export NIX_BINTOOLS_WRAPPER_TARGET_HOST_aarch64_apple_darwin
 NIX_BUILD_CORES='16'
 export NIX_BUILD_CORES
-NIX_CC='/nix/store/9zmsrxb7nbf3y7pz42968x4iw6536gil-clang-wrapper-16.0.6'
+NIX_CC='/nix/store/k687y4hiraslz65qz8pli1wb5wmcabvn-clang-wrapper-16.0.6'
 export NIX_CC
-NIX_CC_WRAPPER_TARGET_HOST_x86_64_apple_darwin='1'
-export NIX_CC_WRAPPER_TARGET_HOST_x86_64_apple_darwin
-NIX_CFLAGS_COMPILE=' -frandom-seed=qf6is88avd -Wno-deprecated-declarations -F/System/Library/PrivateFrameworks -isystem /nix/store/ymw82wxygwr9mia2qnh6a7pbw6jr2rjw-libcxx-16.0.6-dev/include -isystem /nix/store/b3l52c0yywpjqwzkg5f600m5r1njgwx8-libcxxabi-16.0.6-dev/include -isystem /nix/store/m2v3zscdv32dwn55k2wpxjfn42hpjrh4-compiler-rt-libc-16.0.6-dev/include -iframework /nix/store/j74y27x0rd9xip9kp5skrqc8458my284-apple-framework-CoreServices/Library/Frameworks -iframework /nix/store/qcnl8j4j6k5vb7zgxqkihpb5sg799yp5-apple-framework-CFNetwork/Library/Frameworks -iframework /nix/store/z0ga4hppjr5gw91q7zglapmxwfaf8k6c-apple-framework-CoreAudio/Library/Frameworks -iframework /nix/store/4cbvfzh59s46vim2r3br406fq6kz7wvz-apple-framework-IOKit/Library/Frameworks -iframework /nix/store/3xyj7fx38bgnldiryvp55l923d9dv7m0-apple-framework-CoreData/Library/Frameworks -iframework /nix/store/35arz20x269wb9fzx4gfmf8h5m5c61pw-apple-framework-CoreFoundation/Library/Frameworks -iframework /nix/store/cg2jgvmahpv5a3ivv2ml8gigyyv2bimk-apple-framework-DiskArbitration/Library/Frameworks -iframework /nix/store/xdzz642ahnrwwvl5iv0gagvp3xh6l659-apple-framework-NetFS/Library/Frameworks -iframework /nix/store/8172wja2zd6pksnm985dr5pabblbnpgv-apple-framework-OpenDirectory/Library/Frameworks -iframework /nix/store/flyjwndm79znl4dwnf47cwip8744wwwd-apple-framework-Security/Library/Frameworks -iframework /nix/store/k6i6nbr2ffbx90mvrh2cswwxsia6zwxs-apple-framework-ServiceManagement/Library/Frameworks -iframework /nix/store/h9p2csbycahiif2lr24lgrhl63zr5isa-apple-framework-AppKit/Library/Frameworks -iframework /nix/store/ns33cjy120wm6l5g27hsgg0iyc4cb0ds-apple-framework-ApplicationServices/Library/Frameworks -iframework /nix/store/gjxdxkifj9yvhy2zpivyfncg6sbsqmkk-apple-framework-CoreGraphics/Library/Frameworks -iframework /nix/store/ndmvnxcs6419g1wg1k3gxsafad6rm9n3-apple-framework-Accelerate/Library/Frameworks -iframework /nix/store/1qal72q8f2cw9rw0napbhxs42zkkg8fm-apple-framework-CoreWLAN/Library/Frameworks -iframework /nix/store/dkc1wn6xwr3hlfcg44yzplyadwr2yyqi-apple-framework-SecurityFoundation/Library/Frameworks -iframework /nix/store/h0ac3963fhasj1548kj902sp4a6kkbgy-apple-framework-IOBluetooth/Library/Frameworks -iframework /nix/store/wnbbgmcchk2b00l43j6lz16bywvmm0s6-apple-framework-CoreBluetooth/Library/Frameworks -iframework /nix/store/7psg1jx4i0827rxjhlg3544873dvdfix-apple-framework-IOSurface/Library/Frameworks -isystem /nix/store/ynm63awki02mi7r72rscc8hhjnwr2rc0-apple-lib-xpc/include -iframework /nix/store/45c3f7l13n6y90yrmhrgi0bmgbsqzg5v-apple-framework-SystemConfiguration/Library/Frameworks -iframework /nix/store/pqp8vp0r5jkbiqdpvcpx8i7hzw5sw8qz-apple-framework-CoreText/Library/Frameworks -iframework /nix/store/sckf64vhasnwpq5yciwv8l2pd9dlap83-apple-framework-ImageIO/Library/Frameworks -iframework /nix/store/zk283h8jahjiyczdcfsz74midhdzshnk-apple-framework-AudioToolbox/Library/Frameworks -iframework /nix/store/pa5iqivdfbsrmll6z86hrzfy32hdmi5l-apple-framework-CoreMIDI/Library/Frameworks -iframework /nix/store/1fj4cknf3g4xi0vya5sgacq5ina8av8c-apple-framework-AudioUnit/Library/Frameworks -iframework /nix/store/9s034c10xrwrkbk7nfvi4s11gwg1cr5j-apple-framework-Carbon/Library/Frameworks -iframework /nix/store/vd60gxr6sqqmrpajzdx8aly6fha951p9-apple-framework-Foundation/Library/Frameworks -isystem /nix/store/j00fvbc23iccxf0x0925dkpp8zg4gzw1-objc4-709.1/include -iframework /nix/store/swddj7jrg9w2iy7avkcbab7m1hfhffys-apple-framework-QuartzCore/Library/Frameworks -iframework /nix/store/r3x5nkxid0a5disvn5y9yjcgcbl4q0lj-apple-framework-CoreImage/Library/Frameworks -iframework /nix/store/p9yflkgkwghrb69kixd4gj9qhdk296f3-apple-framework-CoreVideo/Library/Frameworks -iframework /nix/store/3b96cpvnphjzzvkha5kvagw9v052cyml-apple-framework-OpenGL/Library/Frameworks -iframework /nix/store/0k92vqv977j3rpfdczlh8bp8wgwwb1kc-apple-framework-Metal/Library/Frameworks -iframework /nix/store/jl3znssswxyabv76hs34qww1zns6xl6d-apple-framework-OpenCL/Library/Frameworks -iframework /nix/store/g92vj3qalnqpha6zhy0gr06x1w32irxc-apple-framework-UIFoundation/Library/Frameworks -iframework /nix/store/881g1q7czxnhpk5b353saa2qr077hd1b-apple-framework-WebKit/Library/Frameworks -iframework /nix/store/0sxdqc04va5zrhzkb6cqhyy62mw9jgk0-apple-framework-JavaScriptCore/Library/Frameworks -isystem /nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/include -iframework /nix/store/a55b69y2gdzkd4i4cnjx6agyq0p2bsav-apple-framework-CoreFoundation/Library/Frameworks -isystem /nix/store/ymw82wxygwr9mia2qnh6a7pbw6jr2rjw-libcxx-16.0.6-dev/include -isystem /nix/store/b3l52c0yywpjqwzkg5f600m5r1njgwx8-libcxxabi-16.0.6-dev/include -isystem /nix/store/m2v3zscdv32dwn55k2wpxjfn42hpjrh4-compiler-rt-libc-16.0.6-dev/include -iframework /nix/store/j74y27x0rd9xip9kp5skrqc8458my284-apple-framework-CoreServices/Library/Frameworks -iframework /nix/store/qcnl8j4j6k5vb7zgxqkihpb5sg799yp5-apple-framework-CFNetwork/Library/Frameworks -iframework /nix/store/z0ga4hppjr5gw91q7zglapmxwfaf8k6c-apple-framework-CoreAudio/Library/Frameworks -iframework /nix/store/4cbvfzh59s46vim2r3br406fq6kz7wvz-apple-framework-IOKit/Library/Frameworks -iframework /nix/store/3xyj7fx38bgnldiryvp55l923d9dv7m0-apple-framework-CoreData/Library/Frameworks -iframework /nix/store/35arz20x269wb9fzx4gfmf8h5m5c61pw-apple-framework-CoreFoundation/Library/Frameworks -iframework /nix/store/cg2jgvmahpv5a3ivv2ml8gigyyv2bimk-apple-framework-DiskArbitration/Library/Frameworks -iframework /nix/store/xdzz642ahnrwwvl5iv0gagvp3xh6l659-apple-framework-NetFS/Library/Frameworks -iframework /nix/store/8172wja2zd6pksnm985dr5pabblbnpgv-apple-framework-OpenDirectory/Library/Frameworks -iframework /nix/store/flyjwndm79znl4dwnf47cwip8744wwwd-apple-framework-Security/Library/Frameworks -iframework /nix/store/k6i6nbr2ffbx90mvrh2cswwxsia6zwxs-apple-framework-ServiceManagement/Library/Frameworks -iframework /nix/store/h9p2csbycahiif2lr24lgrhl63zr5isa-apple-framework-AppKit/Library/Frameworks -iframework /nix/store/ns33cjy120wm6l5g27hsgg0iyc4cb0ds-apple-framework-ApplicationServices/Library/Frameworks -iframework /nix/store/gjxdxkifj9yvhy2zpivyfncg6sbsqmkk-apple-framework-CoreGraphics/Library/Frameworks -iframework /nix/store/ndmvnxcs6419g1wg1k3gxsafad6rm9n3-apple-framework-Accelerate/Library/Frameworks -iframework /nix/store/1qal72q8f2cw9rw0napbhxs42zkkg8fm-apple-framework-CoreWLAN/Library/Frameworks -iframework /nix/store/dkc1wn6xwr3hlfcg44yzplyadwr2yyqi-apple-framework-SecurityFoundation/Library/Frameworks -iframework /nix/store/h0ac3963fhasj1548kj902sp4a6kkbgy-apple-framework-IOBluetooth/Library/Frameworks -iframework /nix/store/wnbbgmcchk2b00l43j6lz16bywvmm0s6-apple-framework-CoreBluetooth/Library/Frameworks -iframework /nix/store/7psg1jx4i0827rxjhlg3544873dvdfix-apple-framework-IOSurface/Library/Frameworks -isystem /nix/store/ynm63awki02mi7r72rscc8hhjnwr2rc0-apple-lib-xpc/include -iframework /nix/store/45c3f7l13n6y90yrmhrgi0bmgbsqzg5v-apple-framework-SystemConfiguration/Library/Frameworks -iframework /nix/store/pqp8vp0r5jkbiqdpvcpx8i7hzw5sw8qz-apple-framework-CoreText/Library/Frameworks -iframework /nix/store/sckf64vhasnwpq5yciwv8l2pd9dlap83-apple-framework-ImageIO/Library/Frameworks -iframework /nix/store/zk283h8jahjiyczdcfsz74midhdzshnk-apple-framework-AudioToolbox/Library/Frameworks -iframework /nix/store/pa5iqivdfbsrmll6z86hrzfy32hdmi5l-apple-framework-CoreMIDI/Library/Frameworks -iframework /nix/store/1fj4cknf3g4xi0vya5sgacq5ina8av8c-apple-framework-AudioUnit/Library/Frameworks -iframework /nix/store/9s034c10xrwrkbk7nfvi4s11gwg1cr5j-apple-framework-Carbon/Library/Frameworks -iframework /nix/store/vd60gxr6sqqmrpajzdx8aly6fha951p9-apple-framework-Foundation/Library/Frameworks -isystem /nix/store/j00fvbc23iccxf0x0925dkpp8zg4gzw1-objc4-709.1/include -iframework /nix/store/swddj7jrg9w2iy7avkcbab7m1hfhffys-apple-framework-QuartzCore/Library/Frameworks -iframework /nix/store/r3x5nkxid0a5disvn5y9yjcgcbl4q0lj-apple-framework-CoreImage/Library/Frameworks -iframework /nix/store/p9yflkgkwghrb69kixd4gj9qhdk296f3-apple-framework-CoreVideo/Library/Frameworks -iframework /nix/store/3b96cpvnphjzzvkha5kvagw9v052cyml-apple-framework-OpenGL/Library/Frameworks -iframework /nix/store/0k92vqv977j3rpfdczlh8bp8wgwwb1kc-apple-framework-Metal/Library/Frameworks -iframework /nix/store/jl3znssswxyabv76hs34qww1zns6xl6d-apple-framework-OpenCL/Library/Frameworks -iframework /nix/store/g92vj3qalnqpha6zhy0gr06x1w32irxc-apple-framework-UIFoundation/Library/Frameworks -iframework /nix/store/881g1q7czxnhpk5b353saa2qr077hd1b-apple-framework-WebKit/Library/Frameworks -iframework /nix/store/0sxdqc04va5zrhzkb6cqhyy62mw9jgk0-apple-framework-JavaScriptCore/Library/Frameworks -isystem /nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/include -iframework /nix/store/a55b69y2gdzkd4i4cnjx6agyq0p2bsav-apple-framework-CoreFoundation/Library/Frameworks'
+NIX_CC_WRAPPER_TARGET_HOST_aarch64_apple_darwin='1'
+export NIX_CC_WRAPPER_TARGET_HOST_aarch64_apple_darwin
+NIX_CFLAGS_COMPILE=' -frandom-seed=l2sz14xa9r -isystem /nix/store/ydfb1m5h1lcghpvs2hmv9686z008paij-libcxx-16.0.6-dev/include -isystem /nix/store/3g6shmh8g2chzywmyx6ls9i1rhz415ki-libcxxabi-16.0.6-dev/include -isystem /nix/store/jp3f1d5scfknawlp5d7f6wy92mhq0p49-compiler-rt-libc-16.0.6-dev/include -iframework /nix/store/irhkqv62ddwd8fxz86r5510nw6i2gdky-apple-framework-CoreServices-11.0.0/Library/Frameworks -iframework /nix/store/5d3qbmpcbsqfvsc8y9vr7n73yx3sx0iy-apple-framework-CFNetwork-11.0.0/Library/Frameworks -iframework /nix/store/hr0jj06ibcsqzd1ficjjvas84634sq72-apple-framework-CoreFoundation-11.0.0/Library/Frameworks -isystem /nix/store/aacafvhpd3zpr38fnijl652q1qyhgi3p-libobjc-11.0.0/include -iframework /nix/store/pig4wpkzin66yl4a0jlfb0iv18mf53i9-apple-framework-CoreAudio-11.0.0/Library/Frameworks -iframework /nix/store/d30xddgf9mcd1r6f5a9n2ylcxv0d0a30-apple-framework-CoreAudioTypes-11.0.0/Library/Frameworks -iframework /nix/store/2msjb80bgy16n266d7733r2rpm2ch6rf-apple-framework-IOKit-11.0.0/Library/Frameworks -iframework /nix/store/wmba22ja3h2w7wgbp5z163677n04yp4s-apple-framework-DiskArbitration-11.0.0/Library/Frameworks -iframework /nix/store/1y4drrnyri28nrmdafdbqlh2ra1y7f37-apple-framework-NetFS-11.0.0/Library/Frameworks -iframework /nix/store/yhhvc438prv3d8m5lgwk8hclkk6ylbyc-apple-framework-Security-11.0.0/Library/Frameworks -isystem /nix/store/wyp7k59q9zsjqqphpyqabqfpfx0i6rz7-apple-lib-libDER/include -iframework /nix/store/jpp52a6c21mbk6ib4qrzdv3ialk6q0wb-apple-framework-ServiceManagement-11.0.0/Library/Frameworks -iframework /nix/store/20g5njlfy9z7yvj9s3zr7x5iwv7pzkj6-apple-framework-AppKit-11.0.0/Library/Frameworks -iframework /nix/store/jzxc8jss1izc47wyn1mz3nkh3k1xpzcr-apple-framework-ApplicationServices-11.0.0/Library/Frameworks -iframework /nix/store/x2ygj0zwibqrd8bplrsg5w2629q40qyf-apple-framework-ColorSync-11.0.0/Library/Frameworks -iframework /nix/store/ibvhmvvkwigbfmkq07hxwd2zbgr9k7hb-apple-framework-CoreGraphics-11.0.0/Library/Frameworks -iframework /nix/store/9x9zvm9jn176xx89askqjw2985i2gldb-apple-framework-SystemConfiguration-11.0.0/Library/Frameworks -iframework /nix/store/djkrcymwnndq7wywbw45nr3mc4s7v3hc-apple-framework-CoreText-11.0.0/Library/Frameworks -iframework /nix/store/q61d2nyi5azvl6cjv860n9qxzskgp2bp-apple-framework-ImageIO-11.0.0/Library/Frameworks -iframework /nix/store/y8p5gzpp4s9prihl5kvz4b65qfj2cypv-apple-framework-AudioToolbox-11.0.0/Library/Frameworks -iframework /nix/store/vdkl43vvkz83bj8iv8lx9rwsd0jvwbw7-apple-private-framework-AudioToolboxCore-11.0.0/Library/Frameworks -iframework /nix/store/v551580pfj4rfsk1x63x0mf3ygzzliqj-apple-framework-Carbon-11.0.0/Library/Frameworks -iframework /nix/store/nwpxmkssj81vzc9845c0wfdm1y0qybsp-apple-framework-Foundation-11.0.0/Library/Frameworks -iframework /nix/store/k91g062pijnmy76pvlglxikcl8g3zirk-apple-framework-Combine-11.0.0/Library/Frameworks -iframework /nix/store/gbl1frr6hxrpnj7wdj5bsvid1ikjf8gm-apple-framework-QuartzCore-11.0.0/Library/Frameworks -iframework /nix/store/gqzs7gr8zbz5ylvai3ig5vn494r5f6xs-apple-framework-CoreImage-11.0.0/Library/Frameworks -iframework /nix/store/q8wm2g9in49jj7py0ln8n7whmj39ry4j-apple-framework-CoreVideo-11.0.0/Library/Frameworks -iframework /nix/store/szg9ccaslrz0db28izgn1yamz16azfn0-apple-framework-IOSurface-11.0.0/Library/Frameworks -iframework /nix/store/52cp2lk2jbnvcz9wrmxxjm7bja3jrikp-apple-framework-Metal-11.0.0/Library/Frameworks -iframework /nix/store/yqy0c5gx6vq42idmdncp4sjz5lz4pbda-apple-framework-OpenGL-11.0.0/Library/Frameworks -iframework /nix/store/zl3w484nq8ljzn7qh0v72zygxka501jm-apple-framework-OpenCL-11.0.0/Library/Frameworks -iframework /nix/store/n5d98mkpdhwiysxfrynjvwrdlrj7b2s6-apple-framework-CoreMIDI-11.0.0/Library/Frameworks -iframework /nix/store/dj5mxp8sx7qs1i9j3yk7sj1kfplfdbad-apple-framework-AudioUnit-11.0.0/Library/Frameworks -iframework /nix/store/kjqjy84sgj853k8f4pry3ajclngp4k6a-apple-framework-CloudKit-11.0.0/Library/Frameworks -iframework /nix/store/q92yfkk9kjx3jw8ahkyqd62q6qrya9ix-apple-framework-CoreLocation-11.0.0/Library/Frameworks -iframework /nix/store/nmq4d5zyzq1w5agjlsmdfq0gj3d8cv9b-apple-framework-CoreData-11.0.0/Library/Frameworks -iframework /nix/store/dnrp9pjr7nhc6g5146lj10kc0y6q1gb7-apple-private-framework-UIFoundation-11.0.0/Library/Frameworks -iframework /nix/store/8w1bv6y9wl2f00dzsb8xqczw7qq4lpqm-apple-framework-WebKit-11.0.0/Library/Frameworks -iframework /nix/store/8krw16lnzyfz5ww1b2lqn2q63nbwh4mp-apple-framework-JavaScriptCore-11.0.0/Library/Frameworks -isystem /nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/include -iframework /nix/store/ns3i9j479s5fngbfakl546bb2bykwdza-apple-framework-CoreFoundation-11.0.0/Library/Frameworks -isystem /nix/store/ydfb1m5h1lcghpvs2hmv9686z008paij-libcxx-16.0.6-dev/include -isystem /nix/store/3g6shmh8g2chzywmyx6ls9i1rhz415ki-libcxxabi-16.0.6-dev/include -isystem /nix/store/jp3f1d5scfknawlp5d7f6wy92mhq0p49-compiler-rt-libc-16.0.6-dev/include -iframework /nix/store/irhkqv62ddwd8fxz86r5510nw6i2gdky-apple-framework-CoreServices-11.0.0/Library/Frameworks -iframework /nix/store/5d3qbmpcbsqfvsc8y9vr7n73yx3sx0iy-apple-framework-CFNetwork-11.0.0/Library/Frameworks -iframework /nix/store/hr0jj06ibcsqzd1ficjjvas84634sq72-apple-framework-CoreFoundation-11.0.0/Library/Frameworks -isystem /nix/store/aacafvhpd3zpr38fnijl652q1qyhgi3p-libobjc-11.0.0/include -iframework /nix/store/pig4wpkzin66yl4a0jlfb0iv18mf53i9-apple-framework-CoreAudio-11.0.0/Library/Frameworks -iframework /nix/store/d30xddgf9mcd1r6f5a9n2ylcxv0d0a30-apple-framework-CoreAudioTypes-11.0.0/Library/Frameworks -iframework /nix/store/2msjb80bgy16n266d7733r2rpm2ch6rf-apple-framework-IOKit-11.0.0/Library/Frameworks -iframework /nix/store/wmba22ja3h2w7wgbp5z163677n04yp4s-apple-framework-DiskArbitration-11.0.0/Library/Frameworks -iframework /nix/store/1y4drrnyri28nrmdafdbqlh2ra1y7f37-apple-framework-NetFS-11.0.0/Library/Frameworks -iframework /nix/store/yhhvc438prv3d8m5lgwk8hclkk6ylbyc-apple-framework-Security-11.0.0/Library/Frameworks -isystem /nix/store/wyp7k59q9zsjqqphpyqabqfpfx0i6rz7-apple-lib-libDER/include -iframework /nix/store/jpp52a6c21mbk6ib4qrzdv3ialk6q0wb-apple-framework-ServiceManagement-11.0.0/Library/Frameworks -iframework /nix/store/20g5njlfy9z7yvj9s3zr7x5iwv7pzkj6-apple-framework-AppKit-11.0.0/Library/Frameworks -iframework /nix/store/jzxc8jss1izc47wyn1mz3nkh3k1xpzcr-apple-framework-ApplicationServices-11.0.0/Library/Frameworks -iframework /nix/store/x2ygj0zwibqrd8bplrsg5w2629q40qyf-apple-framework-ColorSync-11.0.0/Library/Frameworks -iframework /nix/store/ibvhmvvkwigbfmkq07hxwd2zbgr9k7hb-apple-framework-CoreGraphics-11.0.0/Library/Frameworks -iframework /nix/store/9x9zvm9jn176xx89askqjw2985i2gldb-apple-framework-SystemConfiguration-11.0.0/Library/Frameworks -iframework /nix/store/djkrcymwnndq7wywbw45nr3mc4s7v3hc-apple-framework-CoreText-11.0.0/Library/Frameworks -iframework /nix/store/q61d2nyi5azvl6cjv860n9qxzskgp2bp-apple-framework-ImageIO-11.0.0/Library/Frameworks -iframework /nix/store/y8p5gzpp4s9prihl5kvz4b65qfj2cypv-apple-framework-AudioToolbox-11.0.0/Library/Frameworks -iframework /nix/store/vdkl43vvkz83bj8iv8lx9rwsd0jvwbw7-apple-private-framework-AudioToolboxCore-11.0.0/Library/Frameworks -iframework /nix/store/v551580pfj4rfsk1x63x0mf3ygzzliqj-apple-framework-Carbon-11.0.0/Library/Frameworks -iframework /nix/store/nwpxmkssj81vzc9845c0wfdm1y0qybsp-apple-framework-Foundation-11.0.0/Library/Frameworks -iframework /nix/store/k91g062pijnmy76pvlglxikcl8g3zirk-apple-framework-Combine-11.0.0/Library/Frameworks -iframework /nix/store/gbl1frr6hxrpnj7wdj5bsvid1ikjf8gm-apple-framework-QuartzCore-11.0.0/Library/Frameworks -iframework /nix/store/gqzs7gr8zbz5ylvai3ig5vn494r5f6xs-apple-framework-CoreImage-11.0.0/Library/Frameworks -iframework /nix/store/q8wm2g9in49jj7py0ln8n7whmj39ry4j-apple-framework-CoreVideo-11.0.0/Library/Frameworks -iframework /nix/store/szg9ccaslrz0db28izgn1yamz16azfn0-apple-framework-IOSurface-11.0.0/Library/Frameworks -iframework /nix/store/52cp2lk2jbnvcz9wrmxxjm7bja3jrikp-apple-framework-Metal-11.0.0/Library/Frameworks -iframework /nix/store/yqy0c5gx6vq42idmdncp4sjz5lz4pbda-apple-framework-OpenGL-11.0.0/Library/Frameworks -iframework /nix/store/zl3w484nq8ljzn7qh0v72zygxka501jm-apple-framework-OpenCL-11.0.0/Library/Frameworks -iframework /nix/store/n5d98mkpdhwiysxfrynjvwrdlrj7b2s6-apple-framework-CoreMIDI-11.0.0/Library/Frameworks -iframework /nix/store/dj5mxp8sx7qs1i9j3yk7sj1kfplfdbad-apple-framework-AudioUnit-11.0.0/Library/Frameworks -iframework /nix/store/kjqjy84sgj853k8f4pry3ajclngp4k6a-apple-framework-CloudKit-11.0.0/Library/Frameworks -iframework /nix/store/q92yfkk9kjx3jw8ahkyqd62q6qrya9ix-apple-framework-CoreLocation-11.0.0/Library/Frameworks -iframework /nix/store/nmq4d5zyzq1w5agjlsmdfq0gj3d8cv9b-apple-framework-CoreData-11.0.0/Library/Frameworks -iframework /nix/store/dnrp9pjr7nhc6g5146lj10kc0y6q1gb7-apple-private-framework-UIFoundation-11.0.0/Library/Frameworks -iframework /nix/store/8w1bv6y9wl2f00dzsb8xqczw7qq4lpqm-apple-framework-WebKit-11.0.0/Library/Frameworks -iframework /nix/store/8krw16lnzyfz5ww1b2lqn2q63nbwh4mp-apple-framework-JavaScriptCore-11.0.0/Library/Frameworks -isystem /nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/include -iframework /nix/store/ns3i9j479s5fngbfakl546bb2bykwdza-apple-framework-CoreFoundation-11.0.0/Library/Frameworks'
 export NIX_CFLAGS_COMPILE
-NIX_COREFOUNDATION_RPATH='/System/Library/Frameworks'
-export NIX_COREFOUNDATION_RPATH
 NIX_DONT_SET_RPATH='1'
 export NIX_DONT_SET_RPATH
 NIX_DONT_SET_RPATH_FOR_BUILD='1'
@@ -53,7 +51,7 @@ NIX_HARDENING_ENABLE='bindnow format fortify fortify3 pic relro stackprotector s
 export NIX_HARDENING_ENABLE
 NIX_IGNORE_LD_THROUGH_GCC='1'
 export NIX_IGNORE_LD_THROUGH_GCC
-NIX_LDFLAGS=' -liconv -L/nix/store/vj3mzjyppyjqpqs6k0v9hyr80abmp1ay-libcxx-16.0.6/lib -L/nix/store/jgzbk5v82s2da4fqd4pjnphpb0c9r351-libcxxabi-16.0.6/lib -L/nix/store/4zx1dv50bbj63z5nrh3wjhz22np1f862-compiler-rt-libc-16.0.6/lib -L/nix/store/j00fvbc23iccxf0x0925dkpp8zg4gzw1-objc4-709.1/lib -L/nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/lib -L/nix/store/vj3mzjyppyjqpqs6k0v9hyr80abmp1ay-libcxx-16.0.6/lib -L/nix/store/jgzbk5v82s2da4fqd4pjnphpb0c9r351-libcxxabi-16.0.6/lib -L/nix/store/4zx1dv50bbj63z5nrh3wjhz22np1f862-compiler-rt-libc-16.0.6/lib -L/nix/store/j00fvbc23iccxf0x0925dkpp8zg4gzw1-objc4-709.1/lib -L/nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/lib'
+NIX_LDFLAGS=' -liconv -L/nix/store/hi4fialjfb9wd2f5al4vpzlyh8dz38fz-libcxx-16.0.6/lib -L/nix/store/y95amj87xavs2a7x24ir390hxk3ii922-libcxxabi-16.0.6/lib -L/nix/store/gj34q9f5lmpwb5f97x43qgbn3h96m1xm-compiler-rt-libc-16.0.6/lib -L/nix/store/aacafvhpd3zpr38fnijl652q1qyhgi3p-libobjc-11.0.0/lib -L/nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/lib -L/nix/store/hi4fialjfb9wd2f5al4vpzlyh8dz38fz-libcxx-16.0.6/lib -L/nix/store/y95amj87xavs2a7x24ir390hxk3ii922-libcxxabi-16.0.6/lib -L/nix/store/gj34q9f5lmpwb5f97x43qgbn3h96m1xm-compiler-rt-libc-16.0.6/lib -L/nix/store/aacafvhpd3zpr38fnijl652q1qyhgi3p-libobjc-11.0.0/lib -L/nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/lib'
 export NIX_LDFLAGS
 NIX_NO_SELF_RPATH='1'
 export NIX_NO_SELF_RPATH
@@ -64,16 +62,18 @@ export NM
 OLDPWD=''
 export OLDPWD
 OPTERR='1'
-OSTYPE='darwin22.6.0'
-PATH='/nix/store/9zmsrxb7nbf3y7pz42968x4iw6536gil-clang-wrapper-16.0.6/bin:/nix/store/8z8dx9d509nfqj2knccsm9xl4g8hy37j-clang-16.0.6/bin:/nix/store/nlw9l03ldjanyl0mdq6lq6bqajdj4iha-coreutils-9.4/bin:/nix/store/hxdxgfpgdlph028ln5h2jirpw8dgihrm-cctools-binutils-darwin-wrapper-16.0.6-973.0.1/bin:/nix/store/yz36h2naa326338ncq056gqz8dpfk5fk-cctools-binutils-darwin-16.0.6-973.0.1/bin:/nix/store/0b4lhzk1mrqkidks7x97f7jfryqg5vza-cargo-1.75.0/bin:/nix/store/mz0rlyxi8zixx8yvffj3caxy9p1f95h5-cargo-flamegraph-0.6.5/bin:/nix/store/49d4mf6h41s8isb4cw4cpskgx833jhzm-cargo-criterion-1.1.0/bin:/nix/store/nazgvsp695nihi5a8krx1gac5zjlz2lv-cargo-show-asm-0.2.29/bin:/nix/store/yp751dia0cb6f259qnshia3l80c5aykl-gnuplot-6.0.0/bin:/nix/store/1dp81yfwc961cdcr0h95b51jdvd1dhbj-mdbook-0.4.36/bin:/nix/store/lk42cy5h7zdy88czwcr03alrkrnxldmd-rustc-wrapper-1.75.0/bin:/nix/store/zbqr7rrnrzzyz4jwkl6scvmxvx15wpws-rust-analyzer-2024-01-29/bin:/nix/store/9q49gp74pz5zrd1dh2hc6pxp8n8whhlv-rustfmt-1.75.0/bin:/nix/store/8i7j0gaxp71lwr7lk9pxp2kj04cqvdy9-clippy-1.75.0/bin:/nix/store/bzcbk31kn2h22i6yqap3nh6ngb57lhq3-evcxr-0.17.0/bin:/nix/store/r4irg7wv07h7vrx6bdngqnl428q5b52m-tauri-1.5.4/bin:/nix/store/0y4kar3ffvqxri118m6n91g5wwf18947-rustup-1.26.0/bin:/nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50/bin:/nix/store/nlw9l03ldjanyl0mdq6lq6bqajdj4iha-coreutils-9.4/bin:/nix/store/bhqnkr306lyqbx5my5pabd6j0fpclg83-findutils-4.9.0/bin:/nix/store/s90l1ir0jixbgxd0l2wjbac41h3w24ip-diffutils-3.10/bin:/nix/store/1ss2viijz0gqygsj3myj4cwyhzp9jml2-gnused-4.9/bin:/nix/store/r10b10fmd40ap551vmyaabd6d1s9gzh7-gnugrep-3.11/bin:/nix/store/npxs880r2q6gqb6ax750kbq2scc0xzxy-gawk-5.2.2/bin:/nix/store/q9c680knkjwqinn01zpca6bcdww7c8rb-gnutar-1.35/bin:/nix/store/y5nbqqm0pwa14vwlp7yfcg84b859szd1-gzip-1.13/bin:/nix/store/gf5g542bfsy95fs2nn3q5dzxwi42i65d-bzip2-1.0.8-bin/bin:/nix/store/176f29c1b3n8191pwmbwyz3bqpmiw432-gnumake-4.4.1/bin:/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin:/nix/store/2g083r5k8qf2b1hcrvw1mwhzd4yrands-patch-2.7.6/bin:/nix/store/l93q9nzpjz0nnv84nmd3fasbzmn202b4-xz-5.4.6-bin/bin:/nix/store/aza4pldz80z30blm2pkjg5i8fn7i5d9z-file-5.45/bin'
+OSTYPE='darwin23.0.0'
+PATH='/nix/store/k687y4hiraslz65qz8pli1wb5wmcabvn-clang-wrapper-16.0.6/bin:/nix/store/3ijvz3w7ka2wfl3yk77r9c79c0fzb9j9-clang-16.0.6/bin:/nix/store/qpd69yfix5psmsbv251ky18mc1lxnx70-coreutils-9.4/bin:/nix/store/cwkgbzhwdkjp4sff8m3hbqisd7z333cn-cctools-binutils-darwin-wrapper-16.0.6-973.0.1/bin:/nix/store/79fqcmdsj5prcn7xcmfaj6i0qcrz9s13-cctools-binutils-darwin-16.0.6-973.0.1/bin:/nix/store/qqkszbl164szilwiz0sxjk798lvrhc52-cargo-1.75.0/bin:/nix/store/nwk0bzw0rmabga025fdhv747wh2fz81l-cargo-flamegraph-0.6.5/bin:/nix/store/p7bp9rijkyv60w3m13yk1jsyq6pv4133-cargo-criterion-1.1.0/bin:/nix/store/ksfazc745gdfv6i9nz8pi3ipj8z3zs7s-cargo-show-asm-0.2.29/bin:/nix/store/yak64a5kygi66l9lwr0gfr0fxlyjsg89-gnuplot-6.0.0/bin:/nix/store/qr8pc4dqqfs5fdspqqmd6ypwq64v28h7-mdbook-0.4.36/bin:/nix/store/4j1xc3lq15g9y3vwdspi3g8ygl4xqajf-rustc-wrapper-1.75.0/bin:/nix/store/1m2y3s2z8h34npm0740x24iyzp83ji6k-rust-analyzer-2024-01-29/bin:/nix/store/qx469yshdkbyvdc2mhvf3byrjk74mh6l-rustfmt-1.75.0/bin:/nix/store/xx3idnx9hqx3bkwlqfbl57w0v3bym8sq-clippy-1.75.0/bin:/nix/store/nr8zw0fissl73q9m591qlmp0nd4w2h0h-evcxr-0.17.0/bin:/nix/store/fi9lls8vnxlwa5lh7mpsvnqilc2ppla4-tauri-1.5.4/bin:/nix/store/ipk044pwn4bqpf4sizdi401hrsg1k7nw-rustup-1.26.0/bin:/nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50/bin:/nix/store/qpd69yfix5psmsbv251ky18mc1lxnx70-coreutils-9.4/bin:/nix/store/lb9k8p8c8bf8b5v4gayzyx656a8n9cbp-findutils-4.9.0/bin:/nix/store/ri18k5b34qlapg1908afz4z51z1b3fbl-diffutils-3.10/bin:/nix/store/g44k88l2xg41bgsdhsw609smypmiz6j7-gnused-4.9/bin:/nix/store/av92p4b35n68p837dqq6jq6gjdk6s19q-gnugrep-3.11/bin:/nix/store/spskfl77py9hyvh3f9sjsqcrbsaiprh0-gawk-5.2.2/bin:/nix/store/ivklia9w69144iys517bvbc0d8paj2ai-gnutar-1.35/bin:/nix/store/m7bk558n8sli5z52splzgvrih5gasbvc-gzip-1.13/bin:/nix/store/d6ki959pnsa3w8iydkfjcjrggyplk66i-bzip2-1.0.8-bin/bin:/nix/store/mfygsgqn2jnm14918y96rb7c9avvnpk0-gnumake-4.4.1/bin:/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin:/nix/store/1s37mqrr4szz2r3fk4hm9rzzgk36jyk6-patch-2.7.6/bin:/nix/store/v4l2p3sm90qyfsfs7kyw1xb629f93z53-xz-5.4.6-bin/bin:/nix/store/69pprys9925xm0byrcb3b3nk73a7lszw-file-5.45/bin'
 export PATH
-PATH_LOCALE='/nix/store/gvv3ygn2mcfmmcw4cdsnf6s9ra7apr3m-adv_cmds-119-locale/share/locale'
+PATH_LOCALE='/nix/store/rw256br310liym6pwaa2698v7k1hpfdx-adv_cmds-119-locale/share/locale'
 export PATH_LOCALE
 PS4='+ '
 RANLIB='ranlib'
 export RANLIB
-RUST_SRC_PATH='/nix/store/fngmdwxjiq437sk1f1k7w97kmari1xg0-rust-lib-src'
+RUST_SRC_PATH='/nix/store/myc6ag48fspx6x3aq1spgayg62ir5yqq-rust-lib-src'
 export RUST_SRC_PATH
+SHELL='/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin/bash'
+export SHELL
 SIZE='size'
 export SIZE
 SOURCE_DATE_EPOCH='315532800'
@@ -88,7 +88,7 @@ ZERO_AR_DATE='1'
 export ZERO_AR_DATE
 __darwinAllowLocalNetworking=''
 export __darwinAllowLocalNetworking
-__impureHostDeps='/System/Library/Frameworks/CoreFoundation.framework /System/Library/Frameworks/CoreFoundation.framework/CoreFoundation /bin/sh /usr/lib/libSystem.B.dylib /usr/lib/system/libunc.dylib /dev/zero /dev/random /dev/urandom /bin/sh'
+__impureHostDeps='/bin/sh /usr/lib/libSystem.B.dylib /usr/lib/system/libunc.dylib /dev/zero /dev/random /dev/urandom /bin/sh'
 export __impureHostDeps
 __propagatedImpureHostDeps=''
 export __propagatedImpureHostDeps
@@ -99,7 +99,7 @@ export __sandboxProfile
 __structuredAttrs=''
 export __structuredAttrs
 _substituteStream_has_warned_replace_deprecation=''
-buildInputs='/nix/store/0b4lhzk1mrqkidks7x97f7jfryqg5vza-cargo-1.75.0 /nix/store/mz0rlyxi8zixx8yvffj3caxy9p1f95h5-cargo-flamegraph-0.6.5 /nix/store/49d4mf6h41s8isb4cw4cpskgx833jhzm-cargo-criterion-1.1.0 /nix/store/nazgvsp695nihi5a8krx1gac5zjlz2lv-cargo-show-asm-0.2.29 /nix/store/yp751dia0cb6f259qnshia3l80c5aykl-gnuplot-6.0.0 /nix/store/1dp81yfwc961cdcr0h95b51jdvd1dhbj-mdbook-0.4.36 /nix/store/lk42cy5h7zdy88czwcr03alrkrnxldmd-rustc-wrapper-1.75.0 /nix/store/zbqr7rrnrzzyz4jwkl6scvmxvx15wpws-rust-analyzer-2024-01-29 /nix/store/9q49gp74pz5zrd1dh2hc6pxp8n8whhlv-rustfmt-1.75.0 /nix/store/8i7j0gaxp71lwr7lk9pxp2kj04cqvdy9-clippy-1.75.0 /nix/store/bzcbk31kn2h22i6yqap3nh6ngb57lhq3-evcxr-0.17.0 /nix/store/r4irg7wv07h7vrx6bdngqnl428q5b52m-tauri-1.5.4 /nix/store/0y4kar3ffvqxri118m6n91g5wwf18947-rustup-1.26.0 /nix/store/j74y27x0rd9xip9kp5skrqc8458my284-apple-framework-CoreServices /nix/store/h9p2csbycahiif2lr24lgrhl63zr5isa-apple-framework-AppKit /nix/store/881g1q7czxnhpk5b353saa2qr077hd1b-apple-framework-WebKit /nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50'
+buildInputs='/nix/store/qqkszbl164szilwiz0sxjk798lvrhc52-cargo-1.75.0 /nix/store/nwk0bzw0rmabga025fdhv747wh2fz81l-cargo-flamegraph-0.6.5 /nix/store/p7bp9rijkyv60w3m13yk1jsyq6pv4133-cargo-criterion-1.1.0 /nix/store/ksfazc745gdfv6i9nz8pi3ipj8z3zs7s-cargo-show-asm-0.2.29 /nix/store/yak64a5kygi66l9lwr0gfr0fxlyjsg89-gnuplot-6.0.0 /nix/store/qr8pc4dqqfs5fdspqqmd6ypwq64v28h7-mdbook-0.4.36 /nix/store/4j1xc3lq15g9y3vwdspi3g8ygl4xqajf-rustc-wrapper-1.75.0 /nix/store/1m2y3s2z8h34npm0740x24iyzp83ji6k-rust-analyzer-2024-01-29 /nix/store/qx469yshdkbyvdc2mhvf3byrjk74mh6l-rustfmt-1.75.0 /nix/store/xx3idnx9hqx3bkwlqfbl57w0v3bym8sq-clippy-1.75.0 /nix/store/nr8zw0fissl73q9m591qlmp0nd4w2h0h-evcxr-0.17.0 /nix/store/fi9lls8vnxlwa5lh7mpsvnqilc2ppla4-tauri-1.5.4 /nix/store/ipk044pwn4bqpf4sizdi401hrsg1k7nw-rustup-1.26.0 /nix/store/irhkqv62ddwd8fxz86r5510nw6i2gdky-apple-framework-CoreServices-11.0.0 /nix/store/20g5njlfy9z7yvj9s3zr7x5iwv7pzkj6-apple-framework-AppKit-11.0.0 /nix/store/8w1bv6y9wl2f00dzsb8xqczw7qq4lpqm-apple-framework-WebKit-11.0.0 /nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50'
 export buildInputs
 buildPhase='{ echo "------------------------------------------------------------";
   echo " WARNING: the existence of this path is not guaranteed.";
@@ -111,14 +111,14 @@ buildPhase='{ echo "------------------------------------------------------------
 } >> "$out"
 '
 export buildPhase
-builder='/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin/bash'
+builder='/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin/bash'
 export builder
 cmakeFlags=''
 export cmakeFlags
 configureFlags=''
 export configureFlags
-defaultBuildInputs='/nix/store/a55b69y2gdzkd4i4cnjx6agyq0p2bsav-apple-framework-CoreFoundation'
-defaultNativeBuildInputs='/nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh /nix/store/wzdsbnv2ba3nj91aql8jjdddfmkkdh7h-patch-shebangs.sh /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh /nix/store/ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh /nix/store/wmknncrif06fqxa16hpdldhixk95nds0-strip.sh /nix/store/9zmsrxb7nbf3y7pz42968x4iw6536gil-clang-wrapper-16.0.6'
+defaultBuildInputs='/nix/store/ns3i9j479s5fngbfakl546bb2bykwdza-apple-framework-CoreFoundation-11.0.0'
+defaultNativeBuildInputs='/nix/store/6q4flvzz2ws1iwpqy6b4pxdr6ls980y3-update-autotools-gnu-config-scripts-hook /nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh /nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh /nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh /nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh /nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh /nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh /nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh /nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh /nix/store/wzdsbnv2ba3nj91aql8jjdddfmkkdh7h-patch-shebangs.sh /nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh /nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh /nix/store/ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh /nix/store/wmknncrif06fqxa16hpdldhixk95nds0-strip.sh /nix/store/k687y4hiraslz65qz8pli1wb5wmcabvn-clang-wrapper-16.0.6'
 depsBuildBuild=''
 export depsBuildBuild
 depsBuildBuildPropagated=''
@@ -144,20 +144,19 @@ export dontAddDisableDepTrack
 declare -a envBuildBuildHooks=()
 declare -a envBuildHostHooks=()
 declare -a envBuildTargetHooks=()
-declare -a envHostHostHooks=('ccWrapper_addCVars' 'bintoolsWrapper_addLDVars' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'noDeprecatedDeclarations' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'addPrivateFrameworks' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' )
-declare -a envHostTargetHooks=('ccWrapper_addCVars' 'bintoolsWrapper_addLDVars' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'noDeprecatedDeclarations' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'addPrivateFrameworks' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' 'useSystemCoreFoundationFramework' )
+declare -a envHostHostHooks=('ccWrapper_addCVars' 'bintoolsWrapper_addLDVars' )
+declare -a envHostTargetHooks=('ccWrapper_addCVars' 'bintoolsWrapper_addLDVars' )
 declare -a envTargetTargetHooks=()
-declare -a fixupOutputHooks=('if [[ -z "${noAuditTmpdir-}" && -e "$prefix" ]]; then auditTmpdir "$prefix"; fi' 'if [ -z "${dontGzipMan-}" ]; then compressManPages "$prefix"; fi' '_moveLib64' '_moveSbin' '_moveSystemdUserUnits' 'patchShebangsAuto' '_pruneLibtoolFiles' '_doStrip' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' 'fixDarwinFrameworksIn $prefix' )
-flag='-F/System/Library/PrivateFrameworks'
+declare -a fixupOutputHooks=('if [[ -z "${noAuditTmpdir-}" && -e "$prefix" ]]; then auditTmpdir "$prefix"; fi' 'if [ -z "${dontGzipMan-}" ]; then compressManPages "$prefix"; fi' '_moveLib64' '_moveSbin' '_moveSystemdUserUnits' 'patchShebangsAuto' '_pruneLibtoolFiles' '_doStrip' )
 guess='16'
-initialPath='/nix/store/nlw9l03ldjanyl0mdq6lq6bqajdj4iha-coreutils-9.4 /nix/store/bhqnkr306lyqbx5my5pabd6j0fpclg83-findutils-4.9.0 /nix/store/s90l1ir0jixbgxd0l2wjbac41h3w24ip-diffutils-3.10 /nix/store/1ss2viijz0gqygsj3myj4cwyhzp9jml2-gnused-4.9 /nix/store/r10b10fmd40ap551vmyaabd6d1s9gzh7-gnugrep-3.11 /nix/store/npxs880r2q6gqb6ax750kbq2scc0xzxy-gawk-5.2.2 /nix/store/q9c680knkjwqinn01zpca6bcdww7c8rb-gnutar-1.35 /nix/store/y5nbqqm0pwa14vwlp7yfcg84b859szd1-gzip-1.13 /nix/store/gf5g542bfsy95fs2nn3q5dzxwi42i65d-bzip2-1.0.8-bin /nix/store/176f29c1b3n8191pwmbwyz3bqpmiw432-gnumake-4.4.1 /nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26 /nix/store/2g083r5k8qf2b1hcrvw1mwhzd4yrands-patch-2.7.6 /nix/store/l93q9nzpjz0nnv84nmd3fasbzmn202b4-xz-5.4.6-bin /nix/store/aza4pldz80z30blm2pkjg5i8fn7i5d9z-file-5.45'
+initialPath='/nix/store/qpd69yfix5psmsbv251ky18mc1lxnx70-coreutils-9.4 /nix/store/lb9k8p8c8bf8b5v4gayzyx656a8n9cbp-findutils-4.9.0 /nix/store/ri18k5b34qlapg1908afz4z51z1b3fbl-diffutils-3.10 /nix/store/g44k88l2xg41bgsdhsw609smypmiz6j7-gnused-4.9 /nix/store/av92p4b35n68p837dqq6jq6gjdk6s19q-gnugrep-3.11 /nix/store/spskfl77py9hyvh3f9sjsqcrbsaiprh0-gawk-5.2.2 /nix/store/ivklia9w69144iys517bvbc0d8paj2ai-gnutar-1.35 /nix/store/m7bk558n8sli5z52splzgvrih5gasbvc-gzip-1.13 /nix/store/d6ki959pnsa3w8iydkfjcjrggyplk66i-bzip2-1.0.8-bin /nix/store/mfygsgqn2jnm14918y96rb7c9avvnpk0-gnumake-4.4.1 /nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26 /nix/store/1s37mqrr4szz2r3fk4hm9rzzgk36jyk6-patch-2.7.6 /nix/store/v4l2p3sm90qyfsfs7kyw1xb629f93z53-xz-5.4.6-bin /nix/store/69pprys9925xm0byrcb3b3nk73a7lszw-file-5.45'
 mesonFlags=''
 export mesonFlags
 name='nix-shell-env'
 export name
 nativeBuildInputs=''
 export nativeBuildInputs
-out='/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/outputs/out'
+out='/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/25S/SWEN/outputs/out'
 export out
 outputBin='out'
 outputDev='out'
@@ -174,20 +173,21 @@ patches=''
 export patches
 phases='buildPhase'
 export phases
-pkg='/nix/store/a55b69y2gdzkd4i4cnjx6agyq0p2bsav-apple-framework-CoreFoundation'
+pkg='/nix/store/ns3i9j479s5fngbfakl546bb2bykwdza-apple-framework-CoreFoundation-11.0.0'
 declare -a pkgsBuildBuild=()
-declare -a pkgsBuildHost=('/nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh' '/nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh' '/nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh' '/nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh' '/nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh' '/nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh' '/nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh' '/nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh' '/nix/store/wzdsbnv2ba3nj91aql8jjdddfmkkdh7h-patch-shebangs.sh' '/nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh' '/nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh' '/nix/store/ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh' '/nix/store/wmknncrif06fqxa16hpdldhixk95nds0-strip.sh' '/nix/store/9zmsrxb7nbf3y7pz42968x4iw6536gil-clang-wrapper-16.0.6' '/nix/store/hxdxgfpgdlph028ln5h2jirpw8dgihrm-cctools-binutils-darwin-wrapper-16.0.6-973.0.1' )
+declare -a pkgsBuildHost=('/nix/store/6q4flvzz2ws1iwpqy6b4pxdr6ls980y3-update-autotools-gnu-config-scripts-hook' '/nix/store/h9lc1dpi14z7is86ffhl3ld569138595-audit-tmpdir.sh' '/nix/store/m54bmrhj6fqz8nds5zcj97w9s9bckc9v-compress-man-pages.sh' '/nix/store/wgrbkkaldkrlrni33ccvm3b6vbxzb656-make-symlinks-relative.sh' '/nix/store/5yzw0vhkyszf2d179m0qfkgxmp5wjjx4-move-docs.sh' '/nix/store/fyaryjvghbkpfnsyw97hb3lyb37s1pd6-move-lib64.sh' '/nix/store/kd4xwxjpjxi71jkm6ka0np72if9rm3y0-move-sbin.sh' '/nix/store/pag6l61paj1dc9sv15l7bm5c17xn5kyk-move-systemd-user-units.sh' '/nix/store/jivxp510zxakaaic7qkrb7v1dd2rdbw9-multiple-outputs.sh' '/nix/store/wzdsbnv2ba3nj91aql8jjdddfmkkdh7h-patch-shebangs.sh' '/nix/store/cickvswrvann041nqxb0rxilc46svw1n-prune-libtool-files.sh' '/nix/store/xyff06pkhki3qy1ls77w10s0v79c9il0-reproducible-builds.sh' '/nix/store/ngg1cv31c8c7bcm2n8ww4g06nq7s4zhm-set-source-date-epoch-to-latest.sh' '/nix/store/wmknncrif06fqxa16hpdldhixk95nds0-strip.sh' '/nix/store/k687y4hiraslz65qz8pli1wb5wmcabvn-clang-wrapper-16.0.6' '/nix/store/cwkgbzhwdkjp4sff8m3hbqisd7z333cn-cctools-binutils-darwin-wrapper-16.0.6-973.0.1' )
 declare -a pkgsBuildTarget=()
-declare -a pkgsHostHost=('/nix/store/ymw82wxygwr9mia2qnh6a7pbw6jr2rjw-libcxx-16.0.6-dev' '/nix/store/vj3mzjyppyjqpqs6k0v9hyr80abmp1ay-libcxx-16.0.6' '/nix/store/b3l52c0yywpjqwzkg5f600m5r1njgwx8-libcxxabi-16.0.6-dev' '/nix/store/jgzbk5v82s2da4fqd4pjnphpb0c9r351-libcxxabi-16.0.6' '/nix/store/m2v3zscdv32dwn55k2wpxjfn42hpjrh4-compiler-rt-libc-16.0.6-dev' '/nix/store/4zx1dv50bbj63z5nrh3wjhz22np1f862-compiler-rt-libc-16.0.6' )
-declare -a pkgsHostTarget=('/nix/store/0b4lhzk1mrqkidks7x97f7jfryqg5vza-cargo-1.75.0' '/nix/store/mz0rlyxi8zixx8yvffj3caxy9p1f95h5-cargo-flamegraph-0.6.5' '/nix/store/49d4mf6h41s8isb4cw4cpskgx833jhzm-cargo-criterion-1.1.0' '/nix/store/nazgvsp695nihi5a8krx1gac5zjlz2lv-cargo-show-asm-0.2.29' '/nix/store/yp751dia0cb6f259qnshia3l80c5aykl-gnuplot-6.0.0' '/nix/store/1dp81yfwc961cdcr0h95b51jdvd1dhbj-mdbook-0.4.36' '/nix/store/lk42cy5h7zdy88czwcr03alrkrnxldmd-rustc-wrapper-1.75.0' '/nix/store/zbqr7rrnrzzyz4jwkl6scvmxvx15wpws-rust-analyzer-2024-01-29' '/nix/store/9q49gp74pz5zrd1dh2hc6pxp8n8whhlv-rustfmt-1.75.0' '/nix/store/8i7j0gaxp71lwr7lk9pxp2kj04cqvdy9-clippy-1.75.0' '/nix/store/bzcbk31kn2h22i6yqap3nh6ngb57lhq3-evcxr-0.17.0' '/nix/store/r4irg7wv07h7vrx6bdngqnl428q5b52m-tauri-1.5.4' '/nix/store/0y4kar3ffvqxri118m6n91g5wwf18947-rustup-1.26.0' '/nix/store/j74y27x0rd9xip9kp5skrqc8458my284-apple-framework-CoreServices' '/nix/store/qcnl8j4j6k5vb7zgxqkihpb5sg799yp5-apple-framework-CFNetwork' '/nix/store/z0ga4hppjr5gw91q7zglapmxwfaf8k6c-apple-framework-CoreAudio' '/nix/store/4cbvfzh59s46vim2r3br406fq6kz7wvz-apple-framework-IOKit' '/nix/store/3xyj7fx38bgnldiryvp55l923d9dv7m0-apple-framework-CoreData' '/nix/store/35arz20x269wb9fzx4gfmf8h5m5c61pw-apple-framework-CoreFoundation' '/nix/store/cg2jgvmahpv5a3ivv2ml8gigyyv2bimk-apple-framework-DiskArbitration' '/nix/store/xdzz642ahnrwwvl5iv0gagvp3xh6l659-apple-framework-NetFS' '/nix/store/8172wja2zd6pksnm985dr5pabblbnpgv-apple-framework-OpenDirectory' '/nix/store/flyjwndm79znl4dwnf47cwip8744wwwd-apple-framework-Security' '/nix/store/k6i6nbr2ffbx90mvrh2cswwxsia6zwxs-apple-framework-ServiceManagement' '/nix/store/h9p2csbycahiif2lr24lgrhl63zr5isa-apple-framework-AppKit' '/nix/store/ns33cjy120wm6l5g27hsgg0iyc4cb0ds-apple-framework-ApplicationServices' '/nix/store/gjxdxkifj9yvhy2zpivyfncg6sbsqmkk-apple-framework-CoreGraphics' '/nix/store/ndmvnxcs6419g1wg1k3gxsafad6rm9n3-apple-framework-Accelerate' '/nix/store/1qal72q8f2cw9rw0napbhxs42zkkg8fm-apple-framework-CoreWLAN' '/nix/store/dkc1wn6xwr3hlfcg44yzplyadwr2yyqi-apple-framework-SecurityFoundation' '/nix/store/h0ac3963fhasj1548kj902sp4a6kkbgy-apple-framework-IOBluetooth' '/nix/store/wnbbgmcchk2b00l43j6lz16bywvmm0s6-apple-framework-CoreBluetooth' '/nix/store/7psg1jx4i0827rxjhlg3544873dvdfix-apple-framework-IOSurface' '/nix/store/ynm63awki02mi7r72rscc8hhjnwr2rc0-apple-lib-xpc' '/nix/store/45c3f7l13n6y90yrmhrgi0bmgbsqzg5v-apple-framework-SystemConfiguration' '/nix/store/pqp8vp0r5jkbiqdpvcpx8i7hzw5sw8qz-apple-framework-CoreText' '/nix/store/sckf64vhasnwpq5yciwv8l2pd9dlap83-apple-framework-ImageIO' '/nix/store/zk283h8jahjiyczdcfsz74midhdzshnk-apple-framework-AudioToolbox' '/nix/store/pa5iqivdfbsrmll6z86hrzfy32hdmi5l-apple-framework-CoreMIDI' '/nix/store/1fj4cknf3g4xi0vya5sgacq5ina8av8c-apple-framework-AudioUnit' '/nix/store/9s034c10xrwrkbk7nfvi4s11gwg1cr5j-apple-framework-Carbon' '/nix/store/vd60gxr6sqqmrpajzdx8aly6fha951p9-apple-framework-Foundation' '/nix/store/j00fvbc23iccxf0x0925dkpp8zg4gzw1-objc4-709.1' '/nix/store/swddj7jrg9w2iy7avkcbab7m1hfhffys-apple-framework-QuartzCore' '/nix/store/r3x5nkxid0a5disvn5y9yjcgcbl4q0lj-apple-framework-CoreImage' '/nix/store/p9yflkgkwghrb69kixd4gj9qhdk296f3-apple-framework-CoreVideo' '/nix/store/3b96cpvnphjzzvkha5kvagw9v052cyml-apple-framework-OpenGL' '/nix/store/0k92vqv977j3rpfdczlh8bp8wgwwb1kc-apple-framework-Metal' '/nix/store/jl3znssswxyabv76hs34qww1zns6xl6d-apple-framework-OpenCL' '/nix/store/g92vj3qalnqpha6zhy0gr06x1w32irxc-apple-framework-UIFoundation' '/nix/store/881g1q7czxnhpk5b353saa2qr077hd1b-apple-framework-WebKit' '/nix/store/0sxdqc04va5zrhzkb6cqhyy62mw9jgk0-apple-framework-JavaScriptCore' '/nix/store/p8igv6f25sjhhk95wbvcvb82v1sybv10-libiconv-50' '/nix/store/a55b69y2gdzkd4i4cnjx6agyq0p2bsav-apple-framework-CoreFoundation' )
+declare -a pkgsHostHost=('/nix/store/ydfb1m5h1lcghpvs2hmv9686z008paij-libcxx-16.0.6-dev' '/nix/store/hi4fialjfb9wd2f5al4vpzlyh8dz38fz-libcxx-16.0.6' '/nix/store/3g6shmh8g2chzywmyx6ls9i1rhz415ki-libcxxabi-16.0.6-dev' '/nix/store/y95amj87xavs2a7x24ir390hxk3ii922-libcxxabi-16.0.6' '/nix/store/jp3f1d5scfknawlp5d7f6wy92mhq0p49-compiler-rt-libc-16.0.6-dev' '/nix/store/gj34q9f5lmpwb5f97x43qgbn3h96m1xm-compiler-rt-libc-16.0.6' )
+declare -a pkgsHostTarget=('/nix/store/qqkszbl164szilwiz0sxjk798lvrhc52-cargo-1.75.0' '/nix/store/nwk0bzw0rmabga025fdhv747wh2fz81l-cargo-flamegraph-0.6.5' '/nix/store/p7bp9rijkyv60w3m13yk1jsyq6pv4133-cargo-criterion-1.1.0' '/nix/store/ksfazc745gdfv6i9nz8pi3ipj8z3zs7s-cargo-show-asm-0.2.29' '/nix/store/yak64a5kygi66l9lwr0gfr0fxlyjsg89-gnuplot-6.0.0' '/nix/store/qr8pc4dqqfs5fdspqqmd6ypwq64v28h7-mdbook-0.4.36' '/nix/store/4j1xc3lq15g9y3vwdspi3g8ygl4xqajf-rustc-wrapper-1.75.0' '/nix/store/1m2y3s2z8h34npm0740x24iyzp83ji6k-rust-analyzer-2024-01-29' '/nix/store/qx469yshdkbyvdc2mhvf3byrjk74mh6l-rustfmt-1.75.0' '/nix/store/xx3idnx9hqx3bkwlqfbl57w0v3bym8sq-clippy-1.75.0' '/nix/store/nr8zw0fissl73q9m591qlmp0nd4w2h0h-evcxr-0.17.0' '/nix/store/fi9lls8vnxlwa5lh7mpsvnqilc2ppla4-tauri-1.5.4' '/nix/store/ipk044pwn4bqpf4sizdi401hrsg1k7nw-rustup-1.26.0' '/nix/store/irhkqv62ddwd8fxz86r5510nw6i2gdky-apple-framework-CoreServices-11.0.0' '/nix/store/5d3qbmpcbsqfvsc8y9vr7n73yx3sx0iy-apple-framework-CFNetwork-11.0.0' '/nix/store/hr0jj06ibcsqzd1ficjjvas84634sq72-apple-framework-CoreFoundation-11.0.0' '/nix/store/aacafvhpd3zpr38fnijl652q1qyhgi3p-libobjc-11.0.0' '/nix/store/pig4wpkzin66yl4a0jlfb0iv18mf53i9-apple-framework-CoreAudio-11.0.0' '/nix/store/d30xddgf9mcd1r6f5a9n2ylcxv0d0a30-apple-framework-CoreAudioTypes-11.0.0' '/nix/store/2msjb80bgy16n266d7733r2rpm2ch6rf-apple-framework-IOKit-11.0.0' '/nix/store/wmba22ja3h2w7wgbp5z163677n04yp4s-apple-framework-DiskArbitration-11.0.0' '/nix/store/1y4drrnyri28nrmdafdbqlh2ra1y7f37-apple-framework-NetFS-11.0.0' '/nix/store/yhhvc438prv3d8m5lgwk8hclkk6ylbyc-apple-framework-Security-11.0.0' '/nix/store/wyp7k59q9zsjqqphpyqabqfpfx0i6rz7-apple-lib-libDER' '/nix/store/jpp52a6c21mbk6ib4qrzdv3ialk6q0wb-apple-framework-ServiceManagement-11.0.0' '/nix/store/20g5njlfy9z7yvj9s3zr7x5iwv7pzkj6-apple-framework-AppKit-11.0.0' '/nix/store/jzxc8jss1izc47wyn1mz3nkh3k1xpzcr-apple-framework-ApplicationServices-11.0.0' '/nix/store/x2ygj0zwibqrd8bplrsg5w2629q40qyf-apple-framework-ColorSync-11.0.0' '/nix/store/ibvhmvvkwigbfmkq07hxwd2zbgr9k7hb-apple-framework-CoreGraphics-11.0.0' '/nix/store/9x9zvm9jn176xx89askqjw2985i2gldb-apple-framework-SystemConfiguration-11.0.0' '/nix/store/djkrcymwnndq7wywbw45nr3mc4s7v3hc-apple-framework-CoreText-11.0.0' '/nix/store/q61d2nyi5azvl6cjv860n9qxzskgp2bp-apple-framework-ImageIO-11.0.0' '/nix/store/y8p5gzpp4s9prihl5kvz4b65qfj2cypv-apple-framework-AudioToolbox-11.0.0' '/nix/store/vdkl43vvkz83bj8iv8lx9rwsd0jvwbw7-apple-private-framework-AudioToolboxCore-11.0.0' '/nix/store/v551580pfj4rfsk1x63x0mf3ygzzliqj-apple-framework-Carbon-11.0.0' '/nix/store/nwpxmkssj81vzc9845c0wfdm1y0qybsp-apple-framework-Foundation-11.0.0' '/nix/store/k91g062pijnmy76pvlglxikcl8g3zirk-apple-framework-Combine-11.0.0' '/nix/store/gbl1frr6hxrpnj7wdj5bsvid1ikjf8gm-apple-framework-QuartzCore-11.0.0' '/nix/store/gqzs7gr8zbz5ylvai3ig5vn494r5f6xs-apple-framework-CoreImage-11.0.0' '/nix/store/q8wm2g9in49jj7py0ln8n7whmj39ry4j-apple-framework-CoreVideo-11.0.0' '/nix/store/szg9ccaslrz0db28izgn1yamz16azfn0-apple-framework-IOSurface-11.0.0' '/nix/store/52cp2lk2jbnvcz9wrmxxjm7bja3jrikp-apple-framework-Metal-11.0.0' '/nix/store/yqy0c5gx6vq42idmdncp4sjz5lz4pbda-apple-framework-OpenGL-11.0.0' '/nix/store/yqy0c5gx6vq42idmdncp4sjz5lz4pbda-apple-framework-OpenGL-11.0.0' '/nix/store/zl3w484nq8ljzn7qh0v72zygxka501jm-apple-framework-OpenCL-11.0.0' '/nix/store/n5d98mkpdhwiysxfrynjvwrdlrj7b2s6-apple-framework-CoreMIDI-11.0.0' '/nix/store/dj5mxp8sx7qs1i9j3yk7sj1kfplfdbad-apple-framework-AudioUnit-11.0.0' '/nix/store/kjqjy84sgj853k8f4pry3ajclngp4k6a-apple-framework-CloudKit-11.0.0' '/nix/store/q92yfkk9kjx3jw8ahkyqd62q6qrya9ix-apple-framework-CoreLocation-11.0.0' '/nix/store/nmq4d5zyzq1w5agjlsmdfq0gj3d8cv9b-apple-framework-CoreData-11.0.0' '/nix/store/dnrp9pjr7nhc6g5146lj10kc0y6q1gb7-apple-private-framework-UIFoundation-11.0.0' '/nix/store/8w1bv6y9wl2f00dzsb8xqczw7qq4lpqm-apple-framework-WebKit-11.0.0' '/nix/store/8krw16lnzyfz5ww1b2lqn2q63nbwh4mp-apple-framework-JavaScriptCore-11.0.0' '/nix/store/hx90cddimxf9j93mynvkynjzxdiwqs5z-libiconv-50' '/nix/store/ns3i9j479s5fngbfakl546bb2bykwdza-apple-framework-CoreFoundation-11.0.0' )
 declare -a pkgsTargetTarget=()
 declare -a postFixupHooks=('_makeSymlinksRelativeInAllOutputs' '_multioutPropagateDev' )
 declare -a postUnpackHooks=('_updateSourceDateEpochFromSourceRoot' )
-declare -a preConfigureHooks=('_multioutConfig' 'linkSystemCoreFoundationFramework' )
+declare -a preConfigureHooks=('_multioutConfig' 'forceLinkCoreFoundationFramework' )
+preConfigurePhases=' updateAutotoolsGnuConfigScriptsPhase'
 declare -a preFixupHooks=('_moveToShare' '_multioutDocs' '_multioutDevs' )
 preferLocalBuild='1'
 export preferLocalBuild
-prefix='/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/outputs/out'
+prefix='/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/25S/SWEN/outputs/out'
 declare -a propagatedBuildDepFiles=('propagated-build-build-deps' 'propagated-native-build-inputs' 'propagated-build-target-deps' )
 propagatedBuildInputs=''
 export propagatedBuildInputs
@@ -196,16 +196,16 @@ propagatedNativeBuildInputs=''
 export propagatedNativeBuildInputs
 declare -a propagatedTargetDepFiles=('propagated-target-target-deps' )
 role_post=''
-shell='/nix/store/vim1dldm8kflmy639w6ipmafm2sr5cby-bash-5.2p26/bin/bash'
+shell='/nix/store/0j90xxj4in0yk2dp7mpvsm8jqd9mrbs3-bash-5.2p26/bin/bash'
 export shell
 shellHook=''
 export shellHook
-stdenv='/nix/store/3jfs2509ipygw5qbd5yaawmnrmx7xh8n-stdenv-darwin'
+stdenv='/nix/store/zf8hff9bnlfix7l7gjsnv3jc22lxzzxx-stdenv-darwin'
 export stdenv
 strictDeps=''
 export strictDeps
 stripDebugFlags='-S'
-system='x86_64-darwin'
+system='aarch64-darwin'
 export system
 declare -a unpackCmdHooks=('_defaultUnpack' )
 _accumFlagsArray ()
@@ -667,14 +667,6 @@ addEnvHooks ()
         eval "${pkgHookVar}s"'+=("$@")';
     done
 }
-addPrivateFrameworks ()
-{
- 
-    flag="-F/System/Library/PrivateFrameworks";
-    if [[ "${NIX_CFLAGS_COMPILE-}" != *$flag* ]]; then
-        NIX_CFLAGS_COMPILE+=" $flag";
-    fi
-}
 addToSearchPath ()
 {
  
@@ -1024,28 +1016,6 @@ findInputs ()
         done;
     done
 }
-fixDarwinFrameworks ()
-{
- 
-    local systemPrefix='/System/Library/Frameworks';
-    for fn in "$@";
-    do
-        if [ -L "$fn" ]; then
-            continue;
-        fi;
-        echo "$fn: fixing dylib";
-        for framework in $(otool -L "$fn" | awk '/CoreFoundation\.framework/ {print $1}');
-        do
-            install_name_tool -change "$framework" "$systemPrefix/CoreFoundation.framework/Versions/A/CoreFoundation" "$fn" 1>&2;
-        done;
-    done
-}
-fixDarwinFrameworksIn ()
-{
- 
-    local dir="$1";
-    fixDarwinFrameworks $(find "$dir" -name "*.dylib")
-}
 fixLibtool ()
 {
  
@@ -1098,6 +1068,12 @@ fixupPhase ()
         printWords $propagatedUserEnvPkgs > "${!outputBin}/nix-support/propagated-user-env-packages";
     fi;
     runHook postFixup
+}
+forceLinkCoreFoundationFramework ()
+{
+ 
+    NIX_CFLAGS_COMPILE="-F/nix/store/hr0jj06ibcsqzd1ficjjvas84634sq72-apple-framework-CoreFoundation-11.0.0/Library/Frameworks${NIX_CFLAGS_COMPILE:+ }${NIX_CFLAGS_COMPILE-}";
+    NIX_LDFLAGS+=" /nix/store/hr0jj06ibcsqzd1ficjjvas84634sq72-apple-framework-CoreFoundation-11.0.0/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd"
 }
 genericBuild ()
 {
@@ -1285,12 +1261,6 @@ isScript ()
         return 1;
     fi
 }
-linkSystemCoreFoundationFramework ()
-{
- 
-    NIX_CFLAGS_COMPILE="-F/nix/store/35arz20x269wb9fzx4gfmf8h5m5c61pw-apple-framework-CoreFoundation/Library/Frameworks${NIX_CFLAGS_COMPILE:+ }${NIX_CFLAGS_COMPILE-}";
-    NIX_LDFLAGS+=" /nix/store/35arz20x269wb9fzx4gfmf8h5m5c61pw-apple-framework-CoreFoundation/Library/Frameworks/CoreFoundation.framework/CoreFoundation.tbd"
-}
 mapOffset ()
 {
  
@@ -1343,14 +1313,6 @@ moveToOutput ()
             fi;
         done;
     done
-}
-noDeprecatedDeclarations ()
-{
- 
-    flag="-Wno-deprecated-declarations";
-    if [[ "${NIX_CFLAGS_COMPILE-}" != *$flag* ]]; then
-        NIX_CFLAGS_COMPILE+=" $flag";
-    fi
 }
 patchPhase ()
 {
@@ -1896,6 +1858,21 @@ unpackPhase ()
     fi;
     runHook postUnpack
 }
+updateAutotoolsGnuConfigScriptsPhase ()
+{
+ 
+    if [ -n "${dontUpdateAutotoolsGnuConfigScripts-}" ]; then
+        return;
+    fi;
+    for script in config.sub config.guess;
+    do
+        for f in $(find . -type f -name "$script");
+        do
+            echo "Updating Autotools / GNU config script to a newer upstream version: $f";
+            cp -f "/nix/store/m18qr049pa6z12m01kj7a6j0gk3kikw1-gnu-config-2023-09-19/$script" "$f";
+        done;
+    done
+}
 updateSourceDateEpoch ()
 {
  
@@ -1912,11 +1889,6 @@ updateSourceDateEpoch ()
         fi;
     fi
 }
-useSystemCoreFoundationFramework ()
-{
- 
-    export NIX_COREFOUNDATION_RPATH=/System/Library/Frameworks
-}
 PATH="$PATH${nix_saved_PATH:+:$nix_saved_PATH}"
 XDG_DATA_DIRS="$XDG_DATA_DIRS${nix_saved_XDG_DATA_DIRS:+:$nix_saved_XDG_DATA_DIRS}"
 export NIX_BUILD_TOP="$(mktemp -d -t nix-shell.XXXXXX)"
@@ -1924,4 +1896,4 @@ export TMP="$NIX_BUILD_TOP"
 export TMPDIR="$NIX_BUILD_TOP"
 export TEMP="$NIX_BUILD_TOP"
 export TEMPDIR="$NIX_BUILD_TOP"
-eval "$shellHook"
+eval "${shellHook:-}"
