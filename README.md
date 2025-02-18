@@ -49,10 +49,6 @@ The Exam will be written and online. It will be a code exercise just like the on
 
 ## Agenda
 
-### Programming in Rust
-
-### Algorithms and Data Structures in Rust
-
 1. Algorithms Analysis, Design and Evaluation (Chapter 2)
 2. Recursion
 3. Sequences
@@ -65,6 +61,20 @@ The Exam will be written and online. It will be a code exercise just like the on
 10. B-Trees
 11. Heuristic Search
 
+## Deliverables
+
+| Prepare before | Exercise | Topic |
+| 2 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | Recursion |
+| 3 | [Increasing Array](https://cses.fi/problemset/task/1094) | Dynamic Arrays |
+| 4 | [Two Sets](https://cses.fi/problemset/task/1092) | Sets |
+| 5 | [Subordinates](https://cses.fi/problemset/task/1674) | Trees |
+| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192) | Graphs |
+| 7 | []() | Bloom Filters |
+| 8 | []() | Heaps |
+| 9 | []() | Balanced Binary Search Trees |
+| 10 | []() | B-Trees |
+| 11 | []() | Heuristic Search |
+
 
 ## Sessions
 
@@ -76,8 +86,10 @@ Reading:
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
 
+### 2. Recursion
 
-### 2. Sequences
+
+### 3. Sequences
 
 Recap:
 - Rust Memory Allocation and Pointers
@@ -96,12 +108,12 @@ Algorithms for Sorting and Ordering:
 Further Reading:
 - https://rust-unofficial.github.io/too-many-lists/
 
-### 3. Recursion
+### 4. Recursion
 
 - TODO
 
 
-### 4. Maps and Sets
+### 5. Maps and Sets
 
 Algorithms:
 - Hashing
@@ -117,7 +129,7 @@ Reading:
 - https://www.reddit.com/r/rust/comments/52grcl/comment/d7kcei2/
 - https://betterprogramming.pub/implementing-a-hashmap-in-rust-35d055b5ac2b
 
-### 5. Trees
+### 6. Trees
 
 Data Structure:
 - Heap
@@ -130,19 +142,19 @@ Algorithms
 - Heap Sort
 
 
-### 6. Graphs
+### 7. Graphs
 
 - Graph Representation: Adjacency Matrix
 
-### 7. Membership Structures
+### 8. Membership Structures
 
-### 8. Heaps
+### 9. Heaps
 
-### 9. Balanced Binary Search Trees
+### 10. Balanced Binary Search Trees
 
-### 10. B-Trees
+### 11. B-Trees
 
-### 11. Heuristic Search
+### 12. Heuristic Search
 
 
 ## Further Reading
