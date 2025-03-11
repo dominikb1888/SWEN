@@ -64,6 +64,7 @@ The Exam will be written and online. It will be a code exercise just like the on
 ## Deliverables
 
 | Prepare before | Exercise | Topic |
+|---|---|---|
 | 2 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | Recursion |
 | 3 | [Increasing Array](https://cses.fi/problemset/task/1094) | Dynamic Arrays |
 | 4 | [Two Sets](https://cses.fi/problemset/task/1092) | Sets |
