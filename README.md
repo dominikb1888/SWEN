@@ -21,15 +21,11 @@ Tutorial:
 - Rust by Example: https://doc.rust-lang.org/rust-by-example/index.html
 - [Algorithms and Data Structures in Rust (Second half)](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
 
-### Required Preparation before 1st Day of Class
-
-- Walk through the rustlings tutorial: https://github.com/rust-lang/rustlings
-- Finish all [Exercises](././rust_assignments.md) for Session 1 in Rust
 
 
 ### Competitive Programming Deliverables
 
-In each exercise we will attempt a challenging algorithmic problem from the CSES Problemset
+In each exercise we will attempt a challenging algorithmic problem from the CSES Problemset: https://cses.fi/problemset/
 
 
 
