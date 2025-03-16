@@ -7,6 +7,7 @@
 
 Lecture:
 - [Algorithms and Data Structures with Python](https://link.springer.com/book/10.1007/978-3-031-42209-6)
+- [Supplementary Materials](https://kentdlee.github.io/CS2Plus/build/html/index.html)
 
 Exercise:
 - [Guide to Competitive Programming](https://link.springer.com/book/10.1007/978-3-031-61794-2)
