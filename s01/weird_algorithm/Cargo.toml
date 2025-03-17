@@ -1,0 +1,10 @@
+[package]
+name = "weird_algorithm"
+version = "0.1.0"
+edition = "2018"
+description = """"""
+authors = [ "Dominik Böhler <dominik.boehler@gmx.net>" ]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]

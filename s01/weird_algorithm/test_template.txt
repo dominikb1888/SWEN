@@ -1,0 +1,18 @@
+#[test]
+fn test_{test_name}() {{
+    let input = r#"{input_content}"#;
+    let expected_output = r#"{expected_output}"#;
+
+    // Call the process function with the input
+    let output = process(input);
+
+    // Compare the output with the expected result
+    assert_eq!(
+        output.trim(),
+        expected_output.trim(),
+        "Test failed for \"{}\".\nExpected:\n{}\nGot:\n{}",
+        "{input_file}",
+        expected_output.trim(),
+        output.trim()
+    );
+}}

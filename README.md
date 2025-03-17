@@ -30,6 +30,7 @@ Tutorial:
 
 In each exercise we will attempt a challenging algorithmic problem from the CSES Problemset: https://cses.fi/problemset/
 
+Use this template for Rust Code: https://github.com/dominikb1888/cses_template
 
 
 ## Class Design - Flipped Classroom

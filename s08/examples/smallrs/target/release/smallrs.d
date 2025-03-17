@@ -1,1 +1,0 @@
-/Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/s08/examples/smallrs/target/release/smallrs: /Users/dominikb1888/Library/CloudStorage/OneDrive-th-deg.de/Teaching/24S/SWEN/s08/examples/smallrs/src/main.rs
