@@ -6,8 +6,8 @@
 ### Required Reading:
 
 Lecture:
-- [Algorithms and Data Structures with Python](https://link.springer.com/book/10.1007/978-3-031-42209-6)
-- [Supplementary Materials](https://kentdlee.github.io/CS2Plus/build/html/index.html)
+- Book: [Algorithms and Data Structures with Python](https://link.springer.com/book/10.1007/978-3-031-42209-6)
+- Website (currently porting to Rust): [https://dominikboehler.de/CS2Plus](https://dominikboehler.de/CS2Plus)
 
 Exercise:
 - [Guide to Competitive Programming](https://link.springer.com/book/10.1007/978-3-031-61794-2)
@@ -18,6 +18,8 @@ Tutorial:
 
 ### Additional Resources
 
+- [https://rust-exercises.com/](https://rust-exercises.com/)
+- [Rustlings](https://github.com/rust-lang/rustlings)
 - Rust Book, Brown University with great quizzes: https://rust-book.cs.brown.edu/
 - Rust by Example: https://doc.rust-lang.org/rust-by-example/index.html
 - [Algorithms and Data Structures in Rust (Second half)](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
@@ -67,8 +69,8 @@ The Exam will be written and online. It will be a code exercise just like the on
 | 4 | [Two Sets](https://cses.fi/problemset/task/1092) | Sets |
 | 5 | [Subordinates](https://cses.fi/problemset/task/1674) | Trees |
 | 6 | [Counting Rooms](https://cses.fi/problemset/task/1192) | Graphs |
-| 7 | []() | Bloom Filters |
-| 8 | []() | Heaps |
+| 7 | [Finding Borders](https://cses.fi/problemset/task/1732) | Membership Structures |
+| 8 | [Another Game](https://cses.fi/problemset/task/2208) | Heaps |
 | 9 | []() | Balanced Binary Search Trees |
 | 10 | []() | B-Trees |
 | 11 | []() | Heuristic Search |
@@ -89,7 +91,8 @@ Reading:
 
 ### 3. Sequences
 
-Recap:
+Interactive:
+- Building a Linked List from Scratch (https://rust-unofficial.github.io/too-many-lists/)
 - Rust Memory Allocation and Pointers
 
 Data Structures:
@@ -103,15 +106,8 @@ Algorithms for Sorting and Ordering:
 - Merge Sort (Divide and Conquer)
 - Quicksort
 
-Further Reading:
-- https://rust-unofficial.github.io/too-many-lists/
 
-### 4. Recursion
-
-- TODO
-
-
-### 5. Maps and Sets
+### 4. Maps and Sets
 
 Algorithms:
 - Hashing
@@ -127,7 +123,7 @@ Reading:
 - https://www.reddit.com/r/rust/comments/52grcl/comment/d7kcei2/
 - https://betterprogramming.pub/implementing-a-hashmap-in-rust-35d055b5ac2b
 
-### 6. Trees
+### 5. Trees
 
 Data Structure:
 - Heap
@@ -140,19 +136,23 @@ Algorithms
 - Heap Sort
 
 
-### 7. Graphs
+### 6. Graphs
 
 - Graph Representation: Adjacency Matrix
 
-### 8. Membership Structures
+### 7. Membership Structures
 
-### 9. Heaps
+### 8. Heaps
 
-### 10. Balanced Binary Search Trees
+### 9. Balanced Binary Search Trees
 
-### 11. B-Trees
+### 10. B-Trees
 
-### 12. Heuristic Search
+### 11. Heuristic Search
+
+### 12. Practice and Mock Exam
+
+### 13. Practice and Mock Exam
 
 
 ## Further Reading
