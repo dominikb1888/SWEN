@@ -81,13 +81,30 @@ The Exam will be written and online. It will be a code exercise just like the on
 
 ### 1. Algorithms: Analysis, Design, and Evaluation
 
-Reading:
+Lecture:
+- Introduction to Data Structures: [Simple Linked List](https://rust-unofficial.github.io/too-many-lists/second-final.html)
+- Introduction to Estimating Algorithm Runtime
+
+In-class Exercise:
+- [Weird Algorithm](https://cses.fi/problemset/task/1068)
+
+Required Reading:
+- https://en.algorithmica.org/hpc/complexity/
+
+Optional Reading
 - https://nnethercote.github.io/perf-book/introduction.html
 - https://towardsdatascience.com/benchmarking-rust-compiler-settings-with-criterion-62db50cd62fb
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
 
 ### 2. Recursion
+
+- Recap of Tower of Hanoi Excercise
+- Understanding Recursion and its memory footprint.
+- Evaluating Algorithms (Recap of Session 1)
+
+Exercise:
+- Extending rim with a Linked List (Undo function)
 
 
 ### 3. Sequences
