@@ -5,7 +5,6 @@ type Link = Option<Box<Node>>;
 #[derive(Debug)]
 pub struct List {
     head: Link,
-    tail: Link,
     size: usize
 }
 
@@ -19,15 +18,11 @@ impl List {
     pub fn new() -> Self {
         List {
             head: None,
-            tail: None,
             size: 0,
         }
     }
 
     pub fn push(&mut self, elem: i64) {
-        if self.size == 0 {
-            self.tail = self.head.take(); // TODO: Fix borrowing issue here!
-        }
         let new_node = Box::new(Node {
             elem: elem,
             next: mem::replace(&mut self.head, None),
