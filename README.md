@@ -99,9 +99,14 @@ Optional Reading
 
 ### 2. Recursion
 
-- Recap of Tower of Hanoi Excercise
-- Understanding Recursion and its memory footprint.
+- [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
+- [Understanding Recursion and its memory footprint](https://youtu.be/_JtPhF8MshA?si=k2bHPfkmPk-Y-m5N)
+- The Stack, the Heap, Pointers and Recursion:
+    - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
+    - https://www.varonis.com/blog/stack-memory-3
+
 - Evaluating Algorithms (Recap of Session 1)
+
 
 Exercise:
 - Extending rim with a Linked List (Undo function)
