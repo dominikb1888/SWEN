@@ -68,13 +68,14 @@ The Exam will be written and online. It will be a code exercise just like the on
 | 2 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | Recursion |
 | 3 | [Increasing Array](https://cses.fi/problemset/task/1094) | Dynamic Arrays |
 | 4 | [Two Sets](https://cses.fi/problemset/task/1092) | Sets |
-| 5 | [Subordinates](https://cses.fi/problemset/task/1674) | Trees |
-| 6 | [Counting Rooms](https://cses.fi/problemset/task/1192) | Graphs |
-| 7 | [Finding Borders](https://cses.fi/problemset/task/1732) | Membership Structures |
-| 8 | [Another Game](https://cses.fi/problemset/task/2208) | Heaps |
-| 9 | []() | Balanced Binary Search Trees |
-| 10 | []() | B-Trees |
-| 11 | []() | Heuristic Search |
+| 5 | | |
+| 6 | [Subordinates](https://cses.fi/problemset/task/1674) | Trees |
+| 7 | [Counting Rooms](https://cses.fi/problemset/task/1192) | Graphs |
+| 8 | [Finding Borders](https://cses.fi/problemset/task/1732) | Membership Structures |
+| 9 | [Another Game](https://cses.fi/problemset/task/2208) | Heaps |
+| 10 | []() | Balanced Binary Search Trees |
+| 11 | []() | B-Trees |
+| 12 | []() | Heuristic Search |
 
 
 ## Sessions
