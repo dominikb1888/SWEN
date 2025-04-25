@@ -140,11 +140,16 @@ Data Structures:
 - Sets
 
 Reading:
+- https://medium.com/better-programming/implementing-a-hashmap-in-rust-35d055b5ac2b
+- https://edgl.dev/blog/rust-hashmap/
 - https://nnethercote.github.io/perf-book/hashing.html#:~:text=The%20default%20hashing%20algorithm%20is,short%20keys%20such%20as%20integers
 - https://en.wikipedia.org/wiki/Collision_attack
 - https://link.springer.com/chapter/10.1007/978-3-642-34931-7_28
 - https://www.reddit.com/r/rust/comments/52grcl/comment/d7kcei2/
 - https://betterprogramming.pub/implementing-a-hashmap-in-rust-35d055b5ac2b
+- https://louisabraham.github.io/articles/exact-cover
+- https://www.geeksforgeeks.org/solving-sudoku-using-bitwise-algorithm/
+- https://medium.com/@dt_emmy/sudoku-solver-using-rust-8a4e83d921fd
 
 ### 5. Trees
 
