@@ -1,0 +1,6100 @@
+1 MasterFeed1 DM 93.0
+1 MasterFeed1 ADF 0.001
+1 MasterFeed1 NDF 0.0
+1 MasterFeed1 NFC 0.0
+1 MasterFeed1 Starch 0.0
+1 MasterFeed1 NEL 240.0
+1 MasterFeed1 CP 0.0
+1 MasterFeed1 UIP 0.0
+1 MasterFeed1 DIP 0.0
+1 MasterFeed1 Sol CP 0.0
+1 MasterFeed1 P 0.0
+1 MasterFeed1 Ca 15.0
+1 MasterFeed1 RFV 0.0
+1 MasterFeed1 S 0.0
+1 MasterFeed1 K 0.0
+1 MasterFeed1 Mg 0.0
+1 MasterFeed1 Fat 80.0
+1 MasterFeed1 Na 0.0
+1 MasterFeed1 Cl 0.0
+1 MasterFeed1 Zn 0.0
+1 MasterFeed1 Mn 0.0
+1 MasterFeed1 Cu 0.0
+1 MasterFeed1 Fe 0.0
+1 MasterFeed1 Vitamin A 0.0
+1 MasterFeed1 Vitamin D 0.0
+1 MasterFeed1 Vitamin E 0.0
+1 MasterFeed1 Se 0.0
+1 MasterFeed1 Co 0.0
+1 MasterFeed1 I 0.0
+1 MasterFeed1 FNDF 0.0
+1 MasterFeed1 UIP/CP 0.0
+1 MasterFeed1 Sol CP/CP 0.0
+1 MasterFeed1 Starch/NFC 0.0
+1 MasterFeed1 ARG 0.0
+1 MasterFeed1 HIS 0.0
+1 MasterFeed1 ILE 0.0
+1 MasterFeed1 LEU 0.0
+1 MasterFeed1 LYS 0.0
+1 MasterFeed1 MET 0.0
+1 MasterFeed1 CYS 0.0
+1 MasterFeed1 PHE 0.0
+1 MasterFeed1 THR 0.0
+1 MasterFeed1 TRP 0.0
+1 MasterFeed1 VAL 0.0
+1 MasterFeed1 AA#12 0.0
+1 MasterFeed1 AA#13 0.0
+1 MasterFeed1 % Forage 0.0
+1 MasterFeed1 Sugar % 0.0
+1 MasterFeed1 Rumensin 0.0
+1 MasterFeed1 Lignin 0.0
+1 MasterFeed1 DNDF 12 hours 0.0
+1 MasterFeed1 DNDF 30 hours 0.0
+1 MasterFeed1 Soluble fiber 0.0
+1 MasterFeed1 Rum Deg Starch 0.0
+1 MasterFeed1 Tot FA 0.0
+1 MasterFeed1 Unsat FA 0.0
+1 MasterFeed1 Mcal 0.0
+2 MasterFeed2 DM 100.0
+2 MasterFeed2 ADF 0.001
+2 MasterFeed2 NDF 0.0
+2 MasterFeed2 NFC 0.0
+2 MasterFeed2 Starch 0.0
+2 MasterFeed2 NEL 265.0
+2 MasterFeed2 CP 0.0
+2 MasterFeed2 UIP 0.0
+2 MasterFeed2 DIP 0.0
+2 MasterFeed2 Sol CP 0.0
+2 MasterFeed2 P 0.0
+2 MasterFeed2 Ca 0.0
+2 MasterFeed2 RFV 0.0
+2 MasterFeed2 S 0.0
+2 MasterFeed2 K 0.0
+2 MasterFeed2 Mg 0.0
+2 MasterFeed2 Fat 100.0
+2 MasterFeed2 Na 0.0
+2 MasterFeed2 Cl 0.0
+2 MasterFeed2 Zn 0.0
+2 MasterFeed2 Mn 0.0
+2 MasterFeed2 Cu 0.0
+2 MasterFeed2 Fe 0.0
+2 MasterFeed2 Vitamin A 0.0
+2 MasterFeed2 Vitamin D 0.0
+2 MasterFeed2 Vitamin E 0.0
+2 MasterFeed2 Se 0.0
+2 MasterFeed2 Co 0.0
+2 MasterFeed2 I 0.0
+2 MasterFeed2 FNDF 0.0
+2 MasterFeed2 UIP/CP 0.0
+2 MasterFeed2 Sol CP/CP 0.0
+2 MasterFeed2 Starch/NFC 0.0
+2 MasterFeed2 ARG 0.0
+2 MasterFeed2 HIS 0.0
+2 MasterFeed2 ILE 0.0
+2 MasterFeed2 LEU 0.0
+2 MasterFeed2 LYS 0.0
+2 MasterFeed2 MET 0.0
+2 MasterFeed2 CYS 0.0
+2 MasterFeed2 PHE 0.0
+2 MasterFeed2 THR 0.0
+2 MasterFeed2 TRP 0.0
+2 MasterFeed2 VAL 0.0
+2 MasterFeed2 AA#12 0.0
+2 MasterFeed2 AA#13 0.0
+2 MasterFeed2 % Forage 0.0
+2 MasterFeed2 Sugar % 0.0
+2 MasterFeed2 Rumensin 0.0
+2 MasterFeed2 Lignin 0.0
+2 MasterFeed2 DNDF 12 hours 0.0
+2 MasterFeed2 DNDF 30 hours 0.0
+2 MasterFeed2 Soluble fiber 0.0
+2 MasterFeed2 Rum Deg Starch 0.0
+2 MasterFeed2 Tot FA 0.0
+2 MasterFeed2 Unsat FA 0.0
+2 MasterFeed2 Mcal 0.0
+38 MasterFeed38 DM 90.0
+38 MasterFeed38 ADF 7.0
+38 MasterFeed38 NDF 0.0
+38 MasterFeed38 NFC 70.0
+38 MasterFeed38 Starch 0.0
+38 MasterFeed38 NEL 95.0
+38 MasterFeed38 CP 11.45
+38 MasterFeed38 UIP 4.0075
+38 MasterFeed38 DIP 7.4425
+38 MasterFeed38 Sol CP 0.0
+38 MasterFeed38 P 0.38
+38 MasterFeed38 Ca 0.05
+38 MasterFeed38 RFV 0.0
+38 MasterFeed38 S 0.17
+38 MasterFeed38 K 0.47
+38 MasterFeed38 Mg 0.15
+38 MasterFeed38 Fat 5.0
+38 MasterFeed38 Na 0.03
+38 MasterFeed38 Cl 0.1
+38 MasterFeed38 Zn 19.0
+38 MasterFeed38 Mn 18.0
+38 MasterFeed38 Cu 9.0
+38 MasterFeed38 Fe 85.0
+38 MasterFeed38 Vitamin A 1000.0
+38 MasterFeed38 Vitamin D 1000.0
+38 MasterFeed38 Vitamin E 25.0
+38 MasterFeed38 Se 9.0
+38 MasterFeed38 Co 0.0
+38 MasterFeed38 I 0.0
+38 MasterFeed38 FNDF 0.0
+38 MasterFeed38 UIP/CP 35.0
+38 MasterFeed38 Sol CP/CP 0.0
+38 MasterFeed38 Starch/NFC 0.0
+38 MasterFeed38 ARG 0.0
+38 MasterFeed38 HIS 0.0
+38 MasterFeed38 ILE 0.0
+38 MasterFeed38 LEU 0.0
+38 MasterFeed38 LYS 0.0
+38 MasterFeed38 MET 0.0
+38 MasterFeed38 CYS 0.0
+38 MasterFeed38 PHE 0.0
+38 MasterFeed38 THR 0.0
+38 MasterFeed38 TRP 0.0
+38 MasterFeed38 VAL 0.0
+38 MasterFeed38 AA#12 0.0
+38 MasterFeed38 AA#13 0.0
+38 MasterFeed38 % Forage 0.0
+38 MasterFeed38 Sugar % 0.0
+38 MasterFeed38 Rumensin 0.0
+38 MasterFeed38 Lignin 0.0
+38 MasterFeed38 DNDF 12 hours 0.0
+38 MasterFeed38 DNDF 30 hours 0.0
+38 MasterFeed38 Soluble fiber 0.0
+38 MasterFeed38 Rum Deg Starch 0.0
+38 MasterFeed38 Tot FA 0.0
+38 MasterFeed38 Unsat FA 0.0
+38 MasterFeed38 Mcal 0.0
+3 MasterFeed3 DM 90.0
+3 MasterFeed3 ADF 7.0
+3 MasterFeed3 NDF 12.0
+3 MasterFeed3 NFC 45.0
+3 MasterFeed3 Starch 0.0
+3 MasterFeed3 NEL 82.0
+3 MasterFeed3 CP 14.0
+3 MasterFeed3 UIP 4.9
+3 MasterFeed3 DIP 9.1
+3 MasterFeed3 Sol CP 0.0
+3 MasterFeed3 P 2.0
+3 MasterFeed3 Ca 0.15
+3 MasterFeed3 RFV 0.0
+3 MasterFeed3 S 0.12
+3 MasterFeed3 K 1.0
+3 MasterFeed3 Mg 0.2
+3 MasterFeed3 Fat 3.0
+3 MasterFeed3 Na 0.03
+3 MasterFeed3 Cl 0.05
+3 MasterFeed3 Zn 14.0
+3 MasterFeed3 Mn 5.0
+3 MasterFeed3 Cu 4.0
+3 MasterFeed3 Fe 1.0
+3 MasterFeed3 Vitamin A 1000.0
+3 MasterFeed3 Vitamin D 0.0
+3 MasterFeed3 Vitamin E 25.0
+3 MasterFeed3 Se 6.0
+3 MasterFeed3 Co 0.0
+3 MasterFeed3 I 0.1
+3 MasterFeed3 FNDF 0.0
+3 MasterFeed3 UIP/CP 35.0
+3 MasterFeed3 Sol CP/CP 0.0
+3 MasterFeed3 Starch/NFC 0.0
+3 MasterFeed3 ARG 0.0
+3 MasterFeed3 HIS 0.0
+3 MasterFeed3 ILE 0.0
+3 MasterFeed3 LEU 0.0
+3 MasterFeed3 LYS 0.0
+3 MasterFeed3 MET 0.0
+3 MasterFeed3 CYS 0.0
+3 MasterFeed3 PHE 0.0
+3 MasterFeed3 THR 0.0
+3 MasterFeed3 TRP 0.0
+3 MasterFeed3 VAL 0.0
+3 MasterFeed3 AA#12 0.0
+3 MasterFeed3 AA#13 0.0
+3 MasterFeed3 % Forage 0.0
+3 MasterFeed3 Sugar % 0.0
+3 MasterFeed3 Rumensin 0.0
+3 MasterFeed3 Lignin 0.0
+3 MasterFeed3 DNDF 12 hours 0.0
+3 MasterFeed3 DNDF 30 hours 0.0
+3 MasterFeed3 Soluble fiber 0.0
+3 MasterFeed3 Rum Deg Starch 0.0
+3 MasterFeed3 Tot FA 0.0
+3 MasterFeed3 Unsat FA 0.0
+3 MasterFeed3 Mcal 0.0
+4 MasterFeed4 DM 50.0
+4 MasterFeed4 ADF 0.0
+4 MasterFeed4 NDF 0.0
+4 MasterFeed4 NFC 79.0
+4 MasterFeed4 Starch 0.0
+4 MasterFeed4 NEL 88.0
+4 MasterFeed4 CP 8.0
+4 MasterFeed4 UIP 1.6
+4 MasterFeed4 DIP 6.4
+4 MasterFeed4 Sol CP 0.0
+4 MasterFeed4 P 0.11
+4 MasterFeed4 Ca 1.0
+4 MasterFeed4 RFV 0.0
+4 MasterFeed4 S 0.47
+4 MasterFeed4 K 3.85
+4 MasterFeed4 Mg 0.43
+4 MasterFeed4 Fat 0.1
+4 MasterFeed4 Na 0.22
+4 MasterFeed4 Cl 1.2
+4 MasterFeed4 Zn 30.0
+4 MasterFeed4 Mn 56.0
+4 MasterFeed4 Cu 79.0
+4 MasterFeed4 Fe 250.0
+4 MasterFeed4 Vitamin A 1000.0
+4 MasterFeed4 Vitamin D 1000.0
+4 MasterFeed4 Vitamin E 7.0
+4 MasterFeed4 Se 0.0
+4 MasterFeed4 Co 0.0
+4 MasterFeed4 I 0.0
+4 MasterFeed4 FNDF 0.0
+4 MasterFeed4 UIP/CP 20.0
+4 MasterFeed4 Sol CP/CP 0.0
+4 MasterFeed4 Starch/NFC 0.0
+4 MasterFeed4 ARG 0.0
+4 MasterFeed4 HIS 0.0
+4 MasterFeed4 ILE 0.0
+4 MasterFeed4 LEU 0.0
+4 MasterFeed4 LYS 0.0
+4 MasterFeed4 MET 0.0
+4 MasterFeed4 CYS 0.0
+4 MasterFeed4 PHE 0.0
+4 MasterFeed4 THR 0.0
+4 MasterFeed4 TRP 0.0
+4 MasterFeed4 VAL 0.0
+4 MasterFeed4 AA#12 0.0
+4 MasterFeed4 AA#13 0.0
+4 MasterFeed4 % Forage 0.0
+4 MasterFeed4 Sugar % 0.0
+4 MasterFeed4 Rumensin 0.0
+4 MasterFeed4 Lignin 0.0
+4 MasterFeed4 DNDF 12 hours 0.0
+4 MasterFeed4 DNDF 30 hours 0.0
+4 MasterFeed4 Soluble fiber 0.0
+4 MasterFeed4 Rum Deg Starch 0.0
+4 MasterFeed4 Tot FA 0.0
+4 MasterFeed4 Unsat FA 0.0
+4 MasterFeed4 Mcal 0.0
+5 MasterFeed5 DM 21.0
+5 MasterFeed5 ADF 20.0
+5 MasterFeed5 NDF 10.0
+5 MasterFeed5 NFC 40.0
+5 MasterFeed5 Starch 0.0
+5 MasterFeed5 NEL 84.0
+5 MasterFeed5 CP 30.0
+5 MasterFeed5 UIP 11.612903
+5 MasterFeed5 DIP 18.387097
+5 MasterFeed5 Sol CP 0.0
+5 MasterFeed5 P 0.55
+5 MasterFeed5 Ca 0.33
+5 MasterFeed5 RFV 682.0
+5 MasterFeed5 S 0.32
+5 MasterFeed5 K 0.09
+5 MasterFeed5 Mg 0.16
+5 MasterFeed5 Fat 4.5
+5 MasterFeed5 Na 0.2
+5 MasterFeed5 Cl 0.2
+5 MasterFeed5 Zn 2.0
+5 MasterFeed5 Mn 2.0
+5 MasterFeed5 Cu 2.0
+5 MasterFeed5 Fe 2.0
+5 MasterFeed5 Vitamin A 2000.0
+5 MasterFeed5 Vitamin D 2000.0
+5 MasterFeed5 Vitamin E 2.0
+5 MasterFeed5 Se 0.0
+5 MasterFeed5 Co 0.0
+5 MasterFeed5 I 0.0
+5 MasterFeed5 FNDF 10.0
+5 MasterFeed5 UIP/CP 38.709677
+5 MasterFeed5 Sol CP/CP 0.0
+5 MasterFeed5 Starch/NFC 0.0
+5 MasterFeed5 ARG 0.0
+5 MasterFeed5 HIS 0.0
+5 MasterFeed5 ILE 0.0
+5 MasterFeed5 LEU 0.0
+5 MasterFeed5 LYS 0.0
+5 MasterFeed5 MET 0.0
+5 MasterFeed5 CYS 0.0
+5 MasterFeed5 PHE 0.0
+5 MasterFeed5 THR 0.0
+5 MasterFeed5 TRP 0.0
+5 MasterFeed5 VAL 0.0
+5 MasterFeed5 AA#12 0.0
+5 MasterFeed5 AA#13 0.0
+5 MasterFeed5 % Forage 0.0
+5 MasterFeed5 Sugar % 0.0
+5 MasterFeed5 Rumensin 0.0
+5 MasterFeed5 Lignin 0.0
+5 MasterFeed5 DNDF 12 hours 0.0
+5 MasterFeed5 DNDF 30 hours 0.0
+5 MasterFeed5 Soluble fiber 0.0
+5 MasterFeed5 Rum Deg Starch 0.0
+5 MasterFeed5 Tot FA 0.0
+5 MasterFeed5 Unsat FA 0.0
+5 MasterFeed5 Mcal 0.0
+39 MasterFeed39 DM 90.0
+39 MasterFeed39 ADF 12.1
+39 MasterFeed39 NDF 35.5
+39 MasterFeed39 NFC 22.0
+39 MasterFeed39 Starch 0.0
+39 MasterFeed39 NEL 87.0
+39 MasterFeed39 CP 23.0
+39 MasterFeed39 UIP 7.92
+39 MasterFeed39 DIP 15.08
+39 MasterFeed39 Sol CP 0.0
+39 MasterFeed39 P 0.75
+39 MasterFeed39 Ca 0.33
+39 MasterFeed39 RFV 0.0
+39 MasterFeed39 S 0.23
+39 MasterFeed39 K 0.64
+39 MasterFeed39 Mg 0.36
+39 MasterFeed39 Fat 3.3
+39 MasterFeed39 Na 0.4
+39 MasterFeed39 Cl 0.1
+39 MasterFeed39 Zn 72.0
+39 MasterFeed39 Mn 26.0
+39 MasterFeed39 Cu 4.0
+39 MasterFeed39 Fe 470.0
+39 MasterFeed39 Vitamin A 3000.0
+39 MasterFeed39 Vitamin D 0.0
+39 MasterFeed39 Vitamin E 14.0
+39 MasterFeed39 Se 33.0
+39 MasterFeed39 Co 0.0
+39 MasterFeed39 I 0.0
+39 MasterFeed39 FNDF 0.0
+39 MasterFeed39 UIP/CP 34.434783
+39 MasterFeed39 Sol CP/CP 0.0
+39 MasterFeed39 Starch/NFC 0.0
+39 MasterFeed39 ARG 0.0
+39 MasterFeed39 HIS 0.0
+39 MasterFeed39 ILE 0.0
+39 MasterFeed39 LEU 0.0
+39 MasterFeed39 LYS 0.0
+39 MasterFeed39 MET 0.0
+39 MasterFeed39 CYS 0.0
+39 MasterFeed39 PHE 0.0
+39 MasterFeed39 THR 0.0
+39 MasterFeed39 TRP 0.0
+39 MasterFeed39 VAL 0.0
+39 MasterFeed39 AA#12 0.0
+39 MasterFeed39 AA#13 0.0
+39 MasterFeed39 % Forage 0.0
+39 MasterFeed39 Sugar % 0.0
+39 MasterFeed39 Rumensin 0.0
+39 MasterFeed39 Lignin 0.0
+39 MasterFeed39 DNDF 12 hours 0.0
+39 MasterFeed39 DNDF 30 hours 0.0
+39 MasterFeed39 Soluble fiber 0.0
+39 MasterFeed39 Rum Deg Starch 0.0
+39 MasterFeed39 Tot FA 0.0
+39 MasterFeed39 Unsat FA 0.0
+39 MasterFeed39 Mcal 0.0
+6 MasterFeed6 DM 90.0
+6 MasterFeed6 ADF 5.0
+6 MasterFeed6 NDF 0.0
+6 MasterFeed6 NFC 15.0
+6 MasterFeed6 Starch 0.0
+6 MasterFeed6 NEL 94.0
+6 MasterFeed6 CP 67.0
+6 MasterFeed6 UIP 40.2
+6 MasterFeed6 DIP 26.8
+6 MasterFeed6 Sol CP 0.0
+6 MasterFeed6 P 0.54
+6 MasterFeed6 Ca 0.08
+6 MasterFeed6 RFV 0.0
+6 MasterFeed6 S 0.72
+6 MasterFeed6 K 0.21
+6 MasterFeed6 Mg 0.09
+6 MasterFeed6 Fat 2.4
+6 MasterFeed6 Na 0.06
+6 MasterFeed6 Cl 0.05
+6 MasterFeed6 Zn 35.0
+6 MasterFeed6 Mn 7.0
+6 MasterFeed6 Cu 29.0
+6 MasterFeed6 Fe 300.0
+6 MasterFeed6 Vitamin A 14000.0
+6 MasterFeed6 Vitamin D 0.0
+6 MasterFeed6 Vitamin E 26.0
+6 MasterFeed6 Se 9.0
+6 MasterFeed6 Co 0.0
+6 MasterFeed6 I 0.0
+6 MasterFeed6 FNDF 0.0
+6 MasterFeed6 UIP/CP 60.0
+6 MasterFeed6 Sol CP/CP 0.0
+6 MasterFeed6 Starch/NFC 0.0
+6 MasterFeed6 ARG 0.0
+6 MasterFeed6 HIS 0.0
+6 MasterFeed6 ILE 0.0
+6 MasterFeed6 LEU 0.0
+6 MasterFeed6 LYS 0.0
+6 MasterFeed6 MET 0.0
+6 MasterFeed6 CYS 0.0
+6 MasterFeed6 PHE 0.0
+6 MasterFeed6 THR 0.0
+6 MasterFeed6 TRP 0.0
+6 MasterFeed6 VAL 0.0
+6 MasterFeed6 AA#12 0.0
+6 MasterFeed6 AA#13 0.0
+6 MasterFeed6 % Forage 0.0
+6 MasterFeed6 Sugar % 0.0
+6 MasterFeed6 Rumensin 0.0
+6 MasterFeed6 Lignin 0.0
+6 MasterFeed6 DNDF 12 hours 0.0
+6 MasterFeed6 DNDF 30 hours 0.0
+6 MasterFeed6 Soluble fiber 0.0
+6 MasterFeed6 Rum Deg Starch 0.0
+6 MasterFeed6 Tot FA 0.0
+6 MasterFeed6 Unsat FA 0.0
+6 MasterFeed6 Mcal 0.0
+7 MasterFeed7 DM 92.0
+7 MasterFeed7 ADF 0.0
+7 MasterFeed7 NDF 0.0
+7 MasterFeed7 NFC 10.5
+7 MasterFeed7 Starch 0.0
+7 MasterFeed7 NEL 80.0
+7 MasterFeed7 CP 76.5
+7 MasterFeed7 UIP 48.99
+7 MasterFeed7 DIP 27.51
+7 MasterFeed7 Sol CP 0.0
+7 MasterFeed7 P 1.0
+7 MasterFeed7 Ca 2.2
+7 MasterFeed7 RFV 0.0
+7 MasterFeed7 S 0.37
+7 MasterFeed7 K 0.1
+7 MasterFeed7 Mg 0.24
+7 MasterFeed7 Fat 8.6
+7 MasterFeed7 Na 0.35
+7 MasterFeed7 Cl 0.1
+7 MasterFeed7 Zn 5.0
+7 MasterFeed7 Mn 6.0
+7 MasterFeed7 Cu 11.0
+7 MasterFeed7 Fe 4000.0
+7 MasterFeed7 Vitamin A 0.0
+7 MasterFeed7 Vitamin D 0.0
+7 MasterFeed7 Vitamin E 0.0
+7 MasterFeed7 Se 0.0
+7 MasterFeed7 Co 0.0
+7 MasterFeed7 I 0.0
+7 MasterFeed7 FNDF 0.0
+7 MasterFeed7 UIP/CP 64.039216
+7 MasterFeed7 Sol CP/CP 0.0
+7 MasterFeed7 Starch/NFC 0.0
+7 MasterFeed7 ARG 0.0
+7 MasterFeed7 HIS 0.0
+7 MasterFeed7 ILE 0.0
+7 MasterFeed7 LEU 0.0
+7 MasterFeed7 LYS 0.0
+7 MasterFeed7 MET 0.0
+7 MasterFeed7 CYS 0.0
+7 MasterFeed7 PHE 0.0
+7 MasterFeed7 THR 0.0
+7 MasterFeed7 TRP 0.0
+7 MasterFeed7 VAL 0.0
+7 MasterFeed7 AA#12 0.0
+7 MasterFeed7 AA#13 0.0
+7 MasterFeed7 % Forage 0.0
+7 MasterFeed7 Sugar % 0.0
+7 MasterFeed7 Rumensin 0.0
+7 MasterFeed7 Lignin 0.0
+7 MasterFeed7 DNDF 12 hours 0.0
+7 MasterFeed7 DNDF 30 hours 0.0
+7 MasterFeed7 Soluble fiber 0.0
+7 MasterFeed7 Rum Deg Starch 0.0
+7 MasterFeed7 Tot FA 0.0
+7 MasterFeed7 Unsat FA 0.0
+7 MasterFeed7 Mcal 0.0
+8 MasterFeed8 DM 90.0
+8 MasterFeed8 ADF 6.0
+8 MasterFeed8 NDF 0.0
+8 MasterFeed8 NFC 25.0
+8 MasterFeed8 Starch 0.0
+8 MasterFeed8 NEL 87.0
+8 MasterFeed8 CP 52.0
+8 MasterFeed8 UIP 18.2
+8 MasterFeed8 DIP 33.8
+8 MasterFeed8 Sol CP 0.0
+8 MasterFeed8 P 0.7
+8 MasterFeed8 Ca 0.29
+8 MasterFeed8 RFV 0.0
+8 MasterFeed8 S 0.48
+8 MasterFeed8 K 2.3
+8 MasterFeed8 Mg 0.32
+8 MasterFeed8 Fat 1.0
+8 MasterFeed8 Na 0.03
+8 MasterFeed8 Cl 0.07
+8 MasterFeed8 Zn 61.0
+8 MasterFeed8 Mn 41.0
+8 MasterFeed8 Cu 22.0
+8 MasterFeed8 Fe 148.0
+8 MasterFeed8 Vitamin A 0.0
+8 MasterFeed8 Vitamin D 0.0
+8 MasterFeed8 Vitamin E 3.0
+8 MasterFeed8 Se 2.0
+8 MasterFeed8 Co 0.0
+8 MasterFeed8 I 0.0
+8 MasterFeed8 FNDF 0.0
+8 MasterFeed8 UIP/CP 35.0
+8 MasterFeed8 Sol CP/CP 0.0
+8 MasterFeed8 Starch/NFC 0.0
+8 MasterFeed8 ARG 0.0
+8 MasterFeed8 HIS 0.0
+8 MasterFeed8 ILE 0.0
+8 MasterFeed8 LEU 0.0
+8 MasterFeed8 LYS 0.0
+8 MasterFeed8 MET 0.0
+8 MasterFeed8 CYS 0.0
+8 MasterFeed8 PHE 0.0
+8 MasterFeed8 THR 0.0
+8 MasterFeed8 TRP 0.0
+8 MasterFeed8 VAL 0.0
+8 MasterFeed8 AA#12 0.0
+8 MasterFeed8 AA#13 0.0
+8 MasterFeed8 % Forage 0.0
+8 MasterFeed8 Sugar % 0.0
+8 MasterFeed8 Rumensin 0.0
+8 MasterFeed8 Lignin 0.0
+8 MasterFeed8 DNDF 12 hours 0.0
+8 MasterFeed8 DNDF 30 hours 0.0
+8 MasterFeed8 Soluble fiber 0.0
+8 MasterFeed8 Rum Deg Starch 0.0
+8 MasterFeed8 Tot FA 0.0
+8 MasterFeed8 Unsat FA 0.0
+8 MasterFeed8 Mcal 0.0
+9 MasterFeed9 DM 90.0
+9 MasterFeed9 ADF 10.0
+9 MasterFeed9 NDF 0.0
+9 MasterFeed9 NFC 17.0
+9 MasterFeed9 Starch 0.0
+9 MasterFeed9 NEL 105.0
+9 MasterFeed9 CP 40.0
+9 MasterFeed9 UIP 22.8
+9 MasterFeed9 DIP 17.2
+9 MasterFeed9 Sol CP 0.0
+9 MasterFeed9 P 0.65
+9 MasterFeed9 Ca 0.27
+9 MasterFeed9 RFV 0.0
+9 MasterFeed9 S 0.24
+9 MasterFeed9 K 1.82
+9 MasterFeed9 Mg 0.3
+9 MasterFeed9 Fat 19.0
+9 MasterFeed9 Na 0.02
+9 MasterFeed9 Cl 0.05
+9 MasterFeed9 Zn 62.0
+9 MasterFeed9 Mn 39.0
+9 MasterFeed9 Cu 20.0
+9 MasterFeed9 Fe 91.0
+9 MasterFeed9 Vitamin A 0.0
+9 MasterFeed9 Vitamin D 0.0
+9 MasterFeed9 Vitamin E 37.0
+9 MasterFeed9 Se 4.0
+9 MasterFeed9 Co 0.0
+9 MasterFeed9 I 0.0
+9 MasterFeed9 FNDF 0.0
+9 MasterFeed9 UIP/CP 57.0
+9 MasterFeed9 Sol CP/CP 0.0
+9 MasterFeed9 Starch/NFC 0.0
+9 MasterFeed9 ARG 0.0
+9 MasterFeed9 HIS 0.0
+9 MasterFeed9 ILE 0.0
+9 MasterFeed9 LEU 0.0
+9 MasterFeed9 LYS 0.0
+9 MasterFeed9 MET 0.0
+9 MasterFeed9 CYS 0.0
+9 MasterFeed9 PHE 0.0
+9 MasterFeed9 THR 0.0
+9 MasterFeed9 TRP 0.0
+9 MasterFeed9 VAL 0.0
+9 MasterFeed9 AA#12 0.0
+9 MasterFeed9 AA#13 0.0
+9 MasterFeed9 % Forage 0.0
+9 MasterFeed9 Sugar % 0.0
+9 MasterFeed9 Rumensin 0.0
+9 MasterFeed9 Lignin 0.0
+9 MasterFeed9 DNDF 12 hours 0.0
+9 MasterFeed9 DNDF 30 hours 0.0
+9 MasterFeed9 Soluble fiber 0.0
+9 MasterFeed9 Rum Deg Starch 0.0
+9 MasterFeed9 Tot FA 0.0
+9 MasterFeed9 Unsat FA 0.0
+9 MasterFeed9 Mcal 0.0
+10 MasterFeed10 DM 90.0
+10 MasterFeed10 ADF 10.0
+10 MasterFeed10 NDF 0.0
+10 MasterFeed10 NFC 20.0
+10 MasterFeed10 Starch 0.0
+10 MasterFeed10 NEL 92.0
+10 MasterFeed10 CP 47.0
+10 MasterFeed10 UIP 25.85
+10 MasterFeed10 DIP 21.15
+10 MasterFeed10 Sol CP 0.0
+10 MasterFeed10 P 0.7
+10 MasterFeed10 Ca 0.27
+10 MasterFeed10 RFV 0.0
+10 MasterFeed10 S 0.24
+10 MasterFeed10 K 1.82
+10 MasterFeed10 Mg 0.3
+10 MasterFeed10 Fat 4.5
+10 MasterFeed10 Na 0.02
+10 MasterFeed10 Cl 0.05
+10 MasterFeed10 Zn 62.0
+10 MasterFeed10 Mn 39.0
+10 MasterFeed10 Cu 20.0
+10 MasterFeed10 Fe 91.0
+10 MasterFeed10 Vitamin A 0.0
+10 MasterFeed10 Vitamin D 0.0
+10 MasterFeed10 Vitamin E 37.0
+10 MasterFeed10 Se 4.0
+10 MasterFeed10 Co 0.0
+10 MasterFeed10 I 0.0
+10 MasterFeed10 FNDF 0.0
+10 MasterFeed10 UIP/CP 55.0
+10 MasterFeed10 Sol CP/CP 0.0
+10 MasterFeed10 Starch/NFC 0.0
+10 MasterFeed10 ARG 0.0
+10 MasterFeed10 HIS 0.0
+10 MasterFeed10 ILE 0.0
+10 MasterFeed10 LEU 0.0
+10 MasterFeed10 LYS 0.0
+10 MasterFeed10 MET 0.0
+10 MasterFeed10 CYS 0.0
+10 MasterFeed10 PHE 0.0
+10 MasterFeed10 THR 0.0
+10 MasterFeed10 TRP 0.0
+10 MasterFeed10 VAL 0.0
+10 MasterFeed10 AA#12 0.0
+10 MasterFeed10 AA#13 0.0
+10 MasterFeed10 % Forage 0.0
+10 MasterFeed10 Sugar % 0.0
+10 MasterFeed10 Rumensin 0.0
+10 MasterFeed10 Lignin 0.0
+10 MasterFeed10 DNDF 12 hours 0.0
+10 MasterFeed10 DNDF 30 hours 0.0
+10 MasterFeed10 Soluble fiber 0.0
+10 MasterFeed10 Rum Deg Starch 0.0
+10 MasterFeed10 Tot FA 0.0
+10 MasterFeed10 Unsat FA 0.0
+10 MasterFeed10 Mcal 0.0
+11 MasterFeed11 DM 90.0
+11 MasterFeed11 ADF 18.0
+11 MasterFeed11 NDF 26.0
+11 MasterFeed11 NFC 25.0
+11 MasterFeed11 Starch 0.0
+11 MasterFeed11 NEL 88.0
+11 MasterFeed11 CP 28.0
+11 MasterFeed11 UIP 14.0
+11 MasterFeed11 DIP 14.0
+11 MasterFeed11 Sol CP 0.0
+11 MasterFeed11 P 0.6
+11 MasterFeed11 Ca 0.13
+11 MasterFeed11 RFV 0.0
+11 MasterFeed11 S 0.46
+11 MasterFeed11 K 0.2
+11 MasterFeed11 Mg 0.07
+11 MasterFeed11 Fat 10.0
+11 MasterFeed11 Na 0.1
+11 MasterFeed11 Cl 0.09
+11 MasterFeed11 Zn 35.0
+11 MasterFeed11 Mn 25.0
+11 MasterFeed11 Cu 0.0
+11 MasterFeed11 Fe 223.0
+11 MasterFeed11 Vitamin A 1000.0
+11 MasterFeed11 Vitamin D 1000.0
+11 MasterFeed11 Vitamin E 43.0
+11 MasterFeed11 Se 26.0
+11 MasterFeed11 Co 45.0
+11 MasterFeed11 I 150.0
+11 MasterFeed11 FNDF 0.0
+11 MasterFeed11 UIP/CP 50.0
+11 MasterFeed11 Sol CP/CP 0.0
+11 MasterFeed11 Starch/NFC 0.0
+11 MasterFeed11 ARG 0.0
+11 MasterFeed11 HIS 0.0
+11 MasterFeed11 ILE 0.0
+11 MasterFeed11 LEU 0.0
+11 MasterFeed11 LYS 0.0
+11 MasterFeed11 MET 0.0
+11 MasterFeed11 CYS 0.0
+11 MasterFeed11 PHE 0.0
+11 MasterFeed11 THR 0.0
+11 MasterFeed11 TRP 0.0
+11 MasterFeed11 VAL 0.0
+11 MasterFeed11 AA#12 0.0
+11 MasterFeed11 AA#13 0.0
+11 MasterFeed11 % Forage 0.0
+11 MasterFeed11 Sugar % 0.0
+11 MasterFeed11 Rumensin 0.0
+11 MasterFeed11 Lignin 0.0
+11 MasterFeed11 DNDF 12 hours 0.0
+11 MasterFeed11 DNDF 30 hours 0.0
+11 MasterFeed11 Soluble fiber 0.0
+11 MasterFeed11 Rum Deg Starch 0.0
+11 MasterFeed11 Tot FA 0.0
+11 MasterFeed11 Unsat FA 0.0
+11 MasterFeed11 Mcal 0.0
+12 MasterFeed12 DM 90.0
+12 MasterFeed12 ADF 28.0
+12 MasterFeed12 NDF 45.0
+12 MasterFeed12 NFC 25.0
+12 MasterFeed12 Starch 0.0
+12 MasterFeed12 NEL 82.0
+12 MasterFeed12 CP 16.6
+12 MasterFeed12 UIP 4.15
+12 MasterFeed12 DIP 12.45
+12 MasterFeed12 Sol CP 0.0
+12 MasterFeed12 P 0.15
+12 MasterFeed12 Ca 0.63
+12 MasterFeed12 RFV 156.0
+12 MasterFeed12 S 0.09
+12 MasterFeed12 K 1.27
+12 MasterFeed12 Mg 0.26
+12 MasterFeed12 Fat 2.0
+12 MasterFeed12 Na 0.01
+12 MasterFeed12 Cl 0.12
+12 MasterFeed12 Zn 24.0
+12 MasterFeed12 Mn 11.0
+12 MasterFeed12 Cu 18.0
+12 MasterFeed12 Fe 324.0
+12 MasterFeed12 Vitamin A 0.0
+12 MasterFeed12 Vitamin D 0.0
+12 MasterFeed12 Vitamin E 0.0
+12 MasterFeed12 Se 10.0
+12 MasterFeed12 Co 0.0
+12 MasterFeed12 I 0.0
+12 MasterFeed12 FNDF 40.0
+12 MasterFeed12 UIP/CP 25.0
+12 MasterFeed12 Sol CP/CP 0.0
+12 MasterFeed12 Starch/NFC 0.0
+12 MasterFeed12 ARG 0.0
+12 MasterFeed12 HIS 0.0
+12 MasterFeed12 ILE 0.0
+12 MasterFeed12 LEU 0.0
+12 MasterFeed12 LYS 0.0
+12 MasterFeed12 MET 0.0
+12 MasterFeed12 CYS 0.0
+12 MasterFeed12 PHE 0.0
+12 MasterFeed12 THR 0.0
+12 MasterFeed12 TRP 0.0
+12 MasterFeed12 VAL 0.0
+12 MasterFeed12 AA#12 0.0
+12 MasterFeed12 AA#13 0.0
+12 MasterFeed12 % Forage 0.0
+12 MasterFeed12 Sugar % 0.0
+12 MasterFeed12 Rumensin 0.0
+12 MasterFeed12 Lignin 0.0
+12 MasterFeed12 DNDF 12 hours 0.0
+12 MasterFeed12 DNDF 30 hours 0.0
+12 MasterFeed12 Soluble fiber 0.0
+12 MasterFeed12 Rum Deg Starch 0.0
+12 MasterFeed12 Tot FA 0.0
+12 MasterFeed12 Unsat FA 0.0
+12 MasterFeed12 Mcal 0.0
+13 MasterFeed13 DM 90.0
+13 MasterFeed13 ADF 35.0
+13 MasterFeed13 NDF 45.0
+13 MasterFeed13 NFC 10.0
+13 MasterFeed13 Starch 0.0
+13 MasterFeed13 NEL 101.0
+13 MasterFeed13 CP 24.0
+13 MasterFeed13 UIP 10.8
+13 MasterFeed13 DIP 13.2
+13 MasterFeed13 Sol CP 0.0
+13 MasterFeed13 P 0.64
+13 MasterFeed13 Ca 0.21
+13 MasterFeed13 RFV 127.0
+13 MasterFeed13 S 0.26
+13 MasterFeed13 K 1.0
+13 MasterFeed13 Mg 0.46
+13 MasterFeed13 Fat 20.0
+13 MasterFeed13 Na 0.01
+13 MasterFeed13 Cl 0.05
+13 MasterFeed13 Zn 33.0
+13 MasterFeed13 Mn 19.0
+13 MasterFeed13 Cu 9.0
+13 MasterFeed13 Fe 151.0
+13 MasterFeed13 Vitamin A 0.0
+13 MasterFeed13 Vitamin D 0.0
+13 MasterFeed13 Vitamin E 70.0
+13 MasterFeed13 Se 0.0
+13 MasterFeed13 Co 0.0
+13 MasterFeed13 I 0.0
+13 MasterFeed13 FNDF 45.0
+13 MasterFeed13 UIP/CP 45.0
+13 MasterFeed13 Sol CP/CP 0.0
+13 MasterFeed13 Starch/NFC 0.0
+13 MasterFeed13 ARG 0.0
+13 MasterFeed13 HIS 0.0
+13 MasterFeed13 ILE 0.0
+13 MasterFeed13 LEU 0.0
+13 MasterFeed13 LYS 0.0
+13 MasterFeed13 MET 0.0
+13 MasterFeed13 CYS 0.0
+13 MasterFeed13 PHE 0.0
+13 MasterFeed13 THR 0.0
+13 MasterFeed13 TRP 0.0
+13 MasterFeed13 VAL 0.0
+13 MasterFeed13 AA#12 0.0
+13 MasterFeed13 AA#13 0.0
+13 MasterFeed13 % Forage 0.0
+13 MasterFeed13 Sugar % 0.0
+13 MasterFeed13 Rumensin 0.0
+13 MasterFeed13 Lignin 0.0
+13 MasterFeed13 DNDF 12 hours 0.0
+13 MasterFeed13 DNDF 30 hours 0.0
+13 MasterFeed13 Soluble fiber 0.0
+13 MasterFeed13 Rum Deg Starch 0.0
+13 MasterFeed13 Tot FA 0.0
+13 MasterFeed13 Unsat FA 0.0
+13 MasterFeed13 Mcal 0.0
+14 MasterFeed14 DM 100.0
+14 MasterFeed14 ADF 0.0
+14 MasterFeed14 NDF 0.0
+14 MasterFeed14 NFC 0.0
+14 MasterFeed14 Starch 0.0
+14 MasterFeed14 NEL 0.0
+14 MasterFeed14 CP 0.0
+14 MasterFeed14 UIP 0.0
+14 MasterFeed14 DIP 0.0
+14 MasterFeed14 Sol CP 0.0
+14 MasterFeed14 P 0.0
+14 MasterFeed14 Ca 0.0
+14 MasterFeed14 RFV 0.0
+14 MasterFeed14 S 0.4
+14 MasterFeed14 K 0.0
+14 MasterFeed14 Mg 1.3
+14 MasterFeed14 Fat 0.0
+14 MasterFeed14 Na 0.0
+14 MasterFeed14 Cl 0.0
+14 MasterFeed14 Zn 42000.0
+14 MasterFeed14 Mn 30000.0
+14 MasterFeed14 Cu 7500.0
+14 MasterFeed14 Fe 490.0
+14 MasterFeed14 Vitamin A 2500000.0
+14 MasterFeed14 Vitamin D 7000.0
+14 MasterFeed14 Vitamin E 8500.0
+14 MasterFeed14 Se 181.0
+14 MasterFeed14 Co 800.0
+14 MasterFeed14 I 540.0
+14 MasterFeed14 FNDF 0.0
+14 MasterFeed14 UIP/CP 0.0
+14 MasterFeed14 Sol CP/CP 0.0
+14 MasterFeed14 Starch/NFC 0.0
+14 MasterFeed14 ARG 0.0
+14 MasterFeed14 HIS 0.0
+14 MasterFeed14 ILE 0.0
+14 MasterFeed14 LEU 0.0
+14 MasterFeed14 LYS 0.0
+14 MasterFeed14 MET 0.0
+14 MasterFeed14 CYS 0.0
+14 MasterFeed14 PHE 0.0
+14 MasterFeed14 THR 0.0
+14 MasterFeed14 TRP 0.0
+14 MasterFeed14 VAL 0.0
+14 MasterFeed14 AA#12 0.0
+14 MasterFeed14 AA#13 0.0
+14 MasterFeed14 % Forage 0.0
+14 MasterFeed14 Sugar % 0.0
+14 MasterFeed14 Rumensin 0.0
+14 MasterFeed14 Lignin 0.0
+14 MasterFeed14 DNDF 12 hours 0.0
+14 MasterFeed14 DNDF 30 hours 0.0
+14 MasterFeed14 Soluble fiber 0.0
+14 MasterFeed14 Rum Deg Starch 0.0
+14 MasterFeed14 Tot FA 0.0
+14 MasterFeed14 Unsat FA 0.0
+14 MasterFeed14 Mcal 0.0
+15 MasterFeed15 DM 100.0
+15 MasterFeed15 ADF 0.0
+15 MasterFeed15 NDF 0.0
+15 MasterFeed15 NFC 0.0
+15 MasterFeed15 Starch 0.0
+15 MasterFeed15 NEL 0.0
+15 MasterFeed15 CP 0.0
+15 MasterFeed15 UIP 0.0
+15 MasterFeed15 DIP 0.0
+15 MasterFeed15 Sol CP 0.0
+15 MasterFeed15 P 0.0
+15 MasterFeed15 Ca 0.0
+15 MasterFeed15 RFV 0.0
+15 MasterFeed15 S 0.0
+15 MasterFeed15 K 0.0
+15 MasterFeed15 Mg 54.0
+15 MasterFeed15 Fat 0.0
+15 MasterFeed15 Na 0.0
+15 MasterFeed15 Cl 0.0
+15 MasterFeed15 Zn 0.0
+15 MasterFeed15 Mn 0.0
+15 MasterFeed15 Cu 0.0
+15 MasterFeed15 Fe 0.0
+15 MasterFeed15 Vitamin A 0.0
+15 MasterFeed15 Vitamin D 0.0
+15 MasterFeed15 Vitamin E 0.0
+15 MasterFeed15 Se 0.0
+15 MasterFeed15 Co 0.0
+15 MasterFeed15 I 0.0
+15 MasterFeed15 FNDF 0.0
+15 MasterFeed15 UIP/CP 0.0
+15 MasterFeed15 Sol CP/CP 0.0
+15 MasterFeed15 Starch/NFC 0.0
+15 MasterFeed15 ARG 0.0
+15 MasterFeed15 HIS 0.0
+15 MasterFeed15 ILE 0.0
+15 MasterFeed15 LEU 0.0
+15 MasterFeed15 LYS 0.0
+15 MasterFeed15 MET 0.0
+15 MasterFeed15 CYS 0.0
+15 MasterFeed15 PHE 0.0
+15 MasterFeed15 THR 0.0
+15 MasterFeed15 TRP 0.0
+15 MasterFeed15 VAL 0.0
+15 MasterFeed15 AA#12 0.0
+15 MasterFeed15 AA#13 0.0
+15 MasterFeed15 % Forage 0.0
+15 MasterFeed15 Sugar % 0.0
+15 MasterFeed15 Rumensin 0.0
+15 MasterFeed15 Lignin 0.0
+15 MasterFeed15 DNDF 12 hours 0.0
+15 MasterFeed15 DNDF 30 hours 0.0
+15 MasterFeed15 Soluble fiber 0.0
+15 MasterFeed15 Rum Deg Starch 0.0
+15 MasterFeed15 Tot FA 0.0
+15 MasterFeed15 Unsat FA 0.0
+15 MasterFeed15 Mcal 0.0
+16 MasterFeed16 DM 100.0
+16 MasterFeed16 ADF 0.0
+16 MasterFeed16 NDF 0.0
+16 MasterFeed16 NFC 0.0
+16 MasterFeed16 Starch 0.0
+16 MasterFeed16 NEL 0.0
+16 MasterFeed16 CP 0.0
+16 MasterFeed16 UIP 0.0
+16 MasterFeed16 DIP 0.0
+16 MasterFeed16 Sol CP 0.0
+16 MasterFeed16 P 0.0
+16 MasterFeed16 Ca 0.0
+16 MasterFeed16 RFV 0.0
+16 MasterFeed16 S 1.0
+16 MasterFeed16 K 1.0
+16 MasterFeed16 Mg 1.0
+16 MasterFeed16 Fat 1.0
+16 MasterFeed16 Na 27.0
+16 MasterFeed16 Cl 0.0
+16 MasterFeed16 Zn 0.0
+16 MasterFeed16 Mn 0.0
+16 MasterFeed16 Cu 0.0
+16 MasterFeed16 Fe 0.0
+16 MasterFeed16 Vitamin A 0.0
+16 MasterFeed16 Vitamin D 0.0
+16 MasterFeed16 Vitamin E 0.0
+16 MasterFeed16 Se 0.0
+16 MasterFeed16 Co 0.0
+16 MasterFeed16 I 0.0
+16 MasterFeed16 FNDF 0.0
+16 MasterFeed16 UIP/CP 0.0
+16 MasterFeed16 Sol CP/CP 0.0
+16 MasterFeed16 Starch/NFC 0.0
+16 MasterFeed16 ARG 0.0
+16 MasterFeed16 HIS 0.0
+16 MasterFeed16 ILE 0.0
+16 MasterFeed16 LEU 0.0
+16 MasterFeed16 LYS 0.0
+16 MasterFeed16 MET 0.0
+16 MasterFeed16 CYS 0.0
+16 MasterFeed16 PHE 0.0
+16 MasterFeed16 THR 0.0
+16 MasterFeed16 TRP 0.0
+16 MasterFeed16 VAL 0.0
+16 MasterFeed16 AA#12 0.0
+16 MasterFeed16 AA#13 0.0
+16 MasterFeed16 % Forage 0.0
+16 MasterFeed16 Sugar % 0.0
+16 MasterFeed16 Rumensin 0.0
+16 MasterFeed16 Lignin 0.0
+16 MasterFeed16 DNDF 12 hours 0.0
+16 MasterFeed16 DNDF 30 hours 0.0
+16 MasterFeed16 Soluble fiber 0.0
+16 MasterFeed16 Rum Deg Starch 0.0
+16 MasterFeed16 Tot FA 0.0
+16 MasterFeed16 Unsat FA 0.0
+16 MasterFeed16 Mcal 0.0
+17 MasterFeed17 DM 100.0
+17 MasterFeed17 ADF 0.0
+17 MasterFeed17 NDF 0.0
+17 MasterFeed17 NFC 0.0
+17 MasterFeed17 Starch 0.0
+17 MasterFeed17 NEL 0.0
+17 MasterFeed17 CP 0.0
+17 MasterFeed17 UIP 0.0
+17 MasterFeed17 DIP 0.0
+17 MasterFeed17 Sol CP 0.0
+17 MasterFeed17 P 0.0
+17 MasterFeed17 Ca 0.0
+17 MasterFeed17 RFV 0.0
+17 MasterFeed17 S 22.0
+17 MasterFeed17 K 18.0
+17 MasterFeed17 Mg 11.0
+17 MasterFeed17 Fat 0.0
+17 MasterFeed17 Na 0.0
+17 MasterFeed17 Cl 0.0
+17 MasterFeed17 Zn 0.0
+17 MasterFeed17 Mn 0.0
+17 MasterFeed17 Cu 0.0
+17 MasterFeed17 Fe 0.0
+17 MasterFeed17 Vitamin A 0.0
+17 MasterFeed17 Vitamin D 0.0
+17 MasterFeed17 Vitamin E 0.0
+17 MasterFeed17 Se 0.0
+17 MasterFeed17 Co 0.0
+17 MasterFeed17 I 0.0
+17 MasterFeed17 FNDF 0.0
+17 MasterFeed17 UIP/CP 0.0
+17 MasterFeed17 Sol CP/CP 0.0
+17 MasterFeed17 Starch/NFC 0.0
+17 MasterFeed17 ARG 0.0
+17 MasterFeed17 HIS 0.0
+17 MasterFeed17 ILE 0.0
+17 MasterFeed17 LEU 0.0
+17 MasterFeed17 LYS 0.0
+17 MasterFeed17 MET 0.0
+17 MasterFeed17 CYS 0.0
+17 MasterFeed17 PHE 0.0
+17 MasterFeed17 THR 0.0
+17 MasterFeed17 TRP 0.0
+17 MasterFeed17 VAL 0.0
+17 MasterFeed17 AA#12 0.0
+17 MasterFeed17 AA#13 0.0
+17 MasterFeed17 % Forage 0.0
+17 MasterFeed17 Sugar % 0.0
+17 MasterFeed17 Rumensin 0.0
+17 MasterFeed17 Lignin 0.0
+17 MasterFeed17 DNDF 12 hours 0.0
+17 MasterFeed17 DNDF 30 hours 0.0
+17 MasterFeed17 Soluble fiber 0.0
+17 MasterFeed17 Rum Deg Starch 0.0
+17 MasterFeed17 Tot FA 0.0
+17 MasterFeed17 Unsat FA 0.0
+17 MasterFeed17 Mcal 0.0
+18 MasterFeed18 DM 100.0
+18 MasterFeed18 ADF 0.0
+18 MasterFeed18 NDF 0.0
+18 MasterFeed18 NFC 0.0
+18 MasterFeed18 Starch 0.0
+18 MasterFeed18 NEL 0.0
+18 MasterFeed18 CP 0.0
+18 MasterFeed18 UIP 0.0
+18 MasterFeed18 DIP 0.0
+18 MasterFeed18 Sol CP 0.0
+18 MasterFeed18 P 0.0
+18 MasterFeed18 Ca 0.0
+18 MasterFeed18 RFV 0.0
+18 MasterFeed18 S 0.0
+18 MasterFeed18 K 52.0
+18 MasterFeed18 Mg 0.0
+18 MasterFeed18 Fat 0.0
+18 MasterFeed18 Na 0.0
+18 MasterFeed18 Cl 0.0
+18 MasterFeed18 Zn 0.0
+18 MasterFeed18 Mn 0.0
+18 MasterFeed18 Cu 0.0
+18 MasterFeed18 Fe 0.0
+18 MasterFeed18 Vitamin A 0.0
+18 MasterFeed18 Vitamin D 0.0
+18 MasterFeed18 Vitamin E 0.0
+18 MasterFeed18 Se 0.0
+18 MasterFeed18 Co 0.0
+18 MasterFeed18 I 0.0
+18 MasterFeed18 FNDF 0.0
+18 MasterFeed18 UIP/CP 0.0
+18 MasterFeed18 Sol CP/CP 0.0
+18 MasterFeed18 Starch/NFC 0.0
+18 MasterFeed18 ARG 0.0
+18 MasterFeed18 HIS 0.0
+18 MasterFeed18 ILE 0.0
+18 MasterFeed18 LEU 0.0
+18 MasterFeed18 LYS 0.0
+18 MasterFeed18 MET 0.0
+18 MasterFeed18 CYS 0.0
+18 MasterFeed18 PHE 0.0
+18 MasterFeed18 THR 0.0
+18 MasterFeed18 TRP 0.0
+18 MasterFeed18 VAL 0.0
+18 MasterFeed18 AA#12 0.0
+18 MasterFeed18 AA#13 0.0
+18 MasterFeed18 % Forage 0.0
+18 MasterFeed18 Sugar % 0.0
+18 MasterFeed18 Rumensin 0.0
+18 MasterFeed18 Lignin 0.0
+18 MasterFeed18 DNDF 12 hours 0.0
+18 MasterFeed18 DNDF 30 hours 0.0
+18 MasterFeed18 Soluble fiber 0.0
+18 MasterFeed18 Rum Deg Starch 0.0
+18 MasterFeed18 Tot FA 0.0
+18 MasterFeed18 Unsat FA 0.0
+18 MasterFeed18 Mcal 0.0
+19 MasterFeed19 DM 100.0
+19 MasterFeed19 ADF 0.0
+19 MasterFeed19 NDF 0.0
+19 MasterFeed19 NFC 0.0
+19 MasterFeed19 Starch 0.0
+19 MasterFeed19 NEL 0.0
+19 MasterFeed19 CP 0.0
+19 MasterFeed19 UIP 0.0
+19 MasterFeed19 DIP 0.0
+19 MasterFeed19 Sol CP 0.0
+19 MasterFeed19 P 21.0
+19 MasterFeed19 Ca 16.5
+19 MasterFeed19 RFV 0.0
+19 MasterFeed19 S 1.22
+19 MasterFeed19 K 0.07
+19 MasterFeed19 Mg 0.61
+19 MasterFeed19 Fat 0.0
+19 MasterFeed19 Na 0.06
+19 MasterFeed19 Cl 10.0
+19 MasterFeed19 Zn 90.0
+19 MasterFeed19 Mn 360.0
+19 MasterFeed19 Cu 10.0
+19 MasterFeed19 Fe 15800.0
+19 MasterFeed19 Vitamin A 0.0
+19 MasterFeed19 Vitamin D 0.0
+19 MasterFeed19 Vitamin E 0.0
+19 MasterFeed19 Se 0.0
+19 MasterFeed19 Co 0.0
+19 MasterFeed19 I 0.0
+19 MasterFeed19 FNDF 0.0
+19 MasterFeed19 UIP/CP 0.0
+19 MasterFeed19 Sol CP/CP 0.0
+19 MasterFeed19 Starch/NFC 0.0
+19 MasterFeed19 ARG 0.0
+19 MasterFeed19 HIS 0.0
+19 MasterFeed19 ILE 0.0
+19 MasterFeed19 LEU 0.0
+19 MasterFeed19 LYS 0.0
+19 MasterFeed19 MET 0.0
+19 MasterFeed19 CYS 0.0
+19 MasterFeed19 PHE 0.0
+19 MasterFeed19 THR 0.0
+19 MasterFeed19 TRP 0.0
+19 MasterFeed19 VAL 0.0
+19 MasterFeed19 AA#12 0.0
+19 MasterFeed19 AA#13 0.0
+19 MasterFeed19 % Forage 0.0
+19 MasterFeed19 Sugar % 0.0
+19 MasterFeed19 Rumensin 0.0
+19 MasterFeed19 Lignin 0.0
+19 MasterFeed19 DNDF 12 hours 0.0
+19 MasterFeed19 DNDF 30 hours 0.0
+19 MasterFeed19 Soluble fiber 0.0
+19 MasterFeed19 Rum Deg Starch 0.0
+19 MasterFeed19 Tot FA 0.0
+19 MasterFeed19 Unsat FA 0.0
+19 MasterFeed19 Mcal 0.0
+20 MasterFeed20 DM 100.0
+20 MasterFeed20 ADF 0.0
+20 MasterFeed20 NDF 0.0
+20 MasterFeed20 NFC 0.0
+20 MasterFeed20 Starch 0.0
+20 MasterFeed20 NEL 0.0
+20 MasterFeed20 CP 0.0
+20 MasterFeed20 UIP 0.0
+20 MasterFeed20 DIP 0.0
+20 MasterFeed20 Sol CP 0.0
+20 MasterFeed20 P 0.01
+20 MasterFeed20 Ca 38.0
+20 MasterFeed20 RFV 0.0
+20 MasterFeed20 S 0.02
+20 MasterFeed20 K 0.02
+20 MasterFeed20 Mg 0.2
+20 MasterFeed20 Fat 0.0
+20 MasterFeed20 Na 0.09
+20 MasterFeed20 Cl 0.03
+20 MasterFeed20 Zn 0.0
+20 MasterFeed20 Mn 180.0
+20 MasterFeed20 Cu 0.0
+20 MasterFeed20 Fe 1800.0
+20 MasterFeed20 Vitamin A 0.0
+20 MasterFeed20 Vitamin D 0.0
+20 MasterFeed20 Vitamin E 0.0
+20 MasterFeed20 Se 0.0
+20 MasterFeed20 Co 0.0
+20 MasterFeed20 I 0.0
+20 MasterFeed20 FNDF 0.0
+20 MasterFeed20 UIP/CP 0.0
+20 MasterFeed20 Sol CP/CP 0.0
+20 MasterFeed20 Starch/NFC 0.0
+20 MasterFeed20 ARG 0.0
+20 MasterFeed20 HIS 0.0
+20 MasterFeed20 ILE 0.0
+20 MasterFeed20 LEU 0.0
+20 MasterFeed20 LYS 0.0
+20 MasterFeed20 MET 0.0
+20 MasterFeed20 CYS 0.0
+20 MasterFeed20 PHE 0.0
+20 MasterFeed20 THR 0.0
+20 MasterFeed20 TRP 0.0
+20 MasterFeed20 VAL 0.0
+20 MasterFeed20 AA#12 0.0
+20 MasterFeed20 AA#13 0.0
+20 MasterFeed20 % Forage 0.0
+20 MasterFeed20 Sugar % 0.0
+20 MasterFeed20 Rumensin 0.0
+20 MasterFeed20 Lignin 0.0
+20 MasterFeed20 DNDF 12 hours 0.0
+20 MasterFeed20 DNDF 30 hours 0.0
+20 MasterFeed20 Soluble fiber 0.0
+20 MasterFeed20 Rum Deg Starch 0.0
+20 MasterFeed20 Tot FA 0.0
+20 MasterFeed20 Unsat FA 0.0
+20 MasterFeed20 Mcal 0.0
+21 MasterFeed21 DM 100.0
+21 MasterFeed21 ADF 0.0
+21 MasterFeed21 NDF 0.0
+21 MasterFeed21 NFC 0.0
+21 MasterFeed21 Starch 0.0
+21 MasterFeed21 NEL 0.0
+21 MasterFeed21 CP 0.0
+21 MasterFeed21 UIP 0.0
+21 MasterFeed21 DIP 0.0
+21 MasterFeed21 Sol CP 0.0
+21 MasterFeed21 P 0.03
+21 MasterFeed21 Ca 10.0
+21 MasterFeed21 RFV 0.0
+21 MasterFeed21 S 0.01
+21 MasterFeed21 K 0.15
+21 MasterFeed21 Mg 2.5
+21 MasterFeed21 Fat 0.0
+21 MasterFeed21 Na 0.0
+21 MasterFeed21 Cl 0.0
+21 MasterFeed21 Zn 4.0
+21 MasterFeed21 Mn 1.0
+21 MasterFeed21 Cu 1.0
+21 MasterFeed21 Fe 150.0
+21 MasterFeed21 Vitamin A 0.0
+21 MasterFeed21 Vitamin D 0.0
+21 MasterFeed21 Vitamin E 0.0
+21 MasterFeed21 Se 0.0
+21 MasterFeed21 Co 0.0
+21 MasterFeed21 I 0.0
+21 MasterFeed21 FNDF 0.0
+21 MasterFeed21 UIP/CP 0.0
+21 MasterFeed21 Sol CP/CP 0.0
+21 MasterFeed21 Starch/NFC 0.0
+21 MasterFeed21 ARG 0.0
+21 MasterFeed21 HIS 0.0
+21 MasterFeed21 ILE 0.0
+21 MasterFeed21 LEU 0.0
+21 MasterFeed21 LYS 0.0
+21 MasterFeed21 MET 0.0
+21 MasterFeed21 CYS 0.0
+21 MasterFeed21 PHE 0.0
+21 MasterFeed21 THR 0.0
+21 MasterFeed21 TRP 0.0
+21 MasterFeed21 VAL 0.0
+21 MasterFeed21 AA#12 0.0
+21 MasterFeed21 AA#13 0.0
+21 MasterFeed21 % Forage 0.0
+21 MasterFeed21 Sugar % 0.0
+21 MasterFeed21 Rumensin 0.0
+21 MasterFeed21 Lignin 0.0
+21 MasterFeed21 DNDF 12 hours 0.0
+21 MasterFeed21 DNDF 30 hours 0.0
+21 MasterFeed21 Soluble fiber 0.0
+21 MasterFeed21 Rum Deg Starch 0.0
+21 MasterFeed21 Tot FA 0.0
+21 MasterFeed21 Unsat FA 0.0
+21 MasterFeed21 Mcal 0.0
+22 MasterFeed22 DM 100.0
+22 MasterFeed22 ADF 0.0
+22 MasterFeed22 NDF 0.0
+22 MasterFeed22 NFC 0.0
+22 MasterFeed22 Starch 0.0
+22 MasterFeed22 NEL 0.0
+22 MasterFeed22 CP 0.0
+22 MasterFeed22 UIP 0.0
+22 MasterFeed22 DIP 0.0
+22 MasterFeed22 Sol CP 0.0
+22 MasterFeed22 P 0.0
+22 MasterFeed22 Ca 0.0
+22 MasterFeed22 RFV 0.0
+22 MasterFeed22 S 0.0
+22 MasterFeed22 K 0.0
+22 MasterFeed22 Mg 0.0
+22 MasterFeed22 Fat 0.0
+22 MasterFeed22 Na 40.0
+22 MasterFeed22 Cl 60.0
+22 MasterFeed22 Zn 0.0
+22 MasterFeed22 Mn 0.0
+22 MasterFeed22 Cu 0.0
+22 MasterFeed22 Fe 0.0
+22 MasterFeed22 Vitamin A 0.0
+22 MasterFeed22 Vitamin D 0.0
+22 MasterFeed22 Vitamin E 0.0
+22 MasterFeed22 Se 0.0
+22 MasterFeed22 Co 17400.0
+22 MasterFeed22 I 16920.0
+22 MasterFeed22 FNDF 0.0
+22 MasterFeed22 UIP/CP 0.0
+22 MasterFeed22 Sol CP/CP 0.0
+22 MasterFeed22 Starch/NFC 0.0
+22 MasterFeed22 ARG 0.0
+22 MasterFeed22 HIS 0.0
+22 MasterFeed22 ILE 0.0
+22 MasterFeed22 LEU 0.0
+22 MasterFeed22 LYS 0.0
+22 MasterFeed22 MET 0.0
+22 MasterFeed22 CYS 0.0
+22 MasterFeed22 PHE 0.0
+22 MasterFeed22 THR 0.0
+22 MasterFeed22 TRP 0.0
+22 MasterFeed22 VAL 0.0
+22 MasterFeed22 AA#12 0.0
+22 MasterFeed22 AA#13 0.0
+22 MasterFeed22 % Forage 0.0
+22 MasterFeed22 Sugar % 0.0
+22 MasterFeed22 Rumensin 0.0
+22 MasterFeed22 Lignin 0.0
+22 MasterFeed22 DNDF 12 hours 0.0
+22 MasterFeed22 DNDF 30 hours 0.0
+22 MasterFeed22 Soluble fiber 0.0
+22 MasterFeed22 Rum Deg Starch 0.0
+22 MasterFeed22 Tot FA 0.0
+22 MasterFeed22 Unsat FA 0.0
+22 MasterFeed22 Mcal 0.0
+23 MasterFeed23 DM 85.0
+23 MasterFeed23 ADF 10.0
+23 MasterFeed23 NDF 14.0
+23 MasterFeed23 NFC 0.0
+23 MasterFeed23 Starch 0.0
+23 MasterFeed23 NEL 88.0
+23 MasterFeed23 CP 50.0
+23 MasterFeed23 UIP 14.0
+23 MasterFeed23 DIP 36.0
+23 MasterFeed23 Sol CP 0.0
+23 MasterFeed23 P 0.68
+23 MasterFeed23 Ca 0.3
+23 MasterFeed23 RFV 0.0
+23 MasterFeed23 S 0.37
+23 MasterFeed23 K 2.0
+23 MasterFeed23 Mg 0.3
+23 MasterFeed23 Fat 1.5
+23 MasterFeed23 Na 0.03
+23 MasterFeed23 Cl 0.2
+23 MasterFeed23 Zn 66.0
+23 MasterFeed23 Mn 35.0
+23 MasterFeed23 Cu 24.0
+23 MasterFeed23 Fe 175.0
+23 MasterFeed23 Vitamin A 0.0
+23 MasterFeed23 Vitamin D 0.0
+23 MasterFeed23 Vitamin E 0.0
+23 MasterFeed23 Se 4.0
+23 MasterFeed23 Co 0.0
+23 MasterFeed23 I 0.0
+23 MasterFeed23 FNDF 14.0
+23 MasterFeed23 UIP/CP 28.0
+23 MasterFeed23 Sol CP/CP 0.0
+23 MasterFeed23 Starch/NFC 0.0
+23 MasterFeed23 ARG 0.0
+23 MasterFeed23 HIS 0.0
+23 MasterFeed23 ILE 0.0
+23 MasterFeed23 LEU 0.0
+23 MasterFeed23 LYS 0.0
+23 MasterFeed23 MET 0.0
+23 MasterFeed23 CYS 0.0
+23 MasterFeed23 PHE 0.0
+23 MasterFeed23 THR 0.0
+23 MasterFeed23 TRP 0.0
+23 MasterFeed23 VAL 0.0
+23 MasterFeed23 AA#12 0.0
+23 MasterFeed23 AA#13 0.0
+23 MasterFeed23 % Forage 0.0
+23 MasterFeed23 Sugar % 0.0
+23 MasterFeed23 Rumensin 0.0
+23 MasterFeed23 Lignin 0.0
+23 MasterFeed23 DNDF 12 hours 0.0
+23 MasterFeed23 DNDF 30 hours 0.0
+23 MasterFeed23 Soluble fiber 0.0
+23 MasterFeed23 Rum Deg Starch 0.0
+23 MasterFeed23 Tot FA 0.0
+23 MasterFeed23 Unsat FA 0.0
+23 MasterFeed23 Mcal 0.0
+24 MasterFeed24 DM 100.0
+24 MasterFeed24 ADF 0.0
+24 MasterFeed24 NDF 0.0
+24 MasterFeed24 NFC 0.0
+24 MasterFeed24 Starch 0.0
+24 MasterFeed24 NEL 0.0
+24 MasterFeed24 CP 0.0
+24 MasterFeed24 UIP 0.0
+24 MasterFeed24 DIP 0.0
+24 MasterFeed24 Sol CP 0.0
+24 MasterFeed24 P 0.0
+24 MasterFeed24 Ca 0.0
+24 MasterFeed24 RFV 0.0
+24 MasterFeed24 S 0.0
+24 MasterFeed24 K 0.0
+24 MasterFeed24 Mg 0.0
+24 MasterFeed24 Fat 0.0
+24 MasterFeed24 Na 0.0
+24 MasterFeed24 Cl 0.0
+24 MasterFeed24 Zn 0.0
+24 MasterFeed24 Mn 0.0
+24 MasterFeed24 Cu 0.0
+24 MasterFeed24 Fe 0.0
+24 MasterFeed24 Vitamin A 0.0
+24 MasterFeed24 Vitamin D 0.0
+24 MasterFeed24 Vitamin E 0.0
+24 MasterFeed24 Se 0.0
+24 MasterFeed24 Co 0.0
+24 MasterFeed24 I 0.0
+24 MasterFeed24 FNDF 0.0
+24 MasterFeed24 UIP/CP 0.0
+24 MasterFeed24 Sol CP/CP 0.0
+24 MasterFeed24 Starch/NFC 0.0
+24 MasterFeed24 ARG 0.0
+24 MasterFeed24 HIS 0.0
+24 MasterFeed24 ILE 0.0
+24 MasterFeed24 LEU 0.0
+24 MasterFeed24 LYS 0.0
+24 MasterFeed24 MET 0.0
+24 MasterFeed24 CYS 0.0
+24 MasterFeed24 PHE 0.0
+24 MasterFeed24 THR 0.0
+24 MasterFeed24 TRP 0.0
+24 MasterFeed24 VAL 0.0
+24 MasterFeed24 AA#12 0.0
+24 MasterFeed24 AA#13 0.0
+24 MasterFeed24 % Forage 0.0
+24 MasterFeed24 Sugar % 0.0
+24 MasterFeed24 Rumensin 0.0
+24 MasterFeed24 Lignin 0.0
+24 MasterFeed24 DNDF 12 hours 0.0
+24 MasterFeed24 DNDF 30 hours 0.0
+24 MasterFeed24 Soluble fiber 0.0
+24 MasterFeed24 Rum Deg Starch 0.0
+24 MasterFeed24 Tot FA 0.0
+24 MasterFeed24 Unsat FA 0.0
+24 MasterFeed24 Mcal 0.0
+40 MasterFeed40 DM 100.0
+40 MasterFeed40 ADF 0.0
+40 MasterFeed40 NDF 0.0
+40 MasterFeed40 NFC 0.0
+40 MasterFeed40 Starch 0.0
+40 MasterFeed40 NEL 0.0
+40 MasterFeed40 CP 0.0
+40 MasterFeed40 UIP 0.0
+40 MasterFeed40 DIP 0.0
+40 MasterFeed40 Sol CP 0.0
+40 MasterFeed40 P 0.0
+40 MasterFeed40 Ca 0.0
+40 MasterFeed40 RFV 0.0
+40 MasterFeed40 S 0.0
+40 MasterFeed40 K 0.0
+40 MasterFeed40 Mg 0.0
+40 MasterFeed40 Fat 0.0
+40 MasterFeed40 Na 0.0
+40 MasterFeed40 Cl 0.0
+40 MasterFeed40 Zn 0.0
+40 MasterFeed40 Mn 0.0
+40 MasterFeed40 Cu 0.0
+40 MasterFeed40 Fe 0.0
+40 MasterFeed40 Vitamin A 0.0
+40 MasterFeed40 Vitamin D 0.0
+40 MasterFeed40 Vitamin E 0.0
+40 MasterFeed40 Se 0.0
+40 MasterFeed40 Co 0.0
+40 MasterFeed40 I 0.0
+40 MasterFeed40 FNDF 0.0
+40 MasterFeed40 UIP/CP 0.0
+40 MasterFeed40 Sol CP/CP 0.0
+40 MasterFeed40 Starch/NFC 0.0
+40 MasterFeed40 ARG 0.0
+40 MasterFeed40 HIS 0.0
+40 MasterFeed40 ILE 0.0
+40 MasterFeed40 LEU 0.0
+40 MasterFeed40 LYS 0.0
+40 MasterFeed40 MET 0.0
+40 MasterFeed40 CYS 0.0
+40 MasterFeed40 PHE 0.0
+40 MasterFeed40 THR 0.0
+40 MasterFeed40 TRP 0.0
+40 MasterFeed40 VAL 0.0
+40 MasterFeed40 AA#12 0.0
+40 MasterFeed40 AA#13 0.0
+40 MasterFeed40 % Forage 0.0
+40 MasterFeed40 Sugar % 0.0
+40 MasterFeed40 Rumensin 0.0
+40 MasterFeed40 Lignin 0.0
+40 MasterFeed40 DNDF 12 hours 0.0
+40 MasterFeed40 DNDF 30 hours 0.0
+40 MasterFeed40 Soluble fiber 0.0
+40 MasterFeed40 Rum Deg Starch 0.0
+40 MasterFeed40 Tot FA 0.0
+40 MasterFeed40 Unsat FA 0.0
+40 MasterFeed40 Mcal 0.0
+25 MasterFeed25 DM 100.0
+25 MasterFeed25 ADF 10.0
+25 MasterFeed25 NDF 14.0
+25 MasterFeed25 NFC 0.0
+25 MasterFeed25 Starch 0.0
+25 MasterFeed25 NEL 1.0
+25 MasterFeed25 CP 1.0
+25 MasterFeed25 UIP 1.0
+25 MasterFeed25 DIP 0.0
+25 MasterFeed25 Sol CP 0.0
+25 MasterFeed25 P 1.0
+25 MasterFeed25 Ca 1.0
+25 MasterFeed25 RFV 0.0
+25 MasterFeed25 S 1.0
+25 MasterFeed25 K 1.0
+25 MasterFeed25 Mg 1.0
+25 MasterFeed25 Fat 1.0
+25 MasterFeed25 Na 1.0
+25 MasterFeed25 Cl 1.0
+25 MasterFeed25 Zn 2.0
+25 MasterFeed25 Mn 2.0
+25 MasterFeed25 Cu 2.0
+25 MasterFeed25 Fe 2.0
+25 MasterFeed25 Vitamin A 2000.0
+25 MasterFeed25 Vitamin D 2000.0
+25 MasterFeed25 Vitamin E 20000.0
+25 MasterFeed25 Se 0.0
+25 MasterFeed25 Co 0.0
+25 MasterFeed25 I 0.0
+25 MasterFeed25 FNDF 14.0
+25 MasterFeed25 UIP/CP 100.0
+25 MasterFeed25 Sol CP/CP 0.0
+25 MasterFeed25 Starch/NFC 0.0
+25 MasterFeed25 ARG 0.0
+25 MasterFeed25 HIS 0.0
+25 MasterFeed25 ILE 0.0
+25 MasterFeed25 LEU 0.0
+25 MasterFeed25 LYS 0.0
+25 MasterFeed25 MET 0.0
+25 MasterFeed25 CYS 0.0
+25 MasterFeed25 PHE 0.0
+25 MasterFeed25 THR 0.0
+25 MasterFeed25 TRP 0.0
+25 MasterFeed25 VAL 0.0
+25 MasterFeed25 AA#12 0.0
+25 MasterFeed25 AA#13 0.0
+25 MasterFeed25 % Forage 0.0
+25 MasterFeed25 Sugar % 0.0
+25 MasterFeed25 Rumensin 0.0
+25 MasterFeed25 Lignin 0.0
+25 MasterFeed25 DNDF 12 hours 0.0
+25 MasterFeed25 DNDF 30 hours 0.0
+25 MasterFeed25 Soluble fiber 0.0
+25 MasterFeed25 Rum Deg Starch 0.0
+25 MasterFeed25 Tot FA 0.0
+25 MasterFeed25 Unsat FA 0.0
+25 MasterFeed25 Mcal 0.0
+26 MasterFeed26 DM 100.0
+26 MasterFeed26 ADF 0.0
+26 MasterFeed26 NDF 0.0
+26 MasterFeed26 NFC 0.0
+26 MasterFeed26 Starch 0.0
+26 MasterFeed26 NEL 0.0
+26 MasterFeed26 CP 0.0
+26 MasterFeed26 UIP 0.0
+26 MasterFeed26 DIP 0.0
+26 MasterFeed26 Sol CP 0.0
+26 MasterFeed26 P 0.0
+26 MasterFeed26 Ca 0.0
+26 MasterFeed26 RFV 0.0
+26 MasterFeed26 S 24.0
+26 MasterFeed26 K 1.0
+26 MasterFeed26 Mg 11.0
+26 MasterFeed26 Fat 1.0
+26 MasterFeed26 Na 1.0
+26 MasterFeed26 Cl 1.0
+26 MasterFeed26 Zn 2.0
+26 MasterFeed26 Mn 2.0
+26 MasterFeed26 Cu 2.0
+26 MasterFeed26 Fe 2.0
+26 MasterFeed26 Vitamin A 2000.0
+26 MasterFeed26 Vitamin D 2000.0
+26 MasterFeed26 Vitamin E 2.0
+26 MasterFeed26 Se 0.0
+26 MasterFeed26 Co 0.0
+26 MasterFeed26 I 3682.0
+26 MasterFeed26 FNDF 0.0
+26 MasterFeed26 UIP/CP 0.0
+26 MasterFeed26 Sol CP/CP 0.0
+26 MasterFeed26 Starch/NFC 0.0
+26 MasterFeed26 ARG 0.0
+26 MasterFeed26 HIS 0.0
+26 MasterFeed26 ILE 0.0
+26 MasterFeed26 LEU 0.0
+26 MasterFeed26 LYS 0.0
+26 MasterFeed26 MET 0.0
+26 MasterFeed26 CYS 0.0
+26 MasterFeed26 PHE 0.0
+26 MasterFeed26 THR 0.0
+26 MasterFeed26 TRP 0.0
+26 MasterFeed26 VAL 0.0
+26 MasterFeed26 AA#12 0.0
+26 MasterFeed26 AA#13 0.0
+26 MasterFeed26 % Forage 0.0
+26 MasterFeed26 Sugar % 0.0
+26 MasterFeed26 Rumensin 0.0
+26 MasterFeed26 Lignin 0.0
+26 MasterFeed26 DNDF 12 hours 0.0
+26 MasterFeed26 DNDF 30 hours 0.0
+26 MasterFeed26 Soluble fiber 0.0
+26 MasterFeed26 Rum Deg Starch 0.0
+26 MasterFeed26 Tot FA 0.0
+26 MasterFeed26 Unsat FA 0.0
+26 MasterFeed26 Mcal 0.0
+27 MasterFeed27 DM 100.0
+27 MasterFeed27 ADF 0.0
+27 MasterFeed27 NDF 0.0
+27 MasterFeed27 NFC 0.0
+27 MasterFeed27 Starch 0.0
+27 MasterFeed27 NEL 0.0
+27 MasterFeed27 CP 0.0
+27 MasterFeed27 UIP 0.0
+27 MasterFeed27 DIP 0.0
+27 MasterFeed27 Sol CP 0.0
+27 MasterFeed27 P 0.0
+27 MasterFeed27 Ca 0.0
+27 MasterFeed27 RFV 0.0
+27 MasterFeed27 S 0.0
+27 MasterFeed27 K 0.0
+27 MasterFeed27 Mg 0.0
+27 MasterFeed27 Fat 0.0
+27 MasterFeed27 Na 0.0
+27 MasterFeed27 Cl 0.0
+27 MasterFeed27 Zn 40000.0
+27 MasterFeed27 Mn 0.0
+27 MasterFeed27 Cu 0.0
+27 MasterFeed27 Fe 0.0
+27 MasterFeed27 Vitamin A 0.0
+27 MasterFeed27 Vitamin D 0.0
+27 MasterFeed27 Vitamin E 0.0
+27 MasterFeed27 Se 0.0
+27 MasterFeed27 Co 0.0
+27 MasterFeed27 I 0.0
+27 MasterFeed27 FNDF 0.0
+27 MasterFeed27 UIP/CP 0.0
+27 MasterFeed27 Sol CP/CP 0.0
+27 MasterFeed27 Starch/NFC 0.0
+27 MasterFeed27 ARG 0.0
+27 MasterFeed27 HIS 0.0
+27 MasterFeed27 ILE 0.0
+27 MasterFeed27 LEU 0.0
+27 MasterFeed27 LYS 0.0
+27 MasterFeed27 MET 0.0
+27 MasterFeed27 CYS 0.0
+27 MasterFeed27 PHE 0.0
+27 MasterFeed27 THR 0.0
+27 MasterFeed27 TRP 0.0
+27 MasterFeed27 VAL 0.0
+27 MasterFeed27 AA#12 0.0
+27 MasterFeed27 AA#13 0.0
+27 MasterFeed27 % Forage 0.0
+27 MasterFeed27 Sugar % 0.0
+27 MasterFeed27 Rumensin 0.0
+27 MasterFeed27 Lignin 0.0
+27 MasterFeed27 DNDF 12 hours 0.0
+27 MasterFeed27 DNDF 30 hours 0.0
+27 MasterFeed27 Soluble fiber 0.0
+27 MasterFeed27 Rum Deg Starch 0.0
+27 MasterFeed27 Tot FA 0.0
+27 MasterFeed27 Unsat FA 0.0
+27 MasterFeed27 Mcal 0.0
+28 MasterFeed28 DM 97.0
+28 MasterFeed28 ADF 0.0
+28 MasterFeed28 NDF 0.0
+28 MasterFeed28 NFC 0.0
+28 MasterFeed28 Starch 0.0
+28 MasterFeed28 NEL 0.0
+28 MasterFeed28 CP 0.0
+28 MasterFeed28 UIP 0.0
+28 MasterFeed28 DIP 0.0
+28 MasterFeed28 Sol CP 0.0
+28 MasterFeed28 P 0.0
+28 MasterFeed28 Ca 25.0
+28 MasterFeed28 RFV 0.0
+28 MasterFeed28 S 0.0
+28 MasterFeed28 K 0.0
+28 MasterFeed28 Mg 0.0
+28 MasterFeed28 Fat 0.0
+28 MasterFeed28 Na 0.0
+28 MasterFeed28 Cl 20.0
+28 MasterFeed28 Zn 0.0
+28 MasterFeed28 Mn 0.0
+28 MasterFeed28 Cu 0.0
+28 MasterFeed28 Fe 0.0
+28 MasterFeed28 Vitamin A 0.0
+28 MasterFeed28 Vitamin D 0.0
+28 MasterFeed28 Vitamin E 0.0
+28 MasterFeed28 Se 0.0
+28 MasterFeed28 Co 0.0
+28 MasterFeed28 I 6175.0
+28 MasterFeed28 FNDF 0.0
+28 MasterFeed28 UIP/CP 0.0
+28 MasterFeed28 Sol CP/CP 0.0
+28 MasterFeed28 Starch/NFC 0.0
+28 MasterFeed28 ARG 0.0
+28 MasterFeed28 HIS 0.0
+28 MasterFeed28 ILE 0.0
+28 MasterFeed28 LEU 0.0
+28 MasterFeed28 LYS 0.0
+28 MasterFeed28 MET 0.0
+28 MasterFeed28 CYS 0.0
+28 MasterFeed28 PHE 0.0
+28 MasterFeed28 THR 0.0
+28 MasterFeed28 TRP 0.0
+28 MasterFeed28 VAL 0.0
+28 MasterFeed28 AA#12 0.0
+28 MasterFeed28 AA#13 0.0
+28 MasterFeed28 % Forage 0.0
+28 MasterFeed28 Sugar % 0.0
+28 MasterFeed28 Rumensin 0.0
+28 MasterFeed28 Lignin 0.0
+28 MasterFeed28 DNDF 12 hours 0.0
+28 MasterFeed28 DNDF 30 hours 0.0
+28 MasterFeed28 Soluble fiber 0.0
+28 MasterFeed28 Rum Deg Starch 0.0
+28 MasterFeed28 Tot FA 0.0
+28 MasterFeed28 Unsat FA 0.0
+28 MasterFeed28 Mcal 0.0
+29 MasterFeed29 DM 98.0
+29 MasterFeed29 ADF 1.0
+29 MasterFeed29 NDF 2.0
+29 MasterFeed29 NFC 2.0
+29 MasterFeed29 Starch 0.0
+29 MasterFeed29 NEL 1.0
+29 MasterFeed29 CP 1.0
+29 MasterFeed29 UIP 1.0
+29 MasterFeed29 DIP 0.0
+29 MasterFeed29 Sol CP 0.0
+29 MasterFeed29 P 1.0
+29 MasterFeed29 Ca 1.0
+29 MasterFeed29 RFV 4099.0
+29 MasterFeed29 S 1.0
+29 MasterFeed29 K 1.0
+29 MasterFeed29 Mg 1.0
+29 MasterFeed29 Fat 1.0
+29 MasterFeed29 Na 1.0
+29 MasterFeed29 Cl 1.0
+29 MasterFeed29 Zn 2.0
+29 MasterFeed29 Mn 2.0
+29 MasterFeed29 Cu 2.0
+29 MasterFeed29 Fe 2.0
+29 MasterFeed29 Vitamin A 2000.0
+29 MasterFeed29 Vitamin D 2000.0
+29 MasterFeed29 Vitamin E 2.0
+29 MasterFeed29 Se 0.0
+29 MasterFeed29 Co 0.0
+29 MasterFeed29 I 0.0
+29 MasterFeed29 FNDF 2.0
+29 MasterFeed29 UIP/CP 100.0
+29 MasterFeed29 Sol CP/CP 0.0
+29 MasterFeed29 Starch/NFC 0.0
+29 MasterFeed29 ARG 0.0
+29 MasterFeed29 HIS 0.0
+29 MasterFeed29 ILE 0.0
+29 MasterFeed29 LEU 0.0
+29 MasterFeed29 LYS 0.0
+29 MasterFeed29 MET 0.0
+29 MasterFeed29 CYS 0.0
+29 MasterFeed29 PHE 0.0
+29 MasterFeed29 THR 0.0
+29 MasterFeed29 TRP 0.0
+29 MasterFeed29 VAL 0.0
+29 MasterFeed29 AA#12 0.0
+29 MasterFeed29 AA#13 0.0
+29 MasterFeed29 % Forage 0.0
+29 MasterFeed29 Sugar % 0.0
+29 MasterFeed29 Rumensin 0.0
+29 MasterFeed29 Lignin 0.0
+29 MasterFeed29 DNDF 12 hours 0.0
+29 MasterFeed29 DNDF 30 hours 0.0
+29 MasterFeed29 Soluble fiber 0.0
+29 MasterFeed29 Rum Deg Starch 0.0
+29 MasterFeed29 Tot FA 0.0
+29 MasterFeed29 Unsat FA 0.0
+29 MasterFeed29 Mcal 0.0
+41 MasterFeed41 DM 99.0
+41 MasterFeed41 ADF 0.0
+41 MasterFeed41 NDF 0.0
+41 MasterFeed41 NFC 0.0
+41 MasterFeed41 Starch 0.0
+41 MasterFeed41 NEL 0.0
+41 MasterFeed41 CP 270.0
+41 MasterFeed41 UIP 2.7
+41 MasterFeed41 DIP 267.3
+41 MasterFeed41 Sol CP 0.0
+41 MasterFeed41 P 0.0
+41 MasterFeed41 Ca 0.0
+41 MasterFeed41 RFV 0.0
+41 MasterFeed41 S 0.0
+41 MasterFeed41 K 0.0
+41 MasterFeed41 Mg 0.0
+41 MasterFeed41 Fat 0.0
+41 MasterFeed41 Na 0.0
+41 MasterFeed41 Cl 0.0
+41 MasterFeed41 Zn 0.0
+41 MasterFeed41 Mn 0.0
+41 MasterFeed41 Cu 0.0
+41 MasterFeed41 Fe 0.0
+41 MasterFeed41 Vitamin A 0.0
+41 MasterFeed41 Vitamin D 0.0
+41 MasterFeed41 Vitamin E 0.0
+41 MasterFeed41 Se 0.0
+41 MasterFeed41 Co 0.0
+41 MasterFeed41 I 0.0
+41 MasterFeed41 FNDF 0.0
+41 MasterFeed41 UIP/CP 1.0
+41 MasterFeed41 Sol CP/CP 0.0
+41 MasterFeed41 Starch/NFC 0.0
+41 MasterFeed41 ARG 0.0
+41 MasterFeed41 HIS 0.0
+41 MasterFeed41 ILE 0.0
+41 MasterFeed41 LEU 0.0
+41 MasterFeed41 LYS 0.0
+41 MasterFeed41 MET 0.0
+41 MasterFeed41 CYS 0.0
+41 MasterFeed41 PHE 0.0
+41 MasterFeed41 THR 0.0
+41 MasterFeed41 TRP 0.0
+41 MasterFeed41 VAL 0.0
+41 MasterFeed41 AA#12 0.0
+41 MasterFeed41 AA#13 0.0
+41 MasterFeed41 % Forage 0.0
+41 MasterFeed41 Sugar % 0.0
+41 MasterFeed41 Rumensin 0.0
+41 MasterFeed41 Lignin 0.0
+41 MasterFeed41 DNDF 12 hours 0.0
+41 MasterFeed41 DNDF 30 hours 0.0
+41 MasterFeed41 Soluble fiber 0.0
+41 MasterFeed41 Rum Deg Starch 0.0
+41 MasterFeed41 Tot FA 0.0
+41 MasterFeed41 Unsat FA 0.0
+41 MasterFeed41 Mcal 0.0
+30 MasterFeed30 DM 25.0
+30 MasterFeed30 ADF 0.0
+30 MasterFeed30 NDF 0.0
+30 MasterFeed30 NFC 70.0
+30 MasterFeed30 Starch 0.0
+30 MasterFeed30 NEL 85.0
+30 MasterFeed30 CP 14.0
+30 MasterFeed30 UIP 5.46
+30 MasterFeed30 DIP 8.54
+30 MasterFeed30 Sol CP 0.0
+30 MasterFeed30 P 1.0
+30 MasterFeed30 Ca 1.0
+30 MasterFeed30 RFV 0.0
+30 MasterFeed30 S 0.2
+30 MasterFeed30 K 3.91
+30 MasterFeed30 Mg 0.2
+30 MasterFeed30 Fat 1.0
+30 MasterFeed30 Na 2.0
+30 MasterFeed30 Cl 5.0
+30 MasterFeed30 Zn 2.0
+30 MasterFeed30 Mn 2.0
+30 MasterFeed30 Cu 2.0
+30 MasterFeed30 Fe 2.0
+30 MasterFeed30 Vitamin A 2000.0
+30 MasterFeed30 Vitamin D 2000.0
+30 MasterFeed30 Vitamin E 2.0
+30 MasterFeed30 Se 0.0
+30 MasterFeed30 Co 0.0
+30 MasterFeed30 I 0.0
+30 MasterFeed30 FNDF 0.0
+30 MasterFeed30 UIP/CP 39.0
+30 MasterFeed30 Sol CP/CP 0.0
+30 MasterFeed30 Starch/NFC 0.0
+30 MasterFeed30 ARG 0.0
+30 MasterFeed30 HIS 0.0
+30 MasterFeed30 ILE 0.0
+30 MasterFeed30 LEU 0.0
+30 MasterFeed30 LYS 0.0
+30 MasterFeed30 MET 0.0
+30 MasterFeed30 CYS 0.0
+30 MasterFeed30 PHE 0.0
+30 MasterFeed30 THR 0.0
+30 MasterFeed30 TRP 0.0
+30 MasterFeed30 VAL 0.0
+30 MasterFeed30 AA#12 0.0
+30 MasterFeed30 AA#13 0.0
+30 MasterFeed30 % Forage 0.0
+30 MasterFeed30 Sugar % 0.0
+30 MasterFeed30 Rumensin 0.0
+30 MasterFeed30 Lignin 0.0
+30 MasterFeed30 DNDF 12 hours 0.0
+30 MasterFeed30 DNDF 30 hours 0.0
+30 MasterFeed30 Soluble fiber 0.0
+30 MasterFeed30 Rum Deg Starch 0.0
+30 MasterFeed30 Tot FA 0.0
+30 MasterFeed30 Unsat FA 0.0
+30 MasterFeed30 Mcal 0.0
+31 MasterFeed31 DM 85.0
+31 MasterFeed31 ADF 35.0
+31 MasterFeed31 NDF 50.0
+31 MasterFeed31 NFC 13.0
+31 MasterFeed31 Starch 0.0
+31 MasterFeed31 NEL 55.0
+31 MasterFeed31 CP 20.0
+31 MasterFeed31 UIP 3.6
+31 MasterFeed31 DIP 16.4
+31 MasterFeed31 Sol CP 0.0
+31 MasterFeed31 P 0.4
+31 MasterFeed31 Ca 0.75
+31 MasterFeed31 RFV 115.0
+31 MasterFeed31 S 0.24
+31 MasterFeed31 K 2.0
+31 MasterFeed31 Mg 0.2
+31 MasterFeed31 Fat 1.0
+31 MasterFeed31 Na 0.02
+31 MasterFeed31 Cl 0.05
+31 MasterFeed31 Zn 62.0
+31 MasterFeed31 Mn 39.0
+31 MasterFeed31 Cu 20.0
+31 MasterFeed31 Fe 91.0
+31 MasterFeed31 Vitamin A 0.0
+31 MasterFeed31 Vitamin D 0.0
+31 MasterFeed31 Vitamin E 37.0
+31 MasterFeed31 Se 4.0
+31 MasterFeed31 Co 0.0
+31 MasterFeed31 I 0.0
+31 MasterFeed31 FNDF 50.0
+31 MasterFeed31 UIP/CP 18.0
+31 MasterFeed31 Sol CP/CP 0.0
+31 MasterFeed31 Starch/NFC 0.0
+31 MasterFeed31 ARG 0.0
+31 MasterFeed31 HIS 0.0
+31 MasterFeed31 ILE 0.0
+31 MasterFeed31 LEU 0.0
+31 MasterFeed31 LYS 0.0
+31 MasterFeed31 MET 0.0
+31 MasterFeed31 CYS 0.0
+31 MasterFeed31 PHE 0.0
+31 MasterFeed31 THR 0.0
+31 MasterFeed31 TRP 0.0
+31 MasterFeed31 VAL 0.0
+31 MasterFeed31 AA#12 0.0
+31 MasterFeed31 AA#13 0.0
+31 MasterFeed31 % Forage 0.0
+31 MasterFeed31 Sugar % 0.0
+31 MasterFeed31 Rumensin 0.0
+31 MasterFeed31 Lignin 0.0
+31 MasterFeed31 DNDF 12 hours 0.0
+31 MasterFeed31 DNDF 30 hours 0.0
+31 MasterFeed31 Soluble fiber 0.0
+31 MasterFeed31 Rum Deg Starch 0.0
+31 MasterFeed31 Tot FA 0.0
+31 MasterFeed31 Unsat FA 0.0
+31 MasterFeed31 Mcal 0.0
+42 MasterFeed42 DM 90.0
+42 MasterFeed42 ADF 17.0
+42 MasterFeed42 NDF 6.0
+42 MasterFeed42 NFC 31.0
+42 MasterFeed42 Starch 0.0
+42 MasterFeed42 NEL 79.0
+42 MasterFeed42 CP 42.0
+42 MasterFeed42 UIP 14.8
+42 MasterFeed42 DIP 27.2
+42 MasterFeed42 Sol CP 0.0
+42 MasterFeed42 P 1.12
+42 MasterFeed42 Ca 0.71
+42 MasterFeed42 RFV 1173.0
+42 MasterFeed42 S 0.95
+42 MasterFeed42 K 1.37
+42 MasterFeed42 Mg 0.57
+42 MasterFeed42 Fat 3.9
+42 MasterFeed42 Na 1.0
+42 MasterFeed42 Cl 1.0
+42 MasterFeed42 Zn 2.0
+42 MasterFeed42 Mn 2.0
+42 MasterFeed42 Cu 2.0
+42 MasterFeed42 Fe 2.0
+42 MasterFeed42 Vitamin A 2000.0
+42 MasterFeed42 Vitamin D 2000.0
+42 MasterFeed42 Vitamin E 2.0
+42 MasterFeed42 Se 0.0
+42 MasterFeed42 Co 0.0
+42 MasterFeed42 I 0.0
+42 MasterFeed42 FNDF 6.0
+42 MasterFeed42 UIP/CP 35.238095
+42 MasterFeed42 Sol CP/CP 0.0
+42 MasterFeed42 Starch/NFC 0.0
+42 MasterFeed42 ARG 0.0
+42 MasterFeed42 HIS 0.0
+42 MasterFeed42 ILE 0.0
+42 MasterFeed42 LEU 0.0
+42 MasterFeed42 LYS 0.0
+42 MasterFeed42 MET 0.0
+42 MasterFeed42 CYS 0.0
+42 MasterFeed42 PHE 0.0
+42 MasterFeed42 THR 0.0
+42 MasterFeed42 TRP 0.0
+42 MasterFeed42 VAL 0.0
+42 MasterFeed42 AA#12 0.0
+42 MasterFeed42 AA#13 0.0
+42 MasterFeed42 % Forage 0.0
+42 MasterFeed42 Sugar % 0.0
+42 MasterFeed42 Rumensin 0.0
+42 MasterFeed42 Lignin 0.0
+42 MasterFeed42 DNDF 12 hours 0.0
+42 MasterFeed42 DNDF 30 hours 0.0
+42 MasterFeed42 Soluble fiber 0.0
+42 MasterFeed42 Rum Deg Starch 0.0
+42 MasterFeed42 Tot FA 0.0
+42 MasterFeed42 Unsat FA 0.0
+42 MasterFeed42 Mcal 0.0
+32 MasterFeed32 DM 90.0
+32 MasterFeed32 ADF 18.0
+32 MasterFeed32 NDF 33.0
+32 MasterFeed32 NFC 38.0
+32 MasterFeed32 Starch 0.0
+32 MasterFeed32 NEL 80.0
+32 MasterFeed32 CP 16.0
+32 MasterFeed32 UIP 5.6
+32 MasterFeed32 DIP 10.4
+32 MasterFeed32 Sol CP 0.0
+32 MasterFeed32 P 1.5
+32 MasterFeed32 Ca 0.08
+32 MasterFeed32 RFV 211.0
+32 MasterFeed32 S 0.2
+32 MasterFeed32 K 1.9
+32 MasterFeed32 Mg 1.0
+32 MasterFeed32 Fat 20.0
+32 MasterFeed32 Na 0.04
+32 MasterFeed32 Cl 0.08
+32 MasterFeed32 Zn 32.0
+32 MasterFeed32 Mn 415.0
+32 MasterFeed32 Cu 15.0
+32 MasterFeed32 Fe 210.0
+32 MasterFeed32 Vitamin A 2000.0
+32 MasterFeed32 Vitamin D 2000.0
+32 MasterFeed32 Vitamin E 30.0
+32 MasterFeed32 Se 0.0
+32 MasterFeed32 Co 0.0
+32 MasterFeed32 I 0.0
+32 MasterFeed32 FNDF 33.0
+32 MasterFeed32 UIP/CP 35.0
+32 MasterFeed32 Sol CP/CP 0.0
+32 MasterFeed32 Starch/NFC 0.0
+32 MasterFeed32 ARG 0.0
+32 MasterFeed32 HIS 0.0
+32 MasterFeed32 ILE 0.0
+32 MasterFeed32 LEU 0.0
+32 MasterFeed32 LYS 0.0
+32 MasterFeed32 MET 0.0
+32 MasterFeed32 CYS 0.0
+32 MasterFeed32 PHE 0.0
+32 MasterFeed32 THR 0.0
+32 MasterFeed32 TRP 0.0
+32 MasterFeed32 VAL 0.0
+32 MasterFeed32 AA#12 0.0
+32 MasterFeed32 AA#13 0.0
+32 MasterFeed32 % Forage 0.0
+32 MasterFeed32 Sugar % 0.0
+32 MasterFeed32 Rumensin 0.0
+32 MasterFeed32 Lignin 0.0
+32 MasterFeed32 DNDF 12 hours 0.0
+32 MasterFeed32 DNDF 30 hours 0.0
+32 MasterFeed32 Soluble fiber 0.0
+32 MasterFeed32 Rum Deg Starch 0.0
+32 MasterFeed32 Tot FA 0.0
+32 MasterFeed32 Unsat FA 0.0
+32 MasterFeed32 Mcal 0.0
+33 MasterFeed33 DM 90.0
+33 MasterFeed33 ADF 26.0
+33 MasterFeed33 NDF 35.0
+33 MasterFeed33 NFC 10.0
+33 MasterFeed33 Starch 0.0
+33 MasterFeed33 NEL 101.0
+33 MasterFeed33 CP 24.0
+33 MasterFeed33 UIP 9.45
+33 MasterFeed33 DIP 14.55
+33 MasterFeed33 Sol CP 0.0
+33 MasterFeed33 P 0.64
+33 MasterFeed33 Ca 0.21
+33 MasterFeed33 RFV 182.0
+33 MasterFeed33 S 0.26
+33 MasterFeed33 K 1.0
+33 MasterFeed33 Mg 0.46
+33 MasterFeed33 Fat 21.0
+33 MasterFeed33 Na 0.01
+33 MasterFeed33 Cl 0.05
+33 MasterFeed33 Zn 33.0
+33 MasterFeed33 Mn 19.0
+33 MasterFeed33 Cu 9.0
+33 MasterFeed33 Fe 151.0
+33 MasterFeed33 Vitamin A 0.0
+33 MasterFeed33 Vitamin D 0.0
+33 MasterFeed33 Vitamin E 0.0
+33 MasterFeed33 Se 0.0
+33 MasterFeed33 Co 0.0
+33 MasterFeed33 I 0.0
+33 MasterFeed33 FNDF 35.0
+33 MasterFeed33 UIP/CP 39.375
+33 MasterFeed33 Sol CP/CP 0.0
+33 MasterFeed33 Starch/NFC 0.0
+33 MasterFeed33 ARG 0.0
+33 MasterFeed33 HIS 0.0
+33 MasterFeed33 ILE 0.0
+33 MasterFeed33 LEU 0.0
+33 MasterFeed33 LYS 0.0
+33 MasterFeed33 MET 0.0
+33 MasterFeed33 CYS 0.0
+33 MasterFeed33 PHE 0.0
+33 MasterFeed33 THR 0.0
+33 MasterFeed33 TRP 0.0
+33 MasterFeed33 VAL 0.0
+33 MasterFeed33 AA#12 0.0
+33 MasterFeed33 AA#13 0.0
+33 MasterFeed33 % Forage 0.0
+33 MasterFeed33 Sugar % 0.0
+33 MasterFeed33 Rumensin 0.0
+33 MasterFeed33 Lignin 0.0
+33 MasterFeed33 DNDF 12 hours 0.0
+33 MasterFeed33 DNDF 30 hours 0.0
+33 MasterFeed33 Soluble fiber 0.0
+33 MasterFeed33 Rum Deg Starch 0.0
+33 MasterFeed33 Tot FA 0.0
+33 MasterFeed33 Unsat FA 0.0
+33 MasterFeed33 Mcal 0.0
+43 MasterFeed43 DM 90.0
+43 MasterFeed43 ADF 30.0
+43 MasterFeed43 NDF 50.0
+43 MasterFeed43 NFC 10.0
+43 MasterFeed43 Starch 0.0
+43 MasterFeed43 NEL 40.0
+43 MasterFeed43 CP 3.0
+43 MasterFeed43 UIP 1.0
+43 MasterFeed43 DIP 2.0
+43 MasterFeed43 Sol CP 0.0
+43 MasterFeed43 P 0.15
+43 MasterFeed43 Ca 0.15
+43 MasterFeed43 RFV 122.0
+43 MasterFeed43 S 0.1
+43 MasterFeed43 K 0.1
+43 MasterFeed43 Mg 0.1
+43 MasterFeed43 Fat 0.1
+43 MasterFeed43 Na 0.1
+43 MasterFeed43 Cl 0.1
+43 MasterFeed43 Zn 2.0
+43 MasterFeed43 Mn 2.0
+43 MasterFeed43 Cu 2.0
+43 MasterFeed43 Fe 2.0
+43 MasterFeed43 Vitamin A 2000.0
+43 MasterFeed43 Vitamin D 2000.0
+43 MasterFeed43 Vitamin E 2.0
+43 MasterFeed43 Se 0.0
+43 MasterFeed43 Co 0.0
+43 MasterFeed43 I 0.0
+43 MasterFeed43 FNDF 50.0
+43 MasterFeed43 UIP/CP 33.333333
+43 MasterFeed43 Sol CP/CP 0.0
+43 MasterFeed43 Starch/NFC 0.0
+43 MasterFeed43 ARG 0.0
+43 MasterFeed43 HIS 0.0
+43 MasterFeed43 ILE 0.0
+43 MasterFeed43 LEU 0.0
+43 MasterFeed43 LYS 0.0
+43 MasterFeed43 MET 0.0
+43 MasterFeed43 CYS 0.0
+43 MasterFeed43 PHE 0.0
+43 MasterFeed43 THR 0.0
+43 MasterFeed43 TRP 0.0
+43 MasterFeed43 VAL 0.0
+43 MasterFeed43 AA#12 0.0
+43 MasterFeed43 AA#13 0.0
+43 MasterFeed43 % Forage 0.0
+43 MasterFeed43 Sugar % 0.0
+43 MasterFeed43 Rumensin 0.0
+43 MasterFeed43 Lignin 0.0
+43 MasterFeed43 DNDF 12 hours 0.0
+43 MasterFeed43 DNDF 30 hours 0.0
+43 MasterFeed43 Soluble fiber 0.0
+43 MasterFeed43 Rum Deg Starch 0.0
+43 MasterFeed43 Tot FA 0.0
+43 MasterFeed43 Unsat FA 0.0
+43 MasterFeed43 Mcal 0.0
+34 MasterFeed34 DM 90.0
+34 MasterFeed34 ADF 48.0
+34 MasterFeed34 NDF 68.0
+34 MasterFeed34 NFC 21.0
+34 MasterFeed34 Starch 0.0
+34 MasterFeed34 NEL 55.0
+34 MasterFeed34 CP 9.0
+34 MasterFeed34 UIP 1.8
+34 MasterFeed34 DIP 7.2
+34 MasterFeed34 Sol CP 0.0
+34 MasterFeed34 P 0.12
+34 MasterFeed34 Ca 0.65
+34 MasterFeed34 RFV 70.0
+34 MasterFeed34 S 0.1
+34 MasterFeed34 K 1.0
+34 MasterFeed34 Mg 0.1
+34 MasterFeed34 Fat 0.1
+34 MasterFeed34 Na 0.1
+34 MasterFeed34 Cl 0.1
+34 MasterFeed34 Zn 2.0
+34 MasterFeed34 Mn 2.0
+34 MasterFeed34 Cu 2.0
+34 MasterFeed34 Fe 2.0
+34 MasterFeed34 Vitamin A 2000.0
+34 MasterFeed34 Vitamin D 2000.0
+34 MasterFeed34 Vitamin E 2.0
+34 MasterFeed34 Se 0.0
+34 MasterFeed34 Co 0.0
+34 MasterFeed34 I 0.0
+34 MasterFeed34 FNDF 68.0
+34 MasterFeed34 UIP/CP 20.0
+34 MasterFeed34 Sol CP/CP 0.0
+34 MasterFeed34 Starch/NFC 0.0
+34 MasterFeed34 ARG 0.0
+34 MasterFeed34 HIS 0.0
+34 MasterFeed34 ILE 0.0
+34 MasterFeed34 LEU 0.0
+34 MasterFeed34 LYS 0.0
+34 MasterFeed34 MET 0.0
+34 MasterFeed34 CYS 0.0
+34 MasterFeed34 PHE 0.0
+34 MasterFeed34 THR 0.0
+34 MasterFeed34 TRP 0.0
+34 MasterFeed34 VAL 0.0
+34 MasterFeed34 AA#12 0.0
+34 MasterFeed34 AA#13 0.0
+34 MasterFeed34 % Forage 0.0
+34 MasterFeed34 Sugar % 0.0
+34 MasterFeed34 Rumensin 0.0
+34 MasterFeed34 Lignin 0.0
+34 MasterFeed34 DNDF 12 hours 0.0
+34 MasterFeed34 DNDF 30 hours 0.0
+34 MasterFeed34 Soluble fiber 0.0
+34 MasterFeed34 Rum Deg Starch 0.0
+34 MasterFeed34 Tot FA 0.0
+34 MasterFeed34 Unsat FA 0.0
+34 MasterFeed34 Mcal 0.0
+35 MasterFeed35 DM 52.0
+35 MasterFeed35 ADF 38.0
+35 MasterFeed35 NDF 55.0
+35 MasterFeed35 NFC 20.0
+35 MasterFeed35 Starch 0.0
+35 MasterFeed35 NEL 65.0
+35 MasterFeed35 CP 10.2
+35 MasterFeed35 UIP 3.06
+35 MasterFeed35 DIP 7.14
+35 MasterFeed35 Sol CP 0.0
+35 MasterFeed35 P 0.21
+35 MasterFeed35 Ca 0.47
+35 MasterFeed35 RFV 100.0
+35 MasterFeed35 S 0.09
+35 MasterFeed35 K 1.03
+35 MasterFeed35 Mg 0.09
+35 MasterFeed35 Fat 8.0
+35 MasterFeed35 Na 0.02
+35 MasterFeed35 Cl 0.08
+35 MasterFeed35 Zn 2.0
+35 MasterFeed35 Mn 2.0
+35 MasterFeed35 Cu 2.0
+35 MasterFeed35 Fe 2.0
+35 MasterFeed35 Vitamin A 0.0
+35 MasterFeed35 Vitamin D 0.0
+35 MasterFeed35 Vitamin E 0.0
+35 MasterFeed35 Se 0.0
+35 MasterFeed35 Co 0.0
+35 MasterFeed35 I 0.0
+35 MasterFeed35 FNDF 55.0
+35 MasterFeed35 UIP/CP 30.0
+35 MasterFeed35 Sol CP/CP 0.0
+35 MasterFeed35 Starch/NFC 0.0
+35 MasterFeed35 ARG 0.0
+35 MasterFeed35 HIS 0.0
+35 MasterFeed35 ILE 0.0
+35 MasterFeed35 LEU 0.0
+35 MasterFeed35 LYS 0.0
+35 MasterFeed35 MET 0.0
+35 MasterFeed35 CYS 0.0
+35 MasterFeed35 PHE 0.0
+35 MasterFeed35 THR 0.0
+35 MasterFeed35 TRP 0.0
+35 MasterFeed35 VAL 0.0
+35 MasterFeed35 AA#12 0.0
+35 MasterFeed35 AA#13 0.0
+35 MasterFeed35 % Forage 0.0
+35 MasterFeed35 Sugar % 0.0
+35 MasterFeed35 Rumensin 0.0
+35 MasterFeed35 Lignin 0.0
+35 MasterFeed35 DNDF 12 hours 0.0
+35 MasterFeed35 DNDF 30 hours 0.0
+35 MasterFeed35 Soluble fiber 0.0
+35 MasterFeed35 Rum Deg Starch 0.0
+35 MasterFeed35 Tot FA 0.0
+35 MasterFeed35 Unsat FA 0.0
+35 MasterFeed35 Mcal 0.0
+36 MasterFeed36 DM 0.01
+36 MasterFeed36 ADF 0.01
+36 MasterFeed36 NDF 0.01
+36 MasterFeed36 NFC 0.01
+36 MasterFeed36 Starch 0.0
+36 MasterFeed36 NEL 0.01
+36 MasterFeed36 CP 0.01
+36 MasterFeed36 UIP 0.0
+36 MasterFeed36 DIP 0.01
+36 MasterFeed36 Sol CP 1e-06
+36 MasterFeed36 P 0.01
+36 MasterFeed36 Ca 0.01
+36 MasterFeed36 RFV 826904.0
+36 MasterFeed36 S 0.01
+36 MasterFeed36 K 0.01
+36 MasterFeed36 Mg 0.01
+36 MasterFeed36 Fat 0.01
+36 MasterFeed36 Na 0.01
+36 MasterFeed36 Cl 0.01
+36 MasterFeed36 Zn 2.0
+36 MasterFeed36 Mn 2.0
+36 MasterFeed36 Cu 2.0
+36 MasterFeed36 Fe 2.0
+36 MasterFeed36 Vitamin A 2000.0
+36 MasterFeed36 Vitamin D 2000.0
+36 MasterFeed36 Vitamin E 2.0
+36 MasterFeed36 Se 0.0
+36 MasterFeed36 Co 0.0
+36 MasterFeed36 I 0.0
+36 MasterFeed36 FNDF 0.01
+36 MasterFeed36 UIP/CP 0.0
+36 MasterFeed36 Sol CP/CP 0.01
+36 MasterFeed36 Starch/NFC 0.0
+36 MasterFeed36 ARG 0.0
+36 MasterFeed36 HIS 0.0
+36 MasterFeed36 ILE 0.0
+36 MasterFeed36 LEU 0.0
+36 MasterFeed36 LYS 0.0
+36 MasterFeed36 MET 0.0
+36 MasterFeed36 CYS 0.0
+36 MasterFeed36 PHE 0.0
+36 MasterFeed36 THR 0.0
+36 MasterFeed36 TRP 0.0
+36 MasterFeed36 VAL 0.0
+36 MasterFeed36 AA#12 0.0
+36 MasterFeed36 AA#13 0.0
+36 MasterFeed36 % Forage 0.0
+36 MasterFeed36 Sugar % 0.0
+36 MasterFeed36 Rumensin 0.0
+36 MasterFeed36 Lignin 0.0
+36 MasterFeed36 DNDF 12 hours 0.0
+36 MasterFeed36 DNDF 30 hours 0.0
+36 MasterFeed36 Soluble fiber 0.0
+36 MasterFeed36 Rum Deg Starch 0.0
+36 MasterFeed36 Tot FA 0.0
+36 MasterFeed36 Unsat FA 0.0
+36 MasterFeed36 Mcal 0.0
+37 MasterFeed37 DM 16.0
+37 MasterFeed37 ADF 30.0
+37 MasterFeed37 NDF 40.0
+37 MasterFeed37 NFC 35.0
+37 MasterFeed37 Starch 0.0
+37 MasterFeed37 NEL 70.0
+37 MasterFeed37 CP 7.6
+37 MasterFeed37 UIP 2.66
+37 MasterFeed37 DIP 4.94
+37 MasterFeed37 Sol CP 0.0
+37 MasterFeed37 P 0.15
+37 MasterFeed37 Ca 2.0
+37 MasterFeed37 RFV 152.0
+37 MasterFeed37 S 0.02
+37 MasterFeed37 K 0.62
+37 MasterFeed37 Mg 0.16
+37 MasterFeed37 Fat 1.0
+37 MasterFeed37 Na 0.09
+37 MasterFeed37 Cl 0.06
+37 MasterFeed37 Zn 16.0
+37 MasterFeed37 Mn 7.0
+37 MasterFeed37 Cu 4.0
+37 MasterFeed37 Fe 160.0
+37 MasterFeed37 Vitamin A 2000.0
+37 MasterFeed37 Vitamin D 2000.0
+37 MasterFeed37 Vitamin E 2.0
+37 MasterFeed37 Se 0.0
+37 MasterFeed37 Co 0.0
+37 MasterFeed37 I 0.0
+37 MasterFeed37 FNDF 40.0
+37 MasterFeed37 UIP/CP 35.0
+37 MasterFeed37 Sol CP/CP 0.0
+37 MasterFeed37 Starch/NFC 0.0
+37 MasterFeed37 ARG 0.0
+37 MasterFeed37 HIS 0.0
+37 MasterFeed37 ILE 0.0
+37 MasterFeed37 LEU 0.0
+37 MasterFeed37 LYS 0.0
+37 MasterFeed37 MET 0.0
+37 MasterFeed37 CYS 0.0
+37 MasterFeed37 PHE 0.0
+37 MasterFeed37 THR 0.0
+37 MasterFeed37 TRP 0.0
+37 MasterFeed37 VAL 0.0
+37 MasterFeed37 AA#12 0.0
+37 MasterFeed37 AA#13 0.0
+37 MasterFeed37 % Forage 0.0
+37 MasterFeed37 Sugar % 0.0
+37 MasterFeed37 Rumensin 0.0
+37 MasterFeed37 Lignin 0.0
+37 MasterFeed37 DNDF 12 hours 0.0
+37 MasterFeed37 DNDF 30 hours 0.0
+37 MasterFeed37 Soluble fiber 0.0
+37 MasterFeed37 Rum Deg Starch 0.0
+37 MasterFeed37 Tot FA 0.0
+37 MasterFeed37 Unsat FA 0.0
+37 MasterFeed37 Mcal 0.0
+1 LACT HAY DM 90.0
+1 LACT HAY ADF 32.0
+1 LACT HAY NDF 39.0
+1 LACT HAY NFC 21.5
+1 LACT HAY Starch 0.0
+1 LACT HAY NEL 64.0
+1 LACT HAY CP 22.5
+1 LACT HAY UIP 5.625
+1 LACT HAY DIP 16.875
+1 LACT HAY Sol CP 0.0
+1 LACT HAY P 0.27
+1 LACT HAY Ca 1.5
+1 LACT HAY RFV 153.0
+1 LACT HAY S 0.3
+1 LACT HAY K 2.5
+1 LACT HAY Mg 0.3
+1 LACT HAY Fat 3.6
+1 LACT HAY Na 0.15
+1 LACT HAY Cl 0.09
+1 LACT HAY Zn 27.0
+1 LACT HAY Mn 34.0
+1 LACT HAY Cu 9.0
+1 LACT HAY Fe 227.0
+1 LACT HAY Vitamin A 81000.0
+1 LACT HAY Vitamin D 2000.0
+1 LACT HAY Vitamin E 24.0
+1 LACT HAY Se 0.0
+1 LACT HAY Co 0.0
+1 LACT HAY I 0.0
+1 LACT HAY FNDF 39.0
+1 LACT HAY UIP/CP 25.0
+1 LACT HAY Sol CP/CP 0.0
+1 LACT HAY Starch/NFC 0.0
+1 LACT HAY ARG 0.0
+1 LACT HAY HIS 0.0
+1 LACT HAY ILE 0.0
+1 LACT HAY LEU 0.0
+1 LACT HAY LYS 0.0
+1 LACT HAY MET 0.0
+1 LACT HAY CYS 0.0
+1 LACT HAY PHE 0.0
+1 LACT HAY THR 0.0
+1 LACT HAY TRP 0.0
+1 LACT HAY VAL 0.0
+1 LACT HAY AA#12 0.0
+1 LACT HAY AA#13 0.0
+1 LACT HAY % Forage 0.0
+1 LACT HAY Sugar % 0.0
+1 LACT HAY Rumensin 0.0
+1 LACT HAY Lignin 0.0
+1 LACT HAY DNDF 12 hours 0.0
+1 LACT HAY DNDF 30 hours 0.0
+1 LACT HAY Soluble fiber 0.0
+1 LACT HAY Rum Deg Starch 0.0
+1 LACT HAY Tot FA 0.0
+1 LACT HAY Unsat FA 0.0
+1 LACT HAY Mcal 0.0
+2 Oat Hay DM 90.0
+2 Oat Hay ADF 38.0
+2 Oat Hay NDF 50.0
+2 Oat Hay NFC 16.0
+2 Oat Hay Starch 0.0
+2 Oat Hay NEL 58.0
+2 Oat Hay CP 11.0
+2 Oat Hay UIP 3.3
+2 Oat Hay DIP 7.7
+2 Oat Hay Sol CP 0.0
+2 Oat Hay P 0.2
+2 Oat Hay Ca 0.45
+2 Oat Hay RFV 110.0
+2 Oat Hay S 0.3
+2 Oat Hay K 1.5
+2 Oat Hay Mg 0.1
+2 Oat Hay Fat 1.0
+2 Oat Hay Na 0.2
+2 Oat Hay Cl 0.1
+2 Oat Hay Zn 2.0
+2 Oat Hay Mn 2.0
+2 Oat Hay Cu 2.0
+2 Oat Hay Fe 2.0
+2 Oat Hay Vitamin A 2000.0
+2 Oat Hay Vitamin D 2000.0
+2 Oat Hay Vitamin E 2.0
+2 Oat Hay Se 0.0
+2 Oat Hay Co 0.0
+2 Oat Hay I 0.0
+2 Oat Hay FNDF 50.0
+2 Oat Hay UIP/CP 30.0
+2 Oat Hay Sol CP/CP 0.0
+2 Oat Hay Starch/NFC 0.0
+2 Oat Hay ARG 0.0
+2 Oat Hay HIS 0.0
+2 Oat Hay ILE 0.0
+2 Oat Hay LEU 0.0
+2 Oat Hay LYS 0.0
+2 Oat Hay MET 0.0
+2 Oat Hay CYS 0.0
+2 Oat Hay PHE 0.0
+2 Oat Hay THR 0.0
+2 Oat Hay TRP 0.0
+2 Oat Hay VAL 0.0
+2 Oat Hay AA#12 0.0
+2 Oat Hay AA#13 0.0
+2 Oat Hay % Forage 0.0
+2 Oat Hay Sugar % 0.0
+2 Oat Hay Rumensin 0.0
+2 Oat Hay Lignin 0.0
+2 Oat Hay DNDF 12 hours 0.0
+2 Oat Hay DNDF 30 hours 0.0
+2 Oat Hay Soluble fiber 0.0
+2 Oat Hay Rum Deg Starch 0.0
+2 Oat Hay Tot FA 0.0
+2 Oat Hay Unsat FA 0.0
+2 Oat Hay Mcal 0.0
+5 DryHaylage DM 35.0
+5 DryHaylage ADF 35.8
+5 DryHaylage NDF 42.9
+5 DryHaylage NFC 22.1
+5 DryHaylage Starch 0.0
+5 DryHaylage NEL 64.0
+5 DryHaylage CP 21.9
+5 DryHaylage UIP 5.475
+5 DryHaylage DIP 16.425
+5 DryHaylage Sol CP 0.0
+5 DryHaylage P 0.32
+5 DryHaylage Ca 1.76
+5 DryHaylage RFV 135.0
+5 DryHaylage S 0.3
+5 DryHaylage K 3.14
+5 DryHaylage Mg 0.25
+5 DryHaylage Fat 3.8
+5 DryHaylage Na 0.15
+5 DryHaylage Cl 0.09
+5 DryHaylage Zn 27.0
+5 DryHaylage Mn 34.0
+5 DryHaylage Cu 9.0
+5 DryHaylage Fe 227.0
+5 DryHaylage Vitamin A 81000.0
+5 DryHaylage Vitamin D 2000.0
+5 DryHaylage Vitamin E 24.0
+5 DryHaylage Se 0.0
+5 DryHaylage Co 0.0
+5 DryHaylage I 0.0
+5 DryHaylage FNDF 42.0
+5 DryHaylage UIP/CP 25.0
+5 DryHaylage Sol CP/CP 0.0
+5 DryHaylage Starch/NFC 0.0
+5 DryHaylage ARG 0.0
+5 DryHaylage HIS 0.0
+5 DryHaylage ILE 0.0
+5 DryHaylage LEU 0.0
+5 DryHaylage LYS 0.0
+5 DryHaylage MET 0.0
+5 DryHaylage CYS 0.0
+5 DryHaylage PHE 0.0
+5 DryHaylage THR 0.0
+5 DryHaylage TRP 0.0
+5 DryHaylage VAL 0.0
+5 DryHaylage AA#12 0.0
+5 DryHaylage AA#13 0.0
+5 DryHaylage % Forage 0.0
+5 DryHaylage Sugar % 0.0
+5 DryHaylage Rumensin 0.0
+5 DryHaylage Lignin 0.0
+5 DryHaylage DNDF 12 hours 0.0
+5 DryHaylage DNDF 30 hours 0.0
+5 DryHaylage Soluble fiber 0.0
+5 DryHaylage Rum Deg Starch 0.0
+5 DryHaylage Tot FA 0.0
+5 DryHaylage Unsat FA 0.0
+5 DryHaylage Mcal 0.0
+8 Wet Brewrs DM 23.0
+8 Wet Brewrs ADF 23.0
+8 Wet Brewrs NDF 0.0
+8 Wet Brewrs NFC 12.0
+8 Wet Brewrs Starch 0.0
+8 Wet Brewrs NEL 80.0
+8 Wet Brewrs CP 28.0
+8 Wet Brewrs UIP 11.2
+8 Wet Brewrs DIP 16.8
+8 Wet Brewrs Sol CP 0.0
+8 Wet Brewrs P 0.55
+8 Wet Brewrs Ca 0.33
+8 Wet Brewrs RFV 0.0
+8 Wet Brewrs S 0.32
+8 Wet Brewrs K 0.09
+8 Wet Brewrs Mg 0.16
+8 Wet Brewrs Fat 6.5
+8 Wet Brewrs Na 0.2
+8 Wet Brewrs Cl 0.2
+8 Wet Brewrs Zn 2.0
+8 Wet Brewrs Mn 2.0
+8 Wet Brewrs Cu 2.0
+8 Wet Brewrs Fe 2.0
+8 Wet Brewrs Vitamin A 2000.0
+8 Wet Brewrs Vitamin D 2000.0
+8 Wet Brewrs Vitamin E 2.0
+8 Wet Brewrs Se 0.0
+8 Wet Brewrs Co 0.0
+8 Wet Brewrs I 0.0
+8 Wet Brewrs FNDF 0.0
+8 Wet Brewrs UIP/CP 40.0
+8 Wet Brewrs Sol CP/CP 0.0
+8 Wet Brewrs Starch/NFC 0.0
+8 Wet Brewrs ARG 0.0
+8 Wet Brewrs HIS 0.0
+8 Wet Brewrs ILE 0.0
+8 Wet Brewrs LEU 0.0
+8 Wet Brewrs LYS 0.0
+8 Wet Brewrs MET 0.0
+8 Wet Brewrs CYS 0.0
+8 Wet Brewrs PHE 0.0
+8 Wet Brewrs THR 0.0
+8 Wet Brewrs TRP 0.0
+8 Wet Brewrs VAL 0.0
+8 Wet Brewrs AA#12 0.0
+8 Wet Brewrs AA#13 0.0
+8 Wet Brewrs % Forage 0.0
+8 Wet Brewrs Sugar % 0.0
+8 Wet Brewrs Rumensin 0.0
+8 Wet Brewrs Lignin 0.0
+8 Wet Brewrs DNDF 12 hours 0.0
+8 Wet Brewrs DNDF 30 hours 0.0
+8 Wet Brewrs Soluble fiber 0.0
+8 Wet Brewrs Rum Deg Starch 0.0
+8 Wet Brewrs Tot FA 0.0
+8 Wet Brewrs Unsat FA 0.0
+8 Wet Brewrs Mcal 0.0
+9 WHEAT SIL DM 30.0
+9 WHEAT SIL ADF 34.0
+9 WHEAT SIL NDF 48.0
+9 WHEAT SIL NFC 26.0
+9 WHEAT SIL Starch 0.0
+9 WHEAT SIL NEL 65.0
+9 WHEAT SIL CP 11.5
+9 WHEAT SIL UIP 3.45
+9 WHEAT SIL DIP 8.05
+9 WHEAT SIL Sol CP 0.0
+9 WHEAT SIL P 0.18
+9 WHEAT SIL Ca 0.17
+9 WHEAT SIL RFV 121.0
+9 WHEAT SIL S 0.28
+9 WHEAT SIL K 1.1
+9 WHEAT SIL Mg 0.1
+9 WHEAT SIL Fat 3.0
+9 WHEAT SIL Na 0.14
+9 WHEAT SIL Cl 0.3
+9 WHEAT SIL Zn 24.0
+9 WHEAT SIL Mn 31.0
+9 WHEAT SIL Cu 11.0
+9 WHEAT SIL Fe 195.0
+9 WHEAT SIL Vitamin A 55000.0
+9 WHEAT SIL Vitamin D 2000.0
+9 WHEAT SIL Vitamin E 25.0
+9 WHEAT SIL Se 0.0
+9 WHEAT SIL Co 0.0
+9 WHEAT SIL I 0.32
+9 WHEAT SIL FNDF 48.0
+9 WHEAT SIL UIP/CP 30.0
+9 WHEAT SIL Sol CP/CP 0.0
+9 WHEAT SIL Starch/NFC 0.0
+9 WHEAT SIL ARG 0.0
+9 WHEAT SIL HIS 0.0
+9 WHEAT SIL ILE 0.0
+9 WHEAT SIL LEU 0.0
+9 WHEAT SIL LYS 0.0
+9 WHEAT SIL MET 0.0
+9 WHEAT SIL CYS 0.0
+9 WHEAT SIL PHE 0.0
+9 WHEAT SIL THR 0.0
+9 WHEAT SIL TRP 0.0
+9 WHEAT SIL VAL 0.0
+9 WHEAT SIL AA#12 0.0
+9 WHEAT SIL AA#13 0.0
+9 WHEAT SIL % Forage 0.0
+9 WHEAT SIL Sugar % 0.0
+9 WHEAT SIL Rumensin 0.0
+9 WHEAT SIL Lignin 0.0
+9 WHEAT SIL DNDF 12 hours 0.0
+9 WHEAT SIL DNDF 30 hours 0.0
+9 WHEAT SIL Soluble fiber 0.0
+9 WHEAT SIL Rum Deg Starch 0.0
+9 WHEAT SIL Tot FA 0.0
+9 WHEAT SIL Unsat FA 0.0
+9 WHEAT SIL Mcal 0.0
+10 Corn Silag DM 28.0
+10 Corn Silag ADF 31.0
+10 Corn Silag NDF 47.0
+10 Corn Silag NFC 32.2
+10 Corn Silag Starch 0.0
+10 Corn Silag NEL 68.0
+10 Corn Silag CP 7.8
+10 Corn Silag UIP 2.73
+10 Corn Silag DIP 5.07
+10 Corn Silag Sol CP 0.0
+10 Corn Silag P 0.25
+10 Corn Silag Ca 0.21
+10 Corn Silag RFV 128.0
+10 Corn Silag S 0.15
+10 Corn Silag K 1.2
+10 Corn Silag Mg 0.2
+10 Corn Silag Fat 3.0
+10 Corn Silag Na 0.01
+10 Corn Silag Cl 0.06
+10 Corn Silag Zn 21.0
+10 Corn Silag Mn 30.0
+10 Corn Silag Cu 10.0
+10 Corn Silag Fe 260.0
+10 Corn Silag Vitamin A 18000.0
+10 Corn Silag Vitamin D 0.0
+10 Corn Silag Vitamin E 10.0
+10 Corn Silag Se 0.0
+10 Corn Silag Co 0.0
+10 Corn Silag I 0.0
+10 Corn Silag FNDF 47.0
+10 Corn Silag UIP/CP 35.0
+10 Corn Silag Sol CP/CP 0.0
+10 Corn Silag Starch/NFC 0.0
+10 Corn Silag ARG 0.0
+10 Corn Silag HIS 0.0
+10 Corn Silag ILE 0.0
+10 Corn Silag LEU 0.0
+10 Corn Silag LYS 0.0
+10 Corn Silag MET 0.0
+10 Corn Silag CYS 0.0
+10 Corn Silag PHE 0.0
+10 Corn Silag THR 0.0
+10 Corn Silag TRP 0.0
+10 Corn Silag VAL 0.0
+10 Corn Silag AA#12 0.0
+10 Corn Silag AA#13 0.0
+10 Corn Silag % Forage 0.0
+10 Corn Silag Sugar % 0.0
+10 Corn Silag Rumensin 0.0
+10 Corn Silag Lignin 0.0
+10 Corn Silag DNDF 12 hours 0.0
+10 Corn Silag DNDF 30 hours 0.0
+10 Corn Silag Soluble fiber 0.0
+10 Corn Silag Rum Deg Starch 0.0
+10 Corn Silag Tot FA 0.0
+10 Corn Silag Unsat FA 0.0
+10 Corn Silag Mcal 0.0
+11 Almond Hul DM 91.0
+11 Almond Hul ADF 34.0
+11 Almond Hul NDF 45.0
+11 Almond Hul NFC 36.0
+11 Almond Hul Starch 0.0
+11 Almond Hul NEL 66.0
+11 Almond Hul CP 6.0
+11 Almond Hul UIP 0.702
+11 Almond Hul DIP 5.298
+11 Almond Hul Sol CP 0.0
+11 Almond Hul P 0.11
+11 Almond Hul Ca 0.22
+11 Almond Hul RFV 129.0
+11 Almond Hul S 0.11
+11 Almond Hul K 0.53
+11 Almond Hul Mg 0.13
+11 Almond Hul Fat 2.0
+11 Almond Hul Na 0.02
+11 Almond Hul Cl 1.0
+11 Almond Hul Zn 24.0
+11 Almond Hul Mn 21.0
+11 Almond Hul Cu 11.0
+11 Almond Hul Fe 300.0
+11 Almond Hul Vitamin A 2000.0
+11 Almond Hul Vitamin D 2000.0
+11 Almond Hul Vitamin E 2.0
+11 Almond Hul Se 0.0
+11 Almond Hul Co 0.0
+11 Almond Hul I 0.0
+11 Almond Hul FNDF 45.0
+11 Almond Hul UIP/CP 11.7
+11 Almond Hul Sol CP/CP 0.0
+11 Almond Hul Starch/NFC 0.0
+11 Almond Hul ARG 0.0
+11 Almond Hul HIS 0.0
+11 Almond Hul ILE 0.0
+11 Almond Hul LEU 0.0
+11 Almond Hul LYS 0.0
+11 Almond Hul MET 0.0
+11 Almond Hul CYS 0.0
+11 Almond Hul PHE 0.0
+11 Almond Hul THR 0.0
+11 Almond Hul TRP 0.0
+11 Almond Hul VAL 0.0
+11 Almond Hul AA#12 0.0
+11 Almond Hul AA#13 0.0
+11 Almond Hul % Forage 0.0
+11 Almond Hul Sugar % 0.0
+11 Almond Hul Rumensin 0.0
+11 Almond Hul Lignin 0.0
+11 Almond Hul DNDF 12 hours 0.0
+11 Almond Hul DNDF 30 hours 0.0
+11 Almond Hul Soluble fiber 0.0
+11 Almond Hul Rum Deg Starch 0.0
+11 Almond Hul Tot FA 0.0
+11 Almond Hul Unsat FA 0.0
+11 Almond Hul Mcal 0.0
+12 MolassWet DM 70.0
+12 MolassWet ADF 0.0
+12 MolassWet NDF 0.0
+12 MolassWet NFC 79.0
+12 MolassWet Starch 0.0
+12 MolassWet NEL 92.0
+12 MolassWet CP 8.0
+12 MolassWet UIP 1.6
+12 MolassWet DIP 6.4
+12 MolassWet Sol CP 0.0
+12 MolassWet P 0.11
+12 MolassWet Ca 1.0
+12 MolassWet RFV 0.0
+12 MolassWet S 0.47
+12 MolassWet K 3.85
+12 MolassWet Mg 0.43
+12 MolassWet Fat 0.1
+12 MolassWet Na 0.22
+12 MolassWet Cl 1.2
+12 MolassWet Zn 30.0
+12 MolassWet Mn 56.0
+12 MolassWet Cu 79.0
+12 MolassWet Fe 250.0
+12 MolassWet Vitamin A 1000.0
+12 MolassWet Vitamin D 1000.0
+12 MolassWet Vitamin E 7.0
+12 MolassWet Se 0.0
+12 MolassWet Co 0.0
+12 MolassWet I 0.0
+12 MolassWet FNDF 0.0
+12 MolassWet UIP/CP 20.0
+12 MolassWet Sol CP/CP 0.0
+12 MolassWet Starch/NFC 0.0
+12 MolassWet ARG 0.0
+12 MolassWet HIS 0.0
+12 MolassWet ILE 0.0
+12 MolassWet LEU 0.0
+12 MolassWet LYS 0.0
+12 MolassWet MET 0.0
+12 MolassWet CYS 0.0
+12 MolassWet PHE 0.0
+12 MolassWet THR 0.0
+12 MolassWet TRP 0.0
+12 MolassWet VAL 0.0
+12 MolassWet AA#12 0.0
+12 MolassWet AA#13 0.0
+12 MolassWet % Forage 0.0
+12 MolassWet Sugar % 0.0
+12 MolassWet Rumensin 0.0
+12 MolassWet Lignin 0.0
+12 MolassWet DNDF 12 hours 0.0
+12 MolassWet DNDF 30 hours 0.0
+12 MolassWet Soluble fiber 0.0
+12 MolassWet Rum Deg Starch 0.0
+12 MolassWet Tot FA 0.0
+12 MolassWet Unsat FA 0.0
+12 MolassWet Mcal 0.0
+13 LIQ CIT PL DM 45.0
+13 LIQ CIT PL ADF 10.0
+13 LIQ CIT PL NDF 25.0
+13 LIQ CIT PL NFC 42.5
+13 LIQ CIT PL Starch 0.0
+13 LIQ CIT PL NEL 78.0
+13 LIQ CIT PL CP 7.5
+13 LIQ CIT PL UIP 2.775
+13 LIQ CIT PL DIP 4.725
+13 LIQ CIT PL Sol CP 0.0
+13 LIQ CIT PL P 0.11
+13 LIQ CIT PL Ca 0.71
+13 LIQ CIT PL RFV 302.0
+13 LIQ CIT PL S 0.02
+13 LIQ CIT PL K 0.62
+13 LIQ CIT PL Mg 0.16
+13 LIQ CIT PL Fat 1.0
+13 LIQ CIT PL Na 0.09
+13 LIQ CIT PL Cl 0.3
+13 LIQ CIT PL Zn 16.0
+13 LIQ CIT PL Mn 7.0
+13 LIQ CIT PL Cu 6.0
+13 LIQ CIT PL Fe 160.0
+13 LIQ CIT PL Vitamin A 55000.0
+13 LIQ CIT PL Vitamin D 2000.0
+13 LIQ CIT PL Vitamin E 25.0
+13 LIQ CIT PL Se 0.0
+13 LIQ CIT PL Co 0.16
+13 LIQ CIT PL I 0.32
+13 LIQ CIT PL FNDF 25.0
+13 LIQ CIT PL UIP/CP 37.0
+13 LIQ CIT PL Sol CP/CP 0.0
+13 LIQ CIT PL Starch/NFC 0.0
+13 LIQ CIT PL ARG 0.0
+13 LIQ CIT PL HIS 0.0
+13 LIQ CIT PL ILE 0.0
+13 LIQ CIT PL LEU 0.0
+13 LIQ CIT PL LYS 0.0
+13 LIQ CIT PL MET 0.0
+13 LIQ CIT PL CYS 0.0
+13 LIQ CIT PL PHE 0.0
+13 LIQ CIT PL THR 0.0
+13 LIQ CIT PL TRP 0.0
+13 LIQ CIT PL VAL 0.0
+13 LIQ CIT PL AA#12 0.0
+13 LIQ CIT PL AA#13 0.0
+13 LIQ CIT PL % Forage 0.0
+13 LIQ CIT PL Sugar % 0.0
+13 LIQ CIT PL Rumensin 0.0
+13 LIQ CIT PL Lignin 0.0
+13 LIQ CIT PL DNDF 12 hours 0.0
+13 LIQ CIT PL DNDF 30 hours 0.0
+13 LIQ CIT PL Soluble fiber 0.0
+13 LIQ CIT PL Rum Deg Starch 0.0
+13 LIQ CIT PL Tot FA 0.0
+13 LIQ CIT PL Unsat FA 0.0
+13 LIQ CIT PL Mcal 0.0
+14 Whey DM 24.0
+14 Whey ADF 1.1
+14 Whey NDF 4.6
+14 Whey NFC 74.4
+14 Whey Starch 0.0
+14 Whey NEL 88.0
+14 Whey CP 8.0
+14 Whey UIP 2.8
+14 Whey DIP 5.2
+14 Whey Sol CP 0.0
+14 Whey P 0.8
+14 Whey Ca 0.3
+14 Whey RFV 1780.0
+14 Whey S 0.17
+14 Whey K 3.91
+14 Whey Mg 0.16
+14 Whey Fat 1.8
+14 Whey Na 3.1
+14 Whey Cl 0.3
+14 Whey Zn 2.0
+14 Whey Mn 2.0
+14 Whey Cu 2.0
+14 Whey Fe 2.0
+14 Whey Vitamin A 2000.0
+14 Whey Vitamin D 2000.0
+14 Whey Vitamin E 2.0
+14 Whey Se 0.0
+14 Whey Co 0.0
+14 Whey I 0.0
+14 Whey FNDF 4.6
+14 Whey UIP/CP 35.0
+14 Whey Sol CP/CP 0.0
+14 Whey Starch/NFC 0.0
+14 Whey ARG 0.0
+14 Whey HIS 0.0
+14 Whey ILE 0.0
+14 Whey LEU 0.0
+14 Whey LYS 0.0
+14 Whey MET 0.0
+14 Whey CYS 0.0
+14 Whey PHE 0.0
+14 Whey THR 0.0
+14 Whey TRP 0.0
+14 Whey VAL 0.0
+14 Whey AA#12 0.0
+14 Whey AA#13 0.0
+14 Whey % Forage 0.0
+14 Whey Sugar % 0.0
+14 Whey Rumensin 0.0
+14 Whey Lignin 0.0
+14 Whey DNDF 12 hours 0.0
+14 Whey DNDF 30 hours 0.0
+14 Whey Soluble fiber 0.0
+14 Whey Rum Deg Starch 0.0
+14 Whey Tot FA 0.0
+14 Whey Unsat FA 0.0
+14 Whey Mcal 0.0
+16 SF CORN DM 87.0
+16 SF CORN ADF 3.0
+16 SF CORN NDF 0.0
+16 SF CORN NFC 73.0
+16 SF CORN Starch 0.0
+16 SF CORN NEL 92.0
+16 SF CORN CP 10.0
+16 SF CORN UIP 5.0
+16 SF CORN DIP 5.0
+16 SF CORN Sol CP 0.0
+16 SF CORN P 0.29
+16 SF CORN Ca 0.04
+16 SF CORN RFV 0.0
+16 SF CORN S 0.12
+16 SF CORN K 0.37
+16 SF CORN Mg 0.14
+16 SF CORN Fat 4.3
+16 SF CORN Na 0.03
+16 SF CORN Cl 0.05
+16 SF CORN Zn 14.0
+16 SF CORN Mn 5.0
+16 SF CORN Cu 4.0
+16 SF CORN Fe 0.0
+16 SF CORN Vitamin A 1000.0
+16 SF CORN Vitamin D 0.0
+16 SF CORN Vitamin E 25.0
+16 SF CORN Se 6.0
+16 SF CORN Co 0.0
+16 SF CORN I 0.0
+16 SF CORN FNDF 0.0
+16 SF CORN UIP/CP 50.0
+16 SF CORN Sol CP/CP 0.0
+16 SF CORN Starch/NFC 0.0
+16 SF CORN ARG 0.0
+16 SF CORN HIS 0.0
+16 SF CORN ILE 0.0
+16 SF CORN LEU 0.0
+16 SF CORN LYS 0.0
+16 SF CORN MET 0.0
+16 SF CORN CYS 0.0
+16 SF CORN PHE 0.0
+16 SF CORN THR 0.0
+16 SF CORN TRP 0.0
+16 SF CORN VAL 0.0
+16 SF CORN AA#12 0.0
+16 SF CORN AA#13 0.0
+16 SF CORN % Forage 0.0
+16 SF CORN Sugar % 0.0
+16 SF CORN Rumensin 0.0
+16 SF CORN Lignin 0.0
+16 SF CORN DNDF 12 hours 0.0
+16 SF CORN DNDF 30 hours 0.0
+16 SF CORN Soluble fiber 0.0
+16 SF CORN Rum Deg Starch 0.0
+16 SF CORN Tot FA 0.0
+16 SF CORN Unsat FA 0.0
+16 SF CORN Mcal 0.0
+18 Dry Min DM 99.0
+18 Dry Min ADF 1.43921
+18 Dry Min NDF 2.0
+18 Dry Min NFC 4.0
+18 Dry Min Starch 0.0
+18 Dry Min NEL 6.39649
+18 Dry Min CP 1.2793
+18 Dry Min UIP 0.447754
+18 Dry Min DIP 0.831546
+18 Dry Min Sol CP 0.0
+18 Dry Min P 2.55359
+18 Dry Min Ca 12.2237
+18 Dry Min RFV 4083.0
+18 Dry Min S 4.42697
+18 Dry Min K 0.343125
+18 Dry Min Mg 7.91614
+18 Dry Min Fat 1.7768
+18 Dry Min Na 4.47656
+18 Dry Min Cl 7.7463
+18 Dry Min Zn 4304.0
+18 Dry Min Mn 3531.0
+18 Dry Min Cu 934.0
+18 Dry Min Fe 2433.0
+18 Dry Min Vitamin A 342000.0
+18 Dry Min Vitamin D 58000.0
+18 Dry Min Vitamin E 728.0
+18 Dry Min Se 25.586
+18 Dry Min Co 1933.45
+18 Dry Min I 2472.24
+18 Dry Min FNDF 2.0
+18 Dry Min UIP/CP 34.999922
+18 Dry Min Sol CP/CP 0.0
+18 Dry Min Starch/NFC 0.0
+18 Dry Min ARG 0.0
+18 Dry Min HIS 0.0
+18 Dry Min ILE 0.0
+18 Dry Min LEU 0.0
+18 Dry Min LYS 0.0
+18 Dry Min MET 0.0
+18 Dry Min CYS 0.0
+18 Dry Min PHE 0.0
+18 Dry Min THR 0.0
+18 Dry Min TRP 0.0
+18 Dry Min VAL 0.0
+18 Dry Min AA#12 0.0
+18 Dry Min AA#13 0.0
+18 Dry Min % Forage 0.0
+18 Dry Min Sugar % 0.0
+18 Dry Min Rumensin 0.0
+18 Dry Min Lignin 0.0
+18 Dry Min DNDF 12 hours 0.0
+18 Dry Min DNDF 30 hours 0.0
+18 Dry Min Soluble fiber 0.0
+18 Dry Min Rum Deg Starch 0.0
+18 Dry Min Tot FA 0.0
+18 Dry Min Unsat FA 0.0
+18 Dry Min Mcal 0.0
+19 Min Plts DM 92.0
+19 Min Plts ADF 7.40268
+19 Min Plts NDF 0.0
+19 Min Plts NFC 17.0
+19 Min Plts Starch 0.0
+19 Min Plts NEL 55.112
+19 Min Plts CP 29.1124
+19 Min Plts UIP 7.63877
+19 Min Plts DIP 21.47363
+19 Min Plts Sol CP 0.0
+19 Min Plts P 0.94697
+19 Min Plts Ca 6.7185
+19 Min Plts RFV 0.0
+19 Min Plts S 0.551141
+19 Min Plts K 0.781366
+19 Min Plts Mg 1.77731
+19 Min Plts Fat 2.15761
+19 Min Plts Na 1.81965
+19 Min Plts Cl 0.53087
+19 Min Plts Zn 780.0
+19 Min Plts Mn 651.0
+19 Min Plts Cu 170.0
+19 Min Plts Fe 643.0
+19 Min Plts Vitamin A 61000.0
+19 Min Plts Vitamin D 11000.0
+19 Min Plts Vitamin E 137.0
+19 Min Plts Se 9.08904
+19 Min Plts Co 21.2655
+19 Min Plts I 26.9024
+19 Min Plts FNDF 0.0
+19 Min Plts UIP/CP 26.238888
+19 Min Plts Sol CP/CP 0.0
+19 Min Plts Starch/NFC 0.0
+19 Min Plts ARG 0.0
+19 Min Plts HIS 0.0
+19 Min Plts ILE 0.0
+19 Min Plts LEU 0.0
+19 Min Plts LYS 0.0
+19 Min Plts MET 0.0
+19 Min Plts CYS 0.0
+19 Min Plts PHE 0.0
+19 Min Plts THR 0.0
+19 Min Plts TRP 0.0
+19 Min Plts VAL 0.0
+19 Min Plts AA#12 0.0
+19 Min Plts AA#13 0.0
+19 Min Plts % Forage 0.0
+19 Min Plts Sugar % 0.0
+19 Min Plts Rumensin 0.0
+19 Min Plts Lignin 0.0
+19 Min Plts DNDF 12 hours 0.0
+19 Min Plts DNDF 30 hours 0.0
+19 Min Plts Soluble fiber 0.0
+19 Min Plts Rum Deg Starch 0.0
+19 Min Plts Tot FA 0.0
+19 Min Plts Unsat FA 0.0
+19 Min Plts Mcal 0.0
+20 Mineral DM 99.0
+20 Mineral ADF 0.263842
+20 Mineral NDF 0.0
+20 Mineral NFC 0.0
+20 Mineral Starch 0.0
+20 Mineral NEL 1.08104
+20 Mineral CP 38.7419
+20 Mineral UIP 0.565192
+20 Mineral DIP 38.176708
+20 Mineral Sol CP 0.0
+20 Mineral P 0.627857
+20 Mineral Ca 14.6431
+20 Mineral RFV 0.0
+20 Mineral S 0.23974
+20 Mineral K 0.240931
+20 Mineral Mg 2.46208
+20 Mineral Fat 0.210717
+20 Mineral Na 7.71313
+20 Mineral Cl 4.59074
+20 Mineral Zn 2366.0
+20 Mineral Mn 1269.0
+20 Mineral Cu 327.0
+20 Mineral Fe 1125.0
+20 Mineral Vitamin A 120000.0
+20 Mineral Vitamin D 20000.0
+20 Mineral Vitamin E 540.0
+20 Mineral Se 9.03337
+20 Mineral Co 1268.32
+20 Mineral I 1211.53
+20 Mineral FNDF 0.0
+20 Mineral UIP/CP 1.458865
+20 Mineral Sol CP/CP 0.0
+20 Mineral Starch/NFC 0.0
+20 Mineral ARG 0.0
+20 Mineral HIS 0.0
+20 Mineral ILE 0.0
+20 Mineral LEU 0.0
+20 Mineral LYS 0.0
+20 Mineral MET 0.0
+20 Mineral CYS 0.0
+20 Mineral PHE 0.0
+20 Mineral THR 0.0
+20 Mineral TRP 0.0
+20 Mineral VAL 0.0
+20 Mineral AA#12 0.0
+20 Mineral AA#13 0.0
+20 Mineral % Forage 0.0
+20 Mineral Sugar % 0.0
+20 Mineral Rumensin 0.0
+20 Mineral Lignin 0.0
+20 Mineral DNDF 12 hours 0.0
+20 Mineral DNDF 30 hours 0.0
+20 Mineral Soluble fiber 0.0
+20 Mineral Rum Deg Starch 0.0
+20 Mineral Tot FA 0.0
+20 Mineral Unsat FA 0.0
+20 Mineral Mcal 0.0
+1 Hay lact DM 90.0
+1 Hay lact ADF 31.5
+1 Hay lact NDF 38.0
+1 Hay lact NFC 23.0
+1 Hay lact Starch 0.0
+1 Hay lact NEL 67.0
+1 Hay lact CP 21.0
+1 Hay lact UIP 5.25
+1 Hay lact DIP 15.75
+1 Hay lact Sol CP 0.0
+1 Hay lact P 0.25
+1 Hay lact Ca 1.6
+1 Hay lact RFV 158.0
+1 Hay lact S 0.3
+1 Hay lact K 2.5
+1 Hay lact Mg 0.3
+1 Hay lact Fat 3.6
+1 Hay lact Na 0.15
+1 Hay lact Cl 0.09
+1 Hay lact Zn 27.0
+1 Hay lact Mn 34.0
+1 Hay lact Cu 9.0
+1 Hay lact Fe 227.0
+1 Hay lact Vitamin A 81000.0
+1 Hay lact Vitamin D 2000.0
+1 Hay lact Vitamin E 24.0
+1 Hay lact Se 0.0
+1 Hay lact Co 0.0
+1 Hay lact I 0.0
+1 Hay lact FNDF 38.0
+1 Hay lact UIP/CP 25.0
+1 Hay lact Sol CP/CP 0.0
+1 Hay lact Starch/NFC 0.0
+1 Hay lact ARG 0.0
+1 Hay lact HIS 0.0
+1 Hay lact ILE 0.0
+1 Hay lact LEU 0.0
+1 Hay lact LYS 0.0
+1 Hay lact MET 0.0
+1 Hay lact CYS 0.0
+1 Hay lact PHE 0.0
+1 Hay lact THR 0.0
+1 Hay lact TRP 0.0
+1 Hay lact VAL 0.0
+1 Hay lact AA#12 0.0
+1 Hay lact AA#13 0.0
+1 Hay lact % Forage 0.0
+1 Hay lact Sugar % 0.0
+1 Hay lact Rumensin 0.0
+1 Hay lact Lignin 0.0
+1 Hay lact DNDF 12 hours 0.0
+1 Hay lact DNDF 30 hours 0.0
+1 Hay lact Soluble fiber 0.0
+1 Hay lact Rum Deg Starch 0.0
+1 Hay lact Tot FA 0.0
+1 Hay lact Unsat FA 0.0
+1 Hay lact Mcal 0.0
+2 DRY HAY DM 90.0
+2 DRY HAY ADF 33.2
+2 DRY HAY NDF 41.22
+2 DRY HAY NFC 21.67
+2 DRY HAY Starch 0.0
+2 DRY HAY NEL 62.0
+2 DRY HAY CP 21.11
+2 DRY HAY UIP 5.2775
+2 DRY HAY DIP 15.8325
+2 DRY HAY Sol CP 0.0
+2 DRY HAY P 0.25
+2 DRY HAY Ca 1.5
+2 DRY HAY RFV 142.0
+2 DRY HAY S 0.3
+2 DRY HAY K 2.3
+2 DRY HAY Mg 0.26
+2 DRY HAY Fat 3.6
+2 DRY HAY Na 0.15
+2 DRY HAY Cl 0.09
+2 DRY HAY Zn 27.0
+2 DRY HAY Mn 34.0
+2 DRY HAY Cu 9.0
+2 DRY HAY Fe 227.0
+2 DRY HAY Vitamin A 81000.0
+2 DRY HAY Vitamin D 2000.0
+2 DRY HAY Vitamin E 24.0
+2 DRY HAY Se 0.0
+2 DRY HAY Co 0.0
+2 DRY HAY I 0.0
+2 DRY HAY FNDF 41.22
+2 DRY HAY UIP/CP 25.0
+2 DRY HAY Sol CP/CP 0.0
+2 DRY HAY Starch/NFC 0.0
+2 DRY HAY ARG 0.0
+2 DRY HAY HIS 0.0
+2 DRY HAY ILE 0.0
+2 DRY HAY LEU 0.0
+2 DRY HAY LYS 0.0
+2 DRY HAY MET 0.0
+2 DRY HAY CYS 0.0
+2 DRY HAY PHE 0.0
+2 DRY HAY THR 0.0
+2 DRY HAY TRP 0.0
+2 DRY HAY VAL 0.0
+2 DRY HAY AA#12 0.0
+2 DRY HAY AA#13 0.0
+2 DRY HAY % Forage 0.0
+2 DRY HAY Sugar % 0.0
+2 DRY HAY Rumensin 0.0
+2 DRY HAY Lignin 0.0
+2 DRY HAY DNDF 12 hours 0.0
+2 DRY HAY DNDF 30 hours 0.0
+2 DRY HAY Soluble fiber 0.0
+2 DRY HAY Rum Deg Starch 0.0
+2 DRY HAY Tot FA 0.0
+2 DRY HAY Unsat FA 0.0
+2 DRY HAY Mcal 0.0
+3 Oat hay DM 90.0
+3 Oat hay ADF 42.0
+3 Oat hay NDF 55.0
+3 Oat hay NFC 17.0
+3 Oat hay Starch 0.0
+3 Oat hay NEL 61.0
+3 Oat hay CP 8.0
+3 Oat hay UIP 2.4
+3 Oat hay DIP 5.6
+3 Oat hay Sol CP 0.0
+3 Oat hay P 0.28
+3 Oat hay Ca 0.4
+3 Oat hay RFV 95.0
+3 Oat hay S 0.3
+3 Oat hay K 2.0
+3 Oat hay Mg 0.15
+3 Oat hay Fat 2.0
+3 Oat hay Na 0.15
+3 Oat hay Cl 0.09
+3 Oat hay Zn 27.0
+3 Oat hay Mn 34.0
+3 Oat hay Cu 9.0
+3 Oat hay Fe 227.0
+3 Oat hay Vitamin A 81000.0
+3 Oat hay Vitamin D 2000.0
+3 Oat hay Vitamin E 24.0
+3 Oat hay Se 0.0
+3 Oat hay Co 0.0
+3 Oat hay I 0.0
+3 Oat hay FNDF 55.0
+3 Oat hay UIP/CP 30.0
+3 Oat hay Sol CP/CP 0.0
+3 Oat hay Starch/NFC 0.0
+3 Oat hay ARG 0.0
+3 Oat hay HIS 0.0
+3 Oat hay ILE 0.0
+3 Oat hay LEU 0.0
+3 Oat hay LYS 0.0
+3 Oat hay MET 0.0
+3 Oat hay CYS 0.0
+3 Oat hay PHE 0.0
+3 Oat hay THR 0.0
+3 Oat hay TRP 0.0
+3 Oat hay VAL 0.0
+3 Oat hay AA#12 0.0
+3 Oat hay AA#13 0.0
+3 Oat hay % Forage 0.0
+3 Oat hay Sugar % 0.0
+3 Oat hay Rumensin 0.0
+3 Oat hay Lignin 0.0
+3 Oat hay DNDF 12 hours 0.0
+3 Oat hay DNDF 30 hours 0.0
+3 Oat hay Soluble fiber 0.0
+3 Oat hay Rum Deg Starch 0.0
+3 Oat hay Tot FA 0.0
+3 Oat hay Unsat FA 0.0
+3 Oat hay Mcal 0.0
+4 Hlg DM 45.0
+4 Hlg ADF 32.0
+4 Hlg NDF 38.0
+4 Hlg NFC 25.3
+4 Hlg Starch 0.0
+4 Hlg NEL 66.0
+4 Hlg CP 21.0
+4 Hlg UIP 5.478261
+4 Hlg DIP 15.521739
+4 Hlg Sol CP 0.0
+4 Hlg P 0.3
+4 Hlg Ca 1.4
+4 Hlg RFV 157.0
+4 Hlg S 0.3
+4 Hlg K 2.5
+4 Hlg Mg 0.32
+4 Hlg Fat 3.6
+4 Hlg Na 0.15
+4 Hlg Cl 0.09
+4 Hlg Zn 27.0
+4 Hlg Mn 34.0
+4 Hlg Cu 9.0
+4 Hlg Fe 227.0
+4 Hlg Vitamin A 81000.0
+4 Hlg Vitamin D 2000.0
+4 Hlg Vitamin E 24.0
+4 Hlg Se 0.0
+4 Hlg Co 0.0
+4 Hlg I 0.0
+4 Hlg FNDF 38.0
+4 Hlg UIP/CP 26.086957
+4 Hlg Sol CP/CP 0.0
+4 Hlg Starch/NFC 0.0
+4 Hlg ARG 0.0
+4 Hlg HIS 0.0
+4 Hlg ILE 0.0
+4 Hlg LEU 0.0
+4 Hlg LYS 0.0
+4 Hlg MET 0.0
+4 Hlg CYS 0.0
+4 Hlg PHE 0.0
+4 Hlg THR 0.0
+4 Hlg TRP 0.0
+4 Hlg VAL 0.0
+4 Hlg AA#12 0.0
+4 Hlg AA#13 0.0
+4 Hlg % Forage 0.0
+4 Hlg Sugar % 0.0
+4 Hlg Rumensin 0.0
+4 Hlg Lignin 0.0
+4 Hlg DNDF 12 hours 0.0
+4 Hlg DNDF 30 hours 0.0
+4 Hlg Soluble fiber 0.0
+4 Hlg Rum Deg Starch 0.0
+4 Hlg Tot FA 0.0
+4 Hlg Unsat FA 0.0
+4 Hlg Mcal 0.0
+5 CUPHay DM 90.0
+5 CUPHay ADF 32.6
+5 CUPHay NDF 40.25
+5 CUPHay NFC 27.75
+5 CUPHay Starch 0.0
+5 CUPHay NEL 65.4
+5 CUPHay CP 18.0
+5 CUPHay UIP 5.225
+5 CUPHay DIP 12.775
+5 CUPHay Sol CP 0.0
+5 CUPHay P 0.3
+5 CUPHay Ca 1.7
+5 CUPHay RFV 147.0
+5 CUPHay S 0.3
+5 CUPHay K 2.5
+5 CUPHay Mg 0.3
+5 CUPHay Fat 3.6
+5 CUPHay Na 0.15
+5 CUPHay Cl 0.09
+5 CUPHay Zn 27.0
+5 CUPHay Mn 34.0
+5 CUPHay Cu 9.0
+5 CUPHay Fe 227.0
+5 CUPHay Vitamin A 81000.0
+5 CUPHay Vitamin D 2000.0
+5 CUPHay Vitamin E 24.0
+5 CUPHay Se 0.0
+5 CUPHay Co 0.0
+5 CUPHay I 0.0
+5 CUPHay FNDF 40.25
+5 CUPHay UIP/CP 29.027778
+5 CUPHay Sol CP/CP 0.0
+5 CUPHay Starch/NFC 0.0
+5 CUPHay ARG 0.0
+5 CUPHay HIS 0.0
+5 CUPHay ILE 0.0
+5 CUPHay LEU 0.0
+5 CUPHay LYS 0.0
+5 CUPHay MET 0.0
+5 CUPHay CYS 0.0
+5 CUPHay PHE 0.0
+5 CUPHay THR 0.0
+5 CUPHay TRP 0.0
+5 CUPHay VAL 0.0
+5 CUPHay AA#12 0.0
+5 CUPHay AA#13 0.0
+5 CUPHay % Forage 0.0
+5 CUPHay Sugar % 0.0
+5 CUPHay Rumensin 0.0
+5 CUPHay Lignin 0.0
+5 CUPHay DNDF 12 hours 0.0
+5 CUPHay DNDF 30 hours 0.0
+5 CUPHay Soluble fiber 0.0
+5 CUPHay Rum Deg Starch 0.0
+5 CUPHay Tot FA 0.0
+5 CUPHay Unsat FA 0.0
+5 CUPHay Mcal 0.0
+6 Hay #1 DM 87.0
+6 Hay #1 ADF 30.0
+6 Hay #1 NDF 39.0
+6 Hay #1 NFC 24.0
+6 Hay #1 Starch 0.0
+6 Hay #1 NEL 68.0
+6 Hay #1 CP 21.0
+6 Hay #1 UIP 5.25
+6 Hay #1 DIP 15.75
+6 Hay #1 Sol CP 0.0
+6 Hay #1 P 0.25
+6 Hay #1 Ca 1.6
+6 Hay #1 RFV 156.0
+6 Hay #1 S 0.3
+6 Hay #1 K 1.68
+6 Hay #1 Mg 0.35
+6 Hay #1 Fat 3.6
+6 Hay #1 Na 0.15
+6 Hay #1 Cl 0.09
+6 Hay #1 Zn 27.0
+6 Hay #1 Mn 34.0
+6 Hay #1 Cu 9.0
+6 Hay #1 Fe 227.0
+6 Hay #1 Vitamin A 81000.0
+6 Hay #1 Vitamin D 2000.0
+6 Hay #1 Vitamin E 24.0
+6 Hay #1 Se 0.0
+6 Hay #1 Co 0.0
+6 Hay #1 I 0.0
+6 Hay #1 FNDF 39.0
+6 Hay #1 UIP/CP 25.0
+6 Hay #1 Sol CP/CP 0.0
+6 Hay #1 Starch/NFC 0.0
+6 Hay #1 ARG 0.0
+6 Hay #1 HIS 0.0
+6 Hay #1 ILE 0.0
+6 Hay #1 LEU 0.0
+6 Hay #1 LYS 0.0
+6 Hay #1 MET 0.0
+6 Hay #1 CYS 0.0
+6 Hay #1 PHE 0.0
+6 Hay #1 THR 0.0
+6 Hay #1 TRP 0.0
+6 Hay #1 VAL 0.0
+6 Hay #1 AA#12 0.0
+6 Hay #1 AA#13 0.0
+6 Hay #1 % Forage 0.0
+6 Hay #1 Sugar % 0.0
+6 Hay #1 Rumensin 0.0
+6 Hay #1 Lignin 0.0
+6 Hay #1 DNDF 12 hours 0.0
+6 Hay #1 DNDF 30 hours 0.0
+6 Hay #1 Soluble fiber 0.0
+6 Hay #1 Rum Deg Starch 0.0
+6 Hay #1 Tot FA 0.0
+6 Hay #1 Unsat FA 0.0
+6 Hay #1 Mcal 0.0
+8 BMR CSilage DM 35.0
+8 BMR CSilage ADF 40.0
+8 BMR CSilage NDF 59.0
+8 BMR CSilage NFC 33.5
+8 BMR CSilage Starch 0.0
+8 BMR CSilage NEL 65.0
+8 BMR CSilage CP 8.5
+8 BMR CSilage UIP 2.975
+8 BMR CSilage DIP 5.525
+8 BMR CSilage Sol CP 0.0
+8 BMR CSilage P 0.25
+8 BMR CSilage Ca 0.31
+8 BMR CSilage RFV 119.0
+8 BMR CSilage S 0.3
+8 BMR CSilage K 1.59
+8 BMR CSilage Mg 0.1
+8 BMR CSilage Fat 3.6
+8 BMR CSilage Na 0.15
+8 BMR CSilage Cl 0.09
+8 BMR CSilage Zn 27.0
+8 BMR CSilage Mn 34.0
+8 BMR CSilage Cu 9.0
+8 BMR CSilage Fe 227.0
+8 BMR CSilage Vitamin A 81000.0
+8 BMR CSilage Vitamin D 2000.0
+8 BMR CSilage Vitamin E 24.0
+8 BMR CSilage Se 0.0
+8 BMR CSilage Co 0.0
+8 BMR CSilage I 0.0
+8 BMR CSilage FNDF 45.0
+8 BMR CSilage UIP/CP 35.0
+8 BMR CSilage Sol CP/CP 0.0
+8 BMR CSilage Starch/NFC 0.0
+8 BMR CSilage ARG 0.0
+8 BMR CSilage HIS 0.0
+8 BMR CSilage ILE 0.0
+8 BMR CSilage LEU 0.0
+8 BMR CSilage LYS 0.0
+8 BMR CSilage MET 0.0
+8 BMR CSilage CYS 0.0
+8 BMR CSilage PHE 0.0
+8 BMR CSilage THR 0.0
+8 BMR CSilage TRP 0.0
+8 BMR CSilage VAL 0.0
+8 BMR CSilage AA#12 0.0
+8 BMR CSilage AA#13 0.0
+8 BMR CSilage % Forage 0.0
+8 BMR CSilage Sugar % 0.0
+8 BMR CSilage Rumensin 0.0
+8 BMR CSilage Lignin 0.0
+8 BMR CSilage DNDF 12 hours 0.0
+8 BMR CSilage DNDF 30 hours 0.0
+8 BMR CSilage Soluble fiber 0.0
+8 BMR CSilage Rum Deg Starch 0.0
+8 BMR CSilage Tot FA 0.0
+8 BMR CSilage Unsat FA 0.0
+8 BMR CSilage Mcal 0.0
+9 Wheat Sil DM 30.0
+9 Wheat Sil ADF 35.0
+9 Wheat Sil NDF 51.0
+9 Wheat Sil NFC 22.0
+9 Wheat Sil Starch 0.0
+9 Wheat Sil NEL 67.0
+9 Wheat Sil CP 14.0
+9 Wheat Sil UIP 4.9
+9 Wheat Sil DIP 9.1
+9 Wheat Sil Sol CP 0.0
+9 Wheat Sil P 0.25
+9 Wheat Sil Ca 0.31
+9 Wheat Sil RFV 112.0
+9 Wheat Sil S 0.3
+9 Wheat Sil K 1.59
+9 Wheat Sil Mg 0.1
+9 Wheat Sil Fat 3.6
+9 Wheat Sil Na 0.15
+9 Wheat Sil Cl 0.09
+9 Wheat Sil Zn 27.0
+9 Wheat Sil Mn 34.0
+9 Wheat Sil Cu 9.0
+9 Wheat Sil Fe 227.0
+9 Wheat Sil Vitamin A 81000.0
+9 Wheat Sil Vitamin D 2000.0
+9 Wheat Sil Vitamin E 24.0
+9 Wheat Sil Se 0.0
+9 Wheat Sil Co 0.0
+9 Wheat Sil I 0.0
+9 Wheat Sil FNDF 51.0
+9 Wheat Sil UIP/CP 35.0
+9 Wheat Sil Sol CP/CP 0.0
+9 Wheat Sil Starch/NFC 0.0
+9 Wheat Sil ARG 0.0
+9 Wheat Sil HIS 0.0
+9 Wheat Sil ILE 0.0
+9 Wheat Sil LEU 0.0
+9 Wheat Sil LYS 0.0
+9 Wheat Sil MET 0.0
+9 Wheat Sil CYS 0.0
+9 Wheat Sil PHE 0.0
+9 Wheat Sil THR 0.0
+9 Wheat Sil TRP 0.0
+9 Wheat Sil VAL 0.0
+9 Wheat Sil AA#12 0.0
+9 Wheat Sil AA#13 0.0
+9 Wheat Sil % Forage 0.0
+9 Wheat Sil Sugar % 0.0
+9 Wheat Sil Rumensin 0.0
+9 Wheat Sil Lignin 0.0
+9 Wheat Sil DNDF 12 hours 0.0
+9 Wheat Sil DNDF 30 hours 0.0
+9 Wheat Sil Soluble fiber 0.0
+9 Wheat Sil Rum Deg Starch 0.0
+9 Wheat Sil Tot FA 0.0
+9 Wheat Sil Unsat FA 0.0
+9 Wheat Sil Mcal 0.0
+10 Corn Silag DM 32.0
+10 Corn Silag ADF 30.0
+10 Corn Silag NDF 48.0
+10 Corn Silag NFC 36.95
+10 Corn Silag Starch 0.0
+10 Corn Silag NEL 69.0
+10 Corn Silag CP 8.05
+10 Corn Silag UIP 2.8175
+10 Corn Silag DIP 5.2325
+10 Corn Silag Sol CP 0.0
+10 Corn Silag P 0.25
+10 Corn Silag Ca 0.22
+10 Corn Silag RFV 145.0
+10 Corn Silag S 0.15
+10 Corn Silag K 1.17
+10 Corn Silag Mg 0.22
+10 Corn Silag Fat 3.0
+10 Corn Silag Na 0.01
+10 Corn Silag Cl 0.06
+10 Corn Silag Zn 21.0
+10 Corn Silag Mn 30.0
+10 Corn Silag Cu 10.0
+10 Corn Silag Fe 260.0
+10 Corn Silag Vitamin A 18000.0
+10 Corn Silag Vitamin D 0.0
+10 Corn Silag Vitamin E 10.0
+10 Corn Silag Se 0.0
+10 Corn Silag Co 0.0
+10 Corn Silag I 0.0
+10 Corn Silag FNDF 42.0
+10 Corn Silag UIP/CP 35.0
+10 Corn Silag Sol CP/CP 0.0
+10 Corn Silag Starch/NFC 0.0
+10 Corn Silag ARG 0.0
+10 Corn Silag HIS 0.0
+10 Corn Silag ILE 0.0
+10 Corn Silag LEU 0.0
+10 Corn Silag LYS 0.0
+10 Corn Silag MET 0.0
+10 Corn Silag CYS 0.0
+10 Corn Silag PHE 0.0
+10 Corn Silag THR 0.0
+10 Corn Silag TRP 0.0
+10 Corn Silag VAL 0.0
+10 Corn Silag AA#12 0.0
+10 Corn Silag AA#13 0.0
+10 Corn Silag % Forage 0.0
+10 Corn Silag Sugar % 0.0
+10 Corn Silag Rumensin 0.0
+10 Corn Silag Lignin 0.0
+10 Corn Silag DNDF 12 hours 0.0
+10 Corn Silag DNDF 30 hours 0.0
+10 Corn Silag Soluble fiber 0.0
+10 Corn Silag Rum Deg Starch 0.0
+10 Corn Silag Tot FA 0.0
+10 Corn Silag Unsat FA 0.0
+10 Corn Silag Mcal 0.0
+11 Almond Hul DM 91.0
+11 Almond Hul ADF 32.0
+11 Almond Hul NDF 40.0
+11 Almond Hul NFC 42.0
+11 Almond Hul Starch 0.0
+11 Almond Hul NEL 66.0
+11 Almond Hul CP 5.0
+11 Almond Hul UIP 1.75
+11 Almond Hul DIP 3.25
+11 Almond Hul Sol CP 0.0
+11 Almond Hul P 0.11
+11 Almond Hul Ca 0.22
+11 Almond Hul RFV 149.0
+11 Almond Hul S 0.11
+11 Almond Hul K 1.5
+11 Almond Hul Mg 0.13
+11 Almond Hul Fat 3.5
+11 Almond Hul Na 1.0
+11 Almond Hul Cl 1.0
+11 Almond Hul Zn 2.0
+11 Almond Hul Mn 2.0
+11 Almond Hul Cu 2.0
+11 Almond Hul Fe 2.0
+11 Almond Hul Vitamin A 2000.0
+11 Almond Hul Vitamin D 2000.0
+11 Almond Hul Vitamin E 2.0
+11 Almond Hul Se 0.0
+11 Almond Hul Co 0.0
+11 Almond Hul I 0.0
+11 Almond Hul FNDF 40.0
+11 Almond Hul UIP/CP 35.0
+11 Almond Hul Sol CP/CP 0.0
+11 Almond Hul Starch/NFC 0.0
+11 Almond Hul ARG 0.0
+11 Almond Hul HIS 0.0
+11 Almond Hul ILE 0.0
+11 Almond Hul LEU 0.0
+11 Almond Hul LYS 0.0
+11 Almond Hul MET 0.0
+11 Almond Hul CYS 0.0
+11 Almond Hul PHE 0.0
+11 Almond Hul THR 0.0
+11 Almond Hul TRP 0.0
+11 Almond Hul VAL 0.0
+11 Almond Hul AA#12 0.0
+11 Almond Hul AA#13 0.0
+11 Almond Hul % Forage 0.0
+11 Almond Hul Sugar % 0.0
+11 Almond Hul Rumensin 0.0
+11 Almond Hul Lignin 0.0
+11 Almond Hul DNDF 12 hours 0.0
+11 Almond Hul DNDF 30 hours 0.0
+11 Almond Hul Soluble fiber 0.0
+11 Almond Hul Rum Deg Starch 0.0
+11 Almond Hul Tot FA 0.0
+11 Almond Hul Unsat FA 0.0
+11 Almond Hul Mcal 0.0
+14 ClosePlt DM 92.0
+14 ClosePlt ADF 9.17674
+14 ClosePlt NDF 6.0
+14 ClosePlt NFC 18.0
+14 ClosePlt Starch 0.0
+14 ClosePlt NEL 51.6782
+14 ClosePlt CP 16.6985
+14 ClosePlt UIP 5.84681
+14 ClosePlt DIP 10.85169
+14 ClosePlt Sol CP 0.0
+14 ClosePlt P 1.09062
+14 ClosePlt Ca 8.25684
+14 ClosePlt RFV 1267.0
+14 ClosePlt S 1.93457
+14 ClosePlt K 0.790147
+14 ClosePlt Mg 2.12236
+14 ClosePlt Fat 1.42816
+14 ClosePlt Na 1.42014
+14 ClosePlt Cl 3.46718
+14 ClosePlt Zn 756.0
+14 ClosePlt Mn 633.0
+14 ClosePlt Cu 165.0
+14 ClosePlt Fe 576.0
+14 ClosePlt Vitamin A 61000.0
+14 ClosePlt Vitamin D 11000.0
+14 ClosePlt Vitamin E 200.0
+14 ClosePlt Se 4.49416
+14 ClosePlt Co 324.093
+14 ClosePlt I 971.255
+14 ClosePlt FNDF 6.0
+14 ClosePlt UIP/CP 35.013983
+14 ClosePlt Sol CP/CP 0.0
+14 ClosePlt Starch/NFC 0.0
+14 ClosePlt ARG 0.0
+14 ClosePlt HIS 0.0
+14 ClosePlt ILE 0.0
+14 ClosePlt LEU 0.0
+14 ClosePlt LYS 0.0
+14 ClosePlt MET 0.0
+14 ClosePlt CYS 0.0
+14 ClosePlt PHE 0.0
+14 ClosePlt THR 0.0
+14 ClosePlt TRP 0.0
+14 ClosePlt VAL 0.0
+14 ClosePlt AA#12 0.0
+14 ClosePlt AA#13 0.0
+14 ClosePlt % Forage 0.0
+14 ClosePlt Sugar % 0.0
+14 ClosePlt Rumensin 0.0
+14 ClosePlt Lignin 0.0
+14 ClosePlt DNDF 12 hours 0.0
+14 ClosePlt DNDF 30 hours 0.0
+14 ClosePlt Soluble fiber 0.0
+14 ClosePlt Rum Deg Starch 0.0
+14 ClosePlt Tot FA 0.0
+14 ClosePlt Unsat FA 0.0
+14 ClosePlt Mcal 0.0
+16 Corn1%fat DM 87.0
+16 Corn1%fat ADF 3.0
+16 Corn1%fat NDF 0.0
+16 Corn1%fat NFC 75.0
+16 Corn1%fat Starch 0.0
+16 Corn1%fat NEL 96.0
+16 Corn1%fat CP 10.0
+16 Corn1%fat UIP 5.0
+16 Corn1%fat DIP 5.0
+16 Corn1%fat Sol CP 0.0
+16 Corn1%fat P 0.29
+16 Corn1%fat Ca 0.04
+16 Corn1%fat RFV 0.0
+16 Corn1%fat S 0.12
+16 Corn1%fat K 0.37
+16 Corn1%fat Mg 0.14
+16 Corn1%fat Fat 5.0
+16 Corn1%fat Na 0.03
+16 Corn1%fat Cl 0.05
+16 Corn1%fat Zn 14.0
+16 Corn1%fat Mn 5.0
+16 Corn1%fat Cu 4.0
+16 Corn1%fat Fe 0.0
+16 Corn1%fat Vitamin A 1000.0
+16 Corn1%fat Vitamin D 0.0
+16 Corn1%fat Vitamin E 25.0
+16 Corn1%fat Se 6.0
+16 Corn1%fat Co 0.0
+16 Corn1%fat I 0.0
+16 Corn1%fat FNDF 0.0
+16 Corn1%fat UIP/CP 50.0
+16 Corn1%fat Sol CP/CP 0.0
+16 Corn1%fat Starch/NFC 0.0
+16 Corn1%fat ARG 0.0
+16 Corn1%fat HIS 0.0
+16 Corn1%fat ILE 0.0
+16 Corn1%fat LEU 0.0
+16 Corn1%fat LYS 0.0
+16 Corn1%fat MET 0.0
+16 Corn1%fat CYS 0.0
+16 Corn1%fat PHE 0.0
+16 Corn1%fat THR 0.0
+16 Corn1%fat TRP 0.0
+16 Corn1%fat VAL 0.0
+16 Corn1%fat AA#12 0.0
+16 Corn1%fat AA#13 0.0
+16 Corn1%fat % Forage 0.0
+16 Corn1%fat Sugar % 0.0
+16 Corn1%fat Rumensin 0.0
+16 Corn1%fat Lignin 0.0
+16 Corn1%fat DNDF 12 hours 0.0
+16 Corn1%fat DNDF 30 hours 0.0
+16 Corn1%fat Soluble fiber 0.0
+16 Corn1%fat Rum Deg Starch 0.0
+16 Corn1%fat Tot FA 0.0
+16 Corn1%fat Unsat FA 0.0
+16 Corn1%fat Mcal 0.0
+18 Dry Min DM 100.0
+18 Dry Min ADF 0.298986
+18 Dry Min NDF 0.0
+18 Dry Min NFC 0.0
+18 Dry Min Starch 0.0
+18 Dry Min NEL 0.029899
+18 Dry Min CP 0.029899
+18 Dry Min UIP 0.029899
+18 Dry Min DIP 0.0
+18 Dry Min Sol CP 0.0
+18 Dry Min P 5.96361
+18 Dry Min Ca 14.5367
+18 Dry Min RFV 0.0
+18 Dry Min S 6.12017
+18 Dry Min K 0.29404
+18 Dry Min Mg 13.1702
+18 Dry Min Fat 0.269087
+18 Dry Min Na 2.70124
+18 Dry Min Cl 6.68903
+18 Dry Min Zn 3937.0
+18 Dry Min Mn 3254.0
+18 Dry Min Cu 852.0
+18 Dry Min Fe 5020.0
+18 Dry Min Vitamin A 312000.0
+18 Dry Min Vitamin D 53000.0
+18 Dry Min Vitamin E 1260.0
+18 Dry Min Se 23.3209
+18 Dry Min Co 1111.99
+18 Dry Min I 1905.42
+18 Dry Min FNDF 0.0
+18 Dry Min UIP/CP 100.0
+18 Dry Min Sol CP/CP 0.0
+18 Dry Min Starch/NFC 0.0
+18 Dry Min ARG 0.0
+18 Dry Min HIS 0.0
+18 Dry Min ILE 0.0
+18 Dry Min LEU 0.0
+18 Dry Min LYS 0.0
+18 Dry Min MET 0.0
+18 Dry Min CYS 0.0
+18 Dry Min PHE 0.0
+18 Dry Min THR 0.0
+18 Dry Min TRP 0.0
+18 Dry Min VAL 0.0
+18 Dry Min AA#12 0.0
+18 Dry Min AA#13 0.0
+18 Dry Min % Forage 0.0
+18 Dry Min Sugar % 0.0
+18 Dry Min Rumensin 0.0
+18 Dry Min Lignin 0.0
+18 Dry Min DNDF 12 hours 0.0
+18 Dry Min DNDF 30 hours 0.0
+18 Dry Min Soluble fiber 0.0
+18 Dry Min Rum Deg Starch 0.0
+18 Dry Min Tot FA 0.0
+18 Dry Min Unsat FA 0.0
+18 Dry Min Mcal 0.0
+19 Comm Mix DM 89.0
+19 Comm Mix ADF 4.75375
+19 Comm Mix NDF 0.0
+19 Comm Mix NFC 25.0
+19 Comm Mix Starch 0.0
+19 Comm Mix NEL 60.4373
+19 Comm Mix CP 27.9678
+19 Comm Mix UIP 5.29465
+19 Comm Mix DIP 22.67315
+19 Comm Mix Sol CP 0.0
+19 Comm Mix P 0.51397
+19 Comm Mix Ca 5.48994
+19 Comm Mix RFV 0.0
+19 Comm Mix S 0.529512
+19 Comm Mix K 1.35966
+19 Comm Mix Mg 1.48082
+19 Comm Mix Fat 3.75706
+19 Comm Mix Na 3.99912
+19 Comm Mix Cl 3.96267
+19 Comm Mix Zn 688.0
+19 Comm Mix Mn 572.0
+19 Comm Mix Cu 159.0
+19 Comm Mix Fe 304.0
+19 Comm Mix Vitamin A 54000.0
+19 Comm Mix Vitamin D 9000.0
+19 Comm Mix Vitamin E 116.0
+19 Comm Mix Se 4.30981
+19 Comm Mix Co 1014.47
+19 Comm Mix I 976.699
+19 Comm Mix FNDF 0.0
+19 Comm Mix UIP/CP 18.931235
+19 Comm Mix Sol CP/CP 0.0
+19 Comm Mix Starch/NFC 0.0
+19 Comm Mix ARG 0.0
+19 Comm Mix HIS 0.0
+19 Comm Mix ILE 0.0
+19 Comm Mix LEU 0.0
+19 Comm Mix LYS 0.0
+19 Comm Mix MET 0.0
+19 Comm Mix CYS 0.0
+19 Comm Mix PHE 0.0
+19 Comm Mix THR 0.0
+19 Comm Mix TRP 0.0
+19 Comm Mix VAL 0.0
+19 Comm Mix AA#12 0.0
+19 Comm Mix AA#13 0.0
+19 Comm Mix % Forage 0.0
+19 Comm Mix Sugar % 0.0
+19 Comm Mix Rumensin 0.0
+19 Comm Mix Lignin 0.0
+19 Comm Mix DNDF 12 hours 0.0
+19 Comm Mix DNDF 30 hours 0.0
+19 Comm Mix Soluble fiber 0.0
+19 Comm Mix Rum Deg Starch 0.0
+19 Comm Mix Tot FA 0.0
+19 Comm Mix Unsat FA 0.0
+19 Comm Mix Mcal 0.0
+20 On Farm DM 54.0
+20 On Farm ADF 20.256
+20 On Farm NDF 26.0
+20 On Farm NFC 43.0
+20 On Farm Starch 0.0
+20 On Farm NEL 82.3877
+20 On Farm CP 13.8157
+20 On Farm UIP 4.93348
+20 On Farm DIP 8.88222
+20 On Farm Sol CP 0.0
+20 On Farm P 0.2982
+20 On Farm Ca 0.630748
+20 On Farm RFV 262.0
+20 On Farm S 0.190335
+20 On Farm K 1.24898
+20 On Farm Mg 0.236174
+20 On Farm Fat 5.82244
+20 On Farm Na 0.06431
+20 On Farm Cl 0.073093
+20 On Farm Zn 21.0
+20 On Farm Mn 20.0
+20 On Farm Cu 7.0
+20 On Farm Fe 138.0
+20 On Farm Vitamin A 28000.0
+20 On Farm Vitamin D 0.0
+20 On Farm Vitamin E 24.0
+20 On Farm Se 2.22113
+20 On Farm Co 0.0
+20 On Farm I 0.0
+20 On Farm FNDF 26.0
+20 On Farm UIP/CP 35.709229
+20 On Farm Sol CP/CP 0.0
+20 On Farm Starch/NFC 0.0
+20 On Farm ARG 0.0
+20 On Farm HIS 0.0
+20 On Farm ILE 0.0
+20 On Farm LEU 0.0
+20 On Farm LYS 0.0
+20 On Farm MET 0.0
+20 On Farm CYS 0.0
+20 On Farm PHE 0.0
+20 On Farm THR 0.0
+20 On Farm TRP 0.0
+20 On Farm VAL 0.0
+20 On Farm AA#12 0.0
+20 On Farm AA#13 0.0
+20 On Farm % Forage 0.0
+20 On Farm Sugar % 0.0
+20 On Farm Rumensin 0.0
+20 On Farm Lignin 0.0
+20 On Farm DNDF 12 hours 0.0
+20 On Farm DNDF 30 hours 0.0
+20 On Farm Soluble fiber 0.0
+20 On Farm Rum Deg Starch 0.0
+20 On Farm Tot FA 0.0
+20 On Farm Unsat FA 0.0
+20 On Farm Mcal 0.0
+1 Big Sq155 DM 90.0
+1 Big Sq155 ADF 30.0
+1 Big Sq155 NDF 39.0
+1 Big Sq155 NFC 22.5
+1 Big Sq155 Starch 0.0
+1 Big Sq155 NEL 67.0
+1 Big Sq155 CP 22.5
+1 Big Sq155 UIP 5.5
+1 Big Sq155 DIP 17.0
+1 Big Sq155 Sol CP 0.0
+1 Big Sq155 P 0.3
+1 Big Sq155 Ca 1.5
+1 Big Sq155 RFV 156.0
+1 Big Sq155 S 0.3
+1 Big Sq155 K 2.12
+1 Big Sq155 Mg 0.3
+1 Big Sq155 Fat 3.6
+1 Big Sq155 Na 0.15
+1 Big Sq155 Cl 0.09
+1 Big Sq155 Zn 27.0
+1 Big Sq155 Mn 34.0
+1 Big Sq155 Cu 9.0
+1 Big Sq155 Fe 227.0
+1 Big Sq155 Vitamin A 81000.0
+1 Big Sq155 Vitamin D 2000.0
+1 Big Sq155 Vitamin E 24.0
+1 Big Sq155 Se 0.0
+1 Big Sq155 Co 0.0
+1 Big Sq155 I 0.0
+1 Big Sq155 FNDF 39.0
+1 Big Sq155 UIP/CP 24.444444
+1 Big Sq155 Sol CP/CP 0.0
+1 Big Sq155 Starch/NFC 0.0
+1 Big Sq155 ARG 0.0
+1 Big Sq155 HIS 0.0
+1 Big Sq155 ILE 0.0
+1 Big Sq155 LEU 0.0
+1 Big Sq155 LYS 0.0
+1 Big Sq155 MET 0.0
+1 Big Sq155 CYS 0.0
+1 Big Sq155 PHE 0.0
+1 Big Sq155 THR 0.0
+1 Big Sq155 TRP 0.0
+1 Big Sq155 VAL 0.0
+1 Big Sq155 AA#12 0.0
+1 Big Sq155 AA#13 0.0
+1 Big Sq155 % Forage 0.0
+1 Big Sq155 Sugar % 0.0
+1 Big Sq155 Rumensin 0.0
+1 Big Sq155 Lignin 0.0
+1 Big Sq155 DNDF 12 hours 0.0
+1 Big Sq155 DNDF 30 hours 0.0
+1 Big Sq155 Soluble fiber 0.0
+1 Big Sq155 Rum Deg Starch 0.0
+1 Big Sq155 Tot FA 0.0
+1 Big Sq155 Unsat FA 0.0
+1 Big Sq155 Mcal 0.0
+2 Hay#1-200 DM 90.0
+2 Hay#1-200 ADF 26.0
+2 Hay#1-200 NDF 32.0
+2 Hay#1-200 NFC 25.0
+2 Hay#1-200 Starch 0.0
+2 Hay#1-200 NEL 67.0
+2 Hay#1-200 CP 25.0
+2 Hay#1-200 UIP 6.0
+2 Hay#1-200 DIP 19.0
+2 Hay#1-200 Sol CP 0.0
+2 Hay#1-200 P 0.3
+2 Hay#1-200 Ca 1.5
+2 Hay#1-200 RFV 200.0
+2 Hay#1-200 S 0.3
+2 Hay#1-200 K 2.5
+2 Hay#1-200 Mg 0.3
+2 Hay#1-200 Fat 3.6
+2 Hay#1-200 Na 0.15
+2 Hay#1-200 Cl 0.09
+2 Hay#1-200 Zn 27.0
+2 Hay#1-200 Mn 34.0
+2 Hay#1-200 Cu 9.0
+2 Hay#1-200 Fe 227.0
+2 Hay#1-200 Vitamin A 81000.0
+2 Hay#1-200 Vitamin D 2000.0
+2 Hay#1-200 Vitamin E 24.0
+2 Hay#1-200 Se 0.0
+2 Hay#1-200 Co 0.0
+2 Hay#1-200 I 0.0
+2 Hay#1-200 FNDF 32.0
+2 Hay#1-200 UIP/CP 24.0
+2 Hay#1-200 Sol CP/CP 0.0
+2 Hay#1-200 Starch/NFC 0.0
+2 Hay#1-200 ARG 0.0
+2 Hay#1-200 HIS 0.0
+2 Hay#1-200 ILE 0.0
+2 Hay#1-200 LEU 0.0
+2 Hay#1-200 LYS 0.0
+2 Hay#1-200 MET 0.0
+2 Hay#1-200 CYS 0.0
+2 Hay#1-200 PHE 0.0
+2 Hay#1-200 THR 0.0
+2 Hay#1-200 TRP 0.0
+2 Hay#1-200 VAL 0.0
+2 Hay#1-200 AA#12 0.0
+2 Hay#1-200 AA#13 0.0
+2 Hay#1-200 % Forage 0.0
+2 Hay#1-200 Sugar % 0.0
+2 Hay#1-200 Rumensin 0.0
+2 Hay#1-200 Lignin 0.0
+2 Hay#1-200 DNDF 12 hours 0.0
+2 Hay#1-200 DNDF 30 hours 0.0
+2 Hay#1-200 Soluble fiber 0.0
+2 Hay#1-200 Rum Deg Starch 0.0
+2 Hay#1-200 Tot FA 0.0
+2 Hay#1-200 Unsat FA 0.0
+2 Hay#1-200 Mcal 0.0
+3 Hay#2-145 DM 87.0
+3 Hay#2-145 ADF 32.0
+3 Hay#2-145 NDF 42.0
+3 Hay#2-145 NFC 17.0
+3 Hay#2-145 Starch 0.0
+3 Hay#2-145 NEL 65.0
+3 Hay#2-145 CP 21.0
+3 Hay#2-145 UIP 5.25
+3 Hay#2-145 DIP 15.75
+3 Hay#2-145 Sol CP 0.0
+3 Hay#2-145 P 0.3
+3 Hay#2-145 Ca 1.5
+3 Hay#2-145 RFV 142.0
+3 Hay#2-145 S 0.3
+3 Hay#2-145 K 2.3
+3 Hay#2-145 Mg 0.3
+3 Hay#2-145 Fat 3.6
+3 Hay#2-145 Na 0.15
+3 Hay#2-145 Cl 0.09
+3 Hay#2-145 Zn 27.0
+3 Hay#2-145 Mn 34.0
+3 Hay#2-145 Cu 9.0
+3 Hay#2-145 Fe 227.0
+3 Hay#2-145 Vitamin A 81000.0
+3 Hay#2-145 Vitamin D 2000.0
+3 Hay#2-145 Vitamin E 24.0
+3 Hay#2-145 Se 0.0
+3 Hay#2-145 Co 0.0
+3 Hay#2-145 I 0.0
+3 Hay#2-145 FNDF 42.0
+3 Hay#2-145 UIP/CP 25.0
+3 Hay#2-145 Sol CP/CP 0.0
+3 Hay#2-145 Starch/NFC 0.0
+3 Hay#2-145 ARG 0.0
+3 Hay#2-145 HIS 0.0
+3 Hay#2-145 ILE 0.0
+3 Hay#2-145 LEU 0.0
+3 Hay#2-145 LYS 0.0
+3 Hay#2-145 MET 0.0
+3 Hay#2-145 CYS 0.0
+3 Hay#2-145 PHE 0.0
+3 Hay#2-145 THR 0.0
+3 Hay#2-145 TRP 0.0
+3 Hay#2-145 VAL 0.0
+3 Hay#2-145 AA#12 0.0
+3 Hay#2-145 AA#13 0.0
+3 Hay#2-145 % Forage 0.0
+3 Hay#2-145 Sugar % 0.0
+3 Hay#2-145 Rumensin 0.0
+3 Hay#2-145 Lignin 0.0
+3 Hay#2-145 DNDF 12 hours 0.0
+3 Hay#2-145 DNDF 30 hours 0.0
+3 Hay#2-145 Soluble fiber 0.0
+3 Hay#2-145 Rum Deg Starch 0.0
+3 Hay#2-145 Tot FA 0.0
+3 Hay#2-145 Unsat FA 0.0
+3 Hay#2-145 Mcal 0.0
+4 Oat Hay DM 87.0
+4 Oat Hay ADF 42.0
+4 Oat Hay NDF 57.0
+4 Oat Hay NFC 13.0
+4 Oat Hay Starch 0.0
+4 Oat Hay NEL 56.0
+4 Oat Hay CP 14.0
+4 Oat Hay UIP 3.5
+4 Oat Hay DIP 10.5
+4 Oat Hay Sol CP 0.0
+4 Oat Hay P 0.25
+4 Oat Hay Ca 0.6
+4 Oat Hay RFV 92.0
+4 Oat Hay S 0.3
+4 Oat Hay K 1.7
+4 Oat Hay Mg 0.2
+4 Oat Hay Fat 3.6
+4 Oat Hay Na 0.15
+4 Oat Hay Cl 0.09
+4 Oat Hay Zn 27.0
+4 Oat Hay Mn 34.0
+4 Oat Hay Cu 9.0
+4 Oat Hay Fe 227.0
+4 Oat Hay Vitamin A 81000.0
+4 Oat Hay Vitamin D 2000.0
+4 Oat Hay Vitamin E 24.0
+4 Oat Hay Se 0.0
+4 Oat Hay Co 0.0
+4 Oat Hay I 0.0
+4 Oat Hay FNDF 57.0
+4 Oat Hay UIP/CP 25.0
+4 Oat Hay Sol CP/CP 0.0
+4 Oat Hay Starch/NFC 0.0
+4 Oat Hay ARG 0.0
+4 Oat Hay HIS 0.0
+4 Oat Hay ILE 0.0
+4 Oat Hay LEU 0.0
+4 Oat Hay LYS 0.0
+4 Oat Hay MET 0.0
+4 Oat Hay CYS 0.0
+4 Oat Hay PHE 0.0
+4 Oat Hay THR 0.0
+4 Oat Hay TRP 0.0
+4 Oat Hay VAL 0.0
+4 Oat Hay AA#12 0.0
+4 Oat Hay AA#13 0.0
+4 Oat Hay % Forage 0.0
+4 Oat Hay Sugar % 0.0
+4 Oat Hay Rumensin 0.0
+4 Oat Hay Lignin 0.0
+4 Oat Hay DNDF 12 hours 0.0
+4 Oat Hay DNDF 30 hours 0.0
+4 Oat Hay Soluble fiber 0.0
+4 Oat Hay Rum Deg Starch 0.0
+4 Oat Hay Tot FA 0.0
+4 Oat Hay Unsat FA 0.0
+4 Oat Hay Mcal 0.0
+5 Hlg 200 DM 36.0
+5 Hlg 200 ADF 28.0
+5 Hlg 200 NDF 37.0
+5 Hlg 200 NFC 25.0
+5 Hlg 200 Starch 0.0
+5 Hlg 200 NEL 66.0
+5 Hlg 200 CP 24.0
+5 Hlg 200 UIP 6.0
+5 Hlg 200 DIP 18.0
+5 Hlg 200 Sol CP 0.0
+5 Hlg 200 P 0.28
+5 Hlg 200 Ca 1.55
+5 Hlg 200 RFV 169.0
+5 Hlg 200 S 0.3
+5 Hlg 200 K 2.58
+5 Hlg 200 Mg 0.26
+5 Hlg 200 Fat 3.8
+5 Hlg 200 Na 0.15
+5 Hlg 200 Cl 0.09
+5 Hlg 200 Zn 27.0
+5 Hlg 200 Mn 34.0
+5 Hlg 200 Cu 9.0
+5 Hlg 200 Fe 227.0
+5 Hlg 200 Vitamin A 81000.0
+5 Hlg 200 Vitamin D 2000.0
+5 Hlg 200 Vitamin E 24.0
+5 Hlg 200 Se 0.0
+5 Hlg 200 Co 0.0
+5 Hlg 200 I 0.0
+5 Hlg 200 FNDF 37.0
+5 Hlg 200 UIP/CP 25.0
+5 Hlg 200 Sol CP/CP 0.0
+5 Hlg 200 Starch/NFC 0.0
+5 Hlg 200 ARG 0.0
+5 Hlg 200 HIS 0.0
+5 Hlg 200 ILE 0.0
+5 Hlg 200 LEU 0.0
+5 Hlg 200 LYS 0.0
+5 Hlg 200 MET 0.0
+5 Hlg 200 CYS 0.0
+5 Hlg 200 PHE 0.0
+5 Hlg 200 THR 0.0
+5 Hlg 200 TRP 0.0
+5 Hlg 200 VAL 0.0
+5 Hlg 200 AA#12 0.0
+5 Hlg 200 AA#13 0.0
+5 Hlg 200 % Forage 0.0
+5 Hlg 200 Sugar % 0.0
+5 Hlg 200 Rumensin 0.0
+5 Hlg 200 Lignin 0.0
+5 Hlg 200 DNDF 12 hours 0.0
+5 Hlg 200 DNDF 30 hours 0.0
+5 Hlg 200 Soluble fiber 0.0
+5 Hlg 200 Rum Deg Starch 0.0
+5 Hlg 200 Tot FA 0.0
+5 Hlg 200 Unsat FA 0.0
+5 Hlg 200 Mcal 0.0
+6 Rye Silage DM 35.0
+6 Rye Silage ADF 36.0
+6 Rye Silage NDF 48.0
+6 Rye Silage NFC 26.0
+6 Rye Silage Starch 0.0
+6 Rye Silage NEL 64.0
+6 Rye Silage CP 13.0
+6 Rye Silage UIP 4.55
+6 Rye Silage DIP 8.45
+6 Rye Silage Sol CP 0.0
+6 Rye Silage P 0.31
+6 Rye Silage Ca 0.3
+6 Rye Silage RFV 118.0
+6 Rye Silage S 0.28
+6 Rye Silage K 1.25
+6 Rye Silage Mg 0.12
+6 Rye Silage Fat 3.0
+6 Rye Silage Na 0.14
+6 Rye Silage Cl 0.3
+6 Rye Silage Zn 24.0
+6 Rye Silage Mn 31.0
+6 Rye Silage Cu 11.0
+6 Rye Silage Fe 195.0
+6 Rye Silage Vitamin A 55000.0
+6 Rye Silage Vitamin D 2000.0
+6 Rye Silage Vitamin E 25.0
+6 Rye Silage Se 0.0
+6 Rye Silage Co 0.0
+6 Rye Silage I 0.32
+6 Rye Silage FNDF 48.0
+6 Rye Silage UIP/CP 35.0
+6 Rye Silage Sol CP/CP 0.0
+6 Rye Silage Starch/NFC 0.0
+6 Rye Silage ARG 0.0
+6 Rye Silage HIS 0.0
+6 Rye Silage ILE 0.0
+6 Rye Silage LEU 0.0
+6 Rye Silage LYS 0.0
+6 Rye Silage MET 0.0
+6 Rye Silage CYS 0.0
+6 Rye Silage PHE 0.0
+6 Rye Silage THR 0.0
+6 Rye Silage TRP 0.0
+6 Rye Silage VAL 0.0
+6 Rye Silage AA#12 0.0
+6 Rye Silage AA#13 0.0
+6 Rye Silage % Forage 0.0
+6 Rye Silage Sugar % 0.0
+6 Rye Silage Rumensin 0.0
+6 Rye Silage Lignin 0.0
+6 Rye Silage DNDF 12 hours 0.0
+6 Rye Silage DNDF 30 hours 0.0
+6 Rye Silage Soluble fiber 0.0
+6 Rye Silage Rum Deg Starch 0.0
+6 Rye Silage Tot FA 0.0
+6 Rye Silage Unsat FA 0.0
+6 Rye Silage Mcal 0.0
+7 Dry Haylg DM 40.0
+7 Dry Haylg ADF 37.0
+7 Dry Haylg NDF 50.0
+7 Dry Haylg NFC 16.0
+7 Dry Haylg Starch 0.0
+7 Dry Haylg NEL 62.0
+7 Dry Haylg CP 17.0
+7 Dry Haylg UIP 4.25
+7 Dry Haylg DIP 12.75
+7 Dry Haylg Sol CP 0.0
+7 Dry Haylg P 0.25
+7 Dry Haylg Ca 1.1
+7 Dry Haylg RFV 112.0
+7 Dry Haylg S 0.3
+7 Dry Haylg K 2.2
+7 Dry Haylg Mg 0.22
+7 Dry Haylg Fat 3.8
+7 Dry Haylg Na 0.15
+7 Dry Haylg Cl 0.09
+7 Dry Haylg Zn 27.0
+7 Dry Haylg Mn 34.0
+7 Dry Haylg Cu 9.0
+7 Dry Haylg Fe 227.0
+7 Dry Haylg Vitamin A 81000.0
+7 Dry Haylg Vitamin D 2000.0
+7 Dry Haylg Vitamin E 24.0
+7 Dry Haylg Se 0.0
+7 Dry Haylg Co 0.0
+7 Dry Haylg I 0.0
+7 Dry Haylg FNDF 50.0
+7 Dry Haylg UIP/CP 25.0
+7 Dry Haylg Sol CP/CP 0.0
+7 Dry Haylg Starch/NFC 0.0
+7 Dry Haylg ARG 0.0
+7 Dry Haylg HIS 0.0
+7 Dry Haylg ILE 0.0
+7 Dry Haylg LEU 0.0
+7 Dry Haylg LYS 0.0
+7 Dry Haylg MET 0.0
+7 Dry Haylg CYS 0.0
+7 Dry Haylg PHE 0.0
+7 Dry Haylg THR 0.0
+7 Dry Haylg TRP 0.0
+7 Dry Haylg VAL 0.0
+7 Dry Haylg AA#12 0.0
+7 Dry Haylg AA#13 0.0
+7 Dry Haylg % Forage 0.0
+7 Dry Haylg Sugar % 0.0
+7 Dry Haylg Rumensin 0.0
+7 Dry Haylg Lignin 0.0
+7 Dry Haylg DNDF 12 hours 0.0
+7 Dry Haylg DNDF 30 hours 0.0
+7 Dry Haylg Soluble fiber 0.0
+7 Dry Haylg Rum Deg Starch 0.0
+7 Dry Haylg Tot FA 0.0
+7 Dry Haylg Unsat FA 0.0
+7 Dry Haylg Mcal 0.0
+10 Corn Silag DM 31.0
+10 Corn Silag ADF 30.0
+10 Corn Silag NDF 44.0
+10 Corn Silag NFC 34.7
+10 Corn Silag Starch 0.0
+10 Corn Silag NEL 70.0
+10 Corn Silag CP 8.3
+10 Corn Silag UIP 3.071
+10 Corn Silag DIP 5.229
+10 Corn Silag Sol CP 0.0
+10 Corn Silag P 0.25
+10 Corn Silag Ca 0.22
+10 Corn Silag RFV 139.0
+10 Corn Silag S 0.15
+10 Corn Silag K 1.17
+10 Corn Silag Mg 0.22
+10 Corn Silag Fat 3.0
+10 Corn Silag Na 0.01
+10 Corn Silag Cl 0.06
+10 Corn Silag Zn 21.0
+10 Corn Silag Mn 30.0
+10 Corn Silag Cu 10.0
+10 Corn Silag Fe 260.0
+10 Corn Silag Vitamin A 18000.0
+10 Corn Silag Vitamin D 0.0
+10 Corn Silag Vitamin E 10.0
+10 Corn Silag Se 0.0
+10 Corn Silag Co 0.0
+10 Corn Silag I 0.0
+10 Corn Silag FNDF 44.0
+10 Corn Silag UIP/CP 37.0
+10 Corn Silag Sol CP/CP 0.0
+10 Corn Silag Starch/NFC 0.0
+10 Corn Silag ARG 0.0
+10 Corn Silag HIS 0.0
+10 Corn Silag ILE 0.0
+10 Corn Silag LEU 0.0
+10 Corn Silag LYS 0.0
+10 Corn Silag MET 0.0
+10 Corn Silag CYS 0.0
+10 Corn Silag PHE 0.0
+10 Corn Silag THR 0.0
+10 Corn Silag TRP 0.0
+10 Corn Silag VAL 0.0
+10 Corn Silag AA#12 0.0
+10 Corn Silag AA#13 0.0
+10 Corn Silag % Forage 0.0
+10 Corn Silag Sugar % 0.0
+10 Corn Silag Rumensin 0.0
+10 Corn Silag Lignin 0.0
+10 Corn Silag DNDF 12 hours 0.0
+10 Corn Silag DNDF 30 hours 0.0
+10 Corn Silag Soluble fiber 0.0
+10 Corn Silag Rum Deg Starch 0.0
+10 Corn Silag Tot FA 0.0
+10 Corn Silag Unsat FA 0.0
+10 Corn Silag Mcal 0.0
+13 MollCane DM 65.0
+13 MollCane ADF 1.0
+13 MollCane NDF 1.0
+13 MollCane NFC 80.0
+13 MollCane Starch 0.0
+13 MollCane NEL 97.3
+13 MollCane CP 6.0
+13 MollCane UIP 3.45
+13 MollCane DIP 2.55
+13 MollCane Sol CP 0.0
+13 MollCane P 0.77
+13 MollCane Ca 0.99
+13 MollCane RFV 8197.0
+13 MollCane S 0.85
+13 MollCane K 2.6
+13 MollCane Mg 0.39
+13 MollCane Fat 7.7
+13 MollCane Na 0.99
+13 MollCane Cl 0.5
+13 MollCane Zn 1.0
+13 MollCane Mn 1.0
+13 MollCane Cu 1.0
+13 MollCane Fe 775.0
+13 MollCane Vitamin A 1000.0
+13 MollCane Vitamin D 1000.0
+13 MollCane Vitamin E 1.0
+13 MollCane Se 0.0
+13 MollCane Co 0.0
+13 MollCane I 0.0
+13 MollCane FNDF 1.0
+13 MollCane UIP/CP 57.5
+13 MollCane Sol CP/CP 0.0
+13 MollCane Starch/NFC 0.0
+13 MollCane ARG 0.0
+13 MollCane HIS 0.0
+13 MollCane ILE 0.0
+13 MollCane LEU 0.0
+13 MollCane LYS 0.0
+13 MollCane MET 0.0
+13 MollCane CYS 0.0
+13 MollCane PHE 0.0
+13 MollCane THR 0.0
+13 MollCane TRP 0.0
+13 MollCane VAL 0.0
+13 MollCane AA#12 0.0
+13 MollCane AA#13 0.0
+13 MollCane % Forage 0.0
+13 MollCane Sugar % 0.0
+13 MollCane Rumensin 0.0
+13 MollCane Lignin 0.0
+13 MollCane DNDF 12 hours 0.0
+13 MollCane DNDF 30 hours 0.0
+13 MollCane Soluble fiber 0.0
+13 MollCane Rum Deg Starch 0.0
+13 MollCane Tot FA 0.0
+13 MollCane Unsat FA 0.0
+13 MollCane Mcal 0.0
+15 Nut Pellt DM 92.0
+15 Nut Pellt ADF 2.5
+15 Nut Pellt NDF 7.1
+15 Nut Pellt NFC 25.0
+15 Nut Pellt Starch 0.0
+15 Nut Pellt NEL 50.0
+15 Nut Pellt CP 44.0
+15 Nut Pellt UIP 15.4
+15 Nut Pellt DIP 28.6
+15 Nut Pellt Sol CP 0.0
+15 Nut Pellt P 1.2
+15 Nut Pellt Ca 4.7
+15 Nut Pellt RFV 1139.0
+15 Nut Pellt S 0.5
+15 Nut Pellt K 0.8
+15 Nut Pellt Mg 1.7
+15 Nut Pellt Fat 0.124158
+15 Nut Pellt Na 4.5
+15 Nut Pellt Cl 8.80366
+15 Nut Pellt Zn 1500.0
+15 Nut Pellt Mn 1200.0
+15 Nut Pellt Cu 204.0
+15 Nut Pellt Fe 500.0
+15 Nut Pellt Vitamin A 67000.0
+15 Nut Pellt Vitamin D 32000.0
+15 Nut Pellt Vitamin E 96.0
+15 Nut Pellt Se 10.4293
+15 Nut Pellt Co 2160.34
+15 Nut Pellt I 2106.54
+15 Nut Pellt FNDF 7.1
+15 Nut Pellt UIP/CP 35.0
+15 Nut Pellt Sol CP/CP 0.0
+15 Nut Pellt Starch/NFC 0.0
+15 Nut Pellt ARG 0.0
+15 Nut Pellt HIS 0.0
+15 Nut Pellt ILE 0.0
+15 Nut Pellt LEU 0.0
+15 Nut Pellt LYS 0.0
+15 Nut Pellt MET 0.0
+15 Nut Pellt CYS 0.0
+15 Nut Pellt PHE 0.0
+15 Nut Pellt THR 0.0
+15 Nut Pellt TRP 0.0
+15 Nut Pellt VAL 0.0
+15 Nut Pellt AA#12 0.0
+15 Nut Pellt AA#13 0.0
+15 Nut Pellt % Forage 0.0
+15 Nut Pellt Sugar % 0.0
+15 Nut Pellt Rumensin 0.0
+15 Nut Pellt Lignin 0.0
+15 Nut Pellt DNDF 12 hours 0.0
+15 Nut Pellt DNDF 30 hours 0.0
+15 Nut Pellt Soluble fiber 0.0
+15 Nut Pellt Rum Deg Starch 0.0
+15 Nut Pellt Tot FA 0.0
+15 Nut Pellt Unsat FA 0.0
+15 Nut Pellt Mcal 0.0
+16 SF Corn DM 87.0
+16 SF Corn ADF 3.0
+16 SF Corn NDF 0.0
+16 SF Corn NFC 75.0
+16 SF Corn Starch 0.0
+16 SF Corn NEL 93.0
+16 SF Corn CP 10.0
+16 SF Corn UIP 5.0
+16 SF Corn DIP 5.0
+16 SF Corn Sol CP 0.0
+16 SF Corn P 0.29
+16 SF Corn Ca 0.04
+16 SF Corn RFV 0.0
+16 SF Corn S 0.12
+16 SF Corn K 0.37
+16 SF Corn Mg 0.14
+16 SF Corn Fat 4.0
+16 SF Corn Na 0.03
+16 SF Corn Cl 0.05
+16 SF Corn Zn 14.0
+16 SF Corn Mn 5.0
+16 SF Corn Cu 4.0
+16 SF Corn Fe 0.0
+16 SF Corn Vitamin A 1000.0
+16 SF Corn Vitamin D 0.0
+16 SF Corn Vitamin E 25.0
+16 SF Corn Se 6.0
+16 SF Corn Co 0.0
+16 SF Corn I 0.0
+16 SF Corn FNDF 0.0
+16 SF Corn UIP/CP 50.0
+16 SF Corn Sol CP/CP 0.0
+16 SF Corn Starch/NFC 0.0
+16 SF Corn ARG 0.0
+16 SF Corn HIS 0.0
+16 SF Corn ILE 0.0
+16 SF Corn LEU 0.0
+16 SF Corn LYS 0.0
+16 SF Corn MET 0.0
+16 SF Corn CYS 0.0
+16 SF Corn PHE 0.0
+16 SF Corn THR 0.0
+16 SF Corn TRP 0.0
+16 SF Corn VAL 0.0
+16 SF Corn AA#12 0.0
+16 SF Corn AA#13 0.0
+16 SF Corn % Forage 0.0
+16 SF Corn Sugar % 0.0
+16 SF Corn Rumensin 0.0
+16 SF Corn Lignin 0.0
+16 SF Corn DNDF 12 hours 0.0
+16 SF Corn DNDF 30 hours 0.0
+16 SF Corn Soluble fiber 0.0
+16 SF Corn Rum Deg Starch 0.0
+16 SF Corn Tot FA 0.0
+16 SF Corn Unsat FA 0.0
+16 SF Corn Mcal 0.0
+17 Close Min DM 99.0
+17 Close Min ADF 0.095056
+17 Close Min NDF 0.0
+17 Close Min NFC 0.0
+17 Close Min Starch 0.0
+17 Close Min NEL 0.009506
+17 Close Min CP 0.009506
+17 Close Min UIP 0.009506
+17 Close Min DIP 0.0
+17 Close Min Sol CP 0.0
+17 Close Min P 3.30492
+17 Close Min Ca 22.851
+17 Close Min RFV 0.0
+17 Close Min S 3.63097
+17 Close Min K 0.171295
+17 Close Min Mg 7.88701
+17 Close Min Fat 0.15209
+17 Close Min Na 1.33922
+17 Close Min Cl 7.13092
+17 Close Min Zn 2023.0
+17 Close Min Mn 1725.0
+17 Close Min Cu 438.0
+17 Close Min Fe 3264.0
+17 Close Min Vitamin A 160000.0
+17 Close Min Vitamin D 26000.0
+17 Close Min Vitamin E 358.0
+17 Close Min Se 11.9771
+17 Close Min Co 496.193
+17 Close Min I 2152.88
+17 Close Min FNDF 0.0
+17 Close Min UIP/CP 100.0
+17 Close Min Sol CP/CP 0.0
+17 Close Min Starch/NFC 0.0
+17 Close Min ARG 0.0
+17 Close Min HIS 0.0
+17 Close Min ILE 0.0
+17 Close Min LEU 0.0
+17 Close Min LYS 0.0
+17 Close Min MET 0.0
+17 Close Min CYS 0.0
+17 Close Min PHE 0.0
+17 Close Min THR 0.0
+17 Close Min TRP 0.0
+17 Close Min VAL 0.0
+17 Close Min AA#12 0.0
+17 Close Min AA#13 0.0
+17 Close Min % Forage 0.0
+17 Close Min Sugar % 0.0
+17 Close Min Rumensin 0.0
+17 Close Min Lignin 0.0
+17 Close Min DNDF 12 hours 0.0
+17 Close Min DNDF 30 hours 0.0
+17 Close Min Soluble fiber 0.0
+17 Close Min Rum Deg Starch 0.0
+17 Close Min Tot FA 0.0
+17 Close Min Unsat FA 0.0
+17 Close Min Mcal 0.0
+18 Min. Mix DM 99.0
+18 Min. Mix ADF 0.0
+18 Min. Mix NDF 0.0
+18 Min. Mix NFC 0.0
+18 Min. Mix Starch 0.0
+18 Min. Mix NEL 0.0
+18 Min. Mix CP 22.1249
+18 Min. Mix UIP 0.221249
+18 Min. Mix DIP 21.903651
+18 Min. Mix Sol CP 0.0
+18 Min. Mix P 2.83376
+18 Min. Mix Ca 14.3787
+18 Min. Mix RFV 0.0
+18 Min. Mix S 0.295494
+18 Min. Mix K 0.16274
+18 Min. Mix Mg 3.13829
+18 Min. Mix Fat 0.124158
+18 Min. Mix Na 8.35172
+18 Min. Mix Cl 8.80366
+18 Min. Mix Zn 1761.0
+18 Min. Mix Mn 1487.0
+18 Min. Mix Cu 381.0
+18 Min. Mix Fe 2691.0
+18 Min. Mix Vitamin A 139000.0
+18 Min. Mix Vitamin D 23000.0
+18 Min. Mix Vitamin E 146.0
+18 Min. Mix Se 10.4293
+18 Min. Mix Co 2160.34
+18 Min. Mix I 2106.54
+18 Min. Mix FNDF 0.0
+18 Min. Mix UIP/CP 1.0
+18 Min. Mix Sol CP/CP 0.0
+18 Min. Mix Starch/NFC 0.0
+18 Min. Mix ARG 0.0
+18 Min. Mix HIS 0.0
+18 Min. Mix ILE 0.0
+18 Min. Mix LEU 0.0
+18 Min. Mix LYS 0.0
+18 Min. Mix MET 0.0
+18 Min. Mix CYS 0.0
+18 Min. Mix PHE 0.0
+18 Min. Mix THR 0.0
+18 Min. Mix TRP 0.0
+18 Min. Mix VAL 0.0
+18 Min. Mix AA#12 0.0
+18 Min. Mix AA#13 0.0
+18 Min. Mix % Forage 0.0
+18 Min. Mix Sugar % 0.0
+18 Min. Mix Rumensin 0.0
+18 Min. Mix Lignin 0.0
+18 Min. Mix DNDF 12 hours 0.0
+18 Min. Mix DNDF 30 hours 0.0
+18 Min. Mix Soluble fiber 0.0
+18 Min. Mix Rum Deg Starch 0.0
+18 Min. Mix Tot FA 0.0
+18 Min. Mix Unsat FA 0.0
+18 Min. Mix Mcal 0.0
+19 Dry Min DM 99.0
+19 Dry Min ADF 0.19188
+19 Dry Min NDF 0.0
+19 Dry Min NFC 0.0
+19 Dry Min Starch 0.0
+19 Dry Min NEL 0.019188
+19 Dry Min CP 0.019188
+19 Dry Min UIP 0.019188
+19 Dry Min DIP 0.0
+19 Dry Min Sol CP 0.0
+19 Dry Min P 6.07432
+19 Dry Min Ca 12.8643
+19 Dry Min RFV 0.0
+19 Dry Min S 7.28278
+19 Dry Min K 0.331442
+19 Dry Min Mg 15.7799
+19 Dry Min Fat 0.307008
+19 Dry Min Na 2.64602
+19 Dry Min Cl 6.64962
+19 Dry Min Zn 4081.0
+19 Dry Min Mn 3362.0
+19 Dry Min Cu 883.0
+19 Dry Min Fe 5031.0
+19 Dry Min Vitamin A 323000.0
+19 Dry Min Vitamin D 54000.0
+19 Dry Min Vitamin E 724.0
+19 Dry Min Se 24.1769
+19 Dry Min Co 1001.61
+19 Dry Min I 2047.17
+19 Dry Min FNDF 0.0
+19 Dry Min UIP/CP 100.0
+19 Dry Min Sol CP/CP 0.0
+19 Dry Min Starch/NFC 0.0
+19 Dry Min ARG 0.0
+19 Dry Min HIS 0.0
+19 Dry Min ILE 0.0
+19 Dry Min LEU 0.0
+19 Dry Min LYS 0.0
+19 Dry Min MET 0.0
+19 Dry Min CYS 0.0
+19 Dry Min PHE 0.0
+19 Dry Min THR 0.0
+19 Dry Min TRP 0.0
+19 Dry Min VAL 0.0
+19 Dry Min AA#12 0.0
+19 Dry Min AA#13 0.0
+19 Dry Min % Forage 0.0
+19 Dry Min Sugar % 0.0
+19 Dry Min Rumensin 0.0
+19 Dry Min Lignin 0.0
+19 Dry Min DNDF 12 hours 0.0
+19 Dry Min DNDF 30 hours 0.0
+19 Dry Min Soluble fiber 0.0
+19 Dry Min Rum Deg Starch 0.0
+19 Dry Min Tot FA 0.0
+19 Dry Min Unsat FA 0.0
+19 Dry Min Mcal 0.0
+20 On Farm DM 59.0
+20 On Farm ADF 19.9548
+20 On Farm NDF 23.0
+20 On Farm NFC 37.0
+20 On Farm Starch 0.0
+20 On Farm NEL 82.3035
+20 On Farm CP 17.8096
+20 On Farm UIP 6.43629
+20 On Farm DIP 11.37331
+20 On Farm Sol CP 0.0
+20 On Farm P 0.427675
+20 On Farm Ca 0.687844
+20 On Farm RFV 297.0
+20 On Farm S 0.293836
+20 On Farm K 1.14894
+20 On Farm Mg 0.260848
+20 On Farm Fat 6.17895
+20 On Farm Na 0.16057
+20 On Farm Cl 0.166494
+20 On Farm Zn 20.0
+20 On Farm Mn 20.0
+20 On Farm Cu 6.0
+20 On Farm Fe 137.0
+20 On Farm Vitamin A 25000.0
+20 On Farm Vitamin D 0.0
+20 On Farm Vitamin E 25.0
+20 On Farm Se 3.48013
+20 On Farm Co 2.40253
+20 On Farm I 8.00843
+20 On Farm FNDF 23.0
+20 On Farm UIP/CP 36.139442
+20 On Farm Sol CP/CP 0.0
+20 On Farm Starch/NFC 0.0
+20 On Farm ARG 0.0
+20 On Farm HIS 0.0
+20 On Farm ILE 0.0
+20 On Farm LEU 0.0
+20 On Farm LYS 0.0
+20 On Farm MET 0.0
+20 On Farm CYS 0.0
+20 On Farm PHE 0.0
+20 On Farm THR 0.0
+20 On Farm TRP 0.0
+20 On Farm VAL 0.0
+20 On Farm AA#12 0.0
+20 On Farm AA#13 0.0
+20 On Farm % Forage 0.0
+20 On Farm Sugar % 0.0
+20 On Farm Rumensin 0.0
+20 On Farm Lignin 0.0
+20 On Farm DNDF 12 hours 0.0
+20 On Farm DNDF 30 hours 0.0
+20 On Farm Soluble fiber 0.0
+20 On Farm Rum Deg Starch 0.0
+20 On Farm Tot FA 0.0
+20 On Farm Unsat FA 0.0
+20 On Farm Mcal 0.0
+1 LACT HAY DM 90.0
+1 LACT HAY ADF 32.0
+1 LACT HAY NDF 39.0
+1 LACT HAY NFC 28.0
+1 LACT HAY Starch 0.0
+1 LACT HAY NEL 62.0
+1 LACT HAY CP 16.0
+1 LACT HAY UIP 4.0
+1 LACT HAY DIP 12.0
+1 LACT HAY Sol CP 0.0
+1 LACT HAY P 0.27
+1 LACT HAY Ca 1.5
+1 LACT HAY RFV 153.0
+1 LACT HAY S 0.3
+1 LACT HAY K 2.5
+1 LACT HAY Mg 0.3
+1 LACT HAY Fat 3.6
+1 LACT HAY Na 0.15
+1 LACT HAY Cl 0.09
+1 LACT HAY Zn 27.0
+1 LACT HAY Mn 34.0
+1 LACT HAY Cu 9.0
+1 LACT HAY Fe 227.0
+1 LACT HAY Vitamin A 81000.0
+1 LACT HAY Vitamin D 2000.0
+1 LACT HAY Vitamin E 24.0
+1 LACT HAY Se 0.0
+1 LACT HAY Co 0.0
+1 LACT HAY I 0.0
+1 LACT HAY FNDF 39.0
+1 LACT HAY UIP/CP 25.0
+1 LACT HAY Sol CP/CP 0.0
+1 LACT HAY Starch/NFC 0.0
+1 LACT HAY ARG 0.0
+1 LACT HAY HIS 0.0
+1 LACT HAY ILE 0.0
+1 LACT HAY LEU 0.0
+1 LACT HAY LYS 0.0
+1 LACT HAY MET 0.0
+1 LACT HAY CYS 0.0
+1 LACT HAY PHE 0.0
+1 LACT HAY THR 0.0
+1 LACT HAY TRP 0.0
+1 LACT HAY VAL 0.0
+1 LACT HAY AA#12 0.0
+1 LACT HAY AA#13 0.0
+1 LACT HAY % Forage 0.0
+1 LACT HAY Sugar % 0.0
+1 LACT HAY Rumensin 0.0
+1 LACT HAY Lignin 0.0
+1 LACT HAY DNDF 12 hours 0.0
+1 LACT HAY DNDF 30 hours 0.0
+1 LACT HAY Soluble fiber 0.0
+1 LACT HAY Rum Deg Starch 0.0
+1 LACT HAY Tot FA 0.0
+1 LACT HAY Unsat FA 0.0
+1 LACT HAY Mcal 0.0
+2 OatStraw DM 90.0
+2 OatStraw ADF 45.0
+2 OatStraw NDF 60.0
+2 OatStraw NFC 8.0
+2 OatStraw Starch 0.0
+2 OatStraw NEL 55.0
+2 OatStraw CP 9.0
+2 OatStraw UIP 2.25
+2 OatStraw DIP 6.75
+2 OatStraw Sol CP 0.0
+2 OatStraw P 0.2
+2 OatStraw Ca 0.45
+2 OatStraw RFV 83.0
+2 OatStraw S 0.3
+2 OatStraw K 1.5
+2 OatStraw Mg 0.1
+2 OatStraw Fat 1.0
+2 OatStraw Na 0.2
+2 OatStraw Cl 0.1
+2 OatStraw Zn 2.0
+2 OatStraw Mn 2.0
+2 OatStraw Cu 2.0
+2 OatStraw Fe 2.0
+2 OatStraw Vitamin A 2000.0
+2 OatStraw Vitamin D 2000.0
+2 OatStraw Vitamin E 2.0
+2 OatStraw Se 0.0
+2 OatStraw Co 0.0
+2 OatStraw I 0.0
+2 OatStraw FNDF 60.0
+2 OatStraw UIP/CP 25.0
+2 OatStraw Sol CP/CP 0.0
+2 OatStraw Starch/NFC 0.0
+2 OatStraw ARG 0.0
+2 OatStraw HIS 0.0
+2 OatStraw ILE 0.0
+2 OatStraw LEU 0.0
+2 OatStraw LYS 0.0
+2 OatStraw MET 0.0
+2 OatStraw CYS 0.0
+2 OatStraw PHE 0.0
+2 OatStraw THR 0.0
+2 OatStraw TRP 0.0
+2 OatStraw VAL 0.0
+2 OatStraw AA#12 0.0
+2 OatStraw AA#13 0.0
+2 OatStraw % Forage 0.0
+2 OatStraw Sugar % 0.0
+2 OatStraw Rumensin 0.0
+2 OatStraw Lignin 0.0
+2 OatStraw DNDF 12 hours 0.0
+2 OatStraw DNDF 30 hours 0.0
+2 OatStraw Soluble fiber 0.0
+2 OatStraw Rum Deg Starch 0.0
+2 OatStraw Tot FA 0.0
+2 OatStraw Unsat FA 0.0
+2 OatStraw Mcal 0.0
+3 DryCowAlf DM 90.0
+3 DryCowAlf ADF 34.0
+3 DryCowAlf NDF 42.0
+3 DryCowAlf NFC 24.0
+3 DryCowAlf Starch 0.0
+3 DryCowAlf NEL 64.0
+3 DryCowAlf CP 17.0
+3 DryCowAlf UIP 4.25
+3 DryCowAlf DIP 12.75
+3 DryCowAlf Sol CP 0.0
+3 DryCowAlf P 0.26
+3 DryCowAlf Ca 1.3
+3 DryCowAlf RFV 138.0
+3 DryCowAlf S 0.29
+3 DryCowAlf K 2.02
+3 DryCowAlf Mg 0.32
+3 DryCowAlf Fat 3.6
+3 DryCowAlf Na 0.15
+3 DryCowAlf Cl 0.09
+3 DryCowAlf Zn 27.0
+3 DryCowAlf Mn 34.0
+3 DryCowAlf Cu 9.0
+3 DryCowAlf Fe 227.0
+3 DryCowAlf Vitamin A 81000.0
+3 DryCowAlf Vitamin D 2000.0
+3 DryCowAlf Vitamin E 24.0
+3 DryCowAlf Se 0.0
+3 DryCowAlf Co 0.0
+3 DryCowAlf I 0.0
+3 DryCowAlf FNDF 42.0
+3 DryCowAlf UIP/CP 25.0
+3 DryCowAlf Sol CP/CP 0.0
+3 DryCowAlf Starch/NFC 0.0
+3 DryCowAlf ARG 0.0
+3 DryCowAlf HIS 0.0
+3 DryCowAlf ILE 0.0
+3 DryCowAlf LEU 0.0
+3 DryCowAlf LYS 0.0
+3 DryCowAlf MET 0.0
+3 DryCowAlf CYS 0.0
+3 DryCowAlf PHE 0.0
+3 DryCowAlf THR 0.0
+3 DryCowAlf TRP 0.0
+3 DryCowAlf VAL 0.0
+3 DryCowAlf AA#12 0.0
+3 DryCowAlf AA#13 0.0
+3 DryCowAlf % Forage 0.0
+3 DryCowAlf Sugar % 0.0
+3 DryCowAlf Rumensin 0.0
+3 DryCowAlf Lignin 0.0
+3 DryCowAlf DNDF 12 hours 0.0
+3 DryCowAlf DNDF 30 hours 0.0
+3 DryCowAlf Soluble fiber 0.0
+3 DryCowAlf Rum Deg Starch 0.0
+3 DryCowAlf Tot FA 0.0
+3 DryCowAlf Unsat FA 0.0
+3 DryCowAlf Mcal 0.0
+5 WetPTMash DM 17.0
+5 WetPTMash ADF 2.0
+5 WetPTMash NDF 0.0
+5 WetPTMash NFC 75.0
+5 WetPTMash Starch 0.0
+5 WetPTMash NEL 80.0
+5 WetPTMash CP 8.0
+5 WetPTMash UIP 3.2
+5 WetPTMash DIP 4.8
+5 WetPTMash Sol CP 0.0
+5 WetPTMash P 0.27
+5 WetPTMash Ca 0.04
+5 WetPTMash RFV 0.0
+5 WetPTMash S 0.12
+5 WetPTMash K 2.1
+5 WetPTMash Mg 0.09
+5 WetPTMash Fat 2.5
+5 WetPTMash Na 0.016
+5 WetPTMash Cl 0.03
+5 WetPTMash Zn 14.0
+5 WetPTMash Mn 5.0
+5 WetPTMash Cu 4.0
+5 WetPTMash Fe 0.0
+5 WetPTMash Vitamin A 1000.0
+5 WetPTMash Vitamin D 0.0
+5 WetPTMash Vitamin E 25.0
+5 WetPTMash Se 6.0
+5 WetPTMash Co 0.0
+5 WetPTMash I 0.1
+5 WetPTMash FNDF 0.0
+5 WetPTMash UIP/CP 40.0
+5 WetPTMash Sol CP/CP 0.0
+5 WetPTMash Starch/NFC 0.0
+5 WetPTMash ARG 0.0
+5 WetPTMash HIS 0.0
+5 WetPTMash ILE 0.0
+5 WetPTMash LEU 0.0
+5 WetPTMash LYS 0.0
+5 WetPTMash MET 0.0
+5 WetPTMash CYS 0.0
+5 WetPTMash PHE 0.0
+5 WetPTMash THR 0.0
+5 WetPTMash TRP 0.0
+5 WetPTMash VAL 0.0
+5 WetPTMash AA#12 0.0
+5 WetPTMash AA#13 0.0
+5 WetPTMash % Forage 0.0
+5 WetPTMash Sugar % 0.0
+5 WetPTMash Rumensin 0.0
+5 WetPTMash Lignin 0.0
+5 WetPTMash DNDF 12 hours 0.0
+5 WetPTMash DNDF 30 hours 0.0
+5 WetPTMash Soluble fiber 0.0
+5 WetPTMash Rum Deg Starch 0.0
+5 WetPTMash Tot FA 0.0
+5 WetPTMash Unsat FA 0.0
+5 WetPTMash Mcal 0.0
+6 Walnt/DPL DM 84.0
+6 Walnt/DPL ADF 40.0
+6 Walnt/DPL NDF 60.0
+6 Walnt/DPL NFC 12.0
+6 Walnt/DPL Starch 0.0
+6 Walnt/DPL NEL 50.0
+6 Walnt/DPL CP 14.0
+6 Walnt/DPL UIP 2.8
+6 Walnt/DPL DIP 11.2
+6 Walnt/DPL Sol CP 0.0
+6 Walnt/DPL P 0.4
+6 Walnt/DPL Ca 0.75
+6 Walnt/DPL RFV 90.0
+6 Walnt/DPL S 0.24
+6 Walnt/DPL K 2.0
+6 Walnt/DPL Mg 0.2
+6 Walnt/DPL Fat 1.0
+6 Walnt/DPL Na 0.02
+6 Walnt/DPL Cl 0.05
+6 Walnt/DPL Zn 62.0
+6 Walnt/DPL Mn 39.0
+6 Walnt/DPL Cu 20.0
+6 Walnt/DPL Fe 91.0
+6 Walnt/DPL Vitamin A 0.0
+6 Walnt/DPL Vitamin D 0.0
+6 Walnt/DPL Vitamin E 37.0
+6 Walnt/DPL Se 4.0
+6 Walnt/DPL Co 0.0
+6 Walnt/DPL I 0.0
+6 Walnt/DPL FNDF 60.0
+6 Walnt/DPL UIP/CP 20.0
+6 Walnt/DPL Sol CP/CP 0.0
+6 Walnt/DPL Starch/NFC 0.0
+6 Walnt/DPL ARG 0.0
+6 Walnt/DPL HIS 0.0
+6 Walnt/DPL ILE 0.0
+6 Walnt/DPL LEU 0.0
+6 Walnt/DPL LYS 0.0
+6 Walnt/DPL MET 0.0
+6 Walnt/DPL CYS 0.0
+6 Walnt/DPL PHE 0.0
+6 Walnt/DPL THR 0.0
+6 Walnt/DPL TRP 0.0
+6 Walnt/DPL VAL 0.0
+6 Walnt/DPL AA#12 0.0
+6 Walnt/DPL AA#13 0.0
+6 Walnt/DPL % Forage 0.0
+6 Walnt/DPL Sugar % 0.0
+6 Walnt/DPL Rumensin 0.0
+6 Walnt/DPL Lignin 0.0
+6 Walnt/DPL DNDF 12 hours 0.0
+6 Walnt/DPL DNDF 30 hours 0.0
+6 Walnt/DPL Soluble fiber 0.0
+6 Walnt/DPL Rum Deg Starch 0.0
+6 Walnt/DPL Tot FA 0.0
+6 Walnt/DPL Unsat FA 0.0
+6 Walnt/DPL Mcal 0.0
+7 Raisins DM 85.0
+7 Raisins ADF 5.0
+7 Raisins NDF 0.0
+7 Raisins NFC 79.0
+7 Raisins Starch 0.0
+7 Raisins NEL 88.0
+7 Raisins CP 8.0
+7 Raisins UIP 2.8
+7 Raisins DIP 5.2
+7 Raisins Sol CP 0.0
+7 Raisins P 0.16
+7 Raisins Ca 0.22
+7 Raisins RFV 0.0
+7 Raisins S 0.0
+7 Raisins K 0.0
+7 Raisins Mg 0.0
+7 Raisins Fat 1.0
+7 Raisins Na 0.0
+7 Raisins Cl 0.0
+7 Raisins Zn 0.0
+7 Raisins Mn 0.0
+7 Raisins Cu 0.0
+7 Raisins Fe 0.0
+7 Raisins Vitamin A 0.0
+7 Raisins Vitamin D 0.0
+7 Raisins Vitamin E 0.0
+7 Raisins Se 0.0
+7 Raisins Co 0.0
+7 Raisins I 0.0
+7 Raisins FNDF 0.0
+7 Raisins UIP/CP 35.0
+7 Raisins Sol CP/CP 0.0
+7 Raisins Starch/NFC 0.0
+7 Raisins ARG 0.0
+7 Raisins HIS 0.0
+7 Raisins ILE 0.0
+7 Raisins LEU 0.0
+7 Raisins LYS 0.0
+7 Raisins MET 0.0
+7 Raisins CYS 0.0
+7 Raisins PHE 0.0
+7 Raisins THR 0.0
+7 Raisins TRP 0.0
+7 Raisins VAL 0.0
+7 Raisins AA#12 0.0
+7 Raisins AA#13 0.0
+7 Raisins % Forage 0.0
+7 Raisins Sugar % 0.0
+7 Raisins Rumensin 0.0
+7 Raisins Lignin 0.0
+7 Raisins DNDF 12 hours 0.0
+7 Raisins DNDF 30 hours 0.0
+7 Raisins Soluble fiber 0.0
+7 Raisins Rum Deg Starch 0.0
+7 Raisins Tot FA 0.0
+7 Raisins Unsat FA 0.0
+7 Raisins Mcal 0.0
+8 PotatoChip DM 90.0
+8 PotatoChip ADF 15.0
+8 PotatoChip NDF 0.0
+8 PotatoChip NFC 65.0
+8 PotatoChip Starch 0.0
+8 PotatoChip NEL 80.0
+8 PotatoChip CP 12.0
+8 PotatoChip UIP 3.0
+8 PotatoChip DIP 9.0
+8 PotatoChip Sol CP 0.0
+8 PotatoChip P 0.55
+8 PotatoChip Ca 0.33
+8 PotatoChip RFV 0.0
+8 PotatoChip S 0.32
+8 PotatoChip K 0.09
+8 PotatoChip Mg 0.16
+8 PotatoChip Fat 15.0
+8 PotatoChip Na 0.2
+8 PotatoChip Cl 0.2
+8 PotatoChip Zn 2.0
+8 PotatoChip Mn 2.0
+8 PotatoChip Cu 2.0
+8 PotatoChip Fe 2.0
+8 PotatoChip Vitamin A 2000.0
+8 PotatoChip Vitamin D 2000.0
+8 PotatoChip Vitamin E 2.0
+8 PotatoChip Se 0.0
+8 PotatoChip Co 0.0
+8 PotatoChip I 0.0
+8 PotatoChip FNDF 0.0
+8 PotatoChip UIP/CP 25.0
+8 PotatoChip Sol CP/CP 0.0
+8 PotatoChip Starch/NFC 0.0
+8 PotatoChip ARG 0.0
+8 PotatoChip HIS 0.0
+8 PotatoChip ILE 0.0
+8 PotatoChip LEU 0.0
+8 PotatoChip LYS 0.0
+8 PotatoChip MET 0.0
+8 PotatoChip CYS 0.0
+8 PotatoChip PHE 0.0
+8 PotatoChip THR 0.0
+8 PotatoChip TRP 0.0
+8 PotatoChip VAL 0.0
+8 PotatoChip AA#12 0.0
+8 PotatoChip AA#13 0.0
+8 PotatoChip % Forage 0.0
+8 PotatoChip Sugar % 0.0
+8 PotatoChip Rumensin 0.0
+8 PotatoChip Lignin 0.0
+8 PotatoChip DNDF 12 hours 0.0
+8 PotatoChip DNDF 30 hours 0.0
+8 PotatoChip Soluble fiber 0.0
+8 PotatoChip Rum Deg Starch 0.0
+8 PotatoChip Tot FA 0.0
+8 PotatoChip Unsat FA 0.0
+8 PotatoChip Mcal 0.0
+9 WHEAT SIL DM 32.0
+9 WHEAT SIL ADF 32.0
+9 WHEAT SIL NDF 45.0
+9 WHEAT SIL NFC 26.0
+9 WHEAT SIL Starch 0.0
+9 WHEAT SIL NEL 65.0
+9 WHEAT SIL CP 11.5
+9 WHEAT SIL UIP 3.45
+9 WHEAT SIL DIP 8.05
+9 WHEAT SIL Sol CP 0.0
+9 WHEAT SIL P 0.18
+9 WHEAT SIL Ca 0.17
+9 WHEAT SIL RFV 132.0
+9 WHEAT SIL S 0.28
+9 WHEAT SIL K 1.1
+9 WHEAT SIL Mg 0.1
+9 WHEAT SIL Fat 3.0
+9 WHEAT SIL Na 0.14
+9 WHEAT SIL Cl 0.3
+9 WHEAT SIL Zn 24.0
+9 WHEAT SIL Mn 31.0
+9 WHEAT SIL Cu 11.0
+9 WHEAT SIL Fe 195.0
+9 WHEAT SIL Vitamin A 55000.0
+9 WHEAT SIL Vitamin D 2000.0
+9 WHEAT SIL Vitamin E 25.0
+9 WHEAT SIL Se 0.0
+9 WHEAT SIL Co 0.0
+9 WHEAT SIL I 0.32
+9 WHEAT SIL FNDF 45.0
+9 WHEAT SIL UIP/CP 30.0
+9 WHEAT SIL Sol CP/CP 0.0
+9 WHEAT SIL Starch/NFC 0.0
+9 WHEAT SIL ARG 0.0
+9 WHEAT SIL HIS 0.0
+9 WHEAT SIL ILE 0.0
+9 WHEAT SIL LEU 0.0
+9 WHEAT SIL LYS 0.0
+9 WHEAT SIL MET 0.0
+9 WHEAT SIL CYS 0.0
+9 WHEAT SIL PHE 0.0
+9 WHEAT SIL THR 0.0
+9 WHEAT SIL TRP 0.0
+9 WHEAT SIL VAL 0.0
+9 WHEAT SIL AA#12 0.0
+9 WHEAT SIL AA#13 0.0
+9 WHEAT SIL % Forage 0.0
+9 WHEAT SIL Sugar % 0.0
+9 WHEAT SIL Rumensin 0.0
+9 WHEAT SIL Lignin 0.0
+9 WHEAT SIL DNDF 12 hours 0.0
+9 WHEAT SIL DNDF 30 hours 0.0
+9 WHEAT SIL Soluble fiber 0.0
+9 WHEAT SIL Rum Deg Starch 0.0
+9 WHEAT SIL Tot FA 0.0
+9 WHEAT SIL Unsat FA 0.0
+9 WHEAT SIL Mcal 0.0
+10 Dough DM 60.0
+10 Dough ADF 2.0
+10 Dough NDF 7.0
+10 Dough NFC 63.13
+10 Dough Starch 0.0
+10 Dough NEL 96.0
+10 Dough CP 16.87
+10 Dough UIP 5.9045
+10 Dough DIP 10.9655
+10 Dough Sol CP 0.0
+10 Dough P 0.15
+10 Dough Ca 0.12
+10 Dough RFV 1161.0
+10 Dough S 0.19
+10 Dough K 0.25
+10 Dough Mg 0.14
+10 Dough Fat 0.86
+10 Dough Na 0.79
+10 Dough Cl 1.15
+10 Dough Zn 14.0
+10 Dough Mn 5.0
+10 Dough Cu 4.0
+10 Dough Fe 0.0
+10 Dough Vitamin A 1000.0
+10 Dough Vitamin D 0.0
+10 Dough Vitamin E 25.0
+10 Dough Se 6.0
+10 Dough Co 0.0
+10 Dough I 0.1
+10 Dough FNDF 7.0
+10 Dough UIP/CP 35.0
+10 Dough Sol CP/CP 0.0
+10 Dough Starch/NFC 0.0
+10 Dough ARG 0.0
+10 Dough HIS 0.0
+10 Dough ILE 0.0
+10 Dough LEU 0.0
+10 Dough LYS 0.0
+10 Dough MET 0.0
+10 Dough CYS 0.0
+10 Dough PHE 0.0
+10 Dough THR 0.0
+10 Dough TRP 0.0
+10 Dough VAL 0.0
+10 Dough AA#12 0.0
+10 Dough AA#13 0.0
+10 Dough % Forage 0.0
+10 Dough Sugar % 0.0
+10 Dough Rumensin 0.0
+10 Dough Lignin 0.0
+10 Dough DNDF 12 hours 0.0
+10 Dough DNDF 30 hours 0.0
+10 Dough Soluble fiber 0.0
+10 Dough Rum Deg Starch 0.0
+10 Dough Tot FA 0.0
+10 Dough Unsat FA 0.0
+10 Dough Mcal 0.0
+11 DPLITTER DM 95.0
+11 DPLITTER ADF 15.0
+11 DPLITTER NDF 20.0
+11 DPLITTER NFC 20.0
+11 DPLITTER Starch 0.0
+11 DPLITTER NEL 57.0
+11 DPLITTER CP 24.0
+11 DPLITTER UIP 3.6
+11 DPLITTER DIP 20.4
+11 DPLITTER Sol CP 0.0
+11 DPLITTER P 0.4
+11 DPLITTER Ca 0.25
+11 DPLITTER RFV 359.0
+11 DPLITTER S 0.35
+11 DPLITTER K 0.7
+11 DPLITTER Mg 0.25
+11 DPLITTER Fat 1.0
+11 DPLITTER Na 0.2
+11 DPLITTER Cl 0.03
+11 DPLITTER Zn 8.0
+11 DPLITTER Mn 10.0
+11 DPLITTER Cu 8.0
+11 DPLITTER Fe 30.0
+11 DPLITTER Vitamin A 30000.0
+11 DPLITTER Vitamin D 15000.0
+11 DPLITTER Vitamin E 30.0
+11 DPLITTER Se 0.3
+11 DPLITTER Co 0.0
+11 DPLITTER I 0.0
+11 DPLITTER FNDF 20.0
+11 DPLITTER UIP/CP 15.0
+11 DPLITTER Sol CP/CP 0.0
+11 DPLITTER Starch/NFC 0.0
+11 DPLITTER ARG 0.0
+11 DPLITTER HIS 0.0
+11 DPLITTER ILE 0.0
+11 DPLITTER LEU 0.0
+11 DPLITTER LYS 0.0
+11 DPLITTER MET 0.0
+11 DPLITTER CYS 0.0
+11 DPLITTER PHE 0.0
+11 DPLITTER THR 0.0
+11 DPLITTER TRP 0.0
+11 DPLITTER VAL 0.0
+11 DPLITTER AA#12 0.0
+11 DPLITTER AA#13 0.0
+11 DPLITTER % Forage 0.0
+11 DPLITTER Sugar % 0.0
+11 DPLITTER Rumensin 0.0
+11 DPLITTER Lignin 0.0
+11 DPLITTER DNDF 12 hours 0.0
+11 DPLITTER DNDF 30 hours 0.0
+11 DPLITTER Soluble fiber 0.0
+11 DPLITTER Rum Deg Starch 0.0
+11 DPLITTER Tot FA 0.0
+11 DPLITTER Unsat FA 0.0
+11 DPLITTER Mcal 0.0
+12 MolassWet DM 65.0
+12 MolassWet ADF 0.0
+12 MolassWet NDF 0.0
+12 MolassWet NFC 75.0
+12 MolassWet Starch 0.0
+12 MolassWet NEL 85.0
+12 MolassWet CP 8.0
+12 MolassWet UIP 1.6
+12 MolassWet DIP 6.4
+12 MolassWet Sol CP 0.0
+12 MolassWet P 0.11
+12 MolassWet Ca 1.0
+12 MolassWet RFV 0.0
+12 MolassWet S 0.47
+12 MolassWet K 3.85
+12 MolassWet Mg 0.43
+12 MolassWet Fat 0.1
+12 MolassWet Na 0.22
+12 MolassWet Cl 1.2
+12 MolassWet Zn 30.0
+12 MolassWet Mn 56.0
+12 MolassWet Cu 79.0
+12 MolassWet Fe 250.0
+12 MolassWet Vitamin A 1000.0
+12 MolassWet Vitamin D 1000.0
+12 MolassWet Vitamin E 7.0
+12 MolassWet Se 0.0
+12 MolassWet Co 0.0
+12 MolassWet I 0.0
+12 MolassWet FNDF 0.0
+12 MolassWet UIP/CP 20.0
+12 MolassWet Sol CP/CP 0.0
+12 MolassWet Starch/NFC 0.0
+12 MolassWet ARG 0.0
+12 MolassWet HIS 0.0
+12 MolassWet ILE 0.0
+12 MolassWet LEU 0.0
+12 MolassWet LYS 0.0
+12 MolassWet MET 0.0
+12 MolassWet CYS 0.0
+12 MolassWet PHE 0.0
+12 MolassWet THR 0.0
+12 MolassWet TRP 0.0
+12 MolassWet VAL 0.0
+12 MolassWet AA#12 0.0
+12 MolassWet AA#13 0.0
+12 MolassWet % Forage 0.0
+12 MolassWet Sugar % 0.0
+12 MolassWet Rumensin 0.0
+12 MolassWet Lignin 0.0
+12 MolassWet DNDF 12 hours 0.0
+12 MolassWet DNDF 30 hours 0.0
+12 MolassWet Soluble fiber 0.0
+12 MolassWet Rum Deg Starch 0.0
+12 MolassWet Tot FA 0.0
+12 MolassWet Unsat FA 0.0
+12 MolassWet Mcal 0.0
+13 IceCream DM 15.0
+13 IceCream ADF 0.001
+13 IceCream NDF 0.0
+13 IceCream NFC -8.0
+13 IceCream Starch 0.0
+13 IceCream NEL 110.0
+13 IceCream CP 19.0
+13 IceCream UIP 0.0
+13 IceCream DIP 19.0
+13 IceCream Sol CP 0.0
+13 IceCream P 0.4
+13 IceCream Ca 0.6
+13 IceCream RFV 0.0
+13 IceCream S 0.0
+13 IceCream K 0.96
+13 IceCream Mg 0.09
+13 IceCream Fat 19.0
+13 IceCream Na 0.0
+13 IceCream Cl 0.0
+13 IceCream Zn 0.0
+13 IceCream Mn 0.0
+13 IceCream Cu 0.0
+13 IceCream Fe 0.0
+13 IceCream Vitamin A 0.0
+13 IceCream Vitamin D 0.0
+13 IceCream Vitamin E 0.0
+13 IceCream Se 0.0
+13 IceCream Co 0.0
+13 IceCream I 0.0
+13 IceCream FNDF 0.0
+13 IceCream UIP/CP 0.0
+13 IceCream Sol CP/CP 0.0
+13 IceCream Starch/NFC 0.0
+13 IceCream ARG 0.0
+13 IceCream HIS 0.0
+13 IceCream ILE 0.0
+13 IceCream LEU 0.0
+13 IceCream LYS 0.0
+13 IceCream MET 0.0
+13 IceCream CYS 0.0
+13 IceCream PHE 0.0
+13 IceCream THR 0.0
+13 IceCream TRP 0.0
+13 IceCream VAL 0.0
+13 IceCream AA#12 0.0
+13 IceCream AA#13 0.0
+13 IceCream % Forage 0.0
+13 IceCream Sugar % 0.0
+13 IceCream Rumensin 0.0
+13 IceCream Lignin 0.0
+13 IceCream DNDF 12 hours 0.0
+13 IceCream DNDF 30 hours 0.0
+13 IceCream Soluble fiber 0.0
+13 IceCream Rum Deg Starch 0.0
+13 IceCream Tot FA 0.0
+13 IceCream Unsat FA 0.0
+13 IceCream Mcal 0.0
+14 Whey DM 23.0
+14 Whey ADF 1.1
+14 Whey NDF 4.6
+14 Whey NFC 65.4
+14 Whey Starch 0.0
+14 Whey NEL 96.0
+14 Whey CP 17.0
+14 Whey UIP 7.5
+14 Whey DIP 9.5
+14 Whey Sol CP 0.0
+14 Whey P 1.94
+14 Whey Ca 2.02
+14 Whey RFV 1780.0
+14 Whey S 0.17
+14 Whey K 5.6
+14 Whey Mg 0.37
+14 Whey Fat 15.0
+14 Whey Na 3.1
+14 Whey Cl 11.0
+14 Whey Zn 2.0
+14 Whey Mn 2.0
+14 Whey Cu 2.0
+14 Whey Fe 2.0
+14 Whey Vitamin A 2000.0
+14 Whey Vitamin D 2000.0
+14 Whey Vitamin E 2.0
+14 Whey Se 0.0
+14 Whey Co 0.0
+14 Whey I 0.0
+14 Whey FNDF 4.6
+14 Whey UIP/CP 44.117647
+14 Whey Sol CP/CP 0.0
+14 Whey Starch/NFC 0.0
+14 Whey ARG 0.0
+14 Whey HIS 0.0
+14 Whey ILE 0.0
+14 Whey LEU 0.0
+14 Whey LYS 0.0
+14 Whey MET 0.0
+14 Whey CYS 0.0
+14 Whey PHE 0.0
+14 Whey THR 0.0
+14 Whey TRP 0.0
+14 Whey VAL 0.0
+14 Whey AA#12 0.0
+14 Whey AA#13 0.0
+14 Whey % Forage 0.0
+14 Whey Sugar % 0.0
+14 Whey Rumensin 0.0
+14 Whey Lignin 0.0
+14 Whey DNDF 12 hours 0.0
+14 Whey DNDF 30 hours 0.0
+14 Whey Soluble fiber 0.0
+14 Whey Rum Deg Starch 0.0
+14 Whey Tot FA 0.0
+14 Whey Unsat FA 0.0
+14 Whey Mcal 0.0
+15 Carrots DM 10.0
+15 Carrots ADF 12.0
+15 Carrots NDF 2.0
+15 Carrots NFC 45.0
+15 Carrots Starch 0.0
+15 Carrots NEL 66.0
+15 Carrots CP 10.0
+15 Carrots UIP 2.5
+15 Carrots DIP 7.5
+15 Carrots Sol CP 0.0
+15 Carrots P 0.5
+15 Carrots Ca 1.0
+15 Carrots RFV 3700.0
+15 Carrots S 0.5
+15 Carrots K 0.5
+15 Carrots Mg 0.2
+15 Carrots Fat 0.2
+15 Carrots Na 0.2
+15 Carrots Cl 0.2
+15 Carrots Zn 2.0
+15 Carrots Mn 2.0
+15 Carrots Cu 2.0
+15 Carrots Fe 2.0
+15 Carrots Vitamin A 2000.0
+15 Carrots Vitamin D 2000.0
+15 Carrots Vitamin E 2.0
+15 Carrots Se 0.0
+15 Carrots Co 0.0
+15 Carrots I 0.0
+15 Carrots FNDF 2.0
+15 Carrots UIP/CP 25.0
+15 Carrots Sol CP/CP 0.0
+15 Carrots Starch/NFC 0.0
+15 Carrots ARG 0.0
+15 Carrots HIS 0.0
+15 Carrots ILE 0.0
+15 Carrots LEU 0.0
+15 Carrots LYS 0.0
+15 Carrots MET 0.0
+15 Carrots CYS 0.0
+15 Carrots PHE 0.0
+15 Carrots THR 0.0
+15 Carrots TRP 0.0
+15 Carrots VAL 0.0
+15 Carrots AA#12 0.0
+15 Carrots AA#13 0.0
+15 Carrots % Forage 0.0
+15 Carrots Sugar % 0.0
+15 Carrots Rumensin 0.0
+15 Carrots Lignin 0.0
+15 Carrots DNDF 12 hours 0.0
+15 Carrots DNDF 30 hours 0.0
+15 Carrots Soluble fiber 0.0
+15 Carrots Rum Deg Starch 0.0
+15 Carrots Tot FA 0.0
+15 Carrots Unsat FA 0.0
+15 Carrots Mcal 0.0
+16 SF CORN DM 87.0
+16 SF CORN ADF 3.0
+16 SF CORN NDF 0.0
+16 SF CORN NFC 73.0
+16 SF CORN Starch 0.0
+16 SF CORN NEL 92.0
+16 SF CORN CP 10.0
+16 SF CORN UIP 5.0
+16 SF CORN DIP 5.0
+16 SF CORN Sol CP 0.0
+16 SF CORN P 0.29
+16 SF CORN Ca 0.04
+16 SF CORN RFV 0.0
+16 SF CORN S 0.12
+16 SF CORN K 0.37
+16 SF CORN Mg 0.14
+16 SF CORN Fat 4.3
+16 SF CORN Na 0.03
+16 SF CORN Cl 0.05
+16 SF CORN Zn 14.0
+16 SF CORN Mn 5.0
+16 SF CORN Cu 4.0
+16 SF CORN Fe 0.0
+16 SF CORN Vitamin A 1000.0
+16 SF CORN Vitamin D 0.0
+16 SF CORN Vitamin E 25.0
+16 SF CORN Se 6.0
+16 SF CORN Co 0.0
+16 SF CORN I 0.0
+16 SF CORN FNDF 0.0
+16 SF CORN UIP/CP 50.0
+16 SF CORN Sol CP/CP 0.0
+16 SF CORN Starch/NFC 0.0
+16 SF CORN ARG 0.0
+16 SF CORN HIS 0.0
+16 SF CORN ILE 0.0
+16 SF CORN LEU 0.0
+16 SF CORN LYS 0.0
+16 SF CORN MET 0.0
+16 SF CORN CYS 0.0
+16 SF CORN PHE 0.0
+16 SF CORN THR 0.0
+16 SF CORN TRP 0.0
+16 SF CORN VAL 0.0
+16 SF CORN AA#12 0.0
+16 SF CORN AA#13 0.0
+16 SF CORN % Forage 0.0
+16 SF CORN Sugar % 0.0
+16 SF CORN Rumensin 0.0
+16 SF CORN Lignin 0.0
+16 SF CORN DNDF 12 hours 0.0
+16 SF CORN DNDF 30 hours 0.0
+16 SF CORN Soluble fiber 0.0
+16 SF CORN Rum Deg Starch 0.0
+16 SF CORN Tot FA 0.0
+16 SF CORN Unsat FA 0.0
+16 SF CORN Mcal 0.0
+17 Calf Pelle DM 91.0
+17 Calf Pelle ADF 16.0014
+17 Calf Pelle NDF 8.0
+17 Calf Pelle NFC 19.0
+17 Calf Pelle Starch 0.0
+17 Calf Pelle NEL 70.5807
+17 Calf Pelle CP 29.92
+17 Calf Pelle UIP 15.5502
+17 Calf Pelle DIP 14.3698
+17 Calf Pelle Sol CP 0.0
+17 Calf Pelle P 0.804002
+17 Calf Pelle Ca 0.871646
+17 Calf Pelle RFV 889.0
+17 Calf Pelle S 0.554968
+17 Calf Pelle K 0.787449
+17 Calf Pelle Mg 2.01158
+17 Calf Pelle Fat 3.43739
+17 Calf Pelle Na 2.41088
+17 Calf Pelle Cl 2.29255
+17 Calf Pelle Zn 609.0
+17 Calf Pelle Mn 486.0
+17 Calf Pelle Cu 134.0
+17 Calf Pelle Fe 727.0
+17 Calf Pelle Vitamin A 48000.0
+17 Calf Pelle Vitamin D 8000.0
+17 Calf Pelle Vitamin E 109.0
+17 Calf Pelle Se 10.4502
+17 Calf Pelle Co 534.151
+17 Calf Pelle I 531.54
+17 Calf Pelle FNDF 8.0
+17 Calf Pelle UIP/CP 51.972594
+17 Calf Pelle Sol CP/CP 0.0
+17 Calf Pelle Starch/NFC 0.0
+17 Calf Pelle ARG 0.0
+17 Calf Pelle HIS 0.0
+17 Calf Pelle ILE 0.0
+17 Calf Pelle LEU 0.0
+17 Calf Pelle LYS 0.0
+17 Calf Pelle MET 0.0
+17 Calf Pelle CYS 0.0
+17 Calf Pelle PHE 0.0
+17 Calf Pelle THR 0.0
+17 Calf Pelle TRP 0.0
+17 Calf Pelle VAL 0.0
+17 Calf Pelle AA#12 0.0
+17 Calf Pelle AA#13 0.0
+17 Calf Pelle % Forage 0.0
+17 Calf Pelle Sugar % 0.0
+17 Calf Pelle Rumensin 0.0
+17 Calf Pelle Lignin 0.0
+17 Calf Pelle DNDF 12 hours 0.0
+17 Calf Pelle DNDF 30 hours 0.0
+17 Calf Pelle Soluble fiber 0.0
+17 Calf Pelle Rum Deg Starch 0.0
+17 Calf Pelle Tot FA 0.0
+17 Calf Pelle Unsat FA 0.0
+17 Calf Pelle Mcal 0.0
+18 Close Min DM 100.0
+18 Close Min ADF 0.0
+18 Close Min NDF 0.0
+18 Close Min NFC 0.0
+18 Close Min Starch 0.0
+18 Close Min NEL 0.0
+18 Close Min CP 0.0
+18 Close Min UIP 0.0
+18 Close Min DIP 0.0
+18 Close Min Sol CP 0.0
+18 Close Min P 0.00462
+18 Close Min Ca 17.5547
+18 Close Min RFV 0.0
+18 Close Min S 6.25739
+18 Close Min K 0.269579
+18 Close Min Mg 8.57946
+18 Close Min Fat 0.260339
+18 Close Min Na 2.38463
+18 Close Min Cl 3.39827
+18 Close Min Zn 3668.0
+18 Close Min Mn 2995.0
+18 Close Min Cu 796.0
+18 Close Min Fe 917.0
+18 Close Min Vitamin A 292000.0
+18 Close Min Vitamin D 50000.0
+18 Close Min Vitamin E 621.0
+18 Close Min Se 21.8685
+18 Close Min Co 973.045
+18 Close Min I 1851.71
+18 Close Min FNDF 0.0
+18 Close Min UIP/CP 0.0
+18 Close Min Sol CP/CP 0.0
+18 Close Min Starch/NFC 0.0
+18 Close Min ARG 0.0
+18 Close Min HIS 0.0
+18 Close Min ILE 0.0
+18 Close Min LEU 0.0
+18 Close Min LYS 0.0
+18 Close Min MET 0.0
+18 Close Min CYS 0.0
+18 Close Min PHE 0.0
+18 Close Min THR 0.0
+18 Close Min TRP 0.0
+18 Close Min VAL 0.0
+18 Close Min AA#12 0.0
+18 Close Min AA#13 0.0
+18 Close Min % Forage 0.0
+18 Close Min Sugar % 0.0
+18 Close Min Rumensin 0.0
+18 Close Min Lignin 0.0
+18 Close Min DNDF 12 hours 0.0
+18 Close Min DNDF 30 hours 0.0
+18 Close Min Soluble fiber 0.0
+18 Close Min Rum Deg Starch 0.0
+18 Close Min Tot FA 0.0
+18 Close Min Unsat FA 0.0
+18 Close Min Mcal 0.0
+19 DC/Hfr PX DM 84.0
+19 DC/Hfr PX ADF 39.6096
+19 DC/Hfr PX NDF 56.0
+19 DC/Hfr PX NFC 9.0
+19 DC/Hfr PX Starch 0.0
+19 DC/Hfr PX NEL 47.4734
+19 DC/Hfr PX CP 13.5739
+19 DC/Hfr PX UIP 2.82202
+19 DC/Hfr PX DIP 10.75188
+19 DC/Hfr PX Sol CP 0.0
+19 DC/Hfr PX P 0.224508
+19 DC/Hfr PX Ca 1.07202
+19 DC/Hfr PX RFV 96.0
+19 DC/Hfr PX S 0.136611
+19 DC/Hfr PX K 1.02277
+19 DC/Hfr PX Mg 0.119642
+19 DC/Hfr PX Fat 0.987541
+19 DC/Hfr PX Na 0.148955
+19 DC/Hfr PX Cl 0.316623
+19 DC/Hfr PX Zn 34.0
+19 DC/Hfr PX Mn 28.0
+19 DC/Hfr PX Cu 9.0
+19 DC/Hfr PX Fe 49.0
+19 DC/Hfr PX Vitamin A 3000.0
+19 DC/Hfr PX Vitamin D 1000.0
+19 DC/Hfr PX Vitamin E 12.0
+19 DC/Hfr PX Se 1.90068
+19 DC/Hfr PX Co 2.4094
+19 DC/Hfr PX I 6.78788
+19 DC/Hfr PX FNDF 56.0
+19 DC/Hfr PX UIP/CP 20.790046
+19 DC/Hfr PX Sol CP/CP 0.0
+19 DC/Hfr PX Starch/NFC 0.0
+19 DC/Hfr PX ARG 0.0
+19 DC/Hfr PX HIS 0.0
+19 DC/Hfr PX ILE 0.0
+19 DC/Hfr PX LEU 0.0
+19 DC/Hfr PX LYS 0.0
+19 DC/Hfr PX MET 0.0
+19 DC/Hfr PX CYS 0.0
+19 DC/Hfr PX PHE 0.0
+19 DC/Hfr PX THR 0.0
+19 DC/Hfr PX TRP 0.0
+19 DC/Hfr PX VAL 0.0
+19 DC/Hfr PX AA#12 0.0
+19 DC/Hfr PX AA#13 0.0
+19 DC/Hfr PX % Forage 0.0
+19 DC/Hfr PX Sugar % 0.0
+19 DC/Hfr PX Rumensin 0.0
+19 DC/Hfr PX Lignin 0.0
+19 DC/Hfr PX DNDF 12 hours 0.0
+19 DC/Hfr PX DNDF 30 hours 0.0
+19 DC/Hfr PX Soluble fiber 0.0
+19 DC/Hfr PX Rum Deg Starch 0.0
+19 DC/Hfr PX Tot FA 0.0
+19 DC/Hfr PX Unsat FA 0.0
+19 DC/Hfr PX Mcal 0.0
+20 R1200NK DM 95.0
+20 R1200NK ADF 12.4865
+20 R1200NK NDF 20.0
+20 R1200NK NFC -0.9347
+20 R1200NK Starch 0.0
+20 R1200NK NEL 16.6486
+20 R1200NK CP 67.9347
+20 R1200NK UIP 1.08308
+20 R1200NK DIP 66.85162
+20 R1200NK Sol CP 0.0
+20 R1200NK P 0.065551
+20 R1200NK Ca 11.9127
+20 R1200NK RFV 368.0
+20 R1200NK S 0.047859
+20 R1200NK K 0.047859
+20 R1200NK Mg 0.103992
+20 R1200NK Fat 0.041622
+20 R1200NK Na 0.069688
+20 R1200NK Cl 0.050977
+20 R1200NK Zn 502.0
+20 R1200NK Mn 455.0
+20 R1200NK Cu 109.0
+20 R1200NK Fe 573.0
+20 R1200NK Vitamin A 40000.0
+20 R1200NK Vitamin D 7000.0
+20 R1200NK Vitamin E 85.0
+20 R1200NK Se 2.99376
+20 R1200NK Co 9.18087
+20 R1200NK I 1.6632
+20 R1200NK FNDF 20.0
+20 R1200NK UIP/CP 1.594296
+20 R1200NK Sol CP/CP 0.0
+20 R1200NK Starch/NFC 0.0
+20 R1200NK ARG 0.0
+20 R1200NK HIS 0.0
+20 R1200NK ILE 0.0
+20 R1200NK LEU 0.0
+20 R1200NK LYS 0.0
+20 R1200NK MET 0.0
+20 R1200NK CYS 0.0
+20 R1200NK PHE 0.0
+20 R1200NK THR 0.0
+20 R1200NK TRP 0.0
+20 R1200NK VAL 0.0
+20 R1200NK AA#12 0.0
+20 R1200NK AA#13 0.0
+20 R1200NK % Forage 0.0
+20 R1200NK Sugar % 0.0
+20 R1200NK Rumensin 0.0
+20 R1200NK Lignin 0.0
+20 R1200NK DNDF 12 hours 0.0
+20 R1200NK DNDF 30 hours 0.0
+20 R1200NK Soluble fiber 0.0
+20 R1200NK Rum Deg Starch 0.0
+20 R1200NK Tot FA 0.0
+20 R1200NK Unsat FA 0.0
+20 R1200NK Mcal 0.0
+44 MasterFeed44 DM 90.013263
+44 MasterFeed44 ADF 8.195079
+44 MasterFeed44 NDF 18.830116
+44 MasterFeed44 NFC 22.308826
+44 MasterFeed44 Starch 0.0
+44 MasterFeed44 NEL 66.426993
+44 MasterFeed44 CP 29.845292
+44 MasterFeed44 UIP 6.290762
+44 MasterFeed44 DIP 23.554531
+44 MasterFeed44 Sol CP 0.0
+44 MasterFeed44 P 0.59085
+44 MasterFeed44 Ca 0.61609
+44 MasterFeed44 RFV 0.0
+44 MasterFeed44 S 0.249668
+44 MasterFeed44 K 0.796007
+44 MasterFeed44 Mg 1.19418
+44 MasterFeed44 Fat 2.26595
+44 MasterFeed44 Na 3.589745
+44 MasterFeed44 Cl 2.78447
+44 MasterFeed44 Zn 934.760572
+44 MasterFeed44 Mn 726.261971
+44 MasterFeed44 Cu 201.557389
+44 MasterFeed44 Fe 297.580669
+44 MasterFeed44 Vitamin A 72622.66097
+44 MasterFeed44 Vitamin D 12080.447915
+44 MasterFeed44 Vitamin E 161.825549
+44 MasterFeed44 Se 23.710034
+44 MasterFeed44 Co 785.383822
+44 MasterFeed44 I 750.860469
+44 MasterFeed44 FNDF 0.0
+44 MasterFeed44 UIP/CP 21.077903
+44 MasterFeed44 Sol CP/CP 0.0
+44 MasterFeed44 Starch/NFC 0.0
+44 MasterFeed44 ARG 0.0
+44 MasterFeed44 HIS 0.0
+44 MasterFeed44 ILE 0.0
+44 MasterFeed44 LEU 0.0
+44 MasterFeed44 LYS 0.0
+44 MasterFeed44 MET 0.0
+44 MasterFeed44 CYS 0.0
+44 MasterFeed44 PHE 0.0
+44 MasterFeed44 THR 0.0
+44 MasterFeed44 TRP 0.0
+44 MasterFeed44 VAL 0.0
+44 MasterFeed44 AA#12 0.0
+44 MasterFeed44 AA#13 0.0
+44 MasterFeed44 % Forage 0.0
+44 MasterFeed44 Sugar % 0.0
+44 MasterFeed44 Rumensin 0.0
+44 MasterFeed44 Lignin 0.0
+44 MasterFeed44 DNDF 12 hours 0.0
+44 MasterFeed44 DNDF 30 hours 0.0
+44 MasterFeed44 Soluble fiber 0.0
+44 MasterFeed44 Rum Deg Starch 0.0
+44 MasterFeed44 Tot FA 0.0
+44 MasterFeed44 Unsat FA 0.0
+44 MasterFeed44 Mcal 0.0
+Done. The total time for the query with indexing was 410.408 milliseconds.

@@ -1,0 +1,57 @@
+         0'DM'                'Dry Matter as % of Total Weight of Feed'                            0         0         0         0
+         1'ADF'               'Acid Detergent Fiber as % of DM'                                    1         1         1         9
+         2'NDF'               'Neutral Detergent Fiber as % of DM'                                 2         2      null      null
+         3'NFC'               'Non-fiber Carbohydrate as % of DM'                                  4         4      null      null
+         4'Starch'            'Starch as % of DM'                                                  5         5      null      null
+         5'NEL'               'Energy in Mega Calories/Hundred Weight (Mcal/cwt)'                  7         7         9         1
+         6'CP'                'Crude Protein as % of DM'                                           8         8         2         2
+         7'UIP'               'Undegradable Intake Protein as % of DM (calculated)'               11        11         3         3
+         8'DIP'               'Degradable Intake Protein as % of DM (calculated)'                 13        13      null      null
+         9'Sol CP'            'Soluable Crude Protein as % of DM (calculated)'                     9         9      null      null
+        10'P'                 'Phosphorus as % of DM'                                             15        15         4         4
+        11'Ca'                'Calcium as % of DM'                                                16        16         5         5
+        12'RFV'               'Relative Feed Value (calculated)'                                  17        17      null      null
+        13'S'                 'Sulfur as % of DM'                                                 18        18         6         6
+        14'K'                 'Potassium as % of DM'                                              19        19         7         7
+        15'Mg'                'Magnesium as % of DM'                                              20        20         8         8
+        16'Fat'               'Fat as % of DM'                                                    14        14      null      null
+        17'Na'                'Sodium as % of DM'                                                 21        21      null      null
+        18'Cl'                'Chloride as % of DM'                                               22        22      null      null
+        19'Zn'                'ppm of DM'                                                         29        29      null      null
+        20'Mn'                'ppm of DM'                                                         27        27      null      null
+        21'Cu'                'ppm of DM'                                                         24        24      null      null
+        22'Fe'                'ppm of DM'                                                         26        26      null      null
+        23'Vitamin A'         'IU/lb'                                                             30        30      null      null
+        24'Vitamin D'         'IU/lb'                                                             31        31      null      null
+        25'Vitamin E'         'IU/lb'                                                             32        32      null      null
+        26'Se'                'ppm of DM'                                                         28        28      null      null
+        27'Co'                'ppm of DM'                                                         23        23      null      null
+        28'I'                 'ppm of DM'                                                         25        25      null      null
+        29'FNDF'              'Neutral Detergent Fiber from Forage as % of DM'                     3         3      null      null
+        30'UIP/CP'            'UIP as % of CP'                                                    12        12      null      null
+        31'Sol CP/CP'         'Soluable Crude Protien as % of CP'                                 10        10      null      null
+        32'Starch/NFC'        'Starch as % of NFC (calculated)'                                    6         6      null      null
+        33'ARG'               'ARG Description'                                                   33        -1      null      null
+        34'HIS'               ''                                                                  34        -1      null      null
+        35'ILE'               'ILE Description'                                                   35        -1      null      null
+        36'LEU'               ''                                                                  36        -1      null      null
+        37'LYS'               ''                                                                  37        -1      null      null
+        38'MET'               ''                                                                  38        -1      null      null
+        39'CYS'               ''                                                                  39        -1      null      null
+        40'PHE'               ''                                                                  40        -1      null      null
+        41'THR'               ''                                                                  41        -1      null      null
+        42'TRP'               ''                                                                  42        -1      null      null
+        43'VAL'               ''                                                                  43        -1      null      null
+        44'AA#12'             ''                                                                  44        -1      null      null
+        45'AA#13'             ''                                                                  45        -1      null      null
+        46'% Forage'          ''                                                                  46        -1      null      null
+        47'Sugar %'           ''                                                                  47        -1      null      null
+        48'Rumensin'          'mg/lb'                                                             48        -1      null      null
+        49'Lignin'            '%'                                                                 49        -1      null      null
+        50'DNDF 12 hours'     '%'                                                                 50        -1      null      null
+        51'DNDF 30 hours'     ''                                                                  51        -1      null      null
+        52'Soluble fiber'     '%'                                                                 52        -1      null      null
+        53'Rum Deg Starch'    '%'                                                                 53        -1      null      null
+        55'Tot FA'            '% of Fatty Acids'                                                  55        -1      null      null
+        56'Unsat FA'          '% Unsaturated Fatty Acids'                                         56        -1      null      null
+       102'Mcal'              ''                                                                  33      null      null      null
