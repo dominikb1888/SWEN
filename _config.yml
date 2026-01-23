@@ -10,6 +10,3 @@ kramdown:
   syntax_highlighter: rouge
 
 permalink: pretty
-
-exclude:
-  - README.md
