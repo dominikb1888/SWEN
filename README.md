@@ -20,7 +20,7 @@ Tutorial:
 
 - [https://rust-exercises.com/](https://rust-exercises.com/)
 - [Rustlings](https://github.com/rust-lang/rustlings)
-- Rust Book, Brown University with great quizzes: https://rust-book.cs.brown.edu/
+- Rust Book, Brown University with great quizzes: [](https://rust-book.cs.brown.edu/)
 - Rust by Example: https://doc.rust-lang.org/rust-by-example/index.html
 - [Algorithms and Data Structures in Rust (Second half)](https://www.packtpub.com/product/hands-on-data-structures-and-algorithms-with-rust/9781788995528)
 

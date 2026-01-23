@@ -1,0 +1,15 @@
+title: Software Engineering & Algorithms
+description: Algorithms and Data Structures in Rust
+theme: null
+
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+
+exclude:
+  - README.md
