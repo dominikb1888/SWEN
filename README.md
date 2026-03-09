@@ -1,4 +1,4 @@
-# Software Development - Clean Code, Data Structures, and Algorithms
+# Software Development - Computation Thinking and Software Engineering
 
 ## Readings and Resources:
 
@@ -7,12 +7,12 @@
 
 Lecture:
 - Book: [Algorithms and Data Structures with Python](https://link.springer.com/book/10.1007/978-3-031-42209-6)
-- Website (currently porting to Rust): [https://dominikboehler.de/CS2Plus](https://dominikboehler.de/CS2Plus)
+- [Currently adapting to Rust](https://github.com/dominikb1888/ad-rust) (private repo, Ask for Access if necessary)
 
 Exercise:
 - [Guide to Competitive Programming](https://link.springer.com/book/10.1007/978-3-031-61794-2)
 
-Tutorial:
+Rust Reference:
 - [Programming Rust](https://ebookcentral.proquest.com/lib/th-deggendorf/detail.action?docID=6643397)
 
 
@@ -32,19 +32,21 @@ In each exercise we will attempt a challenging algorithmic problem from the CSES
 
 Use this template for Rust Code: https://github.com/dominikb1888/cses_template
 
+You can also use https://github.com/csesfi/cses-cli/ to download the exercises and test cases.
+
 
 ## Class Design - Flipped Classroom
 
 The course is taught in a Flipped Classroom style. You are required to prepare coding exercises and will be asked to present them in front of class on a random selection basis.
 
 - 30 min | Review and joint development of selected Homework Exercises
-- 60 min | Theoretical input on computational thinking with Algorithms and Data Structures.
-- 90 min | Applying theoretical input in a hands-on class project: Building a text editor (https://github.com/dominikb1888/rim).
+- 60 min | Theoretical input on computational thinking and software engineering.
+- 90 min | Applying theoretical input in a hands-on
 
 
 ## Exam (graded)
 
-The Exam will be written and online. It will be a code exercise just like the ones you practice with tests provided.
+The Exam will be written (online). It will be a code exercise just like the ones you practice with tests provided. The exam itself will count 60% of your grade. The 10 deliverables count 40%.
 
 
 ## Agenda
@@ -61,30 +63,38 @@ The Exam will be written and online. It will be a code exercise just like the on
 10. B-Trees
 11. Heuristic Search
 
+
 ## Deliverables
 
-| Prepare before | Exercise | Topic |
+| Prepare before Session | Exercise | Topic |
 |---|---|---|
-| 2 | [Tower of Hanoi](https://cses.fi/problemset/task/2165) | Recursion |
-| 3 | [Increasing Array](https://cses.fi/problemset/task/1094) | Dynamic Arrays |
-| 4 | [Two Sets](https://cses.fi/problemset/task/1092) | Sets |
+| 2 | [Tower of Hanoi](https://cses.fi/ckvo8q5wh/task/2165) | Recursion |
+| 3 | [Increasing Array](https://cses.fi/ckvo8q5wh/task/1094) | Dynamic Arrays |
+| 4 | [Two Sets](https://cses.fi/ckvo8q5wh/task/1092) | Sets |
 | 5 | | |
-| 6 | [Subordinates](https://cses.fi/problemset/task/1674) | Trees |
-| 7 | [Counting Rooms](https://cses.fi/problemset/task/1192) | Graphs |
-| 8 | [Finding Borders](https://cses.fi/problemset/task/1732) | Membership Structures |
-| 9 | [Another Game](https://cses.fi/problemset/task/2208) | Heaps |
-| 10 | []() | Balanced Binary Search Trees |
-| 11 | []() | B-Trees |
-| 12 | []() | Heuristic Search |
+| 6 | [Subordinates](https://cses.fi/ckvo8q5wh/task/1674) | Trees |
+| 7 | [Counting Rooms](https://cses.fi/ckvo8q5wh/task/1192) | Graphs |
+| 8 | [Finding Borders](https://cses.fi/ckvo8q5wh/task/1732) | Membership Structures |
+| 9 | [Another Game](https://cses.fi/ckvo8q5wh/task/2208) | Heaps |
+| 10 | Free Choice | Balanced Binary Search Trees |
+| 11 | Free Choice | B-Trees |
+| 12 | Free Choice | Heuristic Search |
+
+
+In total you have to submit 10 Deliverables during the semester. The deliverables will count 40% of your final grade. You can submit these as part of your exam.
 
 
 ## Sessions
 
-### 1. Algorithms: Analysis, Design, and Evaluation
+### 1. Algorithms & Data Structures: Computational Complexity and Real-world Performance
 
 Lecture:
-- Introduction to Data Structures: [Simple Linked List](https://rust-unofficial.github.io/too-many-lists/second-final.html)
+- Introduction to Data Structures: [Simple Linked List](https://rust-unofficial.github.io/too-many-lists/first.html)
+- Introduction to the class, exam, and deliverables
+
 - Introduction to Estimating Algorithm Runtime
+- Measuring and profiling Algorithm Runtime
+-
 
 In-class Exercise:
 - [Weird Algorithm](https://cses.fi/problemset/task/1068)
@@ -98,25 +108,29 @@ Optional Reading
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
 
-### 2. Recursion
+### 2. Problem Solving Strategies: Recursion and others
 
+Exercise Review:
 - [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
-- [Understanding Recursion and its memory footprint](https://youtu.be/_JtPhF8MshA?si=k2bHPfkmPk-Y-m5N)
-- The Stack, the Heap, Pointers and Recursion:
+Theory:
+- [Understanding Recursion and its memory footprint](https://youtu.be/_JtPhF8MshA?si=k2bHPfkmPk-Y-m5N)- The Stack, the Heap, Pointers and Recursion:
     - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
     - https://www.varonis.com/blog/stack-memory-3
-
+- Patterns: https://www.designgurus.io/blog/grokking-the-coding-interview-patterns
 - Evaluating Algorithms (Recap of Session 1)
 
-Exercise:
-- Extending rim with a Linked List (Undo function)
 
+### 3. Sequences: Lists, Lists, and more Lists (and Smart Pointers)
 
-### 3. Sequences
+Exercise Review:
+
+Theory:
+- Rust Arrays and Vectors in Memory
+- Options, Results, and Smart Pointers in Rust
 
 Interactive:
-- Building a Linked List from Scratch (https://rust-unofficial.github.io/too-many-lists/)
-- Rust Memory Allocation and Pointers
+- Building a better Linked List (https://rust-unofficial.github.io/too-many-lists/second.html)
+
 
 Data Structures:
 - Linked Lists: Improving on our Exercise
@@ -124,13 +138,26 @@ Data Structures:
 - Skip Lists
 - Dynamic Arrays (Vec<T>):
 
+
+### 4. Sequences continued: The performance implications of Lists, Arrays, and Vectors
+
+Exercise Review:
+
+Interactive:
+- Rust Memory Allocation, Cache Lines, Registers
+
 Algorithms for Sorting and Ordering:
 - Bubble Sort
 - Merge Sort (Divide and Conquer)
 - Quicksort
 
+Reading:
+- https://developerlife.com/2025/05/19/rust-mem-latency/
+- https://www.danielokoronkwo.com/post/memory-caches-cpus-a-practical-mental-model/
+- Detailed Registers and Cache Visualization tool: https://ripes.me/
 
-### 4. Maps and Sets
+
+### 4. Sets and Maps:
 
 Algorithms:
 - Hashing
@@ -151,6 +178,7 @@ Reading:
 - https://www.geeksforgeeks.org/solving-sudoku-using-bitwise-algorithm/
 - https://medium.com/@dt_emmy/sudoku-solver-using-rust-8a4e83d921fd
 
+
 ### 5. Trees
 
 Data Structure:
@@ -170,6 +198,8 @@ Algorithms
 
 ### 7. Membership Structures
 
+- Bloom Filters
+
 ### 8. Heaps
 
 ### 9. Balanced Binary Search Trees
@@ -179,8 +209,6 @@ Algorithms
 ### 11. Heuristic Search
 
 ### 12. Practice and Mock Exam
-
-### 13. Practice and Mock Exam
 
 
 ## Further Reading
