@@ -5,7 +5,13 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.git pkgs.evcxr pkgs.cargo-generate pkgs.python312Packages.jupyter pkgs.python312Packages.numpy ];
+  packages = [ 
+  	pkgs.git 
+  	pkgs.evcxr 
+	pkgs.cargo-generate
+  	pkgs.linuxPackages_latest.perf
+  	pkgs.valgrind
+  ];
 
   # https://devenv.sh/languages/
   languages.rust.enable = true;

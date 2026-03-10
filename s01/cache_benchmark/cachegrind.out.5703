@@ -1,0 +1,556 @@
+cmd: target/release/cache_benchmark
+events: Ir
+fl=???
+fn=(below main)
+0 62
+fn=???
+0 800443
+fn=_Exit
+0 9
+fn=_IO_cleanup
+0 170
+fn=_IO_default_finish
+0 18
+fn=_IO_doallocbuf
+0 28
+fn=_IO_file_close
+0 5
+fn=_IO_file_close_it@@GLIBC_2.17
+0 98
+fn=_IO_file_doallocate
+0 58
+fn=_IO_file_finish@@GLIBC_2.17
+0 12
+fn=_IO_file_fopen@@GLIBC_2.17
+0 101
+fn=_IO_file_open
+0 38
+fn=_IO_file_read
+0 28
+fn=_IO_file_seek
+0 10
+fn=_IO_file_seekoff@@GLIBC_2.17
+0 63
+fn=_IO_file_stat
+0 5
+fn=_IO_file_underflow@@GLIBC_2.17
+0 218
+fn=_IO_flush_all
+0 174
+fn=_IO_link_in
+0 126
+fn=_IO_new_file_init_internal
+0 20
+fn=_IO_no_init
+0 863
+fn=_IO_old_init
+0 925
+fn=_IO_setb
+0 658
+fn=_IO_sputbackc
+0 3456
+fn=_IO_stdfiles_init
+0 24
+fn=_IO_str_init_static_internal
+0 1120
+fn=_IO_switch_to_get_mode
+0 92
+fn=_IO_un_link
+0 16
+fn=_IO_unsave_markers
+0 11
+fn=__GI__IO_un_link.part.0
+0 75
+fn=__GI___close_nocancel
+0 33
+fn=__GI___tunables_init
+0 33036
+fn=__GI_memchr
+0 2320
+fn=__GI_memcpy
+0 845
+fn=__GI_memmove
+0 18
+fn=__GI_memset
+0 121
+fn=__GI_strlen
+0 1630
+fn=____strtoul_l_internal
+0 15578
+fn=__aarch64_cas4_acq
+0 85
+fn=__aarch64_cas8_acq
+0 25
+fn=__aarch64_cas8_relax
+0 5
+fn=__aarch64_ldadd4_relax
+0 38
+fn=__aarch64_ldadd8_relax
+0 20
+fn=__aarch64_swp4_rel
+0 70
+fn=__aarch64_swp8_acq
+0 50
+fn=__aarch64_swp8_acq_rel
+0 10
+fn=__call_tls_dtors
+0 18
+fn=__close_nocancel
+0 12
+fn=__ctype_init
+0 25
+fn=__cxa_atexit
+0 6
+fn=__cxa_finalize
+0 198
+fn=__errno_location
+0 27
+fn=__fopen_internal
+0 46
+fn=__getauxval2
+0 14
+fn=__getrandom_early_init
+0 32
+fn=__glibc_morecore
+0 325
+fn=__init_cpu_features
+0 62
+fn=__init_cpu_features_constructor
+0 376
+fn=__init_misc
+0 28
+fn=__internal_atexit
+0 41
+fn=__internal_syscall_cancel
+0 20
+fn=__is_decorate_maps_enabled
+0 114
+fn=__isoc23_sscanf
+0 2336
+fn=__libc_arm_za_disable
+0 6
+fn=__libc_calloc2
+0 48
+fn=__libc_cleanup_pop_restore
+0 580
+fn=__libc_cleanup_push_defer
+0 720
+fn=__libc_early_init
+0 63
+fn=__libc_malloc2
+0 2700270
+fn=__libc_scratch_buffer_set_array_size
+0 60
+fn=__libc_sigaction
+0 305
+fn=__libc_start_main@@GLIBC_2.34
+0 93
+fn=__minimal_calloc
+0 130
+fn=__minimal_free
+0 62
+fn=__minimal_malloc
+0 1103
+fn=__new_exitfn
+0 40
+fn=__open_nocancel
+0 186
+fn=__pthread_attr_extension
+0 19
+fn=__pthread_mutex_unlock_usercnt
+0 51
+fn=__pthread_tunables_init
+0 38
+fn=__ptmalloc_init
+0 650
+fn=__read_nocancel
+0 84
+fn=__rtld_malloc_init_real
+0 89
+fn=__rtld_malloc_init_stubs
+0 21
+fn=__rtld_mutex_init
+0 62
+fn=__run_exit_handlers
+0 97
+fn=__rustc::__rdl_alloc
+0 700028
+fn=__rustc::__rdl_dealloc
+0 400012
+fn=__rustc::__rust_alloc
+0 100004
+fn=__rustc::__rust_dealloc
+0 100003
+fn=__rustc::__rust_no_alloc_shim_is_unstable_v2
+0 100004
+fn=__set_vma_name
+0 84
+fn=__sigjmp_save
+0 10
+fn=__sigsetjmp
+0 171
+fn=__strtoul_internal
+0 576
+fn=__syscall_cancel
+0 15
+fn=__tls_init_tp
+0 84
+fn=__tls_pre_init_tp
+0 26
+fn=__tunable_get_val
+0 802
+fn=__underflow
+0 124
+fn=__unregister_atfork
+0 90
+fn=__vfscanf_internal
+0 38208
+fn=_dl_add_to_namespace_list
+0 175
+fn=_dl_add_to_slotinfo
+0 123
+fn=_dl_allocate_tls_init
+0 222
+fn=_dl_allocate_tls_storage
+0 46
+fn=_dl_assign_tls_modid
+0 48
+fn=_dl_audit_activity_map
+0 15
+fn=_dl_audit_activity_nsid
+0 57
+fn=_dl_audit_objclose
+0 70
+fn=_dl_audit_objopen
+0 51
+fn=_dl_audit_preinit
+0 14
+fn=_dl_bti_check
+0 12
+fn=_dl_call_fini
+0 159
+fn=_dl_call_libc_early_init
+0 27
+fn=_dl_catch_error
+0 28
+fn=_dl_catch_exception
+0 264
+fn=_dl_check_all_versions
+0 64
+fn=_dl_check_map_versions
+0 4433
+fn=_dl_count_modids
+0 14
+fn=_dl_debug_change_state
+0 26
+fn=_dl_debug_initialize
+0 37
+fn=_dl_debug_post_relocate
+0 42
+fn=_dl_debug_state
+0 8
+fn=_dl_debug_update
+0 52
+fn=_dl_determine_tlsoffset
+0 172
+fn=_dl_dst_count
+0 126
+fn=_dl_find_object_from_map
+0 780
+fn=_dl_find_object_init
+0 47
+fn=_dl_fini
+0 263
+fn=_dl_gcs_check
+0 21
+fn=_dl_handle_execstack_tunable
+0 17
+fn=_dl_hwcaps_split
+0 87
+fn=_dl_hwcaps_split_masked
+0 85
+fn=_dl_hwcaps_subdirs_active
+0 5
+fn=_dl_important_hwcaps
+0 115
+fn=_dl_init
+0 87
+fn=_dl_init_paths
+0 154
+fn=_dl_lookup_direct
+0 150
+fn=_dl_lookup_map
+0 468
+fn=_dl_lookup_symbol_x
+0 35125
+fn=_dl_map_new_object
+0 286
+fn=_dl_map_object
+0 156
+fn=_dl_map_object_deps
+0 1416
+fn=_dl_map_object_from_fd
+0 3013
+fn=_dl_name_match_p
+0 929
+fn=_dl_new_object
+0 820
+fn=_dl_next_ld_env_entry
+0 835
+fn=_dl_notify_new_object
+0 84
+fn=_dl_protect_relro
+0 160
+fn=_dl_receive_error
+0 33
+fn=_dl_relocate_object
+0 66
+fn=_dl_relocate_object_no_relro
+0 37826
+fn=_dl_setup_hash
+0 160
+fn=_dl_sort_maps
+0 364
+fn=_dl_sort_maps_init
+0 18
+fn=_dl_start
+0 800
+fn=_dl_sysdep_parse_arguments
+0 549
+fn=_dl_sysdep_start
+0 146
+fn=_dl_sysdep_start_cleanup
+0 4
+fn=_dl_tls_initial_modid_limit_setup
+0 45
+fn=_dl_tls_static_surplus_init
+0 38
+fn=_dl_unload_cache
+0 14
+fn=_dlfo_process_initial
+0 272
+fn=_dlfo_process_initial_noncontiguous_map
+0 398
+fn=_dlfo_sort_mappings
+0 307
+fn=_init_first
+0 24
+fn=_int_free_chunk
+0 5699812
+fn=_int_malloc
+0 14401696
+fn=_int_realloc
+0 73
+fn=_setjmp
+0 3
+fn=access
+0 19
+fn=alloc::collections::btree::map::entry::OccupiedEntry<K,V,A>::remove_kv
+0 35
+fn=alloc::collections::btree::map::entry::VacantEntry<K,V,A>::insert_entry
+0 40
+fn=alloc::collections::btree::remove::<impl alloc::collections::btree::node::Handle<alloc::collections::btree::node::NodeRef<alloc::collections::btree::node::marker::Mut,K,V,alloc::collections::btree::node::marker::Leaf>,alloc::collections::btree::node::marker::KV>>::remove_leaf_kv
+0 60
+fn=alloc::collections::btree::remove::<impl alloc::collections::btree::node::Handle<alloc::collections::btree::node::NodeRef<alloc::collections::btree::node::marker::Mut,K,V,alloc::collections::btree::node::marker::LeafOrInternal>,alloc::collections::btree::node::marker::KV>>::remove_kv_tracking
+0 18
+fn=alloc_perturb
+0 1300117
+fn=allocate_dtv
+0 24
+fn=bcmp
+0 43
+fn=brk
+0 415
+fn=btree_destroy
+0 26
+fn=cache_benchmark::main
+0 5350102
+fn=cache_rpath
+0 38
+fn=call_init
+0 380
+fn=call_weak_fn
+0 12
+fn=calloc
+0 28
+fn=check_match
+0 14896
+fn=check_stdfiles_vtables
+0 25
+fn=copy_hwcaps
+0 50
+fn=decompose_rpath
+0 819
+fn=dfs_traversal.part.0
+0 378
+fn=dl_main
+0 1442
+fn=do_lookup_x
+0 61141
+fn=do_preload
+0 35
+fn=exit
+0 7
+fn=expand_dynamic_string_token
+0 48
+fn=fclose@@GLIBC_2.17
+0 64
+fn=fillin_rpath.isra.0
+0 304
+fn=fopen@@GLIBC_2.17
+0 5
+fn=free
+0 3900499
+fn=fstat
+0 45
+fn=fstatat
+0 34
+fn=getauxval
+0 331
+fn=getdelim
+0 2387
+fn=getline
+0 192
+fn=getpagesize
+0 20
+fn=getrlimit
+0 32
+fn=gettid
+0 4
+fn=handle_preload_list
+0 60
+fn=index
+0 428
+fn=init_have_lse_atomics
+0 39
+fn=init_have_sme
+0 9
+fn=init_tls
+0 42
+fn=lookup_malloc_symbol
+0 196
+fn=lseek
+0 26
+fn=main
+0 16
+fn=malloc
+0 2600200
+fn=malloc_consolidate
+0 136
+fn=map_doit
+0 24
+fn=memchr
+0 19
+fn=memcpy
+0 745
+fn=memmove
+0 28
+fn=memset
+0 594
+fn=mmap
+0 285
+fn=mprotect
+0 54
+fn=munmap
+0 54
+fn=munmap_chunk
+0 72
+fn=open_path
+0 449
+fn=open_verify.constprop.0
+0 348
+fn=openaux
+0 129
+fn=poll
+0 50
+fn=pthread_attr_destroy
+0 18
+fn=pthread_attr_getstack@@GLIBC_2.34
+0 12
+fn=pthread_attr_init@@GLIBC_2.17
+0 16
+fn=pthread_attr_setaffinity_np@@GLIBC_2.32
+0 37
+fn=pthread_getaffinity_np@@GLIBC_2.32
+0 26
+fn=pthread_getattr_np@@GLIBC_2.32
+0 911
+fn=pthread_mutex_lock@@GLIBC_2.17
+0 50
+fn=pthread_mutex_unlock@@GLIBC_2.17
+0 5
+fn=pthread_self
+0 3
+fn=realloc
+0 101
+fn=release_registered_frames
+0 14
+fn=rindex
+0 55
+fn=rtld_mutex_dummy
+0 50
+fn=sbrk
+0 715
+fn=sigaction
+0 135
+fn=sigaltstack
+0 18
+fn=signal
+0 47
+fn=stat
+0 16
+fn=std::io::stdio::cleanup
+0 24
+fn=std::rt::lang_start::{{closure}}
+0 7
+fn=std::rt::lang_start_internal
+0 220
+fn=std::sync::once::Once::call_once::{{closure}}
+0 37
+fn=std::sync::once::Once::call_once_force::{{closure}}
+0 11
+fn=std::sync::once_lock::OnceLock<T>::initialize
+0 22
+fn=std::sys::args::unix::imp::ARGV_INIT_ARRAY::init_wrapper
+0 9
+fn=std::sys::backtrace::__rust_begin_short_backtrace
+0 5
+fn=std::sys::pal::unix::stack_overflow::imp::make_handler
+0 53
+fn=std::sys::pal::unix::stack_overflow::thread_info::delete_current_info
+0 86
+fn=std::sys::pal::unix::stack_overflow::thread_info::set_current_info
+0 82
+fn=std::sys::sync::once::futex::Once::call
+0 88
+fn=std::thread::current::try_with_current
+0 39
+fn=strcmp
+0 24986
+fn=strcspn
+0 402
+fn=strdup
+0 85
+fn=strlen
+0 650
+fn=strncmp
+0 23
+fn=strsep
+0 1764
+fn=strstr
+0 39
+fn=sysconf
+0 57
+fn=sysmalloc
+0 3469
+fn=sysmalloc_mmap.isra.0
+0 180
+fn=tcache_init.part.0
+0 60
+fn=tcache_malloc_init
+0 18
+fn=unlink_chunk.isra.0
+0 56
+fn=version_check_doit
+0 18
+summary: 38478381

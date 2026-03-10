@@ -61,4 +61,6 @@ fn main() {
     println!("{:?}", new_list);
     new_list.pop();
     println!("{:?}", new_list);
+    let item = new_list.peek();
+    println!("{:?}", item);
 }
