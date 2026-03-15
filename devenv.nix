@@ -9,8 +9,10 @@
   	pkgs.git 
   	pkgs.evcxr 
 	pkgs.cargo-generate
-  	pkgs.linuxPackages_latest.perf
+  	# pkgs.perf
   	pkgs.valgrind
+  	pkgs.pkg-config
+	pkgs.openssl
   ];
 
   # https://devenv.sh/languages/

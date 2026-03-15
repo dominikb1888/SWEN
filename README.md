@@ -1,4 +1,4 @@
-# Software Development - Computation Thinking and Software Engineering
+# Software Development - Computational Thinking and Software Engineering
 
 ## Readings and Resources:
 
