@@ -4,6 +4,22 @@
 VALUES_FILE="my-values.toml"
 PROBLEM_ID=$1
 
+# 1. Check for required dependencies
+echo "Checking dependencies..."
+for cmd in cargo cses-cli cargo-generate; do
+    if ! command -v "$cmd" &> /dev/null; then
+        echo "Error: $cmd is not installed."
+        if [ "$cmd" == "cses-cli" ]; then
+            echo "Install it using: cargo install cses-cli"
+	elif [ "$cmd" == "cargo" ]; then
+	    echo "Cargo not available, please make sure you setup a proper Rust environment"
+        elif [ "$cmd" == "cargo-generate" ]; then
+            echo "Install it using: cargo install cargo-generate"
+        fi
+        exit 1
+    fi
+done
+
 if [ -z "$PROBLEM_ID" ]; then
     echo "Usage: $0 <problem_id>"
     exit 1
@@ -12,15 +28,15 @@ fi
 # 1. Check if my-values.toml exists; if not, prompt for credentials
 if [ ! -f "$VALUES_FILE" ]; then
     echo "Credentials file ($VALUES_FILE) not found."
-    read -p "Enter your CSES username: " CSES_USER
-    read -s -p "Enter your CSES password: " CSES_PASS
+    read -p "Enter your CSES username: " CSES_USERNAME
+    read -s -p "Enter your CSES password: " CSES_PASSWORD
     echo "" # New line after secret input
 
     # Create the toml file
     cat <<EOF > "$VALUES_FILE"
 [values]
-cses_user = "$CSES_USER"
-cses_pass = "$CSES_PASS"
+cses_username = "$CSES_USERNAME"
+cses_password = "$CSES_PASSWORD"
 EOF
     echo "Created $VALUES_FILE. Add this file to your global .gitignore!"
 fi
