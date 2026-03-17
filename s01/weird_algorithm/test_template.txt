@@ -1,18 +1,23 @@
 #[test]
-fn test_{test_name}() {{
+fn test_{test_name}() {
     let input = r#"{input_content}"#;
     let expected_output = r#"{expected_output}"#;
 
-    // Call the process function with the input
-    let output = process(input);
+    let mut cmd = Command::cargo_bin("{bin_name}").unwrap();
 
-    // Compare the output with the expected result
+    let assert_obj = cmd
+        .write_stdin(input)
+        .assert()
+        .success();
+
+    let actual_stdout = String::from_utf8_lossy(&assert_obj.get_output().stdout);
+
     assert_eq!(
-        output.trim(),
+        actual_stdout.trim(),
         expected_output.trim(),
         "Test failed for \"{}\".\nExpected:\n{}\nGot:\n{}",
         "{input_file}",
         expected_output.trim(),
-        output.trim()
+        actual_stdout.trim()
     );
-}}
+}
