@@ -46,7 +46,7 @@ The course is taught in a Flipped Classroom style. You are required to prepare c
 
 ## Exam (graded)
 
-The Exam will be written (online). It will be a code exercise just like the ones you practice with tests provided. The exam itself will count 60% of your grade. The 10 deliverables count 40%.
+The Exam will be an oral exam on-site counting 60% of your grade. The 10 deliverables count 40%. The exam will ask about a solution you submitted as part of the 10 deliverables. Access to the oral exam requires complete submission of all 10 deliverables.
 
 
 ## Agenda
@@ -81,7 +81,7 @@ The Exam will be written (online). It will be a code exercise just like the ones
 | 12 | Free Choice | Heuristic Search |
 
 
-In total you have to submit 10 Deliverables during the semester. The deliverables will count 40% of your final grade. You can submit these as part of your exam.
+In total you have to submit 10 Deliverables during the semester. The deliverables will count 40% of your final grade. You can submit these via ilearn ().
 
 
 ## Sessions
@@ -97,7 +97,7 @@ Lecture:
 -
 
 In-class Exercise:
-- [Weird Algorithm](https://cses.fi/problemset/task/1068)
+- [Weird Algorithm](https://cses.fi/ckvo8q5wh/task/1068)
 
 Required Reading:
 - https://en.algorithmica.org/hpc/complexity/
