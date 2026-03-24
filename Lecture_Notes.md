@@ -13,8 +13,7 @@
 ## Session 2 - March 24
 
 - Exercise Review of Weird Algorithm
-- Construction of LinkedList
-- In-class excercise (Repetitions)
+- Construction of LinkedList - second.rs
 
 
 ## Session 3 - April 7
