@@ -33,3 +33,10 @@ impl List {
         self.head = Link::More(new_node);
     }
 }
+
+// TODO: 
+// - introduce TDD and write unit tests
+// - impl pop
+// - impl Drop Trait for List
+// - Replace mem-replace with take()
+// - Replace match with map()
