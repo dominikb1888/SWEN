@@ -68,10 +68,10 @@ The Exam will be an oral exam on-site counting 60% of your grade. The 10 deliver
 
 | Prepare before Session | Exercise | Topic |
 |---|---|---|
-| 2 | [Tower of Hanoi](https://cses.fi/ckvo8q5wh/task/2165) | Recursion |
+| 2 |   |   |
 | 3 | [Increasing Array](https://cses.fi/ckvo8q5wh/task/1094) | Dynamic Arrays |
 | 4 | [Two Sets](https://cses.fi/ckvo8q5wh/task/1092) | Sets |
-| 5 | | |
+| 5 | [Tower of Hanoi](https://cses.fi/ckvo8q5wh/task/2165)| Recursion |
 | 6 | [Subordinates](https://cses.fi/ckvo8q5wh/task/1674) | Trees |
 | 7 | [Counting Rooms](https://cses.fi/ckvo8q5wh/task/1192) | Graphs |
 | 8 | [Finding Borders](https://cses.fi/ckvo8q5wh/task/1732) | Membership Structures |
@@ -111,25 +111,31 @@ Optional Reading
 ### 2. Problem Solving Strategies: Recursion and others
 
 Exercise Review:
-- [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
+- [Weird Algorithm](https://cses.fi/ckvo8q5wh/task/1068)
+
 Theory:
-- [Understanding Recursion and its memory footprint](https://youtu.be/_JtPhF8MshA?si=k2bHPfkmPk-Y-m5N)- The Stack, the Heap, Pointers and Recursion:
+- Recap: Memory Hierarchy and Processor Architecture
+- Rust Arrays and Vectors in Memory
+- Options, Results, and Smart Pointers in Rust
+- Benchmarking and Profiling (Criterion, Cachegrind, Heaptrack)
+
+Interactive:
+- Building a better Linked List (https://rust-unofficial.github.io/too-many-lists/second.html)
+
+Problem Solving Strategies (https://link.springer.com/chapter/10.1007/978-3-031-61794-2_2, https://www.designgurus.io/blog/grokking-the-coding-interview-patterns
+): 
+- I/O in Rust Reading and Writing from and to String, &str, &[u8]
+- Bit Manipulation
+- Recursion: [Understanding Recursion and its memory footprint](https://youtu.be/_JtPhF8MshA?si=k2bHPfkmPk-Y-m5N)- The Stack, the Heap, Pointers and Recursion:
     - https://web.mit.edu/rust-lang_v1.25/arch/amd64_ubuntu1404/share/doc/rust/html/book/first-edition/the-stack-and-the-heap.html
     - https://www.varonis.com/blog/stack-memory-3
-- Patterns: https://www.designgurus.io/blog/grokking-the-coding-interview-patterns
-- Evaluating Algorithms (Recap of Session 1)
+- Backtracking 
 
 
 ### 3. Sequences: Lists, Lists, and more Lists (and Smart Pointers)
 
 Exercise Review:
-
-Theory:
-- Rust Arrays and Vectors in Memory
-- Options, Results, and Smart Pointers in Rust
-
-Interactive:
-- Building a better Linked List (https://rust-unofficial.github.io/too-many-lists/second.html)
+- [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
 
 
 Data Structures:
