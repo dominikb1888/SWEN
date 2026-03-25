@@ -69,9 +69,9 @@ The Exam will be an oral exam on-site counting 60% of your grade. The 10 deliver
 | Prepare before Session | Exercise | Topic |
 |---|---|---|
 | 2 |   |   |
-| 3 | [Increasing Array](https://cses.fi/ckvo8q5wh/task/1094) | Dynamic Arrays |
-| 4 | [Two Sets](https://cses.fi/ckvo8q5wh/task/1092) | Sets |
-| 5 | [Tower of Hanoi](https://cses.fi/ckvo8q5wh/task/2165)| Recursion |
+| 3 | [Tower of Hanoi](https://cses.fi/ckvo8q5wh/task/2165)| Recursion |
+| 4 | [Increasing Array](https://cses.fi/ckvo8q5wh/task/1094) | Dynamic Arrays |
+| 5 | [Two Sets](https://cses.fi/ckvo8q5wh/task/1092) | Sets |
 | 6 | [Subordinates](https://cses.fi/ckvo8q5wh/task/1674) | Trees |
 | 7 | [Counting Rooms](https://cses.fi/ckvo8q5wh/task/1192) | Graphs |
 | 8 | [Finding Borders](https://cses.fi/ckvo8q5wh/task/1732) | Membership Structures |
@@ -91,10 +91,8 @@ In total you have to submit 10 Deliverables during the semester. The deliverable
 Lecture:
 - Introduction to Data Structures: [Simple Linked List](https://rust-unofficial.github.io/too-many-lists/first.html)
 - Introduction to the class, exam, and deliverables
-
 - Introduction to Estimating Algorithm Runtime
-- Measuring and profiling Algorithm Runtime
--
+
 
 In-class Exercise:
 - [Weird Algorithm](https://cses.fi/ckvo8q5wh/task/1068)
@@ -108,6 +106,7 @@ Optional Reading
 - https://patrickfreed.github.io/rust/2021/10/15/making-slow-rust-code-fast.html
 - Last resort - Assembly Output: https://rust.godbolt.org/, https://darkcoding.net/software/underrust-rust-assembly-output/
 
+
 ### 2. Problem Solving Strategies: Recursion and others
 
 Exercise Review:
@@ -117,10 +116,26 @@ Theory:
 - Recap: Memory Hierarchy and Processor Architecture
 - Rust Arrays and Vectors in Memory
 - Options, Results, and Smart Pointers in Rust
-- Benchmarking and Profiling (Criterion, Cachegrind, Heaptrack)
 
 Interactive:
 - Building a better Linked List (https://rust-unofficial.github.io/too-many-lists/second.html)
+
+
+
+### 3. Sequences: Lists, Lists, and more Lists (and Smart Pointers)
+
+Theory:
+- Benchmarking and Profiling (Criterion, Cachegrind, Heaptrack)
+
+Exercise Review:
+- [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
+
+
+Data Structures:
+- Linked Lists: Improving on our Exercise
+- Doubly Linked Lists
+- Skip Lists
+- Dynamic Arrays (Vec<T>):
 
 Problem Solving Strategies (https://link.springer.com/chapter/10.1007/978-3-031-61794-2_2, https://www.designgurus.io/blog/grokking-the-coding-interview-patterns
 ): 
@@ -132,17 +147,9 @@ Problem Solving Strategies (https://link.springer.com/chapter/10.1007/978-3-031-
 - Backtracking 
 
 
-### 3. Sequences: Lists, Lists, and more Lists (and Smart Pointers)
+Links:
+- as_ref and as_deref: https://academy.fpblock.com/blog/rust-asref-asderef/
 
-Exercise Review:
-- [Recap of Tower of Hanoi Excercise](https://youtu.be/rf6uf3jNjbo?si=z00L6RDw9yvRO63e)
-
-
-Data Structures:
-- Linked Lists: Improving on our Exercise
-- Doubly Linked Lists
-- Skip Lists
-- Dynamic Arrays (Vec<T>):
 
 
 ### 4. Sequences continued: The performance implications of Lists, Arrays, and Vectors
