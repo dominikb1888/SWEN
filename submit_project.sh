@@ -129,7 +129,7 @@ if [ -n "$CURRENT_REMOTE" ] && ! echo "$CURRENT_REMOTE" | grep -q "$REPO_FULL_NA
     echo "Remote origin does not match $REPO_FULL_NAME. Checking GitHub..."
     if ! gh repo view "$REPO_FULL_NAME" &> /dev/null; then
         echo "Creating repository $REPO_FULL_NAME on GitHub..."
-        gh repo create "$REPO_FULL_NAME" --public
+        gh repo create "$REPO_FULL_NAME" --private
     fi
     echo "Updating remote origin to $EXPECTED_URL..."
     git -C "$PROJECT_DIR" remote set-url origin "$EXPECTED_URL"
@@ -139,7 +139,7 @@ fi
 # Check if repo exists on GitHub
 if ! gh repo view "$REPO_FULL_NAME" &> /dev/null; then
     echo "Creating repository $REPO_FULL_NAME on GitHub..."
-    gh repo create "$REPO_FULL_NAME" --public
+    gh repo create "$REPO_FULL_NAME" --private
 fi
 
 # Ensure remote origin is set correctly
