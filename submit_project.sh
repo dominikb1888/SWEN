@@ -22,7 +22,14 @@ fi
 
 # 2. Check for GitHub Org and CSES username
 GH_ORG=$(grep 'github_org =' "$VALUES_FILE" | cut -d'"' -f2)
+GH_USER=$(grep 'github_user =' "$VALUES_FILE" | cut -d'"' -f2)
 CSES_USER=$(grep 'cses_username =' "$VALUES_FILE" | cut -d'"' -f2)
+GH_TOKEN=$(grep 'github_token =' "$VALUES_FILE" | cut -d'"' -f2)
+
+# Export token for gh CLI
+if [ -n "$GH_TOKEN" ] && [ "$GH_TOKEN" != "YOUR_GITHUB_TOKEN_HERE" ]; then
+    export GH_TOKEN
+fi
 
 if [ -z "$GH_ORG" ]; then
     read -p "Enter your GitHub Organization: " GH_ORG
@@ -32,6 +39,16 @@ if [ -z "$GH_ORG" ]; then
          echo "github_org = \"$GH_ORG\"" >> "$VALUES_FILE"
     fi
     echo "Saved github_org to $VALUES_FILE"
+fi
+
+if [ -z "$GH_USER" ]; then
+    read -p "Enter your GitHub username: " GH_USER
+    if grep -q "\[values\]" "$VALUES_FILE"; then
+         sed -i "/\[values\]/a github_user = \"$GH_USER\"" "$VALUES_FILE"
+    else
+         echo "github_user = \"$GH_USER\"" >> "$VALUES_FILE"
+    fi
+    echo "Saved github_user to $VALUES_FILE"
 fi
 
 if [ -z "$CSES_USER" ]; then
@@ -50,20 +67,27 @@ if ! command -v gh &> /dev/null; then
     exit 1
 fi
 
-# 4. Check gh auth status
-if ! gh auth status &> /dev/null; then
-    echo "Error: Not authenticated with GitHub. Please run 'gh auth login'."
-    exit 1
+# 4. Ensure user is in the organization (Invitation)
+echo "Ensuring $GH_USER is a member of the $GH_ORG organization..."
+gh api -X PUT "/orgs/$GH_ORG/memberships/$GH_USER" --silent
+
+# 5. Check gh auth status (Skip if GH_TOKEN is set)
+if [ -z "$GH_TOKEN" ] || [ "$GH_TOKEN" == "YOUR_GITHUB_TOKEN_HERE" ]; then
+    if ! gh auth status &> /dev/null; then
+        echo "Error: Not authenticated with GitHub. Please run 'gh auth login' or provide a token."
+        exit 1
+    fi
 fi
 
-# 5. Check access to organization
-echo "Checking access to GitHub organization: $GH_ORG..."
-# Check if it's an organization or current user
-USER_LOGIN=$(gh api user --jq '.login')
-if [ "$GH_ORG" != "$USER_LOGIN" ]; then
-    if ! gh api user/orgs --jq '.[].login' | grep -iq "^$GH_ORG$"; then
-        echo "Error: You do not have access to the GitHub organization/user '$GH_ORG'."
-        exit 1
+# 5. Check access to organization (Skip if using a token)
+if [ -z "$GH_TOKEN" ] || [ "$GH_TOKEN" == "YOUR_GITHUB_TOKEN_HERE" ]; then
+    echo "Checking access to GitHub organization: $GH_ORG..."
+    USER_LOGIN=$(gh api user --jq '.login')
+    if [ "$GH_ORG" != "$USER_LOGIN" ]; then
+        if ! gh api user/orgs --jq '.[].login' | grep -iq "^$GH_ORG$"; then
+            echo "Error: You do not have access to the GitHub organization/user '$GH_ORG'."
+            exit 1
+        fi
     fi
 fi
 
@@ -78,17 +102,31 @@ echo "Project name: $PROJECT_NAME"
 if [ ! -d "$PROJECT_DIR/.git" ]; then
     echo "Initializing flat git repository in $PROJECT_DIR..."
     git -C "$PROJECT_DIR" init
+fi
+
+# Ensure an initial commit exists
+if ! git -C "$PROJECT_DIR" rev-parse --verify HEAD &> /dev/null; then
+    echo "Staging files and creating initial commit..."
     git -C "$PROJECT_DIR" add .
+    GIT_AUTHOR_NAME="swen-bot" GIT_AUTHOR_EMAIL="swen-bot@users.noreply.github.com" \
+    GIT_COMMITTER_NAME="swen-bot" GIT_COMMITTER_EMAIL="swen-bot@users.noreply.github.com" \
     git -C "$PROJECT_DIR" commit -m "initial"
 fi
 
 REPO_FULL_NAME="$GH_ORG/$PROJECT_NAME-$CSES_USER"
-EXPECTED_URL="git@github.com:$REPO_FULL_NAME.git"
+
+# Build Expected URL. If token is present, use HTTPS with token for easy pushing.
+if [ -n "$GH_TOKEN" ] && [ "$GH_TOKEN" != "YOUR_GITHUB_TOKEN_HERE" ]; then
+    EXPECTED_URL="https://x-access-token:$GH_TOKEN@github.com/$REPO_FULL_NAME.git"
+else
+    EXPECTED_URL="git@github.com:$REPO_FULL_NAME.git"
+fi
+
 CURRENT_REMOTE=$(git -C "$PROJECT_DIR" remote get-url origin 2>/dev/null)
 
-# Fallback: if remote origin does not match the required pattern or uses HTTPS
-if [ -n "$CURRENT_REMOTE" ] && { ! echo "$CURRENT_REMOTE" | grep -q "$REPO_FULL_NAME" || echo "$CURRENT_REMOTE" | grep -q "https://"; }; then
-    echo "Remote origin does not match $REPO_FULL_NAME or uses HTTPS. Checking GitHub..."
+# Fallback: if remote origin does not match the required pattern
+if [ -n "$CURRENT_REMOTE" ] && ! echo "$CURRENT_REMOTE" | grep -q "$REPO_FULL_NAME"; then
+    echo "Remote origin does not match $REPO_FULL_NAME. Checking GitHub..."
     if ! gh repo view "$REPO_FULL_NAME" &> /dev/null; then
         echo "Creating repository $REPO_FULL_NAME on GitHub..."
         gh repo create "$REPO_FULL_NAME" --public
@@ -129,6 +167,8 @@ fi
 if git -C "$PROJECT_DIR" status --short | grep -q "$(basename "$FILE")"; then
     echo "Committing URL update..."
     git -C "$PROJECT_DIR" add "$(basename "$FILE")"
+    GIT_AUTHOR_NAME="swen-bot" GIT_AUTHOR_EMAIL="swen-bot@users.noreply.github.com" \
+    GIT_COMMITTER_NAME="swen-bot" GIT_COMMITTER_EMAIL="swen-bot@users.noreply.github.com" \
     git -C "$PROJECT_DIR" commit -m "Add GitHub repository URL to $(basename "$FILE")"
     git -C "$PROJECT_DIR" push
 fi
