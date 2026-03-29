@@ -30,13 +30,13 @@ if [ ! -f "$VALUES_FILE" ]; then
     echo "Credentials file ($VALUES_FILE) not found."
     read -p "Enter your CSES username: " CSES_USERNAME
     read -s -p "Enter your CSES password: " CSES_PASSWORD
-    echo "" # New line after secret input
 
     # Create the toml file
     cat <<EOF > "$VALUES_FILE"
 [values]
 cses_username = "$CSES_USERNAME"
 cses_password = "$CSES_PASSWORD"
+github_org = "26S-SWEN"
 EOF
     echo "Created $VALUES_FILE. Add this file to your global .gitignore!"
 fi
@@ -59,7 +59,7 @@ fi
 echo "Problem identified: $PROBLEM_NAME"
 
 # 3. Run cargo generate
-cargo generate --git https://github.com/dominikb1888/cses_template \
+cargo generate --git git@github.com:dominikb1888/cses_template.git \
                --template-values-file "$VALUES_FILE" \
                --name "$PROBLEM_NAME" \
                -d problem_id="$PROBLEM_ID" \
