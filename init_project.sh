@@ -1,8 +1,7 @@
 #!/bin/bash
 
 # Configuration file name
-VALUES_FILE="my-values.toml"
-PROBLEM_ID=$1
+VALUES_FILE="${VALUES_FILE:-my-values.toml}"
 # Encrypted with: echo "PAT" | openssl enc -aes-256-cbc -a -salt -pbkdf2 -pass pass:PASSWORD
 ENCRYPTED_GITHUB_TOKEN="U2FsdGVkX1+Bsr5IkJPx2ZX6fM7zOclSIY5afoygqBwpLAol2n6E43Hk1b4kBZ15lNZiavwC0AYfu6K76I21qw=="
 
@@ -15,11 +14,6 @@ for cmd in cargo cses-cli cargo-generate openssl; do
         exit 1
     fi
 done
-
-if [ -z "$PROBLEM_ID" ]; then
-    echo "Usage: $0 <problem_id>"
-    exit 1
-fi
 
 # 1. Check if my-values.toml exists and contains the token; if not, prompt for credentials
 if [ ! -f "$VALUES_FILE" ] || ! grep -q "github_token =" "$VALUES_FILE"; then
@@ -34,7 +28,10 @@ if [ ! -f "$VALUES_FILE" ] || ! grep -q "github_token =" "$VALUES_FILE"; then
 
     [ -z "$CSES_USERNAME" ] && read -p "Enter your CSES username: " CSES_USERNAME
     [ -z "$CSES_PASSWORD" ] && read -s -p "Enter your CSES password: " CSES_PASSWORD && echo
-    [ -z "$GH_USERNAME" ] && read -p "Enter your GitHub username: " GH_USERNAME
+    
+    if [ -z "$GH_USERNAME" ]; then
+        read -p "Enter your GitHub username (optional, for personal access): " GH_USERNAME
+    fi
     
     read -s -p "Enter the Classroom Access Token: " CLASSROOM_PASSWORD
     echo
@@ -59,12 +56,35 @@ EOF
     echo "Updated $VALUES_FILE with GitHub token."
 fi
 
-# 2. Fetch the problem name using cses-cli
-echo "Fetching metadata for problem $PROBLEM_ID..."
+if [ -z "$1" ]; then
+    echo "Usage: $0 <problem_id_or_name>"
+    exit 1
+fi
 
-# -F'|' sets the field separator to the pipe character
-# We trim whitespace using xargs and then transform to lowercase/underscores
-RAW_NAME=$(cses-cli list | grep " $PROBLEM_ID " | awk -F'|' '{print $2}' | xargs)
+INPUT="$1"
+
+# 2. Fetch the problem name and ID using cses-cli
+echo "Fetching metadata for problem $INPUT..."
+
+# Check if input is a numeric ID
+if [[ "$INPUT" =~ ^[0-9]+$ ]]; then
+    PROBLEM_ID="$INPUT"
+    # -F'|' sets the field separator to the pipe character
+    # We trim whitespace using xargs and then transform to lowercase/underscores
+    RAW_NAME=$(cses-cli list | grep " $PROBLEM_ID " | awk -F'|' '{print $2}' | xargs)
+else
+    # Treat input as a name (might contain underscores or spaces)
+    SEARCH_NAME=$(echo "$INPUT" | tr '_' ' ')
+    MATCH_LINE=$(cses-cli list | grep -i "$SEARCH_NAME" | head -n 1)
+    
+    if [ -n "$MATCH_LINE" ]; then
+        PROBLEM_ID=$(echo "$MATCH_LINE" | awk -F'|' '{print $1}' | xargs)
+        RAW_NAME=$(echo "$MATCH_LINE" | awk -F'|' '{print $2}' | xargs)
+    else
+        echo "Error: Could not find problem matching '$INPUT'"
+        exit 1
+    fi
+fi
 
 if [ -z "$RAW_NAME" ]; then
     echo "Warning: Could not find problem name for ID $PROBLEM_ID. Using ID as name."
@@ -74,7 +94,7 @@ else
     PROBLEM_NAME=$(echo "$RAW_NAME" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
 fi
 
-echo "Problem identified: $PROBLEM_NAME"
+echo "Problem identified: $PROBLEM_NAME (ID: $PROBLEM_ID)"
 
 # 3. Run cargo generate
 GIT_AUTHOR_NAME="swen-bot" GIT_AUTHOR_EMAIL="swen-bot@users.noreply.github.com" \

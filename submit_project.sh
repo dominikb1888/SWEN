@@ -1,16 +1,68 @@
 #!/bin/bash
 
 # Configuration
-VALUES_FILE="my-values.toml"
-TASK_ID=$1
-FILE=$2
+VALUES_FILE="${VALUES_FILE:-my-values.toml}"
 
-if [ -z "$TASK_ID" ] || [ -z "$FILE" ]; then
-    echo "Usage: $0 <task_id> <file_path>"
+if [ -z "$1" ]; then
+    echo "Usage: $0 <problem_id_or_directory> [file_path]"
     exit 1
 fi
 
-# 1. Find the values file
+TARGET="$1"
+FILE_ARG="$2"
+
+# 1. Determine PROJECT_DIR and TASK_ID
+if [ -d "$TARGET" ]; then
+    PROJECT_DIR=$(readlink -f "$TARGET")
+    if [ -f "$PROJECT_DIR/.env" ]; then
+        TASK_ID=$(grep CSES_PROBLEM_ID "$PROJECT_DIR/.env" | cut -d'"' -f2)
+    fi
+elif [[ "$TARGET" =~ ^[0-9]+$ ]]; then
+    TASK_ID="$TARGET"
+    RAW_NAME=$(cses-cli list | grep " $TASK_ID " | awk -F'|' '{print $2}' | xargs)
+    if [ -n "$RAW_NAME" ]; then
+        PROBLEM_NAME=$(echo "$RAW_NAME" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
+        if [ -d "$PROBLEM_NAME" ]; then
+            PROJECT_DIR=$(readlink -f "$PROBLEM_NAME")
+        fi
+    fi
+else
+    # Treat TARGET as problem name
+    SEARCH_NAME=$(echo "$TARGET" | tr '_' ' ')
+    MATCH_LINE=$(cses-cli list | grep -i "$SEARCH_NAME" | head -n 1)
+    if [ -n "$MATCH_LINE" ]; then
+        TASK_ID=$(echo "$MATCH_LINE" | awk -F'|' '{print $1}' | xargs)
+        RAW_NAME=$(echo "$MATCH_LINE" | awk -F'|' '{print $2}' | xargs)
+        PROBLEM_NAME=$(echo "$RAW_NAME" | tr '[:upper:]' '[:lower:]' | tr ' ' '_')
+        if [ -d "$PROBLEM_NAME" ]; then
+            PROJECT_DIR=$(readlink -f "$PROBLEM_NAME")
+        fi
+    fi
+fi
+
+if [ -z "$TASK_ID" ]; then
+    echo "Error: Could not determine Task ID."
+    exit 1
+fi
+
+if [ -z "$PROJECT_DIR" ]; then
+    echo "Error: Could not find project directory for '$TARGET'."
+    exit 1
+fi
+
+# 2. Determine FILE to submit
+if [ -n "$FILE_ARG" ]; then
+    FILE="$FILE_ARG"
+else
+    FILE="$PROJECT_DIR/src/main.rs"
+fi
+
+if [ ! -f "$FILE" ]; then
+    echo "Error: File $FILE not found."
+    exit 1
+fi
+
+# 3. Find the values file
 if [ ! -f "$VALUES_FILE" ]; then
     if [ -f "../$VALUES_FILE" ]; then
         VALUES_FILE="../$VALUES_FILE"
@@ -31,6 +83,11 @@ if [ -n "$GH_TOKEN" ] && [ "$GH_TOKEN" != "YOUR_GITHUB_TOKEN_HERE" ]; then
     export GH_TOKEN
 fi
 
+# Export token for gh CLI early to ensure all gh commands use it
+if [ -n "$GH_TOKEN" ] && [ "$GH_TOKEN" != "YOUR_GITHUB_TOKEN_HERE" ]; then
+    export GH_TOKEN
+fi
+
 if [ -z "$GH_ORG" ]; then
     read -p "Enter your GitHub Organization: " GH_ORG
     if grep -q "\[values\]" "$VALUES_FILE"; then
@@ -39,16 +96,6 @@ if [ -z "$GH_ORG" ]; then
          echo "github_org = \"$GH_ORG\"" >> "$VALUES_FILE"
     fi
     echo "Saved github_org to $VALUES_FILE"
-fi
-
-if [ -z "$GH_USER" ]; then
-    read -p "Enter your GitHub username: " GH_USER
-    if grep -q "\[values\]" "$VALUES_FILE"; then
-         sed -i "/\[values\]/a github_user = \"$GH_USER\"" "$VALUES_FILE"
-    else
-         echo "github_user = \"$GH_USER\"" >> "$VALUES_FILE"
-    fi
-    echo "Saved github_user to $VALUES_FILE"
 fi
 
 if [ -z "$CSES_USER" ]; then
@@ -67,9 +114,11 @@ if ! command -v gh &> /dev/null; then
     exit 1
 fi
 
-# 4. Ensure user is in the organization (Invitation)
-echo "Ensuring $GH_USER is a member of the $GH_ORG organization..."
-gh api -X PUT "/orgs/$GH_ORG/memberships/$GH_USER" --silent
+# 4. Optional: Personal Invitation
+if [ -n "$GH_USER" ] && [ "$GH_USER" != "SKIP" ]; then
+    echo "Attempting to ensure $GH_USER is a member of $GH_ORG..."
+    gh api -X PUT "/orgs/$GH_ORG/memberships/$GH_USER" --silent || true
+fi
 
 # 5. Check gh auth status (Skip if GH_TOKEN is set)
 if [ -z "$GH_TOKEN" ] || [ "$GH_TOKEN" == "YOUR_GITHUB_TOKEN_HERE" ]; then
@@ -92,8 +141,6 @@ if [ -z "$GH_TOKEN" ] || [ "$GH_TOKEN" == "YOUR_GITHUB_TOKEN_HERE" ]; then
 fi
 
 # 6. Prepare the repository
-# Get the absolute path of the project directory
-PROJECT_DIR=$(readlink -f "$(dirname "$(dirname "$FILE")")")
 PROJECT_NAME=$(basename "$PROJECT_DIR")
 
 echo "Project name: $PROJECT_NAME"
@@ -142,9 +189,17 @@ if ! gh repo view "$REPO_FULL_NAME" &> /dev/null; then
     gh repo create "$REPO_FULL_NAME" --private
 fi
 
-# Ensure remote origin is set correctly
+# Ensure the user has admin rights to the repo (optional)
+if [ -n "$GH_USER" ] && [ "$GH_USER" != "SKIP" ]; then
+    echo "Attempting to grant $GH_USER admin rights to $REPO_FULL_NAME..."
+    gh api -X PUT "/repos/$REPO_FULL_NAME/collaborators/$GH_USER" -f permission=admin --silent || true
+fi
+
+# Ensure remote origin is set correctly and uses the token
 if [ -z "$(git -C "$PROJECT_DIR" remote get-url origin 2>/dev/null)" ]; then
     git -C "$PROJECT_DIR" remote add origin "$EXPECTED_URL"
+else
+    git -C "$PROJECT_DIR" remote set-url origin "$EXPECTED_URL"
 fi
 
 echo "Pushing current state to GitHub..."
@@ -164,12 +219,13 @@ else
 fi
 
 # Commit and push the updated file if there are changes
-if git -C "$PROJECT_DIR" status --short | grep -q "$(basename "$FILE")"; then
+RELATIVE_FILE=$(realpath --relative-to="$PROJECT_DIR" "$FILE")
+if git -C "$PROJECT_DIR" status --short | grep -q "$RELATIVE_FILE"; then
     echo "Committing URL update..."
-    git -C "$PROJECT_DIR" add "$(basename "$FILE")"
+    git -C "$PROJECT_DIR" add "$RELATIVE_FILE"
     GIT_AUTHOR_NAME="swen-bot" GIT_AUTHOR_EMAIL="swen-bot@users.noreply.github.com" \
     GIT_COMMITTER_NAME="swen-bot" GIT_COMMITTER_EMAIL="swen-bot@users.noreply.github.com" \
-    git -C "$PROJECT_DIR" commit -m "Add GitHub repository URL to $(basename "$FILE")"
+    git -C "$PROJECT_DIR" commit -m "Add GitHub repository URL to $RELATIVE_FILE"
     git -C "$PROJECT_DIR" push
 fi
 
